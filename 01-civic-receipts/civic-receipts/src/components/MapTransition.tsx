@@ -1,0 +1,190 @@
+"use client";
+
+import { useEffect, useRef, useState, useCallback } from "react";
+import "mapbox-gl/dist/mapbox-gl.css";
+import type { ZipLookupResult } from "@/lib/types";
+
+const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!;
+
+interface MapTransitionProps {
+  zip: string;
+  lookupResult: ZipLookupResult;
+  onComplete: () => void;
+}
+
+type Phase = "loading" | "flying" | "overlay" | "fading";
+
+export default function MapTransition({
+  zip,
+  lookupResult,
+  onComplete,
+}: MapTransitionProps) {
+  const containerRef = useRef<HTMLDivElement>(null);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const mapRef = useRef<any>(null);
+  const [phase, setPhase] = useState<Phase>("loading");
+
+  const districts = lookupResult.entries.map((e) => ({
+    state: e.state,
+    district: e.district,
+  }));
+
+  const handleOverlayEnd = useCallback(() => {
+    setPhase("fading");
+    setTimeout(onComplete, 600);
+  }, [onComplete]);
+
+  useEffect(() => {
+    if (!containerRef.current) return;
+
+    let cancelled = false;
+
+    async function init() {
+      const mapboxgl = (await import("mapbox-gl")).default;
+
+      if (cancelled || !containerRef.current) return;
+
+      mapboxgl.accessToken = MAPBOX_TOKEN;
+
+      const map = new mapboxgl.Map({
+        container: containerRef.current,
+        style: "mapbox://styles/mapbox/streets-v12",
+        center: [-98.5, 39.8],
+        zoom: 3.5,
+        interactive: false,
+        attributionControl: false,
+      });
+
+      mapRef.current = map;
+
+      map.on("load", async () => {
+        if (cancelled) return;
+
+        setPhase("flying");
+
+        // Geocode the ZIP to get coordinates
+        let targetLng = -98.5;
+        let targetLat = 39.8;
+        let targetZoom = 8;
+
+        try {
+          const geoRes = await fetch(
+            `https://api.mapbox.com/search/geocode/v6/forward?q=${zip}&types=postcode&country=US&access_token=${MAPBOX_TOKEN}`,
+          );
+          const geoData = await geoRes.json();
+          if (geoData.features && geoData.features.length > 0) {
+            const [lng, lat] = geoData.features[0].geometry.coordinates;
+            targetLng = lng;
+            targetLat = lat;
+          }
+        } catch {
+          // Fall back to default center
+        }
+
+        if (cancelled) return;
+
+        // If multiple districts, zoom out a bit
+        if (districts.length > 1) {
+          targetZoom = 7;
+        }
+
+        map.flyTo({
+          center: [targetLng, targetLat],
+          zoom: targetZoom,
+          duration: 2500,
+          essential: true,
+        });
+
+        map.once("moveend", () => {
+          if (cancelled) return;
+          setPhase("overlay");
+        });
+      });
+    }
+
+    init();
+
+    return () => {
+      cancelled = true;
+      if (mapRef.current) {
+        mapRef.current.remove();
+        mapRef.current = null;
+      }
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [zip]);
+
+  // Start timer when overlay phase begins
+  useEffect(() => {
+    if (phase !== "overlay") return;
+    const timer = setTimeout(handleOverlayEnd, 2500);
+    return () => clearTimeout(timer);
+  }, [phase, handleOverlayEnd]);
+
+  // Format district labels
+  const districtLabels = districts.map((d) => `${d.state}-${d.district}`);
+  const districtText =
+    districtLabels.length === 1
+      ? `Your district is ${districtLabels[0]}`
+      : `Your ZIP covers districts ${districtLabels.join(" and ")}`;
+
+  return (
+    <div
+      className={`fixed inset-0 z-50 bg-zinc-100 transition-opacity duration-500 ${
+        phase === "fading" ? "opacity-0" : "opacity-100"
+      }`}
+    >
+      {/* Map — explicit width/height so Mapbox GL renders */}
+      <div
+        ref={containerRef}
+        style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
+      />
+
+      {/* Overlay */}
+      <div
+        className={`absolute inset-0 flex items-center justify-center transition-opacity duration-500 ${
+          phase === "overlay" || phase === "fading"
+            ? "opacity-100"
+            : "opacity-0 pointer-events-none"
+        }`}
+      >
+        <div className="mx-4 max-w-sm rounded-2xl bg-white/90 px-6 py-8 text-center shadow-xl backdrop-blur-sm dark:bg-zinc-900/90">
+          <p className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
+            {districtText}
+          </p>
+          <p className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
+            and your reps are
+          </p>
+          <div className="mt-4 flex justify-center gap-4">
+            {lookupResult.members.map((m) => (
+              <div
+                key={m.bioguide_id}
+                className="flex flex-col items-center gap-1.5"
+              >
+                <img
+                  src={m.photo_url}
+                  alt={m.name}
+                  className="h-14 w-14 rounded-full border-2 border-white object-cover shadow-md dark:border-zinc-800"
+                />
+                <span className="text-xs font-medium text-zinc-700 dark:text-zinc-300">
+                  {m.name.split(",")[0].split(" ").pop()}
+                </span>
+                <span
+                  className={`text-xs ${
+                    m.party === "D"
+                      ? "text-blue-600"
+                      : m.party === "R"
+                        ? "text-red-600"
+                        : "text-purple-600"
+                  }`}
+                >
+                  {m.chamber === "house" ? "House" : "Senate"} · {m.party}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

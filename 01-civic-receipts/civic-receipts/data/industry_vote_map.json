@@ -1,0 +1,82 @@
+{
+  "_comment": "Maps industry codes to specific roll-call votes and the industry's expected preferred position. Industry codes follow OpenSecrets convention. This file is intentionally published for transparency.",
+  "_methodology": "Industry preferences are sourced from interest group scorecards where possible (e.g., Chamber of Commerce, LCV, NRA). Where no scorecard exists, we use the industry's publicly stated policy positions and lobbying records.",
+
+  "F10": {
+    "name": "Securities & Investment",
+    "votes": [
+      {
+        "vote_id": "h119-placeholder-stockban",
+        "preferred_position": "Nay",
+        "description": "Congressional stock trading ban",
+        "date": "2024",
+        "bill_url": "",
+        "weight": 1.0
+      }
+    ]
+  },
+
+  "E01": {
+    "name": "Oil & Gas",
+    "votes": [
+      {
+        "vote_id": "placeholder-climate-1",
+        "preferred_position": "Nay",
+        "description": "Regulate CO2 as a pollutant",
+        "date": "2024",
+        "bill_url": "",
+        "weight": 1.0
+      }
+    ]
+  },
+
+  "H01": {
+    "name": "Health Professionals",
+    "votes": []
+  },
+
+  "K01": {
+    "name": "Lawyers / Law Firms",
+    "votes": []
+  },
+
+  "B09": {
+    "name": "Real Estate",
+    "votes": []
+  },
+
+  "Q05": {
+    "name": "Pro-Israel",
+    "votes": [
+      {
+        "vote_id": "s119-placeholder-arms",
+        "preferred_position": "Nay",
+        "description": "Block arms sales to Israel",
+        "date": "2025",
+        "bill_url": "",
+        "weight": 1.0
+      }
+    ]
+  },
+
+  "climate_votes": [
+    {
+      "vote_id": "placeholder-climate-regulate",
+      "ycom_question": "regulate",
+      "pro_climate_position": "Yea",
+      "description": "Regulate CO2 as a pollutant"
+    },
+    {
+      "vote_id": "placeholder-climate-renewables",
+      "ycom_question": "fundrenewables",
+      "pro_climate_position": "Yea",
+      "description": "Fund renewable energy research"
+    },
+    {
+      "vote_id": "placeholder-climate-limits",
+      "ycom_question": "carbonlimits",
+      "pro_climate_position": "Yea",
+      "description": "Set strict CO2 limits on power plants"
+    }
+  ]
+}

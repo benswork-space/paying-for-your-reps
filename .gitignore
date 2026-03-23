@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.DS_Store
+*.env
+*.env.local
+
+# Large data files (download separately)
+01-civic-receipts/scripts/mrp/cumulative_2006-2024.rds
+01-civic-receipts/scripts/mrp/cumulative_ces_policy_preferences.tab
+01-civic-receipts/civic-receipts/public/data/zip_lookup.json
+
+# Cache files
+01-civic-receipts/scripts/.cache/
+
+# Next.js trace files
+.next/trace
+.next/trace-build
