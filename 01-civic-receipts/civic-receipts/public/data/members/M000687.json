@@ -5,24 +5,1097 @@
   "chamber": "house",
   "state": "MD",
   "district": "7",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M000687.jpg",
   "serving_since": 1987,
   "years_in_office": 39,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 533861,
+    "campaign_raised": 533861,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 180408,
+        "donors": [
+          {
+            "name": "CAREER COMMUNICATIONS GROUP",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "THE RLJ COMPANIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "Y COMBINATOR",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "CURIO WELLNESS",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "KENNEDY KRIEGER INSTITUTE",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "MORGAN STATE UNIVERSITY",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "CAREFIRST BCBS",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "THORN RUN PARTNERS",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "FISCHER ROOFING",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "CAVES VALLEY PARTNERS",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "UNIVERSITY OF MARYLAND",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "CTR MANAGEMENT, INC.",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "MARYLAND GENERAL ASSEMBLY",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "PARK WEST HEALTH SYSTEM",
+            "type": "Organization",
+            "amount": 2000
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 352270,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 159200
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+            "type": "PAC",
+            "amount": 52000
+          },
+          {
+            "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "type": "PAC",
+            "amount": 38000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+            "type": "PAC",
+            "amount": 32000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS PAL",
+            "type": "PAC",
+            "amount": 32000
+          },
+          {
+            "name": "TRANSDIGM GROUP INC. EMPLOYEE PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "UAW - V - CAP",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE OF THE INT'L ASSOC. OF MACHINISTS & AEROSPACE ENGINEERS",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "THE HOME DEPOT INC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS &",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 20000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00726372",
+      "total_raised": 533861,
+      "individual_contributions": 180408,
+      "individual_itemized": 177550,
+      "individual_unitemized": 2858,
+      "pac_contributions": 352270,
+      "other_receipts": 1183,
+      "top_employers": [
+        {
+          "name": "CAREER COMMUNICATIONS GROUP",
+          "type": "Organization",
+          "amount": 8300
+        },
+        {
+          "name": "THE RLJ COMPANIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "Y COMBINATOR",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "CURIO WELLNESS",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "KENNEDY KRIEGER INSTITUTE",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "MORGAN STATE UNIVERSITY",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "CAREFIRST BCBS",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "THORN RUN PARTNERS",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "FISCHER ROOFING",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "CAVES VALLEY PARTNERS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "UNIVERSITY OF MARYLAND",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "CTR MANAGEMENT, INC.",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MARYLAND GENERAL ASSEMBLY",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PARK WEST HEALTH SYSTEM",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "FIRMSEEK.COM",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "OFFICE OF BRUCE C. BEREANO",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "SUPRA/EMSCO",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "GERARD E. EVANS LTD",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "HENSON DEVELOPMENT",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MCB PROPERTY SERVICES INC.",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "TRIUS LENDING PARTNERS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BELOVED COMMUNITY SERVICES CORPORATION",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CAREFIRST",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "MEDSTAR HEALTH",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BGR GROUP",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "INVARIANT",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "MMG CAPITAL GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CENTER FOR URBAN FAMILIES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "GREEN ANALYTICS LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "ELMAN RETINA GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "JOHNS HOPKINS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "GALLAGHER, EVELIUS & JONES LLP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "WORKSHOP DEVELOPMENT INC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "UNIVERSITY OF BALTIMORE",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "DOUGLAS LEGUM DEVELOPMENT",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "THE WHITING-TURNER CONTRACTING COMPANY",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MURPHY FALCON MURPHY",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MCGUIREWOODS CONSULTING",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "JC PORTER CONSTRUCTION",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MFUME & PARTNERS LLP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "G S PROCTOR AND ASSOCIATES INC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "HOWARD UNIVERSITY",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "510 VENTURES, LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "RESEARCH!AMERICA",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "NORTHEAST FOODS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CITY OF BALTIMORE",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CONTINENTAL REALTY CORPORATION",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "DOWNTOWN PARTNERSHIP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "EXELON",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "HEALTHSOURCE DISTRIBUTORS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CAVES VALLEY PARTNERS LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "G.S. PROCTOR & ASSOCIATES, INC.",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "DINSMORE & SHOHL LLP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "STATE OF MARYLAND",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MSU CENTER FOR NEW MEDIA & STRATEGIC I",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "LOYOLA UNIVERSITY MARYLAND",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "UNIVERSITY OF MARYLAND, BALTIMORE",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "REXTAR, LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "MMGA",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "US DEPARTMENT OF THE ARMY",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "SHALOM TIKVAH",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "SOS TECH GROUP",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "HARRISON DEVELOPMENT LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "BGR GOVERNMENT AFFAIRS, LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "KLEIN ENTERPRISES",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "MERIDIAN MANAGEMENT GROUP",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "HUSCH BLACKWELL",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "EDDIES OF ROLAND PARK",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "BGR GROUP LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "MORGAN",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "BITHENERGY, INC.",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "HUDSON SQUARE DMA",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "A&R DEVELOPMENT CORP.",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "UMD CENTER FOR EDUCATION, JUSTICE & ET",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "WORTHINGTON ALTERNATIVE CAPITAL",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "PILLSBURY WINTHROP SHAW PITTMAN LLP",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "NATIONAL FEDERATION OF THE BLIND",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "MARCORP LTD.",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "BANKS CONTRACTING COMPANY",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "ACE UNIFORM",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "PEACHTREE PROVIDENCE PARTNERS",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "STRUM CONTRACTING COMPANY INC.",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "THE CRYOR GROUP LLC",
+          "type": "Organization",
+          "amount": 300
+        },
+        {
+          "name": "POLSINELLI PC",
+          "type": "Organization",
+          "amount": 250
+        },
+        {
+          "name": "THE SEED SCHOOL OF MD",
+          "type": "Organization",
+          "amount": 250
+        },
+        {
+          "name": "THURGOOD MARSHALL COLLEGE FUND",
+          "type": "Organization",
+          "amount": 250
+        },
+        {
+          "name": "HFAM",
+          "type": "Organization",
+          "amount": 250
+        },
+        {
+          "name": "MD ENERGY ADVISORS",
+          "type": "Organization",
+          "amount": 250
+        },
+        {
+          "name": "LIFEBRIDGE HEALTH",
+          "type": "Organization",
+          "amount": 250
+        },
+        {
+          "name": "ZIRKIN AND SCHMERLING LAW",
+          "type": "Organization",
+          "amount": 250
+        },
+        {
+          "name": "WALKER & DUNLOP",
+          "type": "Organization",
+          "amount": 250
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 159200
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "type": "PAC",
+          "amount": 52000
+        },
+        {
+          "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+          "type": "PAC",
+          "amount": 38000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+          "type": "PAC",
+          "amount": 32000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS PAL",
+          "type": "PAC",
+          "amount": 32000
+        },
+        {
+          "name": "TRANSDIGM GROUP INC. EMPLOYEE PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "UAW - V - CAP",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE OF THE INT'L ASSOC. OF MACHINISTS & AEROSPACE ENGINEERS",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "THE HOME DEPOT INC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS &",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "INTERNATIONAL LONGSHOREMEN'S ASSOCIATION COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY & MUNICIPAL EMPLOYEES PEOPLE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF POSTAL SUPERVISORS PAC",
+          "type": "PAC",
+          "amount": 18000
+        },
+        {
+          "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+          "type": "PAC",
+          "amount": 18000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION PAC (NARFE-PAC)",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "ALPHA KAPPA ALPHA SORORITY PAC, INC. (AKA 1908 PAC)",
+          "type": "PAC",
+          "amount": 13200
+        },
+        {
+          "name": "SUN PAC",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "JACKSON LEWIS P.C. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 11600
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EYEPAC PAC FOR AMERICAN SOCIETY OF CATARACT AND REFRACTIVE SURGERY",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF USA POLITICAL FUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PRICEWATERHOUSECOOPERS PAC I",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE PAC (AAJ PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UNITED POSTMASTERS AND MANAGERS OF AMERICA POLITICAL FUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MCGUIRE WOODS FEDERAL PAC FUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SOUTHWEST AIRLINES CO. PAC (SWAPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS INC. POLITICAL ACTION COMMITTEE)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ERNST & YOUNG PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "JPMORGAN CHASE & CO. FEDERAL PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICAN MEDICAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "NORFOLK SOUTHERN CORPORATION GOOD GOVERNMENT FUND",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "GRIDIRON-PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "SMALL BUSINESS INVESTOR ALLIANCE PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "SMART TD PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "EDWARDS LIFESCIENCES POLITICAL ACTION COMMITTEE (A.K.A. EDWARDS PAC)",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICAN SUGAR CANE LEAGUE PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "KCI HOLDINGS INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "HUMAN RIGHTS CAMPAIGN PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF AIR TRAFFIC CONTROLLERS PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "TO PROTECT OUR HERITAGE PAC",
+          "type": "PAC",
+          "amount": 8000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 90,
+    "total_votes_scored": 126,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2026",
+        "bill": "HR3944",
+        "date": "2025-06-25",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Nay on Military Construction, Veterans Affairs, and Related Agencie"
+      },
+      {
+        "vote_description": "Meat and Poultry Special Investigator Act",
+        "bill": "HR7606",
+        "date": "2022-06-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Meat and Poultry Special Investigator Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 3,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 76.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 75.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 78.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

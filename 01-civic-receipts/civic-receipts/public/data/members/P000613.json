@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "CA",
   "district": "19",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/P000613.jpg",
   "serving_since": 2017,
   "years_in_office": 9,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 87,
+    "total_votes_scored": 144,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "Consolidated Appropriations Act, 2026",
+        "bill": "HR7148",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "MORGAN STANLEY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
+      },
+      {
+        "vote_description": "TRACE Act",
+        "bill": "HR1049",
+        "date": "2025-12-04",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on TRACE Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 3,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 68.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 76.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 75.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "IL",
   "district": "13",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/B001315.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
@@ -14,15 +15,83 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 84,
+    "total_votes_scored": 59,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "Born-Alive Abortion Survivors Protection Act",
+        "bill": "HR21",
+        "date": "2025-01-23",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "EMILYS LIST",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Born-Alive Abortion Survivors Protection Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on SHOWER Act"
+      },
+      {
+        "vote_description": "PROTECT Our Kids Act",
+        "bill": "HR1069",
+        "date": "2025-12-04",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on PROTECT Our Kids Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 2,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 55.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 66.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

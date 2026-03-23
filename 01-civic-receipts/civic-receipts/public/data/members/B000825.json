@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "CO",
   "district": "4",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/B000825.jpg",
   "serving_since": 2021,
   "years_in_office": 5,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 95,
+    "total_votes_scored": 40,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN FREEDOM COALITION PAC",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "Affordable HOMES Act",
+        "bill": "HR5184",
+        "date": "2026-01-09",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN FREEDOM COALITION PAC",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on Affordable HOMES Act"
+      },
+      {
+        "vote_description": "Pet and Livestock Protection Act",
+        "bill": "HR845",
+        "date": "2025-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN FREEDOM COALITION PAC",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on Pet and Livestock Protection Act"
+      },
+      {
+        "vote_description": "To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",
+        "bill": "HR1023",
+        "date": "2024-03-22",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN FREEDOM COALITION PAC",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on To repeal section 134 of the Clean Air Act, relating to the "
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 100,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 51.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 51.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 57.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

@@ -5,24 +5,1049 @@
   "chamber": "house",
   "state": "MN",
   "district": "3",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001234.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 2278653,
+    "campaign_raised": 2263653,
+    "leadership_pac_raised": 15000,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1926943,
+        "donors": [
+          {
+            "name": "CALLANISH CAPITAL",
+            "type": "Organization",
+            "amount": 18200
+          },
+          {
+            "name": "METROPOLITAN CORP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "CARLSON HOLDINGS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "TARGET",
+            "type": "Organization",
+            "amount": 8850
+          },
+          {
+            "name": "UNIVERSITY OF MINNESOTA",
+            "type": "Organization",
+            "amount": 8375
+          },
+          {
+            "name": "PARK NICOLLET METHODIST HOSPITAL",
+            "type": "Organization",
+            "amount": 7100
+          },
+          {
+            "name": "STINSON LLP",
+            "type": "Organization",
+            "amount": 6850
+          },
+          {
+            "name": "TAPAIDRA, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TEACHING FELLOWS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CUNEO ADVERTISING",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KEY INVESTMENT, INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HEARTLAND",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PNC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AUREUS INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "DRISCOLL FOUNDATION",
+            "type": "Organization",
+            "amount": 6600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 284600,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1820000
+          },
+          {
+            "name": "MORRISON, KELLY LOUISE",
+            "type": "PAC",
+            "amount": 211000
+          },
+          {
+            "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "VELVET HAMMER PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MIDWEST VALUES PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "FOLLOW THE NORTH STAR FUND",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "ELECT DEMOCRATIC WOMEN",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "THE AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "IBEW PAC EDUCATIONAL FUND",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "314 ACTION IMPACT SLATE - UNITEMIZED",
+            "type": "PAC",
+            "amount": 94859
+          },
+          {
+            "name": "314 ACTION IMPACT SLATE",
+            "type": "PAC",
+            "amount": 52000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "PROGRESSIVE TURNOUT PROJECT",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 15000,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1820000
+          },
+          {
+            "name": "MORRISON, KELLY LOUISE",
+            "type": "PAC",
+            "amount": 211000
+          },
+          {
+            "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "VELVET HAMMER PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MIDWEST VALUES PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "FOLLOW THE NORTH STAR FUND",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "ELECT DEMOCRATIC WOMEN",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "THE AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "IBEW PAC EDUCATIONAL FUND",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "314 ACTION IMPACT SLATE - UNITEMIZED",
+            "type": "PAC",
+            "amount": 94859
+          },
+          {
+            "name": "314 ACTION IMPACT SLATE",
+            "type": "PAC",
+            "amount": 52000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "PROGRESSIVE TURNOUT PROJECT",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00886879",
+            "name": "10000 LAKES PAC",
+            "total_raised": 15000,
+            "top_employers": [
+              {
+                "name": "CALLANISH CAPITAL",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "INKIT",
+                "type": "Organization",
+                "amount": 5000
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "ACTBLUE",
+                "type": "PAC",
+                "amount": 5000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00856062",
+      "total_raised": 2263653,
+      "individual_contributions": 1926943,
+      "individual_itemized": 1636863,
+      "individual_unitemized": 290080,
+      "pac_contributions": 284600,
+      "other_receipts": 52110,
+      "top_employers": [
+        {
+          "name": "CALLANISH CAPITAL",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "METROPOLITAN CORP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "CARLSON HOLDINGS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "TARGET",
+          "type": "Organization",
+          "amount": 8850
+        },
+        {
+          "name": "UNIVERSITY OF MINNESOTA",
+          "type": "Organization",
+          "amount": 8375
+        },
+        {
+          "name": "PARK NICOLLET METHODIST HOSPITAL",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "STINSON LLP",
+          "type": "Organization",
+          "amount": 6850
+        },
+        {
+          "name": "TAPAIDRA, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TEACHING FELLOWS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CUNEO ADVERTISING",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KEY INVESTMENT, INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HEARTLAND",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PNC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AUREUS INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DRISCOLL FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "POLARIS SALES INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BREAZEALE GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "INFINITE CAMPUS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AFFINITY CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TONKA BAY MARINA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "REDEMPTION BOTANICALS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HIGGINS ESTATE LAW",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ECOLAB",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ROBINS KAPLAN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CARLSON",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TWILL INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NOW BOARDING LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PSD LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DEEPHAVEN YOGA AND AQUATICS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BENTSON FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "POHLAD COMPANIES",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "ASKOV FINLAYSON",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "SCHWEBEL GOETZ AND SIEBEN",
+          "type": "Organization",
+          "amount": 6050
+        },
+        {
+          "name": "HEALTHPARTNERS",
+          "type": "Organization",
+          "amount": 5537
+        },
+        {
+          "name": "CARLSON HOLDINGS INC.",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "MERWIN LTC PHARMACY",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ROBINS KAPLAN LLP",
+          "type": "Organization",
+          "amount": 4550
+        },
+        {
+          "name": "PMG MANAGEMENT",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "COLLABORATION.AI",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "MASLON EDELMAN BORMAN & BRAND, LLP",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "GIBRALTAR MANAGEMENT CO. INC.",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "FARVIEW ASSOCIATES",
+          "type": "Organization",
+          "amount": 3675
+        },
+        {
+          "name": "HENNEPIN COUNTY MEDICAL CENTER",
+          "type": "Organization",
+          "amount": 3325
+        },
+        {
+          "name": "PRIME GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ENACTUS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PRESIDENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HILLCREST DEVELOPMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "THE PRITZKER ORGANIZATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "NURA PAIN CLINICS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ROOM AND BOARD",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "STARKEY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PEDRERO FAMILY FOUNDATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GOLDMAN SACHS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "POST HOLDINGS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FARIBAULTMILL CO.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "UNIPUNCH PRODUCTS INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SAWMILL TRUST CO.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MASS GENERAL HOSPITAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "EPIQ PARTNERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PRIME FINANCE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HUNTER SEARCH CAPITAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "817 IRVING LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ECKLAND & BLANDO LLP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "POV CONSULTING LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "UNIVERSITY OF WISCONSIN-MADISON",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SOLHEIM INVESTMENT PARTNERS LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SILVER LAKE PARTNERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SOCIAL INNOVATION VENTURES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MINNESOTA VIKINGS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "THELMAS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BARATZ FINANCIAL",
+          "type": "Organization",
+          "amount": 3100
+        },
+        {
+          "name": "GENERAL MILLS",
+          "type": "Organization",
+          "amount": 3050
+        },
+        {
+          "name": "CARGILL INC.",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "BRIOL & BENSON",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "CUYUNA REGIONAL MEDICAL CENTER",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "BOSTON WOMEN'S WORKFORCE COUNCIL",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "WOMEN'S HEALTH CONSULTANTS",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "BASSFORD REMELE",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "WEILL CORNELL MEDICINE",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "ALLINA HEALTH",
+          "type": "Organization",
+          "amount": 2875
+        },
+        {
+          "name": "CHRISTEN GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "FREDRIKSON & BYRON",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "STATE OF MINNESOTA",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ENTERPRISE PROPERTIES",
+          "type": "Organization",
+          "amount": 2450
+        },
+        {
+          "name": "CENTRACARE",
+          "type": "Organization",
+          "amount": 2350
+        },
+        {
+          "name": "TRIPLETREE",
+          "type": "Organization",
+          "amount": 2300
+        },
+        {
+          "name": "EDINA REALTY",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "ENDEAVOR HEALTH",
+          "type": "Organization",
+          "amount": 2100
+        },
+        {
+          "name": "MARTHA DAYTON DESIGN",
+          "type": "Organization",
+          "amount": 2025
+        },
+        {
+          "name": "RBC CAPITAL MARKETS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "THE EMILY PROGRAM",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "LYNNE & ANDREW REDLEAF FOUNDATION",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MCCOLLUM FOR CONGRESS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PIPER SANDLER",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "BMO CAPITAL MARKETS",
+          "type": "Organization",
+          "amount": 2000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 1815000
+        },
+        {
+          "name": "MORRISON, KELLY LOUISE",
+          "type": "PAC",
+          "amount": 211000
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "VELVET HAMMER PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "MIDWEST VALUES PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "FOLLOW THE NORTH STAR FUND",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "ELECT DEMOCRATIC WOMEN",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "THE AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "IBEW PAC EDUCATIONAL FUND",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "314 ACTION IMPACT SLATE - UNITEMIZED",
+          "type": "PAC",
+          "amount": 94859
+        },
+        {
+          "name": "314 ACTION IMPACT SLATE",
+          "type": "PAC",
+          "amount": 52000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "PROGRESSIVE TURNOUT PROJECT",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION INC.",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "PAC TO THE FUTURE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NEW DEMOCRAT COALITION ACTION FUND",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BEYOND THOUGHTS AND PRAYERS PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "EMILY'S LIST PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "314 ACTION FUND",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DEFEND THE VOTE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS AND TRAINMEN",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY INC POLITICAL COMMITTEE (OPHTHPAC)",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "BRINGING EVERYONE TOGETHER THROUGH ADVOCACY",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "CREATIVE PRINT GROUP",
+          "type": "PAC",
+          "amount": 34980
+        },
+        {
+          "name": "FAIR SHOT PAC",
+          "type": "PAC",
+          "amount": 33000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00886879",
+        "name": "10000 LAKES PAC",
+        "total_raised": 15000,
+        "top_employers": [
+          {
+            "name": "CALLANISH CAPITAL",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "INKIT",
+            "type": "Organization",
+            "amount": 5000
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 85,
+    "total_votes_scored": 49,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "IBEW PAC EDUCATIONAL FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "Consolidated Appropriations Act, 2026",
+        "bill": "HR7148",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION INC.",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on SHOWER Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "IBEW PAC EDUCATIONAL FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 65.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

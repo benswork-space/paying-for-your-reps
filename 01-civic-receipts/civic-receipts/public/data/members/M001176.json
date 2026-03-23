@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "OR",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001176.jpg",
   "serving_since": 2009,
   "years_in_office": 17,
@@ -14,15 +15,105 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 69,
+    "total_votes_scored": 5,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      },
+      {
+        "vote_description": "A bill to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.",
+        "bill": "HR3967",
+        "date": "2022-06-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on A bill to improve health care and benefits for veterans expo"
+      },
+      {
+        "vote_description": "A concurrent resolution providing for a correction in the enrollment of H.J. Res. 100.",
+        "bill": "HCONRES119",
+        "date": "2022-12-01",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A concurrent resolution providing for a correction in the en"
+      },
+      {
+        "vote_description": "A joint resolution to provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers' Conference Committee of the National Railway Labor Conference and certain of their employees.",
+        "bill": "HJRES100",
+        "date": "2022-12-01",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A joint resolution to provide for a resolution with respect "
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 33,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 66.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 11.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 66.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 68.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 68.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

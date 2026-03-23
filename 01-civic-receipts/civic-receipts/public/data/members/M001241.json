@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "CA",
   "district": "47",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001241.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
@@ -14,15 +15,75 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 56,
+    "total_votes_scored": 44,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Protect Children\u2019s Innocence Act",
+        "bill": "HR3492",
+        "date": "2025-12-17",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+        "donor_category": "Gun control advocates",
+        "donor_expected": "Nay on Protect Children\u2019s Innocence Act"
+      },
+      {
+        "vote_description": "Protection of Women and Girls in Sports Act",
+        "bill": "HR28",
+        "date": "2025-01-14",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Protection of Women and Girls in Sports Act"
+      },
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "CLEAN DC Act",
+        "bill": "HR5107",
+        "date": "2025-11-19",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+        "donor_category": "Gun control advocates",
+        "donor_expected": "Nay on CLEAN DC Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 71.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

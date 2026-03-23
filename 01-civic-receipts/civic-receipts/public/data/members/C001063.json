@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "TX",
   "district": "28",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/C001063.jpg",
   "serving_since": 2005,
   "years_in_office": 21,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 53,
+    "total_votes_scored": 160,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Flexibility for Workers Education Act",
+        "bill": "HR2262",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Flexibility for Workers Education Act"
+      },
+      {
+        "vote_description": "Expressing the sense of Congress that a carbon tax would be detrimental to the United States economy",
+        "bill": "HCONRES86",
+        "date": "2024-03-21",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN PETROLEUM INSTITUTE POLITICAL ACTION COMMITTEE (API PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on Expressing the sense of Congress that a carbon tax would be "
+      },
+      {
+        "vote_description": "To require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes",
+        "bill": "S1071",
+        "date": "2025-12-10",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on To require the Secretary of Veterans Affairs to disinter the"
+      },
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN PETROLEUM INSTITUTE POLITICAL ACTION COMMITTEE (API PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on SHOWER Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 60.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 54.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 65.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

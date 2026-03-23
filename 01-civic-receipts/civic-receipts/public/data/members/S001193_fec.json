@@ -1,0 +1,981 @@
+{
+  "bioguide_id": "S001193",
+  "fec_candidate_id": "H2CA15094",
+  "fec_committee_id": "C00502294",
+  "cycle": 2024,
+  "totals": {
+    "total_raised": 4143083,
+    "total_spent": 4471680,
+    "individual_contributions": 3347502,
+    "individual_itemized": 2836257,
+    "individual_unitemized": 511245,
+    "pac_contributions": 628032,
+    "other_receipts": 167549,
+    "cash_on_hand": 300002
+  },
+  "campaign_pac_contributors": [
+    {
+      "name": "ACTBLUE",
+      "total": 1766000.0,
+      "count": 510
+    },
+    {
+      "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS &",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "TRINET GROUP INC POLITICAL ACTION COMMITTEE",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "DEMOCRACY ENGINE LLC",
+      "total": 99000.0,
+      "count": 30
+    },
+    {
+      "name": "PG&E CORPORATION EMPLOYEES ENERGYPAC",
+      "total": 97674.59999999996,
+      "count": 20
+    },
+    {
+      "name": "ALAMEDA COUNTY FAIRGROUNDS",
+      "total": 73941.7,
+      "count": 10
+    },
+    {
+      "name": "UNITED AIRLINES",
+      "total": 67150.0,
+      "count": 10
+    },
+    {
+      "name": "VDARA HOTEL",
+      "total": 57245.59999999999,
+      "count": 10
+    },
+    {
+      "name": "THERMO FISHER SCIENTIFIC INC. PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "PAC TO THE FUTURE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "CISCO SYSTEMS, INC. FEDERAL PAC, AKA CISCO SYSTEMS EPAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "UNITED POSTMASTERS AND MANAGERS OF AMERICA POLITICAL FUND (UPMA PAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "DELOITTE POLITICAL ACTION COMMITTEE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "BOEHRINGER-INGELHEIM PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "BRICKLAYERS AND ALLIED CRAFTWORKERS PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "PROGRESSIVE TURNOUT PROJECT",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NEW YORK LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "UNITED PILOTS PAC/UNITED AIRLINES MASTER EXECUTIVE COUNCIL",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMM",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "EMPLOYEES OF RTX CORPORATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "PAKISTANI AMERICAN PUBLIC AFFAIRS COMMITTEE PAK-PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "REMEDY PAC",
+      "total": 47598.1,
+      "count": 10
+    },
+    {
+      "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+      "total": 40000.0,
+      "count": 10
+    },
+    {
+      "name": "WINE INSTITUTE POLITICAL ACTION COMMITTEE",
+      "total": 40000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN AIRLINES",
+      "total": 36156.1,
+      "count": 10
+    },
+    {
+      "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+      "total": 35000.0,
+      "count": 10
+    },
+    {
+      "name": "BOILERMAKERS-BLACKSMITHS LEGISLATIVE EDUCATION ACTION PROGRAM (LEAP)",
+      "total": 35000.0,
+      "count": 10
+    },
+    {
+      "name": "BIOMARIN PHARMACEUTICAL INC. POLITICAL ACTION COMMITTEE AKA BIOMARIN PAC",
+      "total": 35000.0,
+      "count": 10
+    }
+  ],
+  "campaign_top_employers": [
+    {
+      "name": "SELF",
+      "total": 20992,
+      "count": 118
+    },
+    {
+      "name": "CARG",
+      "total": 13700,
+      "count": 6
+    },
+    {
+      "name": "SNOW SUMMIT LLC",
+      "total": 13300,
+      "count": 5
+    },
+    {
+      "name": "KLEINER PERKINS CAUFIELD & BYERS",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "HAGGARD LAW FIRM",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "CAKE.COM",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "MARBLE BRIDGE FUNDING GROUP",
+      "total": 10300,
+      "count": 6
+    },
+    {
+      "name": "UNITED TALENT AGENCY",
+      "total": 10100,
+      "count": 8
+    },
+    {
+      "name": "LAW OFFICE OF JASPREET SINGH",
+      "total": 9900,
+      "count": 4
+    },
+    {
+      "name": "JORDAN REAL ESTATE INVESTMENTS",
+      "total": 9900,
+      "count": 2
+    },
+    {
+      "name": "WACHTELL",
+      "total": 9900,
+      "count": 6
+    },
+    {
+      "name": "GEHRY PARTNERS",
+      "total": 9900,
+      "count": 3
+    },
+    {
+      "name": "DRAFTKINGS",
+      "total": 9900,
+      "count": 3
+    },
+    {
+      "name": "FIVE RIVERS AVIATION",
+      "total": 9900,
+      "count": 3
+    },
+    {
+      "name": "MACKENZIE CAPITAL",
+      "total": 9519,
+      "count": 5
+    },
+    {
+      "name": "ROYAL REALTY",
+      "total": 9300,
+      "count": 2
+    },
+    {
+      "name": "ACUREX BIOSCIENCES",
+      "total": 8600,
+      "count": 4
+    },
+    {
+      "name": "WESTPAC WEALTH PARTNERS",
+      "total": 8300,
+      "count": 3
+    },
+    {
+      "name": "NASA",
+      "total": 7950,
+      "count": 13
+    },
+    {
+      "name": "USACS",
+      "total": 7900,
+      "count": 4
+    },
+    {
+      "name": "MASSACHUSETTS GENERAL HOSPITAL",
+      "total": 7600,
+      "count": 3
+    },
+    {
+      "name": "MORGAN LEWIS",
+      "total": 7600,
+      "count": 3
+    },
+    {
+      "name": "LEISURE SPORTS INC.",
+      "total": 7600,
+      "count": 5
+    },
+    {
+      "name": "COASTAL CONSTRUCTION",
+      "total": 7600,
+      "count": 3
+    },
+    {
+      "name": "DISNEY",
+      "total": 7600,
+      "count": 3
+    },
+    {
+      "name": "DREAMSCAPE",
+      "total": 7300,
+      "count": 4
+    },
+    {
+      "name": "LINEA SOLUTIONS",
+      "total": 7150,
+      "count": 8
+    },
+    {
+      "name": "FANDUEL",
+      "total": 7100,
+      "count": 5
+    },
+    {
+      "name": "US STRATEGIC METALS",
+      "total": 7100,
+      "count": 3
+    },
+    {
+      "name": "GOOGLE",
+      "total": 7100,
+      "count": 3
+    },
+    {
+      "name": "DCVC",
+      "total": 7100,
+      "count": 3
+    },
+    {
+      "name": "VITUITY",
+      "total": 7100,
+      "count": 3
+    },
+    {
+      "name": "WINSTON & STRAWN LLP",
+      "total": 7000,
+      "count": 5
+    },
+    {
+      "name": "APPLE",
+      "total": 7000,
+      "count": 4
+    },
+    {
+      "name": "WENDY'S OF THE PACIFIC, INC.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SALVI SCHOSTOK & PRITCHARD P.C.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "DESILVA GATES CONSTRUCTION",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CREATIVE ARTISTS AGENCY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "COWBELL CYBER INC",
+      "total": 6600,
+      "count": 7
+    },
+    {
+      "name": "SUSMAN GODFREY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "NELSON MULLINS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "APEX COVANTAGE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "ECLIPSE DATA TECHNOLOGIES",
+      "total": 6600,
+      "count": 7
+    },
+    {
+      "name": "RALLY HEALTH",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "BPM LLP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "AJAX",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "VOLCANO CAPITAL MANAGEMENT LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SANTA CLARA VALLEY WATER DISTRICT",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PACIFIC LAKE PARTNERS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CORBOY & DEMETRIO",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "KBRA",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PACE SCHOOL",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "WSGR",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PARKER MEDIA",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PEARSON",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "UNIVERSITY OF CALIFORNIA SAN FRANCISCO",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "JACKSON HOLE GROUP LLC",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "MARCUS & MILLICHAP COMPANY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SIGNATURE HOMES INC.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PKM LAW",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "MOSAIC MEDIA GROUP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PERSONAL CAPITAL",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "THE WINE GROUP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "WENDY'S OF THE PACIFIC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "TOWNSEND PUBLIC AFFAIRS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "@PROPERTIES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "THE YUCAIPA COMPANIES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "ASWT",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "SIGNUM GLOBAL ADVISORS",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "MELIBIO INC.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "AKONADI FOUNDATION",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CONSERO GROUP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "COMMUNITY VOLUNTEER",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "ANOTHER PLANET ENTERTAINMENT",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "FACEBOOK",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "DFJ",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "LW LACROSSE LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "OUTREACH STRATEGISTS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "BAKER DEVELOPMENT",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "HALL BOOTH SMITH",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "GFP REAL ESTATE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SUSMAN GODFREY LLP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "VAN WAGNER",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CASS INC.",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "ENERGYREV LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "MOELIS & COMPANY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "COLE MANAGEMENT & ENGINEERING",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "TRICORE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CLOOBECK COMPANIES LLC NV",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "THE CARSON FAMILY CHARITABLE TRUST",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "GENESIS CORP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CALIFORNIA WASTE SOLUTIONS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "OA CAPITAL INC",
+      "total": 6600,
+      "count": 4
+    },
+    {
+      "name": "FOUR M INVESTMENTS LLC",
+      "total": 6600,
+      "count": 2
+    }
+  ],
+  "leadership_pacs": [
+    {
+      "committee_id": "C00566059",
+      "name": "REMEDY PAC",
+      "receipts": 334703,
+      "contributors": [
+        {
+          "name": "ACTBLUE",
+          "total": 254644.0,
+          "count": 13
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "total": 10000.0,
+          "count": 2
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "total": 10000.0,
+          "count": 2
+        },
+        {
+          "name": "PG&E CORPORATION EMPLOYEES ENERGYPAC",
+          "total": 10000.0,
+          "count": 2
+        },
+        {
+          "name": "UNITED PILOTS PAC/UNITED AIRLINES MASTER EXECUTIVE COUNCIL",
+          "total": 5000.0,
+          "count": 1
+        },
+        {
+          "name": "NATIONAL ASPHALT PAVEMENT ASSOCIATION PAC",
+          "total": 5000.0,
+          "count": 1
+        },
+        {
+          "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+          "total": 5000.0,
+          "count": 1
+        },
+        {
+          "name": "GOOGLE INC. NETPAC",
+          "total": 5000.0,
+          "count": 2
+        },
+        {
+          "name": "CENCORA INC. PAC",
+          "total": 4000.0,
+          "count": 1
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "total": 2500.0,
+          "count": 1
+        },
+        {
+          "name": "BRICKLAYERS AND ALLIED CRAFTWORKERS PAC",
+          "total": 2500.0,
+          "count": 1
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "total": 2000.0,
+          "count": 2
+        },
+        {
+          "name": "TRINET GROUP INC POLITICAL ACTION COMMITTEE",
+          "total": 1500.0,
+          "count": 1
+        },
+        {
+          "name": "ALSTON & BIRD",
+          "total": 1389.48,
+          "count": 1
+        },
+        {
+          "name": "ANDERSON, KIMBALL",
+          "total": 1000.0,
+          "count": 1
+        }
+      ],
+      "top_employers": [
+        {
+          "name": "WINSTON & STRAWN LLP",
+          "total": 12500,
+          "count": 3
+        },
+        {
+          "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+          "total": 10000,
+          "count": 2
+        },
+        {
+          "name": "WAREHAM PROPERTY GROUP",
+          "total": 10000,
+          "count": 2
+        },
+        {
+          "name": "L'ORAAL",
+          "total": 7000,
+          "count": 2
+        },
+        {
+          "name": "THE DARE PROJECT LLC",
+          "total": 6000,
+          "count": 2
+        },
+        {
+          "name": "ALPHA ALT FUND SERVICES",
+          "total": 6000,
+          "count": 2
+        },
+        {
+          "name": "SUSMAN GODFREY",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "BROOKHILL CORP.",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "PACE SCHOOL",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "TOWNSEND PUBLIC AFFAIRS",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "CONSERO GROUP",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "UNITED TALENT AGENCY",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "M MEDICAL GROUP",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "ARASSET",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "COMMUNITY VOLUNTEER",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "PERSONAL CAPITAL",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "NEW PACIFIC REALTY CORP.",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "BEY & ASSOCIATES",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "DENVER CARGO INC",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "DFJ",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "GIVE FORWARD FOUNDATION",
+          "total": 5000,
+          "count": 2
+        },
+        {
+          "name": "OA CAPITAL INC",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "CANTELLUS LEGAL",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "BEY & ASSOCIATES LLC",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "HREM ANALYTICS",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "AVEVA",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "CLOOBECK COMPANIES LLC NV",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "EVERGREEN MONEY",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "DESILVA GATES CONSTRUCTION",
+          "total": 4000,
+          "count": 1
+        },
+        {
+          "name": "LAW OFFICE OF JASPREET SINGH",
+          "total": 3500,
+          "count": 1
+        },
+        {
+          "name": "PATTERSON BELKNAP WEBB & TYLER",
+          "total": 2500,
+          "count": 1
+        },
+        {
+          "name": "SOUTHOCEAN CAPITAL PARTNERS",
+          "total": 2500,
+          "count": 1
+        },
+        {
+          "name": "ROYAL REALTY",
+          "total": 2500,
+          "count": 1
+        },
+        {
+          "name": "BAYCC",
+          "total": 1750,
+          "count": 1
+        },
+        {
+          "name": "SUTRO BIOPHARMA INC.",
+          "total": 1700,
+          "count": 1
+        },
+        {
+          "name": "NASA",
+          "total": 1650,
+          "count": 2
+        },
+        {
+          "name": "SNOW SUMMIT LLC",
+          "total": 1500,
+          "count": 1
+        },
+        {
+          "name": "WACHTELL",
+          "total": 1000,
+          "count": 1
+        },
+        {
+          "name": "ELEVANCE",
+          "total": 750,
+          "count": 1
+        },
+        {
+          "name": "WILD HORSES FILM",
+          "total": 500,
+          "count": 1
+        },
+        {
+          "name": "GEORGE IGEL",
+          "total": 299,
+          "count": 3
+        }
+      ]
+    }
+  ]
+}

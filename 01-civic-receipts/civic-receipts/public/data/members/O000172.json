@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "NY",
   "district": "14",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/O000172.jpg",
   "serving_since": 2019,
   "years_in_office": 7,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 88,
+    "total_votes_scored": 62,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "SIERRA CLUB POLITICAL COMMITTEE",
+        "donor_category": "Clean energy industry",
+        "donor_expected": "Nay on SHOWER Act"
+      },
+      {
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Protecting Prudent Investment of Retirement Savings Act"
+      },
+      {
+        "vote_description": "Flexibility for Workers Education Act",
+        "bill": "HR2262",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Flexibility for Workers Education Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 3,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 80.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 76.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 80.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

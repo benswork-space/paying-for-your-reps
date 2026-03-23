@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "MT",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/D000618.jpg",
   "serving_since": 2013,
   "years_in_office": 13,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 73,
+    "total_votes_scored": 31,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+        "bill": "HR5371",
+        "date": "2025-09-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on A bill making continuing appropriations and extensions for f"
+      },
+      {
+        "vote_description": "A bill to require the imposition of sanctions with respect to entities responsible for the planning, construction, or operation of the Nord Stream 2 pipeline and their corporate officers and to apply congressional review under the Countering America's Adversaries Through Sanctions Act to the removal of sanctions relating to Nord Stream 2, and for other purposes.",
+        "bill": "S3436",
+        "date": "2022-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on A bill to require the imposition of sanctions with respect t"
+      },
+      {
+        "vote_description": "A bill to address behavioral health and well-being among health care professionals.",
+        "bill": "S610",
+        "date": "2021-12-09",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "REGENERON PHARMACEUTICALS, INC. PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on A bill to address behavioral health and well-being among hea"
+      },
+      {
+        "vote_description": "A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
+        "bill": "HR4",
+        "date": "2025-07-17",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on A bill to rescind certain budget authority proposed to be re"
+      },
+      {
+        "vote_description": "A bill to prohibit the use of funds to implement, administer, or enforce certain rules of the Environmental Protection Agency.",
+        "bill": "S4072",
+        "date": "2024-04-18",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on A bill to prohibit the use of funds to implement, administer"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 82.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 59.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 13.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 58.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 60.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 59.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

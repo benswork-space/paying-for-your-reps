@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "FL",
   "district": "1",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/P000622.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
@@ -14,10 +15,41 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 100,
+    "total_votes_scored": 3,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "Lower Health Care Premiums for All Americans Act",
+        "bill": "HR6703",
+        "date": "2025-12-17",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on Lower Health Care Premiums for All Americans Act"
+      },
+      {
+        "vote_description": "SUPPORT for Patients and Communities Reauthorization Act",
+        "bill": "HR2483",
+        "date": "2025-06-04",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on SUPPORT for Patients and Communities Reauthorization Act"
+      }
+    ]
   },
   "electorate_alignment": {
     "issues_scored": 0,

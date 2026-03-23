@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "OH",
   "district": "5",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/L000566.jpg",
   "serving_since": 2007,
   "years_in_office": 19,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 95,
+    "total_votes_scored": 87,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Nay on Making appropriations for Legislative Branch for the fiscal "
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "DUMP Red Tape Act",
+        "bill": "HR4305",
+        "date": "2025-12-03",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "CISCO SYSTEMS, INC. FEDERAL PAC, AKA CISCO SYSTEMS EPAC",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on DUMP Red Tape Act"
+      },
+      {
+        "vote_description": "To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes",
+        "bill": "HR185",
+        "date": "2023-02-08",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on To terminate the requirement imposed by the Director of the "
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 62.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 53.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 66.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

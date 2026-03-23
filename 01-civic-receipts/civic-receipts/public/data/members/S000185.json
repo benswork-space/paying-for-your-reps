@@ -5,24 +5,1380 @@
   "chamber": "house",
   "state": "VA",
   "district": "3",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/S000185.jpg",
   "serving_since": 1993,
   "years_in_office": 33,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 997889,
+    "campaign_raised": 869636,
+    "leadership_pac_raised": 128253,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 382399,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 17675
+          },
+          {
+            "name": "SEIU",
+            "type": "Organization",
+            "amount": 15000
+          },
+          {
+            "name": "DOMINION ENERGY",
+            "type": "Organization",
+            "amount": 13650
+          },
+          {
+            "name": "PATIENT RIGHTS ADVOCATE",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "THEGROUP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "THE EDGAR LOMAX COMPANY",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "ECPI UNIVERSITY",
+            "type": "Organization",
+            "amount": 6700
+          },
+          {
+            "name": "ST. GEORGE'S UNIVERSITY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LAW OFFICE OF DON SCOTT, PLLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CBI",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WEHC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PATTEN, HATTEN, WORNOM AND DIAMONSTEIN",
+            "type": "Organization",
+            "amount": 6200
+          },
+          {
+            "name": "ARNOLD VENTURES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CONSUMER LITIGATION ASSOCIATES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "GRENADA",
+            "type": "Organization",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 483756,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 799550
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "DRIVE-DEMOCRAT REPUBLICAN INDEPENDENT VOTER EDUCATION (PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "FORWARD TOGETHER PAC",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "COMMON GROUND PAC",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "UNITED STEELWORKERS OF AMERICA",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 58000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 54000
+          },
+          {
+            "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 48000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 128253,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 799550
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "DRIVE-DEMOCRAT REPUBLICAN INDEPENDENT VOTER EDUCATION (PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "FORWARD TOGETHER PAC",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "COMMON GROUND PAC",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "UNITED STEELWORKERS OF AMERICA",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 58000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 54000
+          },
+          {
+            "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 48000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00625111",
+            "name": "STRENGTHENING VIRGINIA'S WORKING FAMILIES PAC",
+            "total_raised": 128253,
+            "top_employers": [
+              {
+                "name": "ARNOLD VENTURES",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "CONSUMER LITIGATION ASSOCIATES",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "PATIENT RIGHTS ADVOCATE",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SEIU",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "GRENADA",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "AMERICAN HEALTHCARE, LLC",
+                "type": "Organization",
+                "amount": 4499
+              },
+              {
+                "name": "THE ROOSEVELT GROUP",
+                "type": "Organization",
+                "amount": 2500
+              },
+              {
+                "name": "ECPI UNIVERSITY",
+                "type": "Organization",
+                "amount": 1700
+              },
+              {
+                "name": "CYBERDATA TECHNOLOGIES",
+                "type": "Organization",
+                "amount": 1000
+              },
+              {
+                "name": "VECTRE COPORATION",
+                "type": "Organization",
+                "amount": 1000
+              },
+              {
+                "name": "THE MILLER FIRM",
+                "type": "Organization",
+                "amount": 750
+              },
+              {
+                "name": "ABI ASSOCIATES",
+                "type": "Organization",
+                "amount": 500
+              },
+              {
+                "name": "TWINLOGIC STRATEGIES",
+                "type": "Organization",
+                "amount": 500
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "ACTBLUE",
+                "type": "PAC",
+                "amount": 38750
+              },
+              {
+                "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "DOMINION ENERGY, INC. POLITICAL ACTION COMMITTEE - DOMINION PAC",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "INTERNATIONAL UNION OF BRICKLAYERS AND ALLIED CRAFTSMAN POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "NELNET INC PAC (NELNET PAC)",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "PRA GROUP INC. POLITICAL ACTION COMMITTEE (PRA GROUP PAC)",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "MCGUIREWOODS FEDERAL PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "VIRGINIA LEADERSHIP PAC",
+                "type": "PAC",
+                "amount": 1000
+              },
+              {
+                "name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
+                "type": "PAC",
+                "amount": 1000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00256925",
+      "total_raised": 869636,
+      "individual_contributions": 382399,
+      "individual_itemized": 351896,
+      "individual_unitemized": 30503,
+      "pac_contributions": 483756,
+      "other_receipts": 3481,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 17675
+        },
+        {
+          "name": "DOMINION ENERGY",
+          "type": "Organization",
+          "amount": 13650
+        },
+        {
+          "name": "SEIU",
+          "type": "Organization",
+          "amount": 10000
+        },
+        {
+          "name": "THEGROUP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "THE EDGAR LOMAX COMPANY",
+          "type": "Organization",
+          "amount": 8300
+        },
+        {
+          "name": "PATIENT RIGHTS ADVOCATE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ST. GEORGE'S UNIVERSITY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LAW OFFICE OF DON SCOTT, PLLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CBI",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WEHC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PATTEN, HATTEN, WORNOM AND DIAMONSTEIN",
+          "type": "Organization",
+          "amount": 6200
+        },
+        {
+          "name": "ECPI UNIVERSITY",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "METROPOLITAN FUNERAL HOME/VA. GENERAL",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "CORRECT CARE SOLUTIONS, LLC",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "PORTER",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PENN HILL GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MVM INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BREIT BINIAZAN",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "NA",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HARVEY LINDSAY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CARNEY PATTERSON MEADE PLC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "MORRING GROUP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "WILCOX & SAVAGE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "VIRGINIA MARITIME ASSOCIATION",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "JOHNSON INC.",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "SENTARA HEALTH",
+          "type": "Organization",
+          "amount": 1875
+        },
+        {
+          "name": "CENTURY FOUNDATION",
+          "type": "Organization",
+          "amount": 1850
+        },
+        {
+          "name": "O.H. SMITH & SON FUNERAL HOME",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CITY OF NEWPORT NEWS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MASON LEGAL",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CBH MEDICAL -- VIRGINIA",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "DRUCKER + FALK",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "BOB WISE LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "INOMEDIC HEALTH APPLICATIONS INC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "VANTAGE PRIVATE CAPITAL",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "THE ROOSEVELT GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "BEN CRUMP LAW PLLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SLATTERY STRATEGY LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "VA HOUSE OF DELEGATES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MORRING LAW",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "FRIED COMPANIES, INC.",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "BAY AGING",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CLEARSTEAD ADVISORS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "DRUCKER AND FALK/REAL ESTATE AGENT",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MICROSOFT",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "COLONNA'S SHIPYARD INC.",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "NORFOLK COMMONWEWALTH'S ATTORNEY'S OFF",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "PMA",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "INVARIANT",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "FRAIM&FIORELLA",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "BOCKORNY GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "FEDERAL STREET STRATEGIES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "M. PRICE DISTRIBUTORS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "REYNOLDS COMMUNITY COLLEGE",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CHARLES S JOHNSON PC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "AGGREGATE TRANSPORTATION",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "THE MILLER FIRM",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "GREG GARRETT REALTY",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CHEMUNG CONTRACTING CORPORATION",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "ULLC INC",
+          "type": "Organization",
+          "amount": 950
+        },
+        {
+          "name": "PENINSULA AGENCY ON AGING",
+          "type": "Organization",
+          "amount": 850
+        },
+        {
+          "name": "TWINLOGIC STRATEGIES",
+          "type": "Organization",
+          "amount": 750
+        },
+        {
+          "name": "CAPITOL COUNSEL",
+          "type": "Organization",
+          "amount": 750
+        },
+        {
+          "name": "CITY OF HAMPTON",
+          "type": "Organization",
+          "amount": 750
+        },
+        {
+          "name": "USCG",
+          "type": "Organization",
+          "amount": 680
+        },
+        {
+          "name": "COMMONWEALTH ONCOLOGY GROUP",
+          "type": "Organization",
+          "amount": 650
+        },
+        {
+          "name": "MARS INC.",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "COVINGTON & BURLING LLP",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "THE WALT DISNEY COMPANY",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "NASA",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "COMMUNITY INITIATIVES",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "PEYSER ASSOCIATES LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "UNITED STATES CONGRESS",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "AMERICAN CHEMICAL COUNCIL",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "SUNNY SLAUGHTER CONSULTING LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "LS CABLE & SYSTEM LTD.",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "KRBR CONSULTING LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "THE VECTRE CORPORATION",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "VERSASERVE SOLUTIONS LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "CIVITAS COMMERCIAL REAL ESTATE SERVICE",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "ACADEMIC PARTNERSHIPS",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "NELSON MULLINS",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "DEMOCRATIC BLACK CAUCUS OF VIRGINIA",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "NATHANSON+HAUCK",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "AMERICAN UNIVERSITY",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "REEDSMITH LLP",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "GRIGSBY & ASSOCIATES",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "HOUSE WIFE",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "NEWPORT NEWS SHIPBUILDING",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "FOMW",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "VHB",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "OLD POINT NATIONAL BANK",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "KOHL'S",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "DEERE & COMPANY",
+          "type": "Organization",
+          "amount": 500
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 760800
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "DRIVE-DEMOCRAT REPUBLICAN INDEPENDENT VOTER EDUCATION (PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "FORWARD TOGETHER PAC",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "COMMON GROUND PAC",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "UNITED STEELWORKERS OF AMERICA",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 54000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 48000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 48000
+        },
+        {
+          "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "GOODE, DAVID R",
+          "type": "PAC",
+          "amount": 39600
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "STAND UP FOR WORKERS PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "AMERICAN NURSES ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "CWA COPE PCC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "UNITED PARCEL SERVICE INC. POLITICAL ACTION COMMIT",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "INTERNATIONAL LONGSHOREMEN'S ASSOCIATION AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROG",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS PAC (NABIP PAC)",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "SOUTHERN COMPANY GAS EMPLOYEES PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "J STREET",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "AFL-CIO COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 24000
+        },
+        {
+          "name": "STATE BOARD OF ELECTIONS",
+          "type": "PAC",
+          "amount": 20880
+        },
+        {
+          "name": "CHICKASAW NATION",
+          "type": "PAC",
+          "amount": 19800
+        },
+        {
+          "name": "ALPHA KAPPA ALPHA SORORITY PAC, INC. (AKA AKA 1908 PAC)",
+          "type": "PAC",
+          "amount": 19800
+        },
+        {
+          "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 18000
+        },
+        {
+          "name": "FRATERNITY & SORORITY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 18000
+        },
+        {
+          "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "DOMINION ENERGY, INC. POLITICAL ACTION COMMITTEE - DOMINION PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "THE ESOP ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NELNET INC PAC (NELNET PAC)",
+          "type": "PAC",
+          "amount": 15000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00625111",
+        "name": "STRENGTHENING VIRGINIA'S WORKING FAMILIES PAC",
+        "total_raised": 128253,
+        "top_employers": [
+          {
+            "name": "ARNOLD VENTURES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CONSUMER LITIGATION ASSOCIATES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "PATIENT RIGHTS ADVOCATE",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SEIU",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "GRENADA",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN HEALTHCARE, LLC",
+            "type": "Organization",
+            "amount": 4499
+          },
+          {
+            "name": "THE ROOSEVELT GROUP",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "ECPI UNIVERSITY",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "CYBERDATA TECHNOLOGIES",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "VECTRE COPORATION",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "THE MILLER FIRM",
+            "type": "Organization",
+            "amount": 750
+          },
+          {
+            "name": "ABI ASSOCIATES",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "TWINLOGIC STRATEGIES",
+            "type": "Organization",
+            "amount": 500
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 38750
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DOMINION ENERGY, INC. POLITICAL ACTION COMMITTEE - DOMINION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF BRICKLAYERS AND ALLIED CRAFTSMAN POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NELNET INC PAC (NELNET PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "PRA GROUP INC. POLITICAL ACTION COMMITTEE (PRA GROUP PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "MCGUIREWOODS FEDERAL PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "VIRGINIA LEADERSHIP PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 92,
+    "total_votes_scored": 35,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "DUMP Red Tape Act",
+        "bill": "HR4305",
+        "date": "2025-12-03",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on DUMP Red Tape Act"
+      },
+      {
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Protecting Prudent Investment of Retirement Savings Act"
+      },
+      {
+        "vote_description": "Flexibility for Workers Education Act",
+        "bill": "HR2262",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Flexibility for Workers Education Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 3,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 70.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 64.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 68.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

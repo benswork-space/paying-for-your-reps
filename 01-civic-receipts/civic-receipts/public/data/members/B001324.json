@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "MO",
   "district": "1",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/B001324.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
@@ -14,15 +15,75 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 77,
+    "total_votes_scored": 40,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Born-Alive Abortion Survivors Protection Act",
+        "bill": "HR21",
+        "date": "2025-01-23",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "PLANNED PARENTHOOD VOTES",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Born-Alive Abortion Survivors Protection Act"
+      },
+      {
+        "vote_description": "Illegitimate Court Counteraction Act",
+        "bill": "HR23",
+        "date": "2025-01-09",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on Illegitimate Court Counteraction Act"
+      },
+      {
+        "vote_description": "TRACE Act",
+        "bill": "HR1049",
+        "date": "2025-12-04",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on TRACE Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 67.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

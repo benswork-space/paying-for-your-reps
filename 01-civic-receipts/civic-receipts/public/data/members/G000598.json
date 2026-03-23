@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "CA",
   "district": "42",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/G000598.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
@@ -14,15 +15,83 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 87,
+    "total_votes_scored": 167,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Protect Children\u2019s Innocence Act",
+        "bill": "HR3492",
+        "date": "2025-12-17",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "GIFFORDS PAC",
+        "donor_category": "Gun control advocates",
+        "donor_expected": "Nay on Protect Children\u2019s Innocence Act"
+      },
+      {
+        "vote_description": "Protection of Women and Girls in Sports Act",
+        "bill": "HR28",
+        "date": "2025-01-14",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Protection of Women and Girls in Sports Act"
+      },
+      {
+        "vote_description": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2026",
+        "bill": "HR3944",
+        "date": "2025-06-25",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "TRANSDIGM GROUP INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Nay on Military Construction, Veterans Affairs, and Related Agencie"
+      },
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "HALT Fentanyl Act",
+        "bill": "S331",
+        "date": "2025-06-12",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "GIFFORDS PAC",
+        "donor_category": "Gun control advocates",
+        "donor_expected": "Yea on HALT Fentanyl Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 2,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 66.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 65.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

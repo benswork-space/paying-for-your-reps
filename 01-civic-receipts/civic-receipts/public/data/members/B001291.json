@@ -5,24 +5,1300 @@
   "chamber": "house",
   "state": "TX",
   "district": "36",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/B001291.jpg",
   "serving_since": 2015,
   "years_in_office": 11,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1264316,
+    "campaign_raised": 1192438,
+    "leadership_pac_raised": 71878,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 330047,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 64884
+          },
+          {
+            "name": "JEFFERSON COUNTY",
+            "type": "Organization",
+            "amount": 18700
+          },
+          {
+            "name": "TRANS GLOBAL SOLUTIONS, INC.",
+            "type": "Organization",
+            "amount": 18200
+          },
+          {
+            "name": "TOM PEACOCK NISSAN/CADILLAC",
+            "type": "Organization",
+            "amount": 16600
+          },
+          {
+            "name": "KAREN & BOB WORTHAM CHARITABLE FOUNDAT",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "HOUSEWIFE",
+            "type": "Organization",
+            "amount": 9600
+          },
+          {
+            "name": "TRANS-GLOBAL SOLUTIONS INC.",
+            "type": "Organization",
+            "amount": 9600
+          },
+          {
+            "name": "MUSTANG MACHINERY COMPANY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THRUSTMASTER OF TEXAS INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CLEARPATH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NASH REAL ESTATE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NASH GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE TOMMY WATTS GROUP",
+            "type": "Organization",
+            "amount": 6300
+          },
+          {
+            "name": "SABINE PILOTS",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "THE MODERN GROUP, LTD.",
+            "type": "Organization",
+            "amount": 5050
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 513690,
+        "donors": [
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 215002
+          },
+          {
+            "name": "FROST BANK",
+            "type": "PAC",
+            "amount": 70051
+          },
+          {
+            "name": "BULLDOG PAC",
+            "type": "PAC",
+            "amount": 58536
+          },
+          {
+            "name": "THE M GROUP",
+            "type": "PAC",
+            "amount": 58485
+          },
+          {
+            "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "AMERICAN DENTAL ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "TEXAS FARM BUREAU AGFUND, INC. (FEDERAL)",
+            "type": "PAC",
+            "amount": 48000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+            "type": "PAC",
+            "amount": 45000
+          },
+          {
+            "name": "CELANESE CORP PAC",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "AMERICAN ACADEMY OF PEDIATRIC DENTISTRY PAC",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCATION PAC",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "KOCHPAC",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "THE BOEING COMPANY PAC",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION OF ORAL AND MAXILLOFACIAL SURGERY PAC",
+            "type": "PAC",
+            "amount": 25000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 71878,
+        "donors": [
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 215002
+          },
+          {
+            "name": "FROST BANK",
+            "type": "PAC",
+            "amount": 70051
+          },
+          {
+            "name": "BULLDOG PAC",
+            "type": "PAC",
+            "amount": 58536
+          },
+          {
+            "name": "THE M GROUP",
+            "type": "PAC",
+            "amount": 58485
+          },
+          {
+            "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "AMERICAN DENTAL ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "TEXAS FARM BUREAU AGFUND, INC. (FEDERAL)",
+            "type": "PAC",
+            "amount": 48000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+            "type": "PAC",
+            "amount": 45000
+          },
+          {
+            "name": "CELANESE CORP PAC",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "AMERICAN ACADEMY OF PEDIATRIC DENTISTRY PAC",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCATION PAC",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "KOCHPAC",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "THE BOEING COMPANY PAC",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION OF ORAL AND MAXILLOFACIAL SURGERY PAC",
+            "type": "PAC",
+            "amount": 25000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00589994",
+            "name": "BUILDING RENEWAL IN AMERICA NOW PAC",
+            "total_raised": 71878,
+            "top_employers": [
+              {
+                "name": "TOM PEACOCK NISSAN/CADILLAC",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "TRANS GLOBAL SOLUTIONS, INC.",
+                "type": "Organization",
+                "amount": 8300
+              },
+              {
+                "name": "KAREN & BOB WORTHAM CHARITABLE FOUNDAT",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "JEFFERSON COUNTY",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SELF",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "GRIFFIN COMPANIES",
+                "type": "Organization",
+                "amount": 1700
+              },
+              {
+                "name": "COMMUNITY TOYOTA HONDA KIA",
+                "type": "Organization",
+                "amount": 1700
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "SPACE COAST LEADERSHIP PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "EXXONMOBIL PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+                "type": "PAC",
+                "amount": 5000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00553859",
+      "total_raised": 1192438,
+      "individual_contributions": 330047,
+      "individual_itemized": 315760,
+      "individual_unitemized": 14287,
+      "pac_contributions": 513690,
+      "other_receipts": 348701,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 59884
+        },
+        {
+          "name": "JEFFERSON COUNTY",
+          "type": "Organization",
+          "amount": 13700
+        },
+        {
+          "name": "TRANS GLOBAL SOLUTIONS, INC.",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "HOUSEWIFE",
+          "type": "Organization",
+          "amount": 9600
+        },
+        {
+          "name": "TRANS-GLOBAL SOLUTIONS INC.",
+          "type": "Organization",
+          "amount": 9600
+        },
+        {
+          "name": "MUSTANG MACHINERY COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KAREN & BOB WORTHAM CHARITABLE FOUNDAT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THRUSTMASTER OF TEXAS INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CLEARPATH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TOM PEACOCK NISSAN/CADILLAC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NASH REAL ESTATE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NASH GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE TOMMY WATTS GROUP",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "SABINE PILOTS",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "THE MODERN GROUP, LTD.",
+          "type": "Organization",
+          "amount": 5050
+        },
+        {
+          "name": "WISMER SISTRIBUTING",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "UNIVERSAL COIN AND BULLION",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "HOUSTON PILOTS",
+          "type": "Organization",
+          "amount": 4750
+        },
+        {
+          "name": "CASSIDY ASSOCIATES",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "HARBOR HEALTHCARE",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "COMMUNITY BANK OF TEXAS",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "MGA",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "UCB",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "INTUITIVE MACHINES",
+          "type": "Organization",
+          "amount": 4241
+        },
+        {
+          "name": "UNIVERSITY OF TEXAS HEALTH SCI",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "READ LOGGING",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "REQUESTED",
+          "type": "Organization",
+          "amount": 3400
+        },
+        {
+          "name": "NAUTICAL CONTROL SOLUTIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CFO/ CO - CEO",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GRIFFIN COMPANIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BORUSAN PIPE USA",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "COSTAL WELDING SUPPLY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "COMMUNITY TOYOTA HONDA KIA",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TRANS-GLOBAL SOLUTIONS, INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TTE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GALLERY FURNITURE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SULLIVAN INTERESTS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "COMMUNITY AUTO",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "COASTAL WELDING SUPPLY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BASTION TECHNOLOGIES INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GULFSPAN INDUSTRIAL LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "QUALITY MAT COMPANY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "OCTAGOS HEALTH INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TRANS GLOBAL SOLUTIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BARTLETT GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GALLERY FURNITURE/WESTSIDE TENNIS CLUB",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TRANS-GLOBAL SOLUTIONS INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "C. DOORNBOS, INC.",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "SABINE NECHES NAVIGATION DISTRICT",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "ENTERPRISE PRODUCTS",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "SELF - CYPRESS CREEK CATTLE, INC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "FOX 34",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "MONUMENT CHEVROLET",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "LINEBAUGH LAW FIRM",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ACTUM",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "HAWKINS INC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "MISCHER INVESTMENTS, LP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SOUTHWEST ROYALTIES, INC.",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "TUPELLA AQUACULTURE GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "CIMARRON",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "VOLUNTEER",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "PINNACLE ADVANCED RELIABILITY TECHNOLO",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "BOEING",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "RESOURCE MANAGEMENT SERVICE, LLC",
+          "type": "Organization",
+          "amount": 2375
+        },
+        {
+          "name": "ALLEN BOONE HUMPHRIES ROBINSON",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "REITED",
+          "type": "Organization",
+          "amount": 2100
+        },
+        {
+          "name": "MANSFIELD SERVICE PARTNERS",
+          "type": "Organization",
+          "amount": 2100
+        },
+        {
+          "name": "BD ADVISORS, LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "RICHIE'S SPECIALTY PHARMACY",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PCCA",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "AURORA TECHNICAL SERVICES, LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "UT HEALTH HOUSTON",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "O'ROURKE PETROLEUM",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "REITRED",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "COMMERCE EQUITIES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ITEX",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "GEXPRO",
+          "type": "Organization",
+          "amount": 1825
+        },
+        {
+          "name": "SABINE RIVER AUTHORITY OF TEXAS",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "WRIGHTS SCRAP & RECYCLING",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "LUMMUS TECHNOLOGY",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "BLUE ORIGIN",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "REMAX NORTHWEST",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "AYRSHIRE CORPORATION",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "GMJ",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BGR GROUP",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "LEMUNYON GROUP, LLC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "ORAL SURGERY ASSOCIATES OF NORTH TEXAS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "FIRST STATE BANK",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CLEVECO CONSTRUCTION COMPANY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CLARK",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "MANSFIELD ENERGY",
+          "type": "Organization",
+          "amount": 1300
+        },
+        {
+          "name": "AKIN GUMP",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "GEROGES EQUIPMENT RENTALS",
+          "type": "Organization",
+          "amount": 1250
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 215002
+        },
+        {
+          "name": "FROST BANK",
+          "type": "PAC",
+          "amount": 70051
+        },
+        {
+          "name": "BULLDOG PAC",
+          "type": "PAC",
+          "amount": 58536
+        },
+        {
+          "name": "THE M GROUP",
+          "type": "PAC",
+          "amount": 58485
+        },
+        {
+          "name": "AMERICAN DENTAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "TEXAS FARM BUREAU AGFUND, INC. (FEDERAL)",
+          "type": "PAC",
+          "amount": 48000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "CELANESE CORP PAC",
+          "type": "PAC",
+          "amount": 37500
+        },
+        {
+          "name": "AMERICAN ACADEMY OF PEDIATRIC DENTISTRY PAC",
+          "type": "PAC",
+          "amount": 37500
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCATION PAC",
+          "type": "PAC",
+          "amount": 37500
+        },
+        {
+          "name": "KOCHPAC",
+          "type": "PAC",
+          "amount": 37500
+        },
+        {
+          "name": "THE BOEING COMPANY PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF ORAL AND MAXILLOFACIAL SURGERY PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "ORAL AND MAXILLOFACIAL SURGERY PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "COMCAST CORPORATION & NBC UNIVERSAL PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "VALERO PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "EYE OF THE TIGER PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "BLUE ORIGIN LLC PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS PAC (AAOPAC)",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN OPTOMETRIC ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "COMMITTEE FOR ADVANCEMENT OF COTTON",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN SUGAR CANE LEAGUE PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN CHEMISTRY COUNCIL PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "OWNER OPERATOR INDEPENDENT DRIVERS ASSOCIATON PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "NATIONAL APARTMENT ASSOCIATION NAA PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "CALPINE CORPORATION PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "JACOBS ENGINEERING GROUP GOOD GOVERNMENT FUND",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "TRANSPORTATION TRUST FUND",
+          "type": "PAC",
+          "amount": 23560
+        },
+        {
+          "name": "TEXANS FOR LAMAR SMITH",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN MEDICAL ASSOCIATION",
+          "type": "PAC",
+          "amount": 17500
+        },
+        {
+          "name": "UNION PACIFIC CORPORATION FUND FOR EFFECTIVE GOVERNMENT",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "THE CONTINUUM FUND OF ZACHRY HOLDINGS, INC. PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "AMERICA'S ELECTRIC COOPERATIVES PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NATIONAL SHOOTING SPORTS FOUNDATION PAC",
+          "type": "PAC",
+          "amount": 12895
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS (ASAPAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "ENBRIDGE (U.S.) INC. POLITICAL ACTION COMMITTEE (ENBRIDGE-DCP PAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN WATERWAYS OPERATORS PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS (EMMER PAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "DELTA AIR LINES PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "MARATHON PETROLEUM CORPORATION EMPLOYEES PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "DO RIGHT BAYOU PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "CHENIERE PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "USA RICE FEDERATION PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION VOLUNTARY PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "RAYTHEON COMPANY PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "CHS INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS PAC OF AAOS",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "PHILLIPS 66 POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "OCCIDENTAL PETROLEUM CORPORATION PAC (OXYPAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "ASSOCIATED BUILDERS & CONTRACTORS PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "RESOURCE MANAGEMENT SERVICE, LLC (PARTNERSHIP)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "EMPLOYEES OF NORTHROP GRUMMAN PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN PETROLEUM INSTITUTE PAC (API PAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "UNITED PARCEL SERVICE INC. PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "JACOBS SOLUTIONS, INC. POLITICAL ACTION COMMITTEE (JACOBS PAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "EXXONMOBIL PAC",
+          "type": "PAC",
+          "amount": 12500
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00589994",
+        "name": "BUILDING RENEWAL IN AMERICA NOW PAC",
+        "total_raised": 71878,
+        "top_employers": [
+          {
+            "name": "TOM PEACOCK NISSAN/CADILLAC",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "TRANS GLOBAL SOLUTIONS, INC.",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "KAREN & BOB WORTHAM CHARITABLE FOUNDAT",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "JEFFERSON COUNTY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "GRIFFIN COMPANIES",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "COMMUNITY TOYOTA HONDA KIA",
+            "type": "Organization",
+            "amount": 1700
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "SPACE COAST LEADERSHIP PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "EXXONMOBIL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 93,
+    "total_votes_scored": 138,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "TEXAS FARM BUREAU AGFUND, INC. (FEDERAL)",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "KOCHPAC",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes",
+        "bill": "HR185",
+        "date": "2023-02-08",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on To terminate the requirement imposed by the Director of the "
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 3,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 46.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 49.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 59.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

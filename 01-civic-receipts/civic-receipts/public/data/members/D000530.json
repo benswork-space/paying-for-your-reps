@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "PA",
   "district": "17",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/D000530.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
@@ -14,15 +15,83 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 94,
+    "total_votes_scored": 65,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Born-Alive Abortion Survivors Protection Act",
+        "bill": "HR21",
+        "date": "2025-01-23",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "REPRODUCTIVE FREEDOM FOR ALL FREEDOM FUND",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Born-Alive Abortion Survivors Protection Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "UNITED MINE WORKERS OF AMERICA - COAL MINERS POLITICAL ACTION COMMITTEE",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on SHOWER Act"
+      },
+      {
+        "vote_description": "DUMP Red Tape Act",
+        "bill": "HR4305",
+        "date": "2025-12-03",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on DUMP Red Tape Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR1516",
+        "date": "2024-09-10",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 2,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 56.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 65.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

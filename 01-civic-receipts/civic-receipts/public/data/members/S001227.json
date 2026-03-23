@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "MO",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/S001227.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
@@ -14,15 +15,99 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 63,
+    "total_votes_scored": 23,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
+        "bill": "S1071",
+        "date": "2025-12-17",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on A bill to require the Secretary of Veterans Affairs to disin"
+      },
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      },
+      {
+        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+        "bill": "HR5371",
+        "date": "2025-09-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "WELLS FARGO AND COMPANY EMPLOYEE PAC (AKA WELLS FARGO EMPLOYEE PAC)",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on A bill making continuing appropriations and extensions for f"
+      },
+      {
+        "vote_description": "To rescind funds from the Department of Energy loan programs office.",
+        "bill": "HR9468",
+        "date": "2024-09-19",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Nay on To rescind funds from the Department of Energy loan programs"
+      },
+      {
+        "vote_description": "A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
+        "bill": "HR4",
+        "date": "2025-07-17",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "WELLS FARGO AND COMPANY EMPLOYEE PAC (AKA WELLS FARGO EMPLOYEE PAC)",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on A bill to rescind certain budget authority proposed to be re"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 4,
+    "against_electorate_pct": 75,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 89.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 52.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 62.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 61.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "WV",
   "district": "2",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001235.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
@@ -14,15 +15,75 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 92,
+    "total_votes_scored": 51,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "Flexibility for Workers Education Act",
+        "bill": "HR2262",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Flexibility for Workers Education Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 47.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

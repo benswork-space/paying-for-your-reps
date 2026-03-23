@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "CA",
   "district": "13",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/G000605.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
@@ -14,15 +15,75 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 55,
+    "total_votes_scored": 31,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Born-Alive Abortion Survivors Protection Act",
+        "bill": "HR21",
+        "date": "2025-01-23",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Born-Alive Abortion Survivors Protection Act"
+      },
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "CALIFORNIA CONFERENCE OF CARPENTERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Power Plant Reliability Act",
+        "bill": "HR3632",
+        "date": "2025-12-16",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on Power Plant Reliability Act"
+      },
+      {
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "CALIFORNIA CONFERENCE OF CARPENTERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Protecting Prudent Investment of Retirement Savings Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on SHOWER Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 84.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

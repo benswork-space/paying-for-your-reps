@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "TX",
   "district": "37",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/D000399.jpg",
   "serving_since": 1995,
   "years_in_office": 31,
@@ -14,10 +15,61 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 92,
+    "total_votes_scored": 56,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Lower Health Care Premiums for All Americans Act",
+        "bill": "HR6703",
+        "date": "2025-12-17",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Lower Health Care Premiums for All Americans Act"
+      },
+      {
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Yea on Making appropriations for Legislative Branch for the fiscal "
+      },
+      {
+        "vote_description": "DUMP Red Tape Act",
+        "bill": "HR4305",
+        "date": "2025-12-03",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on DUMP Red Tape Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
     "issues_scored": 0,

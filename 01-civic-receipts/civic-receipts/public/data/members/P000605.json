@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "PA",
   "district": "10",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/P000605.jpg",
   "serving_since": 2013,
   "years_in_office": 13,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 95,
+    "total_votes_scored": 60,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Protect Children\u2019s Innocence Act",
+        "bill": "HR3492",
+        "date": "2025-12-17",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Kayla Hamilton Act",
+        "bill": "HR4371",
+        "date": "2025-12-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on Kayla Hamilton Act"
+      },
+      {
+        "vote_description": "CLEAN DC Act",
+        "bill": "HR5107",
+        "date": "2025-11-19",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on CLEAN DC Act"
+      },
+      {
+        "vote_description": "Protecting Our Nation\u2019s Capital Emergency Act",
+        "bill": "HR2096",
+        "date": "2025-06-10",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on Protecting Our Nation\u2019s Capital Emergency Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 100,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 68.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 55.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 67.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

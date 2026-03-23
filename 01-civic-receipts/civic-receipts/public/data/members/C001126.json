@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "OH",
   "district": "15",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/C001126.jpg",
   "serving_since": 2021,
   "years_in_office": 5,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 96,
+    "total_votes_scored": 128,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "Consolidated Appropriations Act, 2026",
+        "bill": "HR7148",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "MORGAN STANLEY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",
+        "bill": "HR1023",
+        "date": "2024-03-22",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on To repeal section 134 of the Clean Air Act, relating to the "
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 62.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 55.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 64.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

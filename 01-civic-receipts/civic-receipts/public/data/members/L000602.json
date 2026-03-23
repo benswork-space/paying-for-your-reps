@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "PA",
   "district": "12",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/L000602.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
@@ -14,15 +15,83 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 84,
+    "total_votes_scored": 59,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AFSCME COUNCIL 13",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Born-Alive Abortion Survivors Protection Act",
+        "bill": "HR21",
+        "date": "2025-01-23",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "REPRODUCTIVE FREEDOM FOR ALL FREEDOM FUND",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Born-Alive Abortion Survivors Protection Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+        "donor_category": "Clean energy industry",
+        "donor_expected": "Nay on SHOWER Act"
+      },
+      {
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AFSCME COUNCIL 13",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Protecting Prudent Investment of Retirement Savings Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AFSCME COUNCIL 13",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 2,
+    "against_electorate_pct": 50,
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 45.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 61.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

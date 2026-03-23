@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "AK",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/S001198.jpg",
   "serving_since": 2015,
   "years_in_office": 11,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 88,
+    "total_votes_scored": 18,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
+        "bill": "S2073",
+        "date": "2024-07-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "DROPBOX INC PAC",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
+      },
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      },
+      {
+        "vote_description": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
+        "bill": "S1071",
+        "date": "2025-12-17",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on A bill to require the Secretary of Veterans Affairs to disin"
+      },
+      {
+        "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
+        "bill": "HR4346",
+        "date": "2022-07-27",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "DROPBOX INC PAC",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on A bill making appropriations for Legislative Branch for the "
+      },
+      {
+        "vote_description": "A joint resolution to provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers' Conference Committee of the National Railway Labor Conference and certain of their employees.",
+        "bill": "HJRES100",
+        "date": "2022-12-01",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A joint resolution to provide for a resolution with respect "
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 83.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 56.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 16.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 50.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 55.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 55.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

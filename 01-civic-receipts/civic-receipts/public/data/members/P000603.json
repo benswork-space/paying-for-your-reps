@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "KY",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/P000603.jpg",
   "serving_since": 2011,
   "years_in_office": 15,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 50,
+    "total_votes_scored": 6,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to address behavioral health and well-being among health care professionals.",
+        "bill": "S610",
+        "date": "2021-12-09",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (PCMA PAC)",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on A bill to address behavioral health and well-being among hea"
+      },
+      {
+        "vote_description": "A concurrent resolution providing for a correction in the enrollment of H.J. Res. 100.",
+        "bill": "HCONRES119",
+        "date": "2022-12-01",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INDEPENDENT PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE (IPAC)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on A concurrent resolution providing for a correction in the en"
+      },
+      {
+        "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
+        "bill": "HR4346",
+        "date": "2022-07-27",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Nay on A bill making appropriations for Legislative Branch for the "
+      },
+      {
+        "vote_description": "A bill to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.",
+        "bill": "HR3967",
+        "date": "2022-06-16",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (PCMA PAC)",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on A bill to improve health care and benefits for veterans expo"
+      },
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "INDEPENDENT PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE (IPAC)",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 50,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 89.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 45.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 23.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 56.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 64.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 59.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

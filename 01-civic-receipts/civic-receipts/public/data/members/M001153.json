@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "AK",
   "district": null,
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001153.jpg",
   "serving_since": 2003,
   "years_in_office": 23,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 95,
+    "total_votes_scored": 26,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      },
+      {
+        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+        "bill": "HR5371",
+        "date": "2025-09-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on A bill making continuing appropriations and extensions for f"
+      },
+      {
+        "vote_description": "A joint resolution to provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers' Conference Committee of the National Railway Labor Conference and certain of their employees.",
+        "bill": "HJRES100",
+        "date": "2022-12-01",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A joint resolution to provide for a resolution with respect "
+      },
+      {
+        "vote_description": "A concurrent resolution providing for a correction in the enrollment of H.J. Res. 100.",
+        "bill": "HCONRES119",
+        "date": "2022-12-01",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on A concurrent resolution providing for a correction in the en"
+      },
+      {
+        "vote_description": "A bill to amend section 1115 of title 31, United States Code, to amend the description of how performance goals are achieved, and for other purposes.",
+        "bill": "HR2617",
+        "date": "2022-12-22",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on A bill to amend section 1115 of title 31, United States Code"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 83,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 83.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 56.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 16.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 50.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 55.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 55.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

@@ -5,13 +5,41 @@
   "chamber": "house",
   "state": "OH",
   "district": "7",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001222.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 476225,
+    "campaign_raised": 476225,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 167153,
+        "donors": []
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 142550,
+        "donors": []
+      }
+    ],
+    "campaign": {
+      "committee_id": "",
+      "total_raised": 476225,
+      "individual_contributions": 167153,
+      "individual_itemized": 113266,
+      "individual_unitemized": 53887,
+      "pac_contributions": 142550,
+      "other_receipts": 166522,
+      "top_employers": [],
+      "top_pac_donors": []
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
     "overall_pct": 0,
@@ -20,9 +48,26 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 2,
+    "against_electorate_pct": 50,
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 50.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 64.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

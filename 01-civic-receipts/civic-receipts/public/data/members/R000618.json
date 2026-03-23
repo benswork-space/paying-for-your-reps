@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "NE",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/R000618.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
@@ -14,15 +15,89 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 54,
+    "total_votes_scored": 4,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
+        "bill": "S2073",
+        "date": "2024-07-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
+      },
+      {
+        "vote_description": "A resolution supporting the observation of National Trafficking and Modern Slavery Prevention Month during the period beginning on January 1, 2023, and ending on February 1, 2023, to raise awareness of, and opposition to, human trafficking and modern slavery.",
+        "bill": "SRES21",
+        "date": "2023-02-01",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on A resolution supporting the observation of National Traffick"
+      },
+      {
+        "vote_description": "A resolution raising awareness and encouraging the prevention of stalking by designating January 2023 as \"National Stalking Awareness Month\".",
+        "bill": "SRES13",
+        "date": "2023-01-26",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on A resolution raising awareness and encouraging the preventio"
+      },
+      {
+        "vote_description": "A bill to amend the Disaster Relief Supplemental Appropriations Act, 2023 to improve disaster relief funding for agricultural producers, and for other purposes.",
+        "bill": "HR662",
+        "date": "2023-11-01",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on A bill to amend the Disaster Relief Supplemental Appropriati"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 4,
+    "against_electorate_pct": 75,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 88.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 56.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 66.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 65.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

@@ -1,0 +1,781 @@
+{
+  "bioguide_id": "C001129",
+  "fec_candidate_id": "H4GA10071",
+  "fec_committee_id": "C00544684",
+  "cycle": 2024,
+  "totals": {
+    "total_raised": 1713411,
+    "total_spent": 1313288,
+    "individual_contributions": 1233349,
+    "individual_itemized": 537044,
+    "individual_unitemized": 696305,
+    "pac_contributions": 371350,
+    "other_receipts": 108712,
+    "cash_on_hand": 597195
+  },
+  "campaign_pac_contributors": [
+    {
+      "name": "COLLINS VICTORY COMMITTEE",
+      "total": 953082.9999999992,
+      "count": 110
+    },
+    {
+      "name": "WINRED",
+      "total": 598413.9999999995,
+      "count": 160
+    },
+    {
+      "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+      "total": 100000.0,
+      "count": 30
+    },
+    {
+      "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "THE HOME DEPOT INC. PAC",
+      "total": 100000.0,
+      "count": 30
+    },
+    {
+      "name": "GEORGIA POWER COMPANY FEDERAL PAC",
+      "total": 75000.0,
+      "count": 30
+    },
+    {
+      "name": "BUILD PAC OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+      "total": 70000.0,
+      "count": 20
+    },
+    {
+      "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+      "total": 55000.0,
+      "count": 20
+    },
+    {
+      "name": "THE EYE OF THE TIGER PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "GEORGIA MINING ASSOCIATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "UBS AMERICAS INC. PAC (UBS PAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "KOCH INDUSTRIES, INC. PAC (KOCHPAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "HUCK PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. PAC (ABC PAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN REVIVAL PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "UNITED PARCEL SERVICE INC. PAC",
+      "total": 50000.0,
+      "count": 20
+    },
+    {
+      "name": "THE COCA-COLA COMPANY NONPARTISAN COMMITTEE FOR GOOD GOVERNMENT",
+      "total": 50000.0,
+      "count": 20
+    },
+    {
+      "name": "SOUTHERN COMPANY GAS EMPLOYEES PAC",
+      "total": 50000.0,
+      "count": 20
+    },
+    {
+      "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC (SWAPA PAC)",
+      "total": 50000.0,
+      "count": 20
+    },
+    {
+      "name": "NATIONAL APARTMENT ASSOCIATION PAC",
+      "total": 50000.0,
+      "count": 20
+    },
+    {
+      "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+      "total": 50000.0,
+      "count": 20
+    },
+    {
+      "name": "CALPORTLAND COMPANY PAC (CALPORTLANDPAC)",
+      "total": 50000.0,
+      "count": 20
+    },
+    {
+      "name": "TRANSPORTATION INTERMEDIARIES ASSOCIATION'S TIAPAC",
+      "total": 50000.0,
+      "count": 20
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+      "total": 40000.0,
+      "count": 10
+    },
+    {
+      "name": "ALLIED PILOTS ASSOCIATION PAC",
+      "total": 35000.0,
+      "count": 10
+    },
+    {
+      "name": "WILHELM LLC",
+      "total": 33000.0,
+      "count": 10
+    },
+    {
+      "name": "THE HAMRICK FIRM",
+      "total": 33000.0,
+      "count": 10
+    },
+    {
+      "name": "HARDMAN, JAMES D",
+      "total": 33000.0,
+      "count": 10
+    },
+    {
+      "name": "PIT CREW PAC",
+      "total": 33000.0,
+      "count": 10
+    },
+    {
+      "name": "MAINTAINING AMERICAN COMPETITIVENESS PAC",
+      "total": 33000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
+      "total": 30000.0,
+      "count": 10
+    },
+    {
+      "name": "TRANSPORTATION TRUST FUND",
+      "total": 29760.0,
+      "count": 10
+    },
+    {
+      "name": "WEYERHAEUSER COMPANY PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "UNITED HEALTH SERVICES PAC, INC.",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "UNITED EGG ASSOCIATION EGGPAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS FEDERAL PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL CHICKEN COUNCIL PAC (FKA) NATIONAL BROILER COUNCIL PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL ALLIANCE OF FOREST OWNERS PAC (NAFO PAC)",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "CRH AMERICAS, INC. PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "AIR LINE PILOTS ASSOCIATION PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "TAKEDA PHARMACEUTICALS AMERICA INC. PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "DELTA AIR LINES PAC",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "VAUGHN, MCKENZIE",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "THE LOOSE GROUP",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "GENERAL DYNAMICS CORPORATION PAC (GENERAL DYNAMICS EMPLOYEE PAC)",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "THE RIGHT GROUP",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "BAPS PUBLIC AFFAIRS, INC. PAC (BAPS PAC)",
+      "total": 25000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+      "total": 25000.0,
+      "count": 10
+    }
+  ],
+  "campaign_top_employers": [
+    {
+      "name": "HANNA CAPITAL",
+      "total": 9900,
+      "count": 3
+    },
+    {
+      "name": "JACKSON EMC",
+      "total": 7950,
+      "count": 16
+    },
+    {
+      "name": "J  M TANK LINES, INC.",
+      "total": 6600,
+      "count": 10
+    },
+    {
+      "name": "BOSWELL OIL COMPANY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "RAC PROPERTIES",
+      "total": 6600,
+      "count": 5
+    },
+    {
+      "name": "GEORGIA CROWN DISTRIBUTING",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "VOLUME TRANSPORTATION INC.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SANDERSVILLE RAILROAD",
+      "total": 6000,
+      "count": 3
+    },
+    {
+      "name": "KEYCORP FINANCIAL, INC",
+      "total": 6000,
+      "count": 3
+    },
+    {
+      "name": "EMBRY TRANSPORTATION INC",
+      "total": 6000,
+      "count": 3
+    },
+    {
+      "name": "BELLAMY STRICKLAND",
+      "total": 6000,
+      "count": 4
+    },
+    {
+      "name": "ALLAN VIGIL FORD LINCOLN",
+      "total": 5800,
+      "count": 2
+    },
+    {
+      "name": "PILOT COMPANY AND CLEVELAND BROWNS",
+      "total": 5600,
+      "count": 2
+    },
+    {
+      "name": "RIVR MEDIA",
+      "total": 5600,
+      "count": 2
+    },
+    {
+      "name": "STEPHENS HOLDINGS",
+      "total": 5500,
+      "count": 3
+    },
+    {
+      "name": "TREMCO",
+      "total": 5042,
+      "count": 35
+    },
+    {
+      "name": "PENNINGTON SEED",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "JIGRJ INC",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "GLOBAL HOTEL MANAGEMENT",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "ULM CORPORATION",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "RELIANT HOMES",
+      "total": 4500,
+      "count": 3
+    },
+    {
+      "name": "GAY OIL COMPANY",
+      "total": 4275,
+      "count": 9
+    },
+    {
+      "name": "LEON FARMER & COMPANY",
+      "total": 3305,
+      "count": 2
+    },
+    {
+      "name": "F.W. TRANSPORTATION INC",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "BARNETT SOUTHERN CORP",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "BRENT SCARBROUGH  COMPANY",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "COWLES CLINIC",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "TRUCKS INC.",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "BUTLER CARS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "BENNETT FAMILY OF COMPANIES",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "WAFFLE HOUSE INC.",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "J&M TANK LINES, INC",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "TRUCKS, INC",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "THE HAMRICK FIRM",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "FULCRUM EQUITY PARTNERS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "ARCILLA MINING",
+      "total": 3300,
+      "count": 3
+    },
+    {
+      "name": "COURIER EXPRESS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "STATE OF GA",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "B-H TRANSFER CO.",
+      "total": 3000,
+      "count": 3
+    },
+    {
+      "name": "PEACH STATE FEDERAL CREDIT UNION",
+      "total": 2900,
+      "count": 1
+    },
+    {
+      "name": "F&W TRANSPORTATION",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "THE ADSMITH",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "MASSANA CONSTRUCTION, INC",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "J. GEYER ADVERTISING",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "BURTON + BURTON",
+      "total": 2500,
+      "count": 2
+    },
+    {
+      "name": "HERBERT HOMES",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "NORTHEAST SALES",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "MILITARY MINISTRY OF CRU",
+      "total": 2083,
+      "count": 11
+    },
+    {
+      "name": "TAUBEINVESTMENTS, INC",
+      "total": 2000,
+      "count": 6
+    },
+    {
+      "name": "LAD LOSISTIES, INC.",
+      "total": 2000,
+      "count": 2
+    },
+    {
+      "name": "NORTHSIDE HOSPITAL",
+      "total": 2000,
+      "count": 1
+    },
+    {
+      "name": "NDC",
+      "total": 2000,
+      "count": 1
+    },
+    {
+      "name": "LI-WAY  TRANSFER",
+      "total": 2000,
+      "count": 2
+    },
+    {
+      "name": "GEORGIA MINING ASSOCIATION",
+      "total": 2000,
+      "count": 3
+    },
+    {
+      "name": "APOLLO FIRE",
+      "total": 1922,
+      "count": 1
+    },
+    {
+      "name": "NEXTRAN CORPORATION",
+      "total": 1769,
+      "count": 1
+    },
+    {
+      "name": "SAVELL  WILLIAMS, LLP",
+      "total": 1769,
+      "count": 1
+    },
+    {
+      "name": "FOWLER FLEMISTER",
+      "total": 1769,
+      "count": 1
+    },
+    {
+      "name": "PARAGON CONSULTING GROUP",
+      "total": 1700,
+      "count": 1
+    },
+    {
+      "name": "LANDMARK PROPERTIES",
+      "total": 1700,
+      "count": 1
+    },
+    {
+      "name": "NEXTRAN TRUCK CENTERS",
+      "total": 1665,
+      "count": 13
+    },
+    {
+      "name": "HEYWARD ALLEN CADILLAC GMC TOYOTA",
+      "total": 1561,
+      "count": 1
+    },
+    {
+      "name": "TAUBE INVESTMENTS, INC",
+      "total": 1510,
+      "count": 4
+    },
+    {
+      "name": "HOWARD SHEPPARD, INC",
+      "total": 1500,
+      "count": 2
+    },
+    {
+      "name": "PETERBILT OF ATL",
+      "total": 1500,
+      "count": 1
+    },
+    {
+      "name": "QUARTERMAN HODSON TRIPLETT & LEACH PC",
+      "total": 1500,
+      "count": 1
+    },
+    {
+      "name": "RBW GROUP",
+      "total": 1500,
+      "count": 2
+    },
+    {
+      "name": "LAMBERT SAND AND GRAVEL",
+      "total": 1500,
+      "count": 1
+    },
+    {
+      "name": "KLC",
+      "total": 1500,
+      "count": 3
+    },
+    {
+      "name": "POMEROY LAND",
+      "total": 1346,
+      "count": 63
+    },
+    {
+      "name": "BUILDING SPECIALTIES, CO.",
+      "total": 1300,
+      "count": 1
+    },
+    {
+      "name": "ELBERTON GRANITE ASSOCIATION",
+      "total": 1151,
+      "count": 1
+    },
+    {
+      "name": "OMEGA ELECTRIC",
+      "total": 1041,
+      "count": 1
+    },
+    {
+      "name": "HEYWARD ALLEN",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "JOE TANNER AND ASSOCIATES",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "SOUTHERN FLAIR REALTY INC",
+      "total": 1000,
+      "count": 2
+    },
+    {
+      "name": "VERIDA INC",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "CBRE",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "AXON",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "SCOTT PROPERTIES & REALTY, INC",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "MATTHEWS INTERNATIONAL",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "BRAND PROPERTIES LLC",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "NAVIGATORS GLOBAL LLC",
+      "total": 1000,
+      "count": 2
+    },
+    {
+      "name": "GMTA",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "SOUTHEAST TRAILER MART",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "PLANT IMROVEMENT COMPANY, INC.",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "SOUTHEASTERN FREIGHT LINES",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "SOUTHEASTERN MINERALS, INC.",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "SYNERGY55",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "TIBER CREEK GROUP",
+      "total": 1000,
+      "count": 2
+    },
+    {
+      "name": "N L CARGO INC",
+      "total": 924,
+      "count": 15
+    },
+    {
+      "name": "BROOKDALE SENIOR LIVING",
+      "total": 900,
+      "count": 9
+    },
+    {
+      "name": "CASSIDY AND ASSOCIATES",
+      "total": 750,
+      "count": 2
+    },
+    {
+      "name": "R2 RESTAURANTS, INC.",
+      "total": 728,
+      "count": 7
+    },
+    {
+      "name": "SJC INC",
+      "total": 715,
+      "count": 18
+    }
+  ],
+  "leadership_pacs": []
+}

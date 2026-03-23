@@ -5,24 +5,1062 @@
   "chamber": "house",
   "state": "MI",
   "district": "1",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/B001301.jpg",
   "serving_since": 2017,
   "years_in_office": 9,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 2016388,
+    "campaign_raised": 2016388,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 645797,
+        "donors": [
+          {
+            "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+            "type": "Organization",
+            "amount": 87083
+          },
+          {
+            "name": "ART MORAN BUICK GMC",
+            "type": "Organization",
+            "amount": 33350
+          },
+          {
+            "name": "MIT45",
+            "type": "Organization",
+            "amount": 31800
+          },
+          {
+            "name": "THE RICH DAD COMPANY",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "ZURICH",
+            "type": "Organization",
+            "amount": 12900
+          },
+          {
+            "name": "CHARLES SCHWAB CORP",
+            "type": "Organization",
+            "amount": 11850
+          },
+          {
+            "name": "ORACLE",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "ATLANTICUS",
+            "type": "Organization",
+            "amount": 8550
+          },
+          {
+            "name": "CENTRAL MANAGEMENT COMPANY LLC",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "KOLL LLC",
+            "type": "Organization",
+            "amount": 7271
+          },
+          {
+            "name": "VETERANS GUARDIAN",
+            "type": "Organization",
+            "amount": 7100
+          },
+          {
+            "name": "CARDIAC SURGERY ASSOCIATES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "IMMUNOMEDICS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "DURANDAL INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "REEF OIL & GAS LP",
+            "type": "Organization",
+            "amount": 6600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 713990,
+        "donors": [
+          {
+            "name": "THE BERGMAN VICTORY COMMITTEE",
+            "type": "PAC",
+            "amount": 3210571
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 191824
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+            "type": "PAC",
+            "amount": 166380
+          },
+          {
+            "name": "ORACLE AMERICA INC. PAC (ORACLE PAC)",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC (SWAPA PAC)",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PA",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NATIONAL PROPANE GAS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "LEONARDO DRS PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "KRATOS DEFENSE & SECURITY SOLUTIONS INC. POLITICAL ACTION C",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "HOUSE CONSERVATIVES FUND",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "DIRECT MAIL FUNDRAISING LLC",
+            "type": "PAC",
+            "amount": 46368
+          },
+          {
+            "name": "AMERICAN OPTOMETRIC ASSOC. PAC (AOA PAC)",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC - USAA E",
+            "type": "PAC",
+            "amount": 37500
+          },
+          {
+            "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00614214",
+      "total_raised": 2016388,
+      "individual_contributions": 645797,
+      "individual_itemized": 430124,
+      "individual_unitemized": 215673,
+      "pac_contributions": 713990,
+      "other_receipts": 656601,
+      "top_employers": [
+        {
+          "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+          "type": "Organization",
+          "amount": 87083
+        },
+        {
+          "name": "ART MORAN BUICK GMC",
+          "type": "Organization",
+          "amount": 33350
+        },
+        {
+          "name": "MIT45",
+          "type": "Organization",
+          "amount": 31800
+        },
+        {
+          "name": "THE RICH DAD COMPANY",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "ZURICH",
+          "type": "Organization",
+          "amount": 12900
+        },
+        {
+          "name": "CHARLES SCHWAB CORP",
+          "type": "Organization",
+          "amount": 11850
+        },
+        {
+          "name": "ORACLE",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "ATLANTICUS",
+          "type": "Organization",
+          "amount": 8550
+        },
+        {
+          "name": "CENTRAL MANAGEMENT COMPANY LLC",
+          "type": "Organization",
+          "amount": 8300
+        },
+        {
+          "name": "KOLL LLC",
+          "type": "Organization",
+          "amount": 7271
+        },
+        {
+          "name": "VETERANS GUARDIAN",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "CARDIAC SURGERY ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "IMMUNOMEDICS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DURANDAL INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "REEF OIL & GAS LP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VETERANS GUARDIAN VA CLAIM CONSULTING",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GLOBAL TAX CONSULTING PLLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MILLER ENERGY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WEST BAY BEACH RESORT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PROFILE FILMS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MUSKEGON OPERATING COMPANY LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MCKINLEY ASSOCIATES INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "L. E. JONES CO.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DRESNER DESIGNS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CAIDAN LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ANDURIL INDUSTRIES INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ORO CAPITAL ADVISORS",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "BOTANAWAY INC",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "KLS",
+          "type": "Organization",
+          "amount": 5995
+        },
+        {
+          "name": "GREGORY LUNNY PLLC",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "STRATEGIC COMMUNICATION SOLUTIONS LLC",
+          "type": "Organization",
+          "amount": 4600
+        },
+        {
+          "name": "KONGSBERG PROTECH SYSTEMS USA",
+          "type": "Organization",
+          "amount": 4025
+        },
+        {
+          "name": "BLUESTONE STRATEGIES",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "KJJ LLC",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "IRON RINGS HOLDINGS",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "WODA COOPER COMPANIES",
+          "type": "Organization",
+          "amount": 3900
+        },
+        {
+          "name": "NAVIGATORS GLOBAL",
+          "type": "Organization",
+          "amount": 3900
+        },
+        {
+          "name": "AFFORDABLE",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "RICELAND HEALTHCARE",
+          "type": "Organization",
+          "amount": 3301
+        },
+        {
+          "name": "WINGS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ROCK MANAGEMENT/HERITAGE SUST. ENERGY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KIRKLAND  ELLIS LLP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MORGAN 6",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HARVEY GULF INTL MARINE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "J.A. GREEN  CO.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "WOODVINE GROUP LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "WINGS MEDICAL INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AMERILODGE GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "COMFORT KEEPERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "O'BRIEN GENTRY & SCOTT LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ROCKET MORTGAGE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LYONS CAPITAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "UP HEALTH SYSTEM",
+          "type": "Organization",
+          "amount": 3200
+        },
+        {
+          "name": "DD MACHINERY  SALES INC.",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "ROCKFORD ANESTHESIOLOGISTS",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "HOWE MARINE",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "MED CLAIMS COMPLIANCE CORPORATION",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "SAGOLA HARDWOODS",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "MDC HOLDINGS",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "MICHIGAN RESEARCH INSTITUTE",
+          "type": "Organization",
+          "amount": 2825
+        },
+        {
+          "name": "ASCENSION MED GROUP",
+          "type": "Organization",
+          "amount": 2560
+        },
+        {
+          "name": "FINCH PAOLINO LLC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "CSI AVIATION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "BOYNE VALLEY VINEYARDS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ORACLE CORPORATION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "BEST BEST AND KRIEGER LLP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ORTHOPAEDIC ASSOCIATES INC.",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "GREENBERG TRAURIG LLP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ATLAS AIR WORLDWIDE",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "LAKE STATE RAILWAY COMPANY",
+          "type": "Organization",
+          "amount": 2400
+        },
+        {
+          "name": "WTCM",
+          "type": "Organization",
+          "amount": 2400
+        },
+        {
+          "name": "O'BRIEN GENTRY  SCOTT LLC",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "THOMPSON PHARMACY",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "MILLER INVESTMENT COMPANY",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "NAVIGATORS GLOBAL LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "CROSS POTOMAC CONSULTING",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "NATCO PRODUCTS CORP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "DRIP DROP DISTRO",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "YOUNG ISRAEL OF BEVERLY HILLS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ROBERT LAW",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PUBLIC AFFAIRS ASSOCIATES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PETOSKEY PLASTICS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "HIGH POINTE GOLF CLUB",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ERVIN GRAVES STRATEGY GROUP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "KLINE ASSOCIATES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "BLARNEY CASTLE OIL",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "ECS",
+          "type": "Organization",
+          "amount": 1541
+        },
+        {
+          "name": "NIGHT LION SECURITY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CSIS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "NEBEL & NEBEL",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "WILLIAMS  COMPANY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "LILLY BROADCASTING LLC",
+          "type": "Organization",
+          "amount": 1400
+        },
+        {
+          "name": "BARAGA TELEPHONE COMPANY",
+          "type": "Organization",
+          "amount": 1400
+        },
+        {
+          "name": "GIBSON DUNN",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "NORTH CENTRAL MICHIGAN COLLEGE",
+          "type": "Organization",
+          "amount": 1250
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "THE BERGMAN VICTORY COMMITTEE",
+          "type": "PAC",
+          "amount": 3210571
+        },
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 191824
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+          "type": "PAC",
+          "amount": 166380
+        },
+        {
+          "name": "ORACLE AMERICA INC. PAC (ORACLE PAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC (SWAPA PAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PA",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL PROPANE GAS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "LEONARDO DRS PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "KRATOS DEFENSE & SECURITY SOLUTIONS INC. POLITICAL ACTION C",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "HOUSE CONSERVATIVES FUND",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DIRECT MAIL FUNDRAISING LLC",
+          "type": "PAC",
+          "amount": 46368
+        },
+        {
+          "name": "AMERICAN OPTOMETRIC ASSOC. PAC (AOA PAC)",
+          "type": "PAC",
+          "amount": 37500
+        },
+        {
+          "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC - USAA E",
+          "type": "PAC",
+          "amount": 37500
+        },
+        {
+          "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "MILLER ENERGY COMPANY LLC",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "DELTA AIR LINES PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "LEIDOS INC. PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "DEFEND OUR CONSERVATIVE SENATE PAC (DOC'S PAC)",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "NORMAN PESTKA CONSTRUCTION INC.",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGAT",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "406 PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "TOYOTA MOTOR NORTH AMERICA INC PAC (TOYOTA/LEXUS PAC)",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN SUGAR CANE LEAGUE OF USA INC PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "JOBS FREEDOM AND SECURITY PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIA",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "WISCONSIN PHYSICIANS SERVICE INSURANCE CORPORATION PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "MISSION FIRST PEOPLE ALWAYS PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "MICHIGAN VALUES PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "ANN PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL AC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS PAC (ASA PAC)",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "CUBIC CORPORATION EMPLOYEES' PAC",
+          "type": "PAC",
+          "amount": 22500
+        },
+        {
+          "name": "TURKISH COALITON USA PAC",
+          "type": "PAC",
+          "amount": 21500
+        },
+        {
+          "name": "MICHIGAN SUGAR COMPANY GROWERS PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "MACKINAC ISLAND TOURISM BUREAU PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL COALITION OF TURKISH AMERICAN WOMEN'S PAC",
+          "type": "PAC",
+          "amount": 18500
+        },
+        {
+          "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA INC. POLITICAL ACTI",
+          "type": "PAC",
+          "amount": 18203
+        },
+        {
+          "name": "LOCKHEED MARTIN EMPLOYEES PAC",
+          "type": "PAC",
+          "amount": 17500
+        },
+        {
+          "name": "CMS ENERGY CORPORATION EMPLOYEES FOR BETTER GOVT",
+          "type": "PAC",
+          "amount": 17500
+        },
+        {
+          "name": "UPSTATE SC PAC",
+          "type": "PAC",
+          "amount": 16500
+        },
+        {
+          "name": "AT&T INC. FEDERAL POLITICAL ACTION COMMITTEE (AT&T FEDERAL P",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "JOHNSON & JOHNSON PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "GENERAL DYNAMICS CORPORATION PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "WEYERHAEUSER COMPANY PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "WEC ENERGY GROUP PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "THE NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION ACTION COMMITTEE FOR RURAL E",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "LAND OF OPPORTUNITY PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN DENTAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF ORAL AND MAXILLOFACIAL SURGEONS PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "ALTICOR POLITICAL ACTION COMMITTEE ALTIPAC",
+          "type": "PAC",
+          "amount": 12500
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 94,
+    "total_votes_scored": 157,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "To require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes",
+        "bill": "S1071",
+        "date": "2025-12-10",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on To require the Secretary of Veterans Affairs to disinter the"
+      },
+      {
+        "vote_description": "DUMP Red Tape Act",
+        "bill": "HR4305",
+        "date": "2025-12-03",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "ORACLE AMERICA INC. PAC (ORACLE PAC)",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on DUMP Red Tape Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "TURKISH COALITON USA PAC",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Syria",
+        "bill": "HCONRES21",
+        "date": "2023-03-08",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on Directing the President, pursuant to section 5(c) of the War"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 57.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 57.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 65.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

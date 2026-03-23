@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "TX",
   "district": "35",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/C001131.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
@@ -14,15 +15,83 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 79,
+    "total_votes_scored": 20,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "American Entrepreneurs First Act",
+        "bill": "HR2966",
+        "date": "2025-06-06",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on American Entrepreneurs First Act"
+      },
+      {
+        "vote_description": "Protect America\u2019s Workforce Act",
+        "bill": "HR2550",
+        "date": "2025-12-11",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Protect America\u2019s Workforce Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 2,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 63.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 69.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

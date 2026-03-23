@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "CA",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/S001150.jpg",
   "serving_since": 2001,
   "years_in_office": 25,
@@ -1678,81 +1679,71 @@
     ]
   },
   "donor_alignment": {
-    "overall_pct": 59,
-    "total_votes_scored": 70,
+    "overall_pct": 80,
+    "total_votes_scored": 113,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "To rescind certain amounts appropriated for U.S. Immigration and Customs Enforcement and certain changes to Medicaid.",
-        "industry": "(Healthcare)",
-        "industry_preferred": "Yea",
-        "member_voted": "Yea",
+        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+        "bill": "HR5371",
+        "date": "2025-09-30",
+        "member_voted": "Nay",
         "aligned": true,
-        "date": "2026-01-30",
-        "bill_url": "",
-        "donors": [
-          "AMERICAN MEDICAL ASSOCIATION PAC ($50,000)"
-        ]
+        "donor_name": "AMALGAMATED BANK",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on A bill making continuing appropriations and extensions for f"
       },
       {
-        "vote_description": "A bill to amend the Internal Revenue Code of 1986 to extend the enhancement of the health care premium tax credit.",
-        "industry": "(Healthcare)",
-        "industry_preferred": "Yea",
+        "vote_description": "Providing for a correction in the enrollment of H.J. Res. 100",
+        "bill": "HCONRES119",
+        "date": "2022-11-30",
         "member_voted": "Yea",
         "aligned": true,
-        "date": "2025-12-11",
-        "bill_url": "",
-        "donors": [
-          "AMERICAN MEDICAL ASSOCIATION PAC ($50,000)"
-        ]
+        "donor_name": "NARFE--NATIONAL ASSOCIATION OF RETIRED FEDERAL EMP",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Providing for a correction in the enrollment of H.J. Res. 10"
       },
       {
-        "vote_description": "To limit the provision of support by the Armed Forces to civilian law enforcement activities.",
-        "industry": "(Defense)",
-        "industry_preferred": "Yea",
+        "vote_description": "Emergency Housing Protections and Relief Act",
+        "bill": "HR7301",
+        "date": "2020-06-29",
         "member_voted": "Yea",
         "aligned": true,
-        "date": "2025-10-09",
-        "bill_url": "",
-        "donors": [
-          "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE ($50,000)"
-        ]
+        "donor_name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea on Emergency Housing Protections and Relief Act"
       },
       {
-        "vote_description": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against Venezuela that have not been authorized by Congress.",
-        "industry": "(Defense)",
-        "industry_preferred": "Yea",
+        "vote_description": "Meat and Poultry Special Investigator Act",
+        "bill": "HR7606",
+        "date": "2022-06-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Meat and Poultry Special Investigator Act"
+      },
+      {
+        "vote_description": "A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
+        "bill": "HR4",
+        "date": "2025-07-17",
         "member_voted": "Nay",
         "aligned": false,
-        "date": "2026-01-14",
-        "bill_url": "",
-        "donors": [
-          "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE ($50,000)"
-        ]
-      },
-      {
-        "vote_description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare &#38; Medicaid Services relating to \"Patient Protection and Affordable Care Act; Market Integrity and Affordability\".",
-        "industry": "(Healthcare)",
-        "industry_preferred": "Nay",
-        "member_voted": "Yea",
-        "aligned": false,
-        "date": "2026-01-13",
-        "bill_url": "",
-        "donors": [
-          "AMERICAN MEDICAL ASSOCIATION PAC ($50,000)"
-        ]
+        "donor_name": "AMALGAMATED BANK",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on A bill to rescind certain budget authority proposed to be re"
       }
     ]
   },
   "electorate_alignment": {
     "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "against_electorate_pct": 17,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
         "district_support_pct": 90.6,
         "margin_of_error": 7,
-        "member_position": "Voted Yea, with district",
+        "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
@@ -1760,7 +1751,7 @@
         "issue": "Ban on assault-style weapons",
         "district_support_pct": 69.5,
         "margin_of_error": 7,
-        "member_position": "Voted Yea, with district",
+        "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
@@ -1768,7 +1759,7 @@
         "issue": "Abortion should always be legal",
         "district_support_pct": 69.5,
         "margin_of_error": 7,
-        "member_position": "Voted Nay, with district",
+        "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
@@ -1776,7 +1767,7 @@
         "issue": "Support the Affordable Care Act",
         "district_support_pct": 64.5,
         "margin_of_error": 7,
-        "member_position": "Voted Nay, with district",
+        "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
@@ -1784,7 +1775,7 @@
         "issue": "Regulate CO2 as a pollutant",
         "district_support_pct": 70.8,
         "margin_of_error": 7,
-        "member_position": "Voted Nay, with district",
+        "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
@@ -1792,18 +1783,16 @@
         "issue": "Require minimum renewable fuel production",
         "district_support_pct": 69.3,
         "margin_of_error": 7,
-        "member_position": "Voted Nay, with district",
-        "aligned_with_electorate": true,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],
-    "against_electorate_with_donors": [],
-    "methodology": "MRP on CES 2018-2021 survey data (164,700 respondents)"
+    "against_electorate_with_donors": []
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/adam-b-schiff/S001150",
     "opensecrets": "https://www.opensecrets.org/members-of-congress/summary?cid=N00009585",
     "official_website": "https://www.schiff.senate.gov"
-  },
-  "gender": "M"
+  }
 }

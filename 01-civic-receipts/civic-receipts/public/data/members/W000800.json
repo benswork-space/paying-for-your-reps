@@ -5,24 +5,606 @@
   "chamber": "senate",
   "state": "VT",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/W000800.jpg",
   "serving_since": 2007,
   "years_in_office": 19,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 330882,
+    "campaign_raised": 330882,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 67398,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 9245
+          },
+          {
+            "name": "THE OLD MOUNTAIN COMPANY, INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "WEST FRONT STRATEGIES",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "UCAR",
+            "type": "Organization",
+            "amount": 2300
+          },
+          {
+            "name": "MINILEC SERVICE",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "WMC HOLDINGS,INC.",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "FRENCH & CO",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "MACHINE INTELLIGENCE RESEARCH INSTITUT",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "OGILVY GOVERNMENT RELATIONS",
+            "type": "Organization",
+            "amount": 900
+          },
+          {
+            "name": "WMG",
+            "type": "Organization",
+            "amount": 750
+          },
+          {
+            "name": "WARNER MUSIC GROUP CORP.",
+            "type": "Organization",
+            "amount": 750
+          },
+          {
+            "name": "AMERICAN INSTITUTE OF CPAS",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "MARYLAND",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "WINN STRATEGIES LLC",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "WARNER MUSIC GROUP",
+            "type": "Organization",
+            "amount": 500
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 43110,
+        "donors": [
+          {
+            "name": "RAYMOND JAMES",
+            "type": "PAC",
+            "amount": 957982
+          },
+          {
+            "name": "WELCH FOR CONGRESS",
+            "type": "PAC",
+            "amount": 245974
+          },
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 129333
+          },
+          {
+            "name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES, INC. POLITICAL ACTION COMMITTEE (",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "JSTREETPAC",
+            "type": "PAC",
+            "amount": 59400
+          },
+          {
+            "name": "DEMOCRACY ENGINE, INC., PAC",
+            "type": "PAC",
+            "amount": 58800
+          },
+          {
+            "name": "BLUE STATE DIGITAL",
+            "type": "PAC",
+            "amount": 53087
+          },
+          {
+            "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "type": "PAC",
+            "amount": 30000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 30000
+          },
+          {
+            "name": "DRIVE - DEMOCRAT REPUBLICAN INDEPENDENT  VOTER ED.",
+            "type": "PAC",
+            "amount": 30000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF PAINTERS & ALLIED TRADE PAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "SHEET METAL AND AIR CONDITIONING CONTRACTORS PAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY PAC, OPHTHPAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES PAC",
+            "type": "PAC",
+            "amount": 12000
+          },
+          {
+            "name": "AMERICAN AIRLINES",
+            "type": "PAC",
+            "amount": 10020
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00795252",
+      "total_raised": 330882,
+      "individual_contributions": 67398,
+      "individual_itemized": 59402,
+      "individual_unitemized": 7996,
+      "pac_contributions": 43110,
+      "other_receipts": 220374,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 9245
+        },
+        {
+          "name": "THE OLD MOUNTAIN COMPANY, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "WEST FRONT STRATEGIES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "UCAR",
+          "type": "Organization",
+          "amount": 2300
+        },
+        {
+          "name": "MINILEC SERVICE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "WMC HOLDINGS,INC.",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "FRENCH & CO",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MACHINE INTELLIGENCE RESEARCH INSTITUT",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "OGILVY GOVERNMENT RELATIONS",
+          "type": "Organization",
+          "amount": 900
+        },
+        {
+          "name": "WMG",
+          "type": "Organization",
+          "amount": 750
+        },
+        {
+          "name": "WARNER MUSIC GROUP CORP.",
+          "type": "Organization",
+          "amount": 750
+        },
+        {
+          "name": "AMERICAN INSTITUTE OF CPAS",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "MARYLAND",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "WINN STRATEGIES LLC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "WARNER MUSIC GROUP",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "GOOGLE",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "EMPIRE CONSULTING GROUP",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "FEDERAL STREET STRATEGIES",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "THIRD&FAIRFAX MEDIA LLC",
+          "type": "Organization",
+          "amount": 375
+        },
+        {
+          "name": "VERMONT TECHNICAL COLLEGE",
+          "type": "Organization",
+          "amount": 360
+        },
+        {
+          "name": "ITV AMERICA",
+          "type": "Organization",
+          "amount": 300
+        },
+        {
+          "name": "USC",
+          "type": "Organization",
+          "amount": 300
+        },
+        {
+          "name": "ENDEAVOR BIOMEDICINES",
+          "type": "Organization",
+          "amount": 277
+        },
+        {
+          "name": "VSAC",
+          "type": "Organization",
+          "amount": 250
+        },
+        {
+          "name": "LOCKHEED MARTIN",
+          "type": "Organization",
+          "amount": 200
+        },
+        {
+          "name": "TRANSCEND ENGINEERING",
+          "type": "Organization",
+          "amount": 200
+        },
+        {
+          "name": "EMPLOYEE",
+          "type": "Organization",
+          "amount": 90
+        },
+        {
+          "name": "BRAINTREE ELEMENTARY SCHOOL",
+          "type": "Organization",
+          "amount": 60
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "RAYMOND JAMES",
+          "type": "PAC",
+          "amount": 957982
+        },
+        {
+          "name": "WELCH FOR CONGRESS",
+          "type": "PAC",
+          "amount": 245974
+        },
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 129333
+        },
+        {
+          "name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES, INC. POLITICAL ACTION COMMITTEE (",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "JSTREETPAC",
+          "type": "PAC",
+          "amount": 59400
+        },
+        {
+          "name": "DEMOCRACY ENGINE, INC., PAC",
+          "type": "PAC",
+          "amount": 58800
+        },
+        {
+          "name": "BLUE STATE DIGITAL",
+          "type": "PAC",
+          "amount": 53087
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "DRIVE - DEMOCRAT REPUBLICAN INDEPENDENT  VOTER ED.",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS & ALLIED TRADE PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "SHEET METAL AND AIR CONDITIONING CONTRACTORS PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY PAC, OPHTHPAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES PAC",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "AMERICAN AIRLINES",
+          "type": "PAC",
+          "amount": 10020
+        },
+        {
+          "name": "MAIN STREET LANDING COMPANY",
+          "type": "PAC",
+          "amount": 9996
+        },
+        {
+          "name": "BLUE CROSS BLUE SHIELD OF VT",
+          "type": "PAC",
+          "amount": 9334
+        },
+        {
+          "name": "RECORDING INDUSTRY ASSN OF AMERICA",
+          "type": "PAC",
+          "amount": 6660
+        },
+        {
+          "name": "DUNCAN FOR CONGRESS",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "PSYCHOLOGY PAC OF AMERICAN PSYCHOLOGICAL ASSOCIATION SERVICES INC.",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS EMS PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NATIONAL RETAIL FEDERATION RETAILPAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "BRYAN CAVE LLP POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "UNITED FOOD & COMMERCIAL WORKERS ACTIVE BALLOT CLUB",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "TIDELINE",
+          "type": "PAC",
+          "amount": 3405
+        },
+        {
+          "name": "NIXON PEABODY LLP PAC",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "MITROPOULOS, NICHOLAS",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "UNITED AIRLINES",
+          "type": "PAC",
+          "amount": 2143
+        },
+        {
+          "name": "ADP",
+          "type": "PAC",
+          "amount": 1749
+        },
+        {
+          "name": "DSCC",
+          "type": "PAC",
+          "amount": 1508
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 84,
+    "total_votes_scored": 16,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      },
+      {
+        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
+        "bill": "S2073",
+        "date": "2024-07-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "SHEET METAL AND AIR CONDITIONING CONTRACTORS PAC",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
+      },
+      {
+        "vote_description": "Providing for a correction in the enrollment of H.J. Res. 100",
+        "bill": "HCONRES119",
+        "date": "2022-11-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Providing for a correction in the enrollment of H.J. Res. 10"
+      },
+      {
+        "vote_description": "To provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers\u2019 Conference Committee of the National Railway Labor Conference and certain of their employees",
+        "bill": "HJRES100",
+        "date": "2022-11-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on To provide for a resolution with respect to the unresolved d"
+      },
+      {
+        "vote_description": "Susan Muffley Act",
+        "bill": "HR6929",
+        "date": "2022-07-27",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Susan Muffley Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 17,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 88.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 67.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 71.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 66.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 73.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 68.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

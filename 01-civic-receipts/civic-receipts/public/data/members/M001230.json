@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "PA",
   "district": "7",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001230.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
@@ -14,15 +15,75 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 89,
+    "total_votes_scored": 43,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AFSCME WORKING FAMILIES FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Protect Children\u2019s Innocence Act",
+        "bill": "HR3492",
+        "date": "2025-12-17",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AFSCME WORKING FAMILIES FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Protecting Prudent Investment of Retirement Savings Act"
+      },
+      {
+        "vote_description": "Protect America\u2019s Workforce Act",
+        "bill": "HR2550",
+        "date": "2025-12-11",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AFSCME WORKING FAMILIES FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Protect America\u2019s Workforce Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 1,
+    "against_electorate_pct": 100,
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 59.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

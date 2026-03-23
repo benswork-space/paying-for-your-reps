@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "TN",
   "district": null,
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/B001243.jpg",
   "serving_since": 2003,
   "years_in_office": 23,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 81,
+    "total_votes_scored": 41,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.",
+        "bill": "HR3967",
+        "date": "2022-06-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on A bill to improve health care and benefits for veterans expo"
+      },
+      {
+        "vote_description": "A joint resolution joint resolution relating to increasing the debt limit.",
+        "bill": "SJRES33",
+        "date": "2021-12-14",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on A joint resolution joint resolution relating to increasing t"
+      },
+      {
+        "vote_description": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
+        "bill": "S1071",
+        "date": "2025-12-17",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "THE BOEING COMPANY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on A bill to require the Secretary of Veterans Affairs to disin"
+      },
+      {
+        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+        "bill": "HR5371",
+        "date": "2025-09-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "MORGAN STANLEY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on A bill making continuing appropriations and extensions for f"
+      },
+      {
+        "vote_description": "A bill to prohibit the use of funds to implement, administer, or enforce certain rules of the Environmental Protection Agency.",
+        "bill": "S4072",
+        "date": "2024-04-18",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on A bill to prohibit the use of funds to implement, administer"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 50,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 86.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 50.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 22.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 50.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 64.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 58.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

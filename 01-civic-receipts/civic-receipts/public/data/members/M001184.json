@@ -5,24 +5,1348 @@
   "chamber": "house",
   "state": "KY",
   "district": "4",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001184.jpg",
   "serving_since": 2012,
   "years_in_office": 14,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1521192,
+    "campaign_raised": 1349141,
+    "leadership_pac_raised": 172051,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1106684,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 42153
+          },
+          {
+            "name": "Y COMBINATOR",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "THE MORNING STAR COMPANY",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "SIG",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "ANDREESSEN HOROWITZ",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "SAMNICO INC",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "HBK",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "GOOGLE FIBER",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "INDIE LLC",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "RESEARCH AFFILIATES",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "LONE STAR EYE SPECIALISTS",
+            "type": "Organization",
+            "amount": 7500
+          },
+          {
+            "name": "CREST INSURANCE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ORANGE COUNTY ASSOCIATES, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TRUE LEGACY HOMES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HARRISON MEMORIAL HOSPITAL",
+            "type": "Organization",
+            "amount": 6600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 214900,
+        "donors": [
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 68966
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "FREEDOMWORKS VICTORY 2023",
+            "type": "PAC",
+            "amount": 53724
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "BUCKEYE LIBERTY PAC",
+            "type": "PAC",
+            "amount": 28000
+          },
+          {
+            "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+            "type": "PAC",
+            "amount": 28000
+          },
+          {
+            "name": "GREAT AMERICAN COMEBACK",
+            "type": "PAC",
+            "amount": 26800
+          },
+          {
+            "name": "COVINGTON AND BURLING LLP PAC",
+            "type": "PAC",
+            "amount": 24000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+            "type": "PAC",
+            "amount": 24000
+          },
+          {
+            "name": "BNSF RAILWAY COMPANY RAILPAC",
+            "type": "PAC",
+            "amount": 24000
+          },
+          {
+            "name": "MAKE LIBERTY WIN",
+            "type": "PAC",
+            "amount": 21200
+          },
+          {
+            "name": "QUALCOMM INCORPORATED PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES INC PAC - CANDY PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC, PAC - NAGR PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
+            "type": "PAC",
+            "amount": 20000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 172051,
+        "donors": [
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 68966
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "FREEDOMWORKS VICTORY 2023",
+            "type": "PAC",
+            "amount": 53724
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "BUCKEYE LIBERTY PAC",
+            "type": "PAC",
+            "amount": 28000
+          },
+          {
+            "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+            "type": "PAC",
+            "amount": 28000
+          },
+          {
+            "name": "GREAT AMERICAN COMEBACK",
+            "type": "PAC",
+            "amount": 26800
+          },
+          {
+            "name": "COVINGTON AND BURLING LLP PAC",
+            "type": "PAC",
+            "amount": 24000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+            "type": "PAC",
+            "amount": 24000
+          },
+          {
+            "name": "BNSF RAILWAY COMPANY RAILPAC",
+            "type": "PAC",
+            "amount": 24000
+          },
+          {
+            "name": "MAKE LIBERTY WIN",
+            "type": "PAC",
+            "amount": 21200
+          },
+          {
+            "name": "QUALCOMM INCORPORATED PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES INC PAC - CANDY PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC, PAC - NAGR PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
+            "type": "PAC",
+            "amount": 20000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00563429",
+            "name": "MAKING A SENSIBLE SHIFT IN ELECTIONS PAC",
+            "total_raised": 172051,
+            "top_employers": [
+              {
+                "name": "SELF",
+                "type": "Organization",
+                "amount": 11700
+              },
+              {
+                "name": "HBK",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "Y COMBINATOR",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "REGAL FINANCIAL",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "GOOGLE FIBER",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SIG",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "LONE STAR EYE SPECIALISTS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "INDIE LLC",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "RESEARCH AFFILIATES",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "TRUSTGRID",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "EXPOCREDIT",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "THE MORNING STAR COMPANY",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "ANDREESSEN HOROWITZ",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SAMNICO INC",
+                "type": "Organization",
+                "amount": 3400
+              }
+            ],
+            "top_pac_donors": []
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00509729",
+      "total_raised": 1349141,
+      "individual_contributions": 1106684,
+      "individual_itemized": 849586,
+      "individual_unitemized": 257098,
+      "pac_contributions": 214900,
+      "other_receipts": 27557,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 30453
+        },
+        {
+          "name": "CREST INSURANCE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ORANGE COUNTY ASSOCIATES, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TRUE LEGACY HOMES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "Y COMBINATOR",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SAMNICO INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE MORNING STAR COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HARRISON MEMORIAL HOSPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "RIVER",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FORK SAND, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FIGGERS.COM",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MASIMO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LANDMARK CONSOLIDATED",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SIG",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NI",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ANDREESSEN HOROWITZ",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NEW SPARK HOLDINGS, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GRASSHOPPER ESCAPEMENT LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MUHLENKAMP & CO. INC.",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "THE GIBSON GROUP, LLC",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "AVANCI",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "NEXTDOOR INC",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "DEAN ROOF CO",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "OMM",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KEP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GHOST INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FISCHER HOMES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BITSPACE USA INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FOUR SEASONS PRODUCE INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "O'BRIEN AUTOMOTIVE TEAM",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KERRY AUTOMOTIVE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AVIDYNE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PROSPERA",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SULLIVAN & CROMWELL LLP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HBK",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ACG ADVOCACY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HYMEL DAVIS & PETERSEN",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "IRELL & MANELLA LLP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "JJGAMES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "L&N FEDERAL CREDIT UNION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DRYSTONE CAPITAL CORPORATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HLS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GOOGLE FIBER",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KECO",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "INDIE LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ROCKET MONEY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ORANGE COUNTY ASSOCIATES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LYKINS COMPANIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GENERAL DATA COMPANY, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SILENCER SHOP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "RESEARCH AFFILIATES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AGENTIS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ALLOYA CFCU",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "THE PATEL FIRM PLLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LIBERTY GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "GENERATIONS RETINA",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "TELEMEDIA POLICY CORP.",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "SCHNEIDER LAW",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "CHASE INVESTMENT COUNSEL",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "AMERICAN PIONEER INVESTMENTS",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "CADENCE DESIGN SYSTEMS",
+          "type": "Organization",
+          "amount": 2600
+        },
+        {
+          "name": "THE KNIGHT FOUNDATION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "HUFFINES COMMUNITIES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "LONE STAR EYE SPECIALISTS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "DIRECTV",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "LOCKHEED MARTIN",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "PALLAS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "FORWARD THINKING MARKETING",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SOLARI INC",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "DEFENSE CONTRACT MANAGEMENT AGENCY",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "BREAKTHRU BEVERAGE GROUP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MARCONI LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MOBILE TV GROUP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "NOKIA",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MEADOWS BEE FARM",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "INVENTORRIGHTS.COM",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "STC",
+          "type": "Organization",
+          "amount": 1600
+        },
+        {
+          "name": "TEXANS FOR REASONABLE SOLUTIONS",
+          "type": "Organization",
+          "amount": 1600
+        },
+        {
+          "name": "THE SMITH-FREE GROUP",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "AXON",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BEYOND LA PRODUCTIONS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "SARACEN ENERGY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "HAMILTON COUNTY EDUCATION SERVICE CENT",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "L&N FCU",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "FIRST NATIONAL BANK KY",
+          "type": "Organization",
+          "amount": 1350
+        },
+        {
+          "name": "HEAD IN THE CLOUD IT",
+          "type": "Organization",
+          "amount": 1312
+        },
+        {
+          "name": "UM HOLDINGS",
+          "type": "Organization",
+          "amount": 1272
+        },
+        {
+          "name": "HFR",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "CORRYVILLE CATHOLIC ELEMENTARY",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "HEALTHCARE IT",
+          "type": "Organization",
+          "amount": 1200
+        },
+        {
+          "name": "SLP GROUP",
+          "type": "Organization",
+          "amount": 1100
+        },
+        {
+          "name": "JAB CAPITAL MANAGEMENT LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "PAUL DOLD",
+          "type": "Organization",
+          "amount": 1000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 68966
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "FREEDOMWORKS VICTORY 2023",
+          "type": "PAC",
+          "amount": 53724
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "BUCKEYE LIBERTY PAC",
+          "type": "PAC",
+          "amount": 28000
+        },
+        {
+          "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+          "type": "PAC",
+          "amount": 28000
+        },
+        {
+          "name": "GREAT AMERICAN COMEBACK",
+          "type": "PAC",
+          "amount": 26800
+        },
+        {
+          "name": "COVINGTON AND BURLING LLP PAC",
+          "type": "PAC",
+          "amount": 24000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+          "type": "PAC",
+          "amount": 24000
+        },
+        {
+          "name": "BNSF RAILWAY COMPANY RAILPAC",
+          "type": "PAC",
+          "amount": 24000
+        },
+        {
+          "name": "MAKE LIBERTY WIN",
+          "type": "PAC",
+          "amount": 21200
+        },
+        {
+          "name": "QUALCOMM INCORPORATED PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES INC PAC - CANDY PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC, PAC - NAGR PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES PAC - NACSPAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NGA NATIONAL GROCERS ASSOCIATION GROCERS PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC - BANKPAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BROADCASTERS PAC (NABPAC)",
+          "type": "PAC",
+          "amount": 18000
+        },
+        {
+          "name": "MDI IMAGING & MAIL",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "ALLIED PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "NORFOLK SOUTHERN CORPORATION GOOD GOVERNMENT FUND",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "IHEARTMEDIA INC. PAC",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "MASIMO CORPORATION PAC",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "FRIENDS OF MATT GAETZ",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "TRANSPORTATION TRUST FUND",
+          "type": "PAC",
+          "amount": 15333
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF HOME BUILDERS PAC - BUILD PAC",
+          "type": "PAC",
+          "amount": 14000
+        },
+        {
+          "name": "FREE MARKET FUND",
+          "type": "PAC",
+          "amount": 13200
+        },
+        {
+          "name": "TOYOTA MOTOR NORTH AMERICA, INC PAC",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "THE SCHWAN FOOD COMPANY PAC",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "JETBLUE AIRWAYS CORPORATION CREWMEMBER GOOD GOVERNMENT FUND",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ABBVIE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "YELP INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SALEM MEDIA GROUP PAC, INC.",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EXPAND LIBERTY PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AIRCRAFT OWNERS AND PILOTS ASSOCIATION PAC - AOPA PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "ROAD TO VICTORY PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "FREEDOM FIRST PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "CUMMINS INC. PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA PAC - AGC PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "BAKER & HOSTETLER PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "JIM JORDAN FOR CONGRESS",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "FEDEX CORPORATION PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "COME AND TAKE IT PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "EBAY INC-COMMITTEE FOR RESPONSIBLE INTERNET COMMERCE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "FAA MANAGERS ASSOCIATION INC. PAC - FAAMA PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "POSTAGE FOR DIRECT MAIL FUNDRAISING, LLC",
+          "type": "PAC",
+          "amount": 5390
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "LIQUID ENERGY PIPELINE ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "ATLAS AIR WORLDWIDE HOLDINGS, INC. PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "NEXSTAR MEDIA GROUP, INC. PAC (NEXSTAR PAC)",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "HARDWOOD FEDERATION PAC, INC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "GENENTECH INC. PAC (GENENPAC)",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "BROADCAST MUSIC INDUSTRY POLITICAL ACTION COMMITTEE - BMI PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "ASSOCIATION OF AMERICAN RAILROADS PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "AMERICAN COMMERCIAL BARGE LINE PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "THE ASCAP LEGISLATIVE FUND FOR THE ARTS",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "TEXANS FOR LAMAR SMITH",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "SOUTHERN STATES PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "NATIONAL APARTMENT ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "BMI POLITICAL ACTION COMMITTEE - BMI PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "AMERICAN WATERWAYS OPERATORS PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BANKRUPTCY TRUSTEES PAC (NABT PAC)",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "CGCN PAC",
+          "type": "PAC",
+          "amount": 4000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00563429",
+        "name": "MAKING A SENSIBLE SHIFT IN ELECTIONS PAC",
+        "total_raised": 172051,
+        "top_employers": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 11700
+          },
+          {
+            "name": "HBK",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "Y COMBINATOR",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "REGAL FINANCIAL",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "GOOGLE FIBER",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SIG",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "LONE STAR EYE SPECIALISTS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "INDIE LLC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "RESEARCH AFFILIATES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TRUSTGRID",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "EXPOCREDIT",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "THE MORNING STAR COMPANY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ANDREESSEN HOROWITZ",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SAMNICO INC",
+            "type": "Organization",
+            "amount": 3400
+          }
+        ],
+        "top_pac_donors": []
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 80,
+    "total_votes_scored": 63,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Protect Children\u2019s Innocence Act",
+        "bill": "HR3492",
+        "date": "2025-12-17",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+      },
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "ALLIED PILOTS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Kayla Hamilton Act",
+        "bill": "HR4371",
+        "date": "2025-12-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on Kayla Hamilton Act"
+      },
+      {
+        "vote_description": "CLEAN DC Act",
+        "bill": "HR5107",
+        "date": "2025-11-19",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on CLEAN DC Act"
+      },
+      {
+        "vote_description": "To lower the age at which a minor may be tried as an adult for certain criminal offenses in the District of Columbia to 14 years of age",
+        "bill": "HR5140",
+        "date": "2025-09-16",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on To lower the age at which a minor may be tried as an adult f"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 58.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 45.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 59.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

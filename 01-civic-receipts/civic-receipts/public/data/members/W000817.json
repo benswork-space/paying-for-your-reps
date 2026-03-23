@@ -5,24 +5,851 @@
   "chamber": "senate",
   "state": "MA",
   "district": null,
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/W000817.jpg",
   "serving_since": 2013,
   "years_in_office": 13,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 9039537,
+    "campaign_raised": 9039537,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 8695846,
+        "donors": [
+          {
+            "name": "MIT",
+            "type": "Organization",
+            "amount": 14409
+          },
+          {
+            "name": "MCARTHURGLEN GROUP",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "ANALYSIS GROUP",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "CHARLES RIVER VENTURES",
+            "type": "Organization",
+            "amount": 12601
+          },
+          {
+            "name": "HARVARD UNIVERSITY",
+            "type": "Organization",
+            "amount": 8543
+          },
+          {
+            "name": "LIFE YIELD",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SCHOONER CAPITAL LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ALKEUS PHARMACEUTICALS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ZIFFREN LAW",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LICHTEN & LISS-RIORDAN PC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HSRI",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MERITAGE GROUP LP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SOROS FUND MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "JUSTICE CATALYST LAW",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PLYMOUTH ROCK COMPANY",
+            "type": "Organization",
+            "amount": 6600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 59800,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 2028100
+          },
+          {
+            "name": "MASSACHUSETTS SENATE VICTORY 2024",
+            "type": "PAC",
+            "amount": 1169000
+          },
+          {
+            "name": "MASSACHUSETTS VICTORY 2024",
+            "type": "PAC",
+            "amount": 818998
+          },
+          {
+            "name": "AMALGAMATED BANK",
+            "type": "PAC",
+            "amount": 606244
+          },
+          {
+            "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "DEMOCRACY ENGINE, INC., PAC",
+            "type": "PAC",
+            "amount": 66000
+          },
+          {
+            "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "AMALGAMATED TRANSIT UNION - COPE",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "D.R.I.V.E. DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "COMMUNICATIONS WORKERS OF AMERICA-COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN & PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00500843",
+      "total_raised": 9039537,
+      "individual_contributions": 8695846,
+      "individual_itemized": 4100299,
+      "individual_unitemized": 4595547,
+      "pac_contributions": 59800,
+      "other_receipts": 283891,
+      "top_employers": [
+        {
+          "name": "MIT",
+          "type": "Organization",
+          "amount": 14409
+        },
+        {
+          "name": "MCARTHURGLEN GROUP",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "ANALYSIS GROUP",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "CHARLES RIVER VENTURES",
+          "type": "Organization",
+          "amount": 12601
+        },
+        {
+          "name": "HARVARD UNIVERSITY",
+          "type": "Organization",
+          "amount": 8543
+        },
+        {
+          "name": "LIFE YIELD",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SCHOONER CAPITAL LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ALKEUS PHARMACEUTICALS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ZIFFREN LAW",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LICHTEN & LISS-RIORDAN PC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HSRI",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MERITAGE GROUP LP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SOROS FUND MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JUSTICE CATALYST LAW",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PLYMOUTH ROCK COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE CHERNIN GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NUWI CAPITAL INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE CONNORS FAMILY OFFICE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SKYDANCE TV",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "POINT ONE AUDIO, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BLUE HAVEN INITIATIVE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "UNIVERSITY OF PENNSYLVANIA",
+          "type": "Organization",
+          "amount": 5016
+        },
+        {
+          "name": "AMERICAN RENAL ASSOCIATES",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "US NAVY",
+          "type": "Organization",
+          "amount": 4454
+        },
+        {
+          "name": "MICROSOFT",
+          "type": "Organization",
+          "amount": 4324
+        },
+        {
+          "name": "NVIDIA CORP",
+          "type": "Organization",
+          "amount": 4284
+        },
+        {
+          "name": "SOUTHSIDE COMMUNITY SCHOOL",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "UNIVERSITY OF MICHIGAN",
+          "type": "Organization",
+          "amount": 3970
+        },
+        {
+          "name": "INTEL",
+          "type": "Organization",
+          "amount": 3939
+        },
+        {
+          "name": "BROAD INSTITUTE",
+          "type": "Organization",
+          "amount": 3825
+        },
+        {
+          "name": "PETS AND SPIRITS",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "ISCHEMIX",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "TRIUMVIRATE ENVIRONMENTAL",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "ALSOP LOUIE PARTNERS",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "UNIVERSITY OF CALIFORNIA",
+          "type": "Organization",
+          "amount": 3722
+        },
+        {
+          "name": "RENAISSANCE PROPERTIES",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "GOOGLE",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "WOOL735 INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CALCULEX",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ICSI",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "INVESTOR SOLUTIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "JOHN LONGMAID DESIGNS, INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AMAZON WEB SERVICES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "NEWSWEB CORPORATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "UNIVERSITY OF WEST BOHEMIA",
+          "type": "Organization",
+          "amount": 3250
+        },
+        {
+          "name": "BOSTON UNIVERSITY",
+          "type": "Organization",
+          "amount": 3019
+        },
+        {
+          "name": "UNIVERSITY OF FLORIDA",
+          "type": "Organization",
+          "amount": 2833
+        },
+        {
+          "name": "OFFICE OF THE ATTORNEY GENERAL",
+          "type": "Organization",
+          "amount": 2627
+        },
+        {
+          "name": "E-DIALOG",
+          "type": "Organization",
+          "amount": 2525
+        },
+        {
+          "name": "COMMUNITY LEGAL SERVICES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SHIELDS HEALTH CARE GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "COLUMBIA UNIVERSITY MEDICAL CENTER",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "LII",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "FAMILIES USA FOUNDATION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "BAYSTATE MEDICAL CENTER",
+          "type": "Organization",
+          "amount": 2400
+        },
+        {
+          "name": "OREGON DEPARTMENT OF TRANSPORTATION",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "PERSPECTIVE CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "SASAKI ASSOC.",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "UMASS AMHERST",
+          "type": "Organization",
+          "amount": 2092
+        },
+        {
+          "name": "INDIANA UNIVERSITY",
+          "type": "Organization",
+          "amount": 2078
+        },
+        {
+          "name": "SMITH",
+          "type": "Organization",
+          "amount": 2075
+        },
+        {
+          "name": "SMITHSONIAN ASTROPHYSICAL OBSERVATORY",
+          "type": "Organization",
+          "amount": 2075
+        },
+        {
+          "name": "HARVARD",
+          "type": "Organization",
+          "amount": 2040
+        },
+        {
+          "name": "IATSE 769 OF CHICAGO",
+          "type": "Organization",
+          "amount": 2028
+        },
+        {
+          "name": "CLOUDFLARE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "HAVARD BUSINESS SCHOOL",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "HEALTHCARE STRATEGY PARTNERS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TAMARACK HABILITATION",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "JOSLIN DIABETES CENTER",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "RICHARD CORDRAY",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "WHYNOT INITIATIVE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "UNIVERSITY OF MASSACHUSETTS",
+          "type": "Organization",
+          "amount": 1955
+        },
+        {
+          "name": "USAF",
+          "type": "Organization",
+          "amount": 1943
+        },
+        {
+          "name": "BOSTON CHILDREN'S HOSPITAL",
+          "type": "Organization",
+          "amount": 1908
+        },
+        {
+          "name": "CGI FEDERAL",
+          "type": "Organization",
+          "amount": 1900
+        },
+        {
+          "name": "ADVANCED MICRO DEVICES",
+          "type": "Organization",
+          "amount": 1898
+        },
+        {
+          "name": "AMHERST COLLEGE",
+          "type": "Organization",
+          "amount": 1897
+        },
+        {
+          "name": "NATIONAL CONSUMER LAW CENTER",
+          "type": "Organization",
+          "amount": 1875
+        },
+        {
+          "name": "UNIVERSITY OF RHODE ISLAND",
+          "type": "Organization",
+          "amount": 1864
+        },
+        {
+          "name": "TUFTS UNIVERSITY",
+          "type": "Organization",
+          "amount": 1853
+        },
+        {
+          "name": "FRANKLIN YOUNG INTERNATIONAL",
+          "type": "Organization",
+          "amount": 1833
+        },
+        {
+          "name": "HH OIL TOOLS INC.",
+          "type": "Organization",
+          "amount": 1810
+        },
+        {
+          "name": "ORACLE",
+          "type": "Organization",
+          "amount": 1805
+        },
+        {
+          "name": "STATE OF CONNECTICUT",
+          "type": "Organization",
+          "amount": 1802
+        },
+        {
+          "name": "SCALITY",
+          "type": "Organization",
+          "amount": 1800
+        },
+        {
+          "name": "SUPER NATURAL DIST.",
+          "type": "Organization",
+          "amount": 1786
+        },
+        {
+          "name": "HURRICANE LABS",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "CONSUMER FINANCIAL PROTECTION BUREAU",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "PINE COBBLE SCHOOL",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "PATAGONIA",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "UNIVERSITY OF WASHINGTON",
+          "type": "Organization",
+          "amount": 1714
+        },
+        {
+          "name": "WENDIGO PRODUCTION NYC",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "GOLDBERG COMPANIES INC",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "COORDINATES OPERATIONS LLC",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "GUERNSEY LAW OFFICES",
+          "type": "Organization",
+          "amount": 1625
+        },
+        {
+          "name": "SURFACE ONCOLOGY",
+          "type": "Organization",
+          "amount": 1600
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 2028100
+        },
+        {
+          "name": "MASSACHUSETTS SENATE VICTORY 2024",
+          "type": "PAC",
+          "amount": 1169000
+        },
+        {
+          "name": "MASSACHUSETTS VICTORY 2024",
+          "type": "PAC",
+          "amount": 818998
+        },
+        {
+          "name": "AMALGAMATED BANK",
+          "type": "PAC",
+          "amount": 606244
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "DEMOCRACY ENGINE, INC., PAC",
+          "type": "PAC",
+          "amount": 66000
+        },
+        {
+          "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "D.R.I.V.E. DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA-COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN & PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+          "type": "PAC",
+          "amount": 50000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 90,
+    "total_votes_scored": 26,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+        "bill": "HR5371",
+        "date": "2025-09-30",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMALGAMATED BANK",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on A bill making continuing appropriations and extensions for f"
+      },
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      },
+      {
+        "vote_description": "A bill making continuing appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
+        "bill": "S2882",
+        "date": "2025-09-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMALGAMATED BANK",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on A bill making continuing appropriations for the fiscal year "
+      },
+      {
+        "vote_description": "A bill to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+        "bill": "HR1",
+        "date": "2025-07-01",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMALGAMATED BANK",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on A bill to provide for reconciliation pursuant to title II of"
+      },
+      {
+        "vote_description": "A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
+        "bill": "HR4",
+        "date": "2025-07-17",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMALGAMATED BANK",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on A bill to rescind certain budget authority proposed to be re"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 33,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 93.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 73.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 10.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 67.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 75.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 70.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

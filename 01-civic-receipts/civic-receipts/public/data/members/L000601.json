@@ -5,24 +5,1217 @@
   "chamber": "house",
   "state": "OH",
   "district": "1",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/L000601.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 3743475,
+    "campaign_raised": 3719975,
+    "leadership_pac_raised": 23500,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 2684338,
+        "donors": [
+          {
+            "name": "UNIVERSITY OF CINCINNATI",
+            "type": "Organization",
+            "amount": 22085
+          },
+          {
+            "name": "CHAVEZ PROPERTIES LLC",
+            "type": "Organization",
+            "amount": 19800
+          },
+          {
+            "name": "KATZ TELLER",
+            "type": "Organization",
+            "amount": 17700
+          },
+          {
+            "name": "THE COUNSELING SOURCE INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "PENDLETON STREET PHOTOGRAPHY",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "UNION SAVINGS BANK",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "REMINGTON ROAD GROUP",
+            "type": "Organization",
+            "amount": 10925
+          },
+          {
+            "name": "PROCTER & GAMBLE",
+            "type": "Organization",
+            "amount": 10870
+          },
+          {
+            "name": "GOLDMAN SACHS",
+            "type": "Organization",
+            "amount": 10583
+          },
+          {
+            "name": "CHAVEZ PROPERTIES INC",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "MAYERSON JCC",
+            "type": "Organization",
+            "amount": 8100
+          },
+          {
+            "name": "CINCINNATI CHILDREN'S HOSPITAL",
+            "type": "Organization",
+            "amount": 8070
+          },
+          {
+            "name": "MERCY HEALTH",
+            "type": "Organization",
+            "amount": 7800
+          },
+          {
+            "name": "STANDARD TEXTILE INC",
+            "type": "Organization",
+            "amount": 7250
+          },
+          {
+            "name": "THE KROGER COMPANY",
+            "type": "Organization",
+            "amount": 6750
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 941425,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 563000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+            "type": "PAC",
+            "amount": 414000
+          },
+          {
+            "name": "TAKE BACK THE HOUSE 2024",
+            "type": "PAC",
+            "amount": 312000
+          },
+          {
+            "name": "DEMOCRACY SUMMER 2024",
+            "type": "PAC",
+            "amount": 200000
+          },
+          {
+            "name": "END CITIZENS UNITED - PRIORITY 2024 - UNITEMIZED",
+            "type": "PAC",
+            "amount": 157573
+          },
+          {
+            "name": "END CITIZENS UNITED - PRIORITY 2024",
+            "type": "PAC",
+            "amount": 150000
+          },
+          {
+            "name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE OF THE IAMAW",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INT'L UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "POLITICAL EDUCATION PATTERNS POLITICAL ARM INTL UNION OPERATING ENG LOCAL 18",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "AMERIPAC THE FUND FOR A GREATER AMERICA",
+            "type": "PAC",
+            "amount": 100000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 23500,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 563000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+            "type": "PAC",
+            "amount": 414000
+          },
+          {
+            "name": "TAKE BACK THE HOUSE 2024",
+            "type": "PAC",
+            "amount": 312000
+          },
+          {
+            "name": "DEMOCRACY SUMMER 2024",
+            "type": "PAC",
+            "amount": 200000
+          },
+          {
+            "name": "END CITIZENS UNITED - PRIORITY 2024 - UNITEMIZED",
+            "type": "PAC",
+            "amount": 157573
+          },
+          {
+            "name": "END CITIZENS UNITED - PRIORITY 2024",
+            "type": "PAC",
+            "amount": 150000
+          },
+          {
+            "name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE OF THE IAMAW",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INT'L UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "POLITICAL EDUCATION PATTERNS POLITICAL ARM INTL UNION OPERATING ENG LOCAL 18",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "AMERIPAC THE FUND FOR A GREATER AMERICA",
+            "type": "PAC",
+            "amount": 100000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00884692",
+            "name": "DEMOCRACY & FREEDOM PAC",
+            "total_raised": 23500,
+            "top_employers": [
+              {
+                "name": "PENDLETON STREET PHOTOGRAPHY",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "UNION SAVINGS BANK",
+                "type": "Organization",
+                "amount": 5000
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "END CITIZENS UNITED",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "ACTBLUE",
+                "type": "PAC",
+                "amount": 1000
+              },
+              {
+                "name": "FRIENDS OF REGGIE HARRIS",
+                "type": "PAC",
+                "amount": 1000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00800276",
+      "total_raised": 3719975,
+      "individual_contributions": 2684338,
+      "individual_itemized": 2350666,
+      "individual_unitemized": 333672,
+      "pac_contributions": 941425,
+      "other_receipts": 94212,
+      "top_employers": [
+        {
+          "name": "UNIVERSITY OF CINCINNATI",
+          "type": "Organization",
+          "amount": 22085
+        },
+        {
+          "name": "CHAVEZ PROPERTIES LLC",
+          "type": "Organization",
+          "amount": 19800
+        },
+        {
+          "name": "KATZ TELLER",
+          "type": "Organization",
+          "amount": 17700
+        },
+        {
+          "name": "THE COUNSELING SOURCE INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "REMINGTON ROAD GROUP",
+          "type": "Organization",
+          "amount": 10925
+        },
+        {
+          "name": "PROCTER & GAMBLE",
+          "type": "Organization",
+          "amount": 10870
+        },
+        {
+          "name": "GOLDMAN SACHS",
+          "type": "Organization",
+          "amount": 10583
+        },
+        {
+          "name": "CHAVEZ PROPERTIES INC",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "MAYERSON JCC",
+          "type": "Organization",
+          "amount": 8100
+        },
+        {
+          "name": "CINCINNATI CHILDREN'S HOSPITAL",
+          "type": "Organization",
+          "amount": 8070
+        },
+        {
+          "name": "MERCY HEALTH",
+          "type": "Organization",
+          "amount": 7800
+        },
+        {
+          "name": "STANDARD TEXTILE INC",
+          "type": "Organization",
+          "amount": 7250
+        },
+        {
+          "name": "THE KROGER COMPANY",
+          "type": "Organization",
+          "amount": 6750
+        },
+        {
+          "name": "JACKSON LEWIS PC",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "ART ADVISORS LLC",
+          "type": "Organization",
+          "amount": 6692
+        },
+        {
+          "name": "PENDLETON STREET PHOTOGRAPHY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HONOR NYC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PEDIATRIC PARTNERS OF NORTHERN KENTUCK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "Q PRIME INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CINCINNATI ART GALLERIES LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JP MORGAN CHASE & CO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MERITAGE GROUP LP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "UPTOWN ARTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MORINO VENTURES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TAUBER FAMILY FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BLUESTEAM ASSET MANAGEMENT LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BODYMIND BALANCE INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "OSBORN WILLIAMS & DONOHOE LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VIKING PARTNERS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MEDLEY PARTNERS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PARKING CO OF AMERICA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CIG DEVELOPER",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STANDARD TEXTILE CO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ANAYLSIS GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "UPTOWN RENTAL PROPERTIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MASSACHUSETTS GENERAL HOSPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LIFE YIELD LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TRANSCARENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TWILIO, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HACKMAN CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "EVERGREEN MONEY CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LONE PINE CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ABELSONTAYLOR",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CANAPI VENTURES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TURTLE PLASTICS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TIM BRONSIL MARKETING SERVICES INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VORYS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "UNION SAVINGS BANK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "EUSTACE-KWAN FAMILY FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PALOMA PARTNERS ADVISORS LP",
+          "type": "Organization",
+          "amount": 6550
+        },
+        {
+          "name": "KROGER",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "BEXLEY RECREATION",
+          "type": "Organization",
+          "amount": 5625
+        },
+        {
+          "name": "BAG INVESTMENTS",
+          "type": "Organization",
+          "amount": 5600
+        },
+        {
+          "name": "KROGER CO",
+          "type": "Organization",
+          "amount": 5550
+        },
+        {
+          "name": "LAST MILE FOOD RESCUE",
+          "type": "Organization",
+          "amount": 5250
+        },
+        {
+          "name": "CINCINNATI CHILDRENS HOSPITAL",
+          "type": "Organization",
+          "amount": 5180
+        },
+        {
+          "name": "AMERICAN FINANCIAL GROUP INC",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "MIDLAND ATLANTIC DEVELOPMENT CO",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "SULLIVAN & CROMWELL",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "FIVE STONES INVESTMENT GROUP LLC",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "A10 ASSOCIATES",
+          "type": "Organization",
+          "amount": 4950
+        },
+        {
+          "name": "NUVOODOO MEDIA SERVICES LLC",
+          "type": "Organization",
+          "amount": 4600
+        },
+        {
+          "name": "MAYERSON CO",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "MICHELMAN INC",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "TOTAL QUALITY LOGISTICS",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "KROGER COMPANY",
+          "type": "Organization",
+          "amount": 4391
+        },
+        {
+          "name": "MORGAN STANLEY",
+          "type": "Organization",
+          "amount": 4250
+        },
+        {
+          "name": "CINCINNATI CHILDREN'S HOSPITAL MEDICAL",
+          "type": "Organization",
+          "amount": 4246
+        },
+        {
+          "name": "FC CINCINNATI",
+          "type": "Organization",
+          "amount": 4200
+        },
+        {
+          "name": "MARKOVITS STOCK & DEMARCO LLC",
+          "type": "Organization",
+          "amount": 4100
+        },
+        {
+          "name": "HAILE FOUNDATION",
+          "type": "Organization",
+          "amount": 4100
+        },
+        {
+          "name": "AMERICAN MORTGAGE CORP",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "SPRUCE CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "DAVIS POLK & WARDWELL LLP",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "STANDARD TEXTILE COMPANY INC",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "BLANK ROME LLP",
+          "type": "Organization",
+          "amount": 3550
+        },
+        {
+          "name": "THE CARLYLE GROUP",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "STANDARD TEXTILE",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "SQUIRE PATTON BOGGS LLP",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "MILLER BARONDESS",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "CLINTON FARM",
+          "type": "Organization",
+          "amount": 3333
+        },
+        {
+          "name": "INTRAFI NETWORK",
+          "type": "Organization",
+          "amount": 3333
+        },
+        {
+          "name": "GRIMLEY CAPITAL",
+          "type": "Organization",
+          "amount": 3333
+        },
+        {
+          "name": "PARK PLACE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LTD X LIZZIE TISCH",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "QUALCOMM",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "EXECUTIVE SERVICES CORPS OF CINCINNATI",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "THE SPUR RIDGE GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "RIPCO",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DEEP TRACK CAPITAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FIREDOLL FOUNDATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "UNIVERSITY OF NEVADA LAS VEGAS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AGINS INTERIOR",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CHICAGO TRADING COMPANY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FOREST CITY ENTERPRISES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LOEWS HOTELS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "STIFEL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "OFFICE OF KAT TAYLOR",
+          "type": "Organization",
+          "amount": 3300
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 562000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+          "type": "PAC",
+          "amount": 414000
+        },
+        {
+          "name": "TAKE BACK THE HOUSE 2024",
+          "type": "PAC",
+          "amount": 312000
+        },
+        {
+          "name": "DEMOCRACY SUMMER 2024",
+          "type": "PAC",
+          "amount": 200000
+        },
+        {
+          "name": "END CITIZENS UNITED - PRIORITY 2024 - UNITEMIZED",
+          "type": "PAC",
+          "amount": 157573
+        },
+        {
+          "name": "END CITIZENS UNITED - PRIORITY 2024",
+          "type": "PAC",
+          "amount": 150000
+        },
+        {
+          "name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE OF THE IAMAW",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INT'L UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "POLITICAL EDUCATION PATTERNS POLITICAL ARM INTL UNION OPERATING ENG LOCAL 18",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "AMERIPAC THE FUND FOR A GREATER AMERICA",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "AMERICA WORKS FEDERAL PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "PAC TO THE FUTURE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "JOBS EDUCATION & FAMILIES FIRST (JEFF PAC)",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "IBEW PAC VOLUNTARY FUND",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "LIUNA PAC",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "TAFT STETTINIUS & HOLLISTER LLP POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "END CITIZENS UNITED (ECU)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DEMOCRATIC TURNOUT PROJECT PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "TEXTILE RENTAL SERVICES ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE (TRSAPAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "HOUSE MAJORITY PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CHUTZ PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ATU COPE VOLUNTARY ACCOUNT",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "TO PROTECT OUR HERITAGE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "JOINING IDEAS TO MOTIVATE MOVEMENT FOR YOU (JIMMY PAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AFSCME PEOPLE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "PLANNED PARENTHOOD ACTION FUND INC PAC, DBA PLANNED PARENTHOOD FEDERAL PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "FRATERNITY & SORORITY PAC",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "EQUALITY PAC",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "DEREK PAC",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS (FIREPAC)",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "PROGRESSIVE TURNOUT PROJECT",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "DCCC",
+          "type": "PAC",
+          "amount": 37361
+        },
+        {
+          "name": "SAGE MEDIA PLANNING & PLACEMENT, INC.",
+          "type": "PAC",
+          "amount": 35679
+        },
+        {
+          "name": "SENIOR CARE PHARMACY COALITION PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "HUMANE SOCIETY LEGISLATIVE FUND POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "SWING LEFT",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "NEW DEMOCRAT COALITION ACTION FUND",
+          "type": "PAC",
+          "amount": 33000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00884692",
+        "name": "DEMOCRACY & FREEDOM PAC",
+        "total_raised": 23500,
+        "top_employers": [
+          {
+            "name": "PENDLETON STREET PHOTOGRAPHY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "UNION SAVINGS BANK",
+            "type": "Organization",
+            "amount": 5000
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "END CITIZENS UNITED",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "FRIENDS OF REGGIE HARRIS",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 57,
+    "total_votes_scored": 49,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "TRACE Act",
+        "bill": "HR1049",
+        "date": "2025-12-04",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on TRACE Act"
+      },
+      {
+        "vote_description": "Illegitimate Court Counteraction Act",
+        "bill": "HR23",
+        "date": "2025-01-09",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on Illegitimate Court Counteraction Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 2,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 61.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 70.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

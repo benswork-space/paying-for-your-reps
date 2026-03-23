@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "TN",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/H000601.jpg",
   "serving_since": 2021,
   "years_in_office": 5,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 70,
+    "total_votes_scored": 28,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
+        "bill": "S2073",
+        "date": "2024-07-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "COMMERCIAL METALS COMPANY PAC (CMC PAC)",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
+      },
+      {
+        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+        "bill": "HR5371",
+        "date": "2025-09-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "MASTERCARD INTERNATIONAL INC. EMPLOYEE PAC (MASTERCARD PAC) OR (MASTERCARD EMPLOYEE PAC)",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on A bill making continuing appropriations and extensions for f"
+      },
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      },
+      {
+        "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
+        "bill": "HR4346",
+        "date": "2022-07-27",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "COMMERCIAL METALS COMPANY PAC (CMC PAC)",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on A bill making appropriations for Legislative Branch for the "
+      },
+      {
+        "vote_description": "A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
+        "bill": "HR4",
+        "date": "2025-07-17",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "MASTERCARD INTERNATIONAL INC. EMPLOYEE PAC (MASTERCARD PAC) OR (MASTERCARD EMPLOYEE PAC)",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on A bill to rescind certain budget authority proposed to be re"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 50,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 86.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 50.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 22.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 50.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 64.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 58.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

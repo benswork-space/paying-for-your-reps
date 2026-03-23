@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "NM",
   "district": "2",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/V000136.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
@@ -14,15 +15,83 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 68,
+    "total_votes_scored": 78,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "THE L & C COALITION",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on SHOWER Act"
+      },
+      {
+        "vote_description": "To require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes",
+        "bill": "S1071",
+        "date": "2025-12-10",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on To require the Secretary of Veterans Affairs to disinter the"
+      },
+      {
+        "vote_description": "TRACE Act",
+        "bill": "HR1049",
+        "date": "2025-12-04",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on TRACE Act"
+      },
+      {
+        "vote_description": "Affordable HOMES Act",
+        "bill": "HR5184",
+        "date": "2026-01-09",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "THE L & C COALITION",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on Affordable HOMES Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 2,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 59.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 58.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

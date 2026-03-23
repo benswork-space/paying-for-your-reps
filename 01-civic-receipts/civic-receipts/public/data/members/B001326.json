@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "OR",
   "district": "5",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/B001326.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
@@ -14,15 +15,75 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 95,
+    "total_votes_scored": 19,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Born-Alive Abortion Survivors Protection Act",
+        "bill": "HR21",
+        "date": "2025-01-23",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "EMILYS LIST",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Born-Alive Abortion Survivors Protection Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on SHOWER Act"
+      },
+      {
+        "vote_description": "Protection of Women and Girls in Sports Act",
+        "bill": "HR28",
+        "date": "2025-01-14",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "EMILYS LIST",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Nay on Protection of Women and Girls in Sports Act"
+      },
+      {
+        "vote_description": "Pet and Livestock Protection Act",
+        "bill": "HR845",
+        "date": "2025-12-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on Pet and Livestock Protection Act"
+      },
+      {
+        "vote_description": "Affordable HOMES Act",
+        "bill": "HR5184",
+        "date": "2026-01-09",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on Affordable HOMES Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 65.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

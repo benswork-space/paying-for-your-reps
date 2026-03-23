@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "DC",
   "district": "0",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/N000147.jpg",
   "serving_since": 1991,
   "years_in_office": 35,
@@ -14,10 +15,61 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 76,
+    "total_votes_scored": 43,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "",
+        "bill": "HR1516",
+        "date": "2024-09-10",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on "
+      },
+      {
+        "vote_description": "",
+        "bill": "HR1615",
+        "date": "2023-06-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on "
+      },
+      {
+        "vote_description": "",
+        "bill": "HR3383",
+        "date": "2025-12-11",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on "
+      },
+      {
+        "vote_description": "",
+        "bill": "HR1048",
+        "date": "2025-03-27",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on "
+      },
+      {
+        "vote_description": "",
+        "bill": "HR7148",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on "
+      }
+    ]
   },
   "electorate_alignment": {
     "issues_scored": 0,

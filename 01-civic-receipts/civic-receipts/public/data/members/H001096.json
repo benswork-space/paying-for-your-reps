@@ -5,19 +5,1050 @@
   "chamber": "house",
   "state": "WY",
   "district": "0",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/H001096.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 3180911,
+    "campaign_raised": 3070024,
+    "leadership_pac_raised": 110887,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 2484951,
+        "donors": [
+          {
+            "name": "DEERING WINE",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "IGAS USA INC",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "KEMMERER MANAGEMENT CORP.",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "NEWSMAX",
+            "type": "Organization",
+            "amount": 10248
+          },
+          {
+            "name": "TREE OF LIFE FOUNDATION",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "ENTREPRENEUR",
+            "type": "Organization",
+            "amount": 9352
+          },
+          {
+            "name": "PBS",
+            "type": "Organization",
+            "amount": 8000
+          },
+          {
+            "name": "MINSHALL DEV COMPANY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "QUANTUM ENERGY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "RYTEC CORPORATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LAUGHERY INVESTMENTS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "A. G. ANDRIKOPOULOS RESOURCES INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MINSHALL DEV CO",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "I & C",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "DOVER INSURANCE",
+            "type": "Organization",
+            "amount": 4543
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 343462,
+        "donors": [
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 3416555
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 166500
+          },
+          {
+            "name": "TMA DIRECT, INC.",
+            "type": "PAC",
+            "amount": 110777
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "COMMON VALUES PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "KOCH INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "BLACK HILLS CORPORATION POLITICAL ACTION COMMITTEE, LEAH",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "HUCK PAC, BRYAN",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "WORKING FOR OHIO",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "STEER PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 110887,
+        "donors": [
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 3416555
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 166500
+          },
+          {
+            "name": "TMA DIRECT, INC.",
+            "type": "PAC",
+            "amount": 110777
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "COMMON VALUES PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "KOCH INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "BLACK HILLS CORPORATION POLITICAL ACTION COMMITTEE, LEAH",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "HUCK PAC, BRYAN",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "WORKING FOR OHIO",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "STEER PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00799809",
+            "name": "1890 PAC",
+            "total_raised": 110887,
+            "top_employers": [
+              {
+                "name": "IGAS USA INC",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "KEMMERER MANAGEMENT CORP.",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "NEWSMAX",
+                "type": "Organization",
+                "amount": 3400
+              },
+              {
+                "name": "TREE OF LIFE FOUNDATION",
+                "type": "Organization",
+                "amount": 3400
+              },
+              {
+                "name": "BIG HORN MEDICAL CENTER",
+                "type": "Organization",
+                "amount": 1500
+              },
+              {
+                "name": "KEMMERER MANAGEMENT CORP",
+                "type": "Organization",
+                "amount": 1500
+              },
+              {
+                "name": "PBS",
+                "type": "Organization",
+                "amount": 1400
+              },
+              {
+                "name": "DDV",
+                "type": "Organization",
+                "amount": 799
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "PEABODY ENERGY CORPORATION POLITICAL ACTION COMMITTEE  (PEABODY PAC)",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "HAGEMAN FOR WYOMING",
+                "type": "PAC",
+                "amount": 2500
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00788943",
+      "total_raised": 3070024,
+      "individual_contributions": 2484951,
+      "individual_itemized": 1152788,
+      "individual_unitemized": 1332163,
+      "pac_contributions": 343462,
+      "other_receipts": 241611,
+      "top_employers": [
+        {
+          "name": "DEERING WINE",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "ENTREPRENEUR",
+          "type": "Organization",
+          "amount": 9352
+        },
+        {
+          "name": "NEWSMAX",
+          "type": "Organization",
+          "amount": 6848
+        },
+        {
+          "name": "TREE OF LIFE FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MINSHALL DEV COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "QUANTUM ENERGY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "RYTEC CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LAUGHERY INVESTMENTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "A. G. ANDRIKOPOULOS RESOURCES INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PBS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "IGAS USA INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KEMMERER MANAGEMENT CORP.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MINSHALL DEV CO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "I & C",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DOVER INSURANCE",
+          "type": "Organization",
+          "amount": 4543
+        },
+        {
+          "name": "DDV LLC",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "RICE AND RICE ATTORNEYS",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "CENTRAL FLORIDA PATHOLOGY ASSOC PA",
+          "type": "Organization",
+          "amount": 3975
+        },
+        {
+          "name": "NAVAJO TRANSITIONAL ENERGY COMPANY",
+          "type": "Organization",
+          "amount": 3520
+        },
+        {
+          "name": "CAPITOL COUNSEL",
+          "type": "Organization",
+          "amount": 3520
+        },
+        {
+          "name": "CLUB DAUNTLESS  BAIRCO",
+          "type": "Organization",
+          "amount": 3305
+        },
+        {
+          "name": "EXETER EXCHANGE SERVICES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "O'DONNELL WEALTH MANAGEMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SAMUELSON LIMITED PARTNERSHIP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "21ST CENTURY HEALTHCARE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PROVIDENCE MINERALS LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KRESUS LABS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ALTARIS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SEARING",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SANTO PETROLEUM",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PY FOUNDATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MILLER STRATEGIES LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BLUMBERG CAPITAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DANIELS MANUFACTURING CORPORATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "UNIVERSITY OF CALIFORNIA BERKELEY",
+          "type": "Organization",
+          "amount": 3267
+        },
+        {
+          "name": "GULLY TRANSPORTATION",
+          "type": "Organization",
+          "amount": 3267
+        },
+        {
+          "name": "PLEASANT VALLEY GREENHOUSE",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "S-3 GROUP",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "SETS",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "CONIFER PACIFIC INC",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "PENCOR",
+          "type": "Organization",
+          "amount": 2725
+        },
+        {
+          "name": "PUMA STEEL",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "RESMED INC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "UNITED STATES POSTAL SERVICE",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "TYRRELL CHEVROLET",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SHAY OIL CO INC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "FXC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "GROWERS AIR INC",
+          "type": "Organization",
+          "amount": 2482
+        },
+        {
+          "name": "BRACKEN INTEREST",
+          "type": "Organization",
+          "amount": 2470
+        },
+        {
+          "name": "DDV",
+          "type": "Organization",
+          "amount": 2300
+        },
+        {
+          "name": "ACADIA AUTO AUCTIONS",
+          "type": "Organization",
+          "amount": 2274
+        },
+        {
+          "name": "POMEROY LAND",
+          "type": "Organization",
+          "amount": 2119
+        },
+        {
+          "name": "URANIUM ENERGY CORP",
+          "type": "Organization",
+          "amount": 2041
+        },
+        {
+          "name": "MERCHANT MCINTYRE AND ASSOCIATES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "UNITED AIRLINES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "EAGLE FORGE SERVICES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "AXON",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ACJM INVESTMENTS LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ELLBOGEN PROPERTY MANAGEMENT",
+          "type": "Organization",
+          "amount": 1900
+        },
+        {
+          "name": "BIG HORN MEDICAL CENTER",
+          "type": "Organization",
+          "amount": 1890
+        },
+        {
+          "name": "SELF EMPLYED",
+          "type": "Organization",
+          "amount": 1831
+        },
+        {
+          "name": "JAICO PRODUCTS",
+          "type": "Organization",
+          "amount": 1795
+        },
+        {
+          "name": "NTEC",
+          "type": "Organization",
+          "amount": 1541
+        },
+        {
+          "name": "FREMONT MOTOR COMPANY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "KOUNTOUPES DENHAM CARR  REID",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "TECHMATE",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "GIVING HOME HEALTH CARE LLC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "ARCH WESTERN BITUMINOUS GROUP, LLC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "MERCHANT MCINTYRE ASSOCIATES",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "JORDAN CONSTRUCTION",
+          "type": "Organization",
+          "amount": 1382
+        },
+        {
+          "name": "THE D MAJOR GROUP",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "STELLIGENT",
+          "type": "Organization",
+          "amount": 1041
+        },
+        {
+          "name": "SEEDALL LAW OFFICE PC",
+          "type": "Organization",
+          "amount": 1005
+        },
+        {
+          "name": "TARPLIN DOWNS  YOUNG LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "RM JOBS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "NATURAL GAS PROCESSING",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CIVIL WERX",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SILVER DOLLAR BAR, LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "ACE PARKING",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "STRATA ENERGY",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "POWERS LAW",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MAMA LION PRODUCTIONS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "JW HOWARD ATTORNEYS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "NEVADA HEART AND VASCULAR",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "HOWARD PROPERTIES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "GENENTECH",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "TWINLOGIC STRATEGIES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SUTTON HAGUE LAW CORPORATION PC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CASSIDY & ASSOCIATES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "TURKEY",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "JSV",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "UKRAINE FUTURE BUSINESS COUNCIL",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 1000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 3416555
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 166500
+        },
+        {
+          "name": "TMA DIRECT, INC.",
+          "type": "PAC",
+          "amount": 110777
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "COMMON VALUES PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "KOCH INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "BLACK HILLS CORPORATION POLITICAL ACTION COMMITTEE, LEAH",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "HUCK PAC, BRYAN",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "WORKING FOR OHIO",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "STEER PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "RAPTOR PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "REINVENTING A NEW DIRECTION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BUCKEYE LIBERTY PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "POSTAGE FOR DIRECT MAIL FUNDRAISING LLC",
+          "type": "PAC",
+          "amount": 49999
+        },
+        {
+          "name": "WYOMING DEPARTMENT OF WORKFORCE SERVICES",
+          "type": "PAC",
+          "amount": 44225
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00799809",
+        "name": "1890 PAC",
+        "total_raised": 110887,
+        "top_employers": [
+          {
+            "name": "IGAS USA INC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "KEMMERER MANAGEMENT CORP.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "NEWSMAX",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "TREE OF LIFE FOUNDATION",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "BIG HORN MEDICAL CENTER",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "KEMMERER MANAGEMENT CORP",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "PBS",
+            "type": "Organization",
+            "amount": 1400
+          },
+          {
+            "name": "DDV",
+            "type": "Organization",
+            "amount": 799
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "PEABODY ENERGY CORPORATION POLITICAL ACTION COMMITTEE  (PEABODY PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "HAGEMAN FOR WYOMING",
+            "type": "PAC",
+            "amount": 2500
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 94,
+    "total_votes_scored": 50,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "KOCH INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with presidentially designated terrorist organizations in the Western Hemisphere",
+        "bill": "HCONRES61",
+        "date": "2025-12-17",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on Directing the President, pursuant to section 5(c) of the War"
+      },
+      {
+        "vote_description": "Illegitimate Court Counteraction Act",
+        "bill": "HR23",
+        "date": "2025-01-09",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on Illegitimate Court Counteraction Act"
+      },
+      {
+        "vote_description": "21st Century Peace through Strength Act",
+        "bill": "HR8038",
+        "date": "2024-04-20",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on 21st Century Peace through Strength Act"
+      }
+    ]
   },
   "electorate_alignment": {
     "issues_scored": 0,

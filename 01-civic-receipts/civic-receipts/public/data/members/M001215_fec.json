@@ -1,0 +1,731 @@
+{
+  "bioguide_id": "M001215",
+  "fec_candidate_id": "H8IA02043",
+  "fec_committee_id": "C00558825",
+  "cycle": 2024,
+  "totals": {
+    "total_raised": 5800753,
+    "total_spent": 5755348,
+    "individual_contributions": 2234638,
+    "individual_itemized": 1894647,
+    "individual_unitemized": 339991,
+    "pac_contributions": 2340483,
+    "other_receipts": 1225632,
+    "cash_on_hand": 373743
+  },
+  "campaign_pac_contributors": [
+    {
+      "name": "PROTECT THE HOUSE 2024",
+      "total": 3856172.099999999,
+      "count": 90
+    },
+    {
+      "name": "SCALISE LEADERSHIP FUND 2024",
+      "total": 1573401.699999999,
+      "count": 60
+    },
+    {
+      "name": "WINRED",
+      "total": 1304000.0,
+      "count": 200
+    },
+    {
+      "name": "GOP WINNING WOMEN 2024",
+      "total": 1171477.8,
+      "count": 40
+    },
+    {
+      "name": "MILLER-MEEKS, MARIANNETTE JANE",
+      "total": 420000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN BATTLEGROUND FUND",
+      "total": 289706.4000000001,
+      "count": 40
+    },
+    {
+      "name": "DEMOCRACY ENGINE, INC., PAC",
+      "total": 132000.0,
+      "count": 20
+    },
+    {
+      "name": "CONTINUING AMERICAS STRENGTH AND SECURITY PAC",
+      "total": 100000.0,
+      "count": 10
+    },
+    {
+      "name": "TAG LLC",
+      "total": 85828.20000000001,
+      "count": 10
+    },
+    {
+      "name": "COHERUS BIOSCIENCES PAC",
+      "total": 60000.0,
+      "count": 10
+    },
+    {
+      "name": "PAYCHEX",
+      "total": 50791.600000000006,
+      "count": 10
+    },
+    {
+      "name": "BLAINE PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "DEFENDING THE AMERICAN DREAM PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN SECURITY PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "SWISHER INTERNATIONAL INC PAC FUND",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "COMCAST CORPORATION AND NBCUNIVERSAL PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION PAC (SKINPAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "CONSUMER TECHNOLOGY ASSOCIATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "EYEPAC POLITICAL ACTION COMMITTEE FOR AMERICAN SOCIETY OF CATARACT AND REFRACTIVE SURGERY",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AKSM UROLOGY PAC 'AKSM UROLOGY PAC'",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "BAKER PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "MAINTAINING ALL REPUBLICANS IN OFFICE PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "BIPARTISAN CLIMATE FUND",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "POET PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "VIATRIS INC. PAC (VIAPAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "MEDICAL DEVICE MANUFACTURERS ASSOCIATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN PETROLEUM INSTITUTE PAC (API PAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "BALL CORPORATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "CHEVRON EMPLOYEES PAC - CHEVRON CORPORATION",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "IN THE ARENA PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "COUNCIL OF INSURANCE AGENTS AND BROKERS PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "GENENTECH INC. PAC (GENENPAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NEUROSURGERY PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "E-PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "REJOICE PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "BUCKEYE LIBERTY PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "HELLFIRE PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "SEAL PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "CONQUERING CANCER PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF CHEMICAL DISTRIBUTORS RESPONSIBLE DISTRIBUTION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "LAND OF OPPORTUNITY PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "KEEP AMERICA ROLLING",
+      "total": 50000.0,
+      "count": 10
+    }
+  ],
+  "campaign_top_employers": [
+    {
+      "name": "SELF",
+      "total": 124214,
+      "count": 129
+    },
+    {
+      "name": "NYCBS",
+      "total": 26878,
+      "count": 25
+    },
+    {
+      "name": "RDV CORPORATION",
+      "total": 16500,
+      "count": 5
+    },
+    {
+      "name": "ESTES COMPANY",
+      "total": 16000,
+      "count": 7
+    },
+    {
+      "name": "DAVITA",
+      "total": 15500,
+      "count": 8
+    },
+    {
+      "name": "FRANKLIN MOUNTAIN MANAGEMENT",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "STARKEY HEARING TECHNOLOGIES",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "MARQUIS MANAGEMENT, INC",
+      "total": 11250,
+      "count": 9
+    },
+    {
+      "name": "KLINGER COMPANIES, LLC",
+      "total": 10000,
+      "count": 7
+    },
+    {
+      "name": "JANE ST. CAPITAL",
+      "total": 9900,
+      "count": 4
+    },
+    {
+      "name": "JANE STREET",
+      "total": 9900,
+      "count": 4
+    },
+    {
+      "name": "EXECUTIVE CHAIRMAN",
+      "total": 9900,
+      "count": 3
+    },
+    {
+      "name": "UIHC",
+      "total": 9433,
+      "count": 26
+    },
+    {
+      "name": "CONSUMER TECHNOLOGY ASSOCIATION",
+      "total": 9100,
+      "count": 3
+    },
+    {
+      "name": "DURHAM",
+      "total": 8345,
+      "count": 6
+    },
+    {
+      "name": "CHARLES  POTOMAC CAPITAL",
+      "total": 8054,
+      "count": 4
+    },
+    {
+      "name": "VORNADO REALTY TRUST",
+      "total": 8003,
+      "count": 3
+    },
+    {
+      "name": "VALLEY DISTRIBTION CORP",
+      "total": 7805,
+      "count": 8
+    },
+    {
+      "name": "CEO",
+      "total": 7600,
+      "count": 5
+    },
+    {
+      "name": "IOWA 80 GROUP",
+      "total": 7500,
+      "count": 6
+    },
+    {
+      "name": "HAMES HOMES",
+      "total": 7405,
+      "count": 7
+    },
+    {
+      "name": "ATTORNEY",
+      "total": 7203,
+      "count": 3
+    },
+    {
+      "name": "AQR CAPITAL",
+      "total": 6700,
+      "count": 3
+    },
+    {
+      "name": "ATWAL EYE CARE",
+      "total": 6700,
+      "count": 3
+    },
+    {
+      "name": "IOWA STATE UNIVERSITY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "MIDLAND ENERGY, INC.",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "HILLWOOD AND THE PEROT GROUP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "LYNCH LIVESTOCK",
+      "total": 6600,
+      "count": 4
+    },
+    {
+      "name": "DIAMONDBACKS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "FISHER CREEK WEST, LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "LIBERTY MEDIA",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "VETERANS UNITED HOME LOANS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "FIRST VIRTUAL GROUP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "ELLIOT MANAGEMENT CORP.",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "BLUFF POINT ASSOCIATES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "ARCHER AUTO GROUP",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "FRIESS ASSOCIATES LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CHARLES SCHWAB CORPORATION",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "KIRKE FINANCIALL SERVICES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "WELLMARK",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "BARKER COMPANIES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PLASTPRO",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "BLUEWATER INTERNATIONAL",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "BLACKSTONE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "KHOSLA VENTURES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "THE MARCUS FOUNDATION",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PRIME, INC.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "STANDARD INDUSTRIES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CITADEL LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "NORSEMEN TRUCKING INC",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "DOLAN CORP.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SILVER EAGLE DISTRIBUTORS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "R AND R REALTY GROUP",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "GLOBAL RESCUE",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "MOUNTAINAIRE CORPORATION",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CANTOR FITZGERALD",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "DOLAN HOMES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CUMBERLAND DEVELOPMENT",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "HAMILTON POINT INVESTMENTS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "INTERACTIVE BROKERS",
+      "total": 6600,
+      "count": 4
+    },
+    {
+      "name": "WESTERN NATIONAL GROUP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "DCOR, LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CLEARPATH FOUNDATION",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "ULINE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "J.W. CHILDS ASSOCIATES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "EDWARD C. LEVY",
+      "total": 6600,
+      "count": 5
+    },
+    {
+      "name": "RETINA CONSULTANTS OF MICHIGAN",
+      "total": 6600,
+      "count": 5
+    },
+    {
+      "name": "ENERGY TRANSFER COMPANY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "TULCO",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "BALL VENTURES, LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CROW HOLDINGS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "OAK STREAM INVESTORS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "WESTERN NATIONAL PROPERTY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CIVIC SERVICE",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "EDISON CHOUEST OFFSHORE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SABIN METAL CORP.",
+      "total": 6600,
+      "count": 5
+    },
+    {
+      "name": "WINDOW WORLD",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "ARNEL AND AFFILIATES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "IOWA SELECT FARMS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "EPIC",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "REAL ESTATE DEVELOPER",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PERFORMANCE CONTRACTORS, INC.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "GRANITE TELECOMMUNICATIONS, LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "BELTRAME LAW FIRM, PLC",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "JM EAGLE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "GRIMMWAY ENTERPRISES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "NEW BALANCE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "MELALEUCA",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "KENT CORPORATION",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CRST",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SENECA COMPANIES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "MCKINSEY",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "DUCHOSSOIS CAPITAL MANAGEMENT",
+      "total": 6600,
+      "count": 2
+    }
+  ],
+  "leadership_pacs": []
+}

@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "ND",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/H001061.jpg",
   "serving_since": 2011,
   "years_in_office": 15,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 82,
+    "total_votes_scored": 19,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to amend the Disaster Relief Supplemental Appropriations Act, 2023 to improve disaster relief funding for agricultural producers, and for other purposes.",
+        "bill": "HR662",
+        "date": "2023-11-01",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "TEXAS FARM BUREAU AGFUND",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on A bill to amend the Disaster Relief Supplemental Appropriati"
+      },
+      {
+        "vote_description": "A resolution supporting the observation of National Trafficking and Modern Slavery Prevention Month during the period beginning on January 1, 2023, and ending on February 1, 2023, to raise awareness of, and opposition to, human trafficking and modern slavery.",
+        "bill": "SRES21",
+        "date": "2023-02-01",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on A resolution supporting the observation of National Traffick"
+      },
+      {
+        "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
+        "bill": "HR4346",
+        "date": "2022-07-27",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Nay on A bill making appropriations for Legislative Branch for the "
+      },
+      {
+        "vote_description": "A bill to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.",
+        "bill": "HR3967",
+        "date": "2022-06-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on A bill to improve health care and benefits for veterans expo"
+      },
+      {
+        "vote_description": "A bill to provide for a coordinated Federal research initiative to ensure continued United States leadership in engineering biology.",
+        "bill": "HR4521",
+        "date": "2022-03-28",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Yea on A bill to provide for a coordinated Federal research initiat"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 56.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 18.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 56.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 62.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 55.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

@@ -5,24 +5,1457 @@
   "chamber": "house",
   "state": "NY",
   "district": "23",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/L000600.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 2046727,
+    "campaign_raised": 1931075,
+    "leadership_pac_raised": 115652,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 889803,
+        "donors": [
+          {
+            "name": "BLACKSTONE",
+            "type": "Organization",
+            "amount": 25216
+          },
+          {
+            "name": "ST. PAULY TEXTILE",
+            "type": "Organization",
+            "amount": 18200
+          },
+          {
+            "name": "LIPPES MATHIAS LLP",
+            "type": "Organization",
+            "amount": 15781
+          },
+          {
+            "name": "CORNING",
+            "type": "Organization",
+            "amount": 15255
+          },
+          {
+            "name": "LIPPES MATHIAS WEXLER FRIEDMAN LLP",
+            "type": "Organization",
+            "amount": 15000
+          },
+          {
+            "name": "FREY ELECTRIC CONSTRUCTION CO.",
+            "type": "Organization",
+            "amount": 14800
+          },
+          {
+            "name": "CRYSTAL WINDOW AND DOOR SYSTEMS, LTD",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "NYS ASSEMBLY / SEAMAN NORRIS LLP",
+            "type": "Organization",
+            "amount": 13000
+          },
+          {
+            "name": "REGENT",
+            "type": "Organization",
+            "amount": 12500
+          },
+          {
+            "name": "THE PREMIER NETWORK",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "AIRPORT PLAZA JEWELERS",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "OTIS EASTERN SERVICE LLC",
+            "type": "Organization",
+            "amount": 10500
+          },
+          {
+            "name": "US DEPT. OF HOUSING URBAN DEVELOPMENT",
+            "type": "Organization",
+            "amount": 10250
+          },
+          {
+            "name": "NYCBS",
+            "type": "Organization",
+            "amount": 10055
+          },
+          {
+            "name": "NORTH COUNTRY CAPITAL LLC",
+            "type": "Organization",
+            "amount": 9900
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 856663,
+        "donors": [
+          {
+            "name": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+            "type": "PAC",
+            "amount": 1146158
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 297000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+            "type": "PAC",
+            "amount": 119700
+          },
+          {
+            "name": "FRESHMAN AGRICULTURAL REPUBLICAN MEMBERS TRUST AKA FARM TRUST, ERIC ALAN RICK",
+            "type": "PAC",
+            "amount": 105629
+          },
+          {
+            "name": "NEW YORKERS FOR COMMON SENSE",
+            "type": "PAC",
+            "amount": 102317
+          },
+          {
+            "name": "GROW THE MAJORITY NY",
+            "type": "PAC",
+            "amount": 97121
+          },
+          {
+            "name": "CONSTELLATION BRANDS INC PAC",
+            "type": "PAC",
+            "amount": 95000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 95000
+          },
+          {
+            "name": "THE FARM CREDIT COUNCIL PAC",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "NEW YORK LIFE INSURANCE COMPANY PAC",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "INNOVATION PAC",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC (AFIT-PAC)",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "NATIONAL FUEL GAS COMPANY FEDERAL PAC",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "CORNING INCORPORATED EMPLOYEES PAC (COREPAC)",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 90000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 115652,
+        "donors": [
+          {
+            "name": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+            "type": "PAC",
+            "amount": 1146158
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 297000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+            "type": "PAC",
+            "amount": 119700
+          },
+          {
+            "name": "FRESHMAN AGRICULTURAL REPUBLICAN MEMBERS TRUST AKA FARM TRUST, ERIC ALAN RICK",
+            "type": "PAC",
+            "amount": 105629
+          },
+          {
+            "name": "NEW YORKERS FOR COMMON SENSE",
+            "type": "PAC",
+            "amount": 102317
+          },
+          {
+            "name": "GROW THE MAJORITY NY",
+            "type": "PAC",
+            "amount": 97121
+          },
+          {
+            "name": "CONSTELLATION BRANDS INC PAC",
+            "type": "PAC",
+            "amount": 95000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 95000
+          },
+          {
+            "name": "THE FARM CREDIT COUNCIL PAC",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "NEW YORK LIFE INSURANCE COMPANY PAC",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "INNOVATION PAC",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC (AFIT-PAC)",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "NATIONAL FUEL GAS COMPANY FEDERAL PAC",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "CORNING INCORPORATED EMPLOYEES PAC (COREPAC)",
+            "type": "PAC",
+            "amount": 90000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 90000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00827881",
+            "name": "CIRCLE THE WAGONS PAC",
+            "total_raised": 115652,
+            "top_employers": [
+              {
+                "name": "LIPPES MATHIAS WEXLER FRIEDMAN LLP",
+                "type": "Organization",
+                "amount": 8400
+              },
+              {
+                "name": "NYS ASSEMBLY / SEAMAN NORRIS LLP",
+                "type": "Organization",
+                "amount": 6400
+              },
+              {
+                "name": "AMBRUS ASSET MANAGEMENT",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SUCRO",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "LIPPES MATHIAS LLP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "AIRPORT PLAZA JEWELERS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "THE PREMIER NETWORK",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "ST. PAULY TEXTILE",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "US DEPT. OF HOUSING URBAN DEVELOPMENT",
+                "type": "Organization",
+                "amount": 3650
+              },
+              {
+                "name": "REGENT",
+                "type": "Organization",
+                "amount": 3400
+              },
+              {
+                "name": "OTIS EASTERN SERVICE LLC",
+                "type": "Organization",
+                "amount": 3400
+              },
+              {
+                "name": "NORTH COUNTRY CAPITAL LLC",
+                "type": "Organization",
+                "amount": 3300
+              },
+              {
+                "name": "KPS CAPITAL PARTNERS",
+                "type": "Organization",
+                "amount": 3300
+              },
+              {
+                "name": "FIDELITY INVESTMENTS",
+                "type": "Organization",
+                "amount": 3300
+              },
+              {
+                "name": "ADVANCED CARDIAC SURGICAL ASSOC, PLLC",
+                "type": "Organization",
+                "amount": 2000
+              },
+              {
+                "name": "FISCHER INVESTMENT GROUP, INC.",
+                "type": "Organization",
+                "amount": 1000
+              },
+              {
+                "name": "FREY ELECTRIC CONSTRUCTION CO.",
+                "type": "Organization",
+                "amount": 1000
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+                "type": "PAC",
+                "amount": 81352
+              },
+              {
+                "name": "NATIONAL ASSOCIATION OF REALTORS PAC (RPAC)",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "HOUSE CONSERVATIVES FUND",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "AIR LINE PILOTS ASSOCIATION PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "CONSTELLATION BRANDS INC PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "DELAWARE NORTH COMPANIES, INC. PAC",
+                "type": "PAC",
+                "amount": 3300
+              },
+              {
+                "name": "UNITED PARCEL SERVICE INC. PAC (UPSPAC)",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "REYNOLDS AMERICAN INC. PAC; RAI PAC",
+                "type": "PAC",
+                "amount": 1000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00817932",
+      "total_raised": 1931075,
+      "individual_contributions": 889803,
+      "individual_itemized": 823726,
+      "individual_unitemized": 66077,
+      "pac_contributions": 856663,
+      "other_receipts": 184609,
+      "top_employers": [
+        {
+          "name": "BLACKSTONE",
+          "type": "Organization",
+          "amount": 25216
+        },
+        {
+          "name": "CORNING",
+          "type": "Organization",
+          "amount": 15255
+        },
+        {
+          "name": "FREY ELECTRIC CONSTRUCTION CO.",
+          "type": "Organization",
+          "amount": 13800
+        },
+        {
+          "name": "ST. PAULY TEXTILE",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "CRYSTAL WINDOW AND DOOR SYSTEMS, LTD",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "LIPPES MATHIAS LLP",
+          "type": "Organization",
+          "amount": 10781
+        },
+        {
+          "name": "NYCBS",
+          "type": "Organization",
+          "amount": 10055
+        },
+        {
+          "name": "REGENT",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "TORREY FARMS",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "SEALING DEVICES, INC.",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "FISCHER INVESTMENT GROUP, INC.",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "PHILLIPS LYTLE LLP",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "OTIS EASTERN SERVICE LLC",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "STEPHEN DEVELOPMENT",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "MORNINGSIDE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ATWAL EYE CARE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CLEARPATH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE PREMIER NETWORK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "US DEPT. OF HOUSING URBAN DEVELOPMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LIPPES MATHIAS WEXLER FRIEDMAN LLP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CHARTWELL STRATEGY GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FIT FOR LIFE LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ACCENT STRIPE, INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "COOLEY LLP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BIG DOG STRATEGIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NORTH COUNTRY CAPITAL LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "INDUS HOSPITALITY GROUP INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SINATRA AND CO.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "UNITED REFINING CO.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AIRPORT PLAZA JEWELERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "RANE MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NYS ASSEMBLY / SEAMAN NORRIS LLP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ADVANCED CARDIAC SURGICAL ASSOC, PLLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FIDELITY INVESTMENTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MASIELLO, MARTUCCI & ASSOCIATES",
+          "type": "Organization",
+          "amount": 6326
+        },
+        {
+          "name": "UNION CONCRETE",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "REID COS.",
+          "type": "Organization",
+          "amount": 6200
+        },
+        {
+          "name": "AMERICAN DND, INC.",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "BRIGHT STAR GROUP",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "TODD STRATEGY LLC",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "BARCLAY DAMON, LLP",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "DOUGLAS DEVELOPMENT",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "ACCENT STRIPE INC",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ERIE COUNTY WATER AUTHORITY",
+          "type": "Organization",
+          "amount": 4993
+        },
+        {
+          "name": "ERIE COUNTY SHERIFF'S OFFICE",
+          "type": "Organization",
+          "amount": 4620
+        },
+        {
+          "name": "BUCKMAN",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "FABER HOMES",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "CARD & ASSOCIATES",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "W STRATEGIES",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "RENDR",
+          "type": "Organization",
+          "amount": 4130
+        },
+        {
+          "name": "RICH FEUER ANDERSON",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "RAYMOUR & FLANIGAN",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "A. TITAN INSTRUMENTS",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "PAC TOOL MOUNTS",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "NIAGARA CUSTOM PLATING",
+          "type": "Organization",
+          "amount": 3700
+        },
+        {
+          "name": "NATIONAL MILK PRODUCERS FEDERATION",
+          "type": "Organization",
+          "amount": 3550
+        },
+        {
+          "name": "UNILAND DEVELOPMENT",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "ERIE COUNTY LEGISLATOR",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "CVS PHARMACY",
+          "type": "Organization",
+          "amount": 3449
+        },
+        {
+          "name": "VEIN TREATMENT CENTER",
+          "type": "Organization",
+          "amount": 3400
+        },
+        {
+          "name": "MATTOON & ASSOCIATES",
+          "type": "Organization",
+          "amount": 3350
+        },
+        {
+          "name": "WE SAVE LOCAL, LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "NOCO PROPERTIES LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AMBRUS ASSET MANAGEMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GLENDALE DEVELOPMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "1A AUTO INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KPS CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "INTERARCH, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CLINIQUE LABORATORIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TREE OF LIFE FOUNDATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SUCRO",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MURPHY COMPANY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ERIE COUNTY BOE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BOUSQUET HOLSTEIN",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TRY-IT DISTRIBUTING",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MIDDLEPORT PHARMACY",
+          "type": "Organization",
+          "amount": 3047
+        },
+        {
+          "name": "FARRAGUT PARTNERS",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "THE RUSSELL GROUP",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "WROTB",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "JOSEPH RATNER COMPANY INC",
+          "type": "Organization",
+          "amount": 2970
+        },
+        {
+          "name": "BULLFROG HOTEL BAR AND GRILL",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "TUSCARORA INDIAN BUSINESS SERVICES",
+          "type": "Organization",
+          "amount": 2600
+        },
+        {
+          "name": "AML RIGHTSOURCE",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "JAMESTOWN MACADAM, INC.",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "IMPACT JOURNALS, LLC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "BBX CAPITAL",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "NOVELLI WELLNESS CENTER",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SLOAN-KETTERING CANCER CTR",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "THE SMITH FREE GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "LAPUR LLC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "INTUIT",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "HARBINGER STRATEGIES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "CAPITOL HILL POLICY GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "THE JUDGE GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "THE HOBBS GROUP, LLC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ULRICH DEVELOPMENT CO., LLC",
+          "type": "Organization",
+          "amount": 2500
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+          "type": "PAC",
+          "amount": 1064806
+        },
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 297000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+          "type": "PAC",
+          "amount": 119700
+        },
+        {
+          "name": "FRESHMAN AGRICULTURAL REPUBLICAN MEMBERS TRUST AKA FARM TRUST, ERIC ALAN RICK",
+          "type": "PAC",
+          "amount": 105629
+        },
+        {
+          "name": "NEW YORKERS FOR COMMON SENSE",
+          "type": "PAC",
+          "amount": 102317
+        },
+        {
+          "name": "GROW THE MAJORITY NY",
+          "type": "PAC",
+          "amount": 97121
+        },
+        {
+          "name": "THE FARM CREDIT COUNCIL PAC",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "NEW YORK LIFE INSURANCE COMPANY PAC",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "INNOVATION PAC",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "CONSTELLATION BRANDS INC PAC",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC (AFIT-PAC)",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "NATIONAL FUEL GAS COMPANY FEDERAL PAC",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "CORNING INCORPORATED EMPLOYEES PAC (COREPAC)",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "UBS AMERICAS INC. PAC (UBS PAC)",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING PAC INC",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS (EMMER PAC)",
+          "type": "PAC",
+          "amount": 90000
+        },
+        {
+          "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+          "type": "PAC",
+          "amount": 67500
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+          "type": "PAC",
+          "amount": 67500
+        },
+        {
+          "name": "NUCOR CORPORATION PAC",
+          "type": "PAC",
+          "amount": 63000
+        },
+        {
+          "name": "SENECA NATION OF INDIANS",
+          "type": "PAC",
+          "amount": 59400
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "THE EYE OF THE TIGER PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF TH...",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "AMERICAN INVESTMENT COUNCIL PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "NATIONAL PROPANE GAS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF PLUMBING-HEATING-COOLING CONTRACTORS PAC AKA PHCC-PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "FORD MOTOR COMPANY CIVIC ACTION FUND",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "PUBLIC SERVICE ENTERPRISE GROUP INC. PAC (PEGPAC)",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "THOROUGHBRED PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "KOCH INDUSTRIES, INC. PAC (KOCHPAC)",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "FRIENDS OF COMMUNITY ONCOLOGY PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "DELAWARE NORTH COMPANIES, INC. PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "CONQUERING CANCER PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "CHEVRON EMPLOYEES PAC (CEPAC)",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "NATIONAL RESTAURANT ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "AMERICAN DENTAL ASSOCIATION PAC (ADA PAC)",
+          "type": "PAC",
+          "amount": 45000
+        },
+        {
+          "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC (SWAPA PAC)",
+          "type": "PAC",
+          "amount": 40500
+        },
+        {
+          "name": "GT FARM TEAM 2024",
+          "type": "PAC",
+          "amount": 37901
+        },
+        {
+          "name": "H&R BLOCK INC. PAC (BLOCKPAC)",
+          "type": "PAC",
+          "amount": 36000
+        },
+        {
+          "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PAC",
+          "type": "PAC",
+          "amount": 36000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS PAC (RPAC)",
+          "type": "PAC",
+          "amount": 36000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 36000
+        },
+        {
+          "name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
+          "type": "PAC",
+          "amount": 31500
+        },
+        {
+          "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. PAC",
+          "type": "PAC",
+          "amount": 31500
+        },
+        {
+          "name": "WE SAVE LOCAL, LLC",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "SECURING THE REPUBLIC FOR OUR NEXT GENERATION",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "FIRST IN TEXAS PAC",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "RED HOOK PAC",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "1890 PAC",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "PHILLIPS LYTLE LLP",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "NOCO PROPERTIES LLC",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "TENACIOUS PAC",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "MVL PAC",
+          "type": "PAC",
+          "amount": 29700
+        },
+        {
+          "name": "COMCAST CORPORATION & NBCUNIVERSAL PAC - FEDERAL",
+          "type": "PAC",
+          "amount": 27000
+        },
+        {
+          "name": "CEILING AND VISIBILITY UNLIMITED (CAVU PAC)",
+          "type": "PAC",
+          "amount": 27000
+        },
+        {
+          "name": "FERT PAC (THE PAC OF THE FERTILIZER INSTITUTE)",
+          "type": "PAC",
+          "amount": 27000
+        },
+        {
+          "name": "NATIONAL PORK PRODUCERS COUNCIL PORK PAC",
+          "type": "PAC",
+          "amount": 22500
+        },
+        {
+          "name": "HEIDELBERG MATERIALS US, INC. PAC",
+          "type": "PAC",
+          "amount": 22500
+        },
+        {
+          "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC (NSSGA ROCKPAC)",
+          "type": "PAC",
+          "amount": 22500
+        },
+        {
+          "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION PAC (NRLCA PAC)",
+          "type": "PAC",
+          "amount": 22500
+        },
+        {
+          "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION (NECAPAC)",
+          "type": "PAC",
+          "amount": 22500
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "type": "PAC",
+          "amount": 22500
+        },
+        {
+          "name": "CHARTER COMMUNICATIONS INC. PAC",
+          "type": "PAC",
+          "amount": 22500
+        },
+        {
+          "name": "AVANGRID PAC",
+          "type": "PAC",
+          "amount": 22500
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00827881",
+        "name": "CIRCLE THE WAGONS PAC",
+        "total_raised": 115652,
+        "top_employers": [
+          {
+            "name": "LIPPES MATHIAS WEXLER FRIEDMAN LLP",
+            "type": "Organization",
+            "amount": 8400
+          },
+          {
+            "name": "NYS ASSEMBLY / SEAMAN NORRIS LLP",
+            "type": "Organization",
+            "amount": 6400
+          },
+          {
+            "name": "AMBRUS ASSET MANAGEMENT",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SUCRO",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "LIPPES MATHIAS LLP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "AIRPORT PLAZA JEWELERS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "THE PREMIER NETWORK",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ST. PAULY TEXTILE",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "US DEPT. OF HOUSING URBAN DEVELOPMENT",
+            "type": "Organization",
+            "amount": 3650
+          },
+          {
+            "name": "REGENT",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "OTIS EASTERN SERVICE LLC",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "NORTH COUNTRY CAPITAL LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "KPS CAPITAL PARTNERS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "FIDELITY INVESTMENTS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "ADVANCED CARDIAC SURGICAL ASSOC, PLLC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "FISCHER INVESTMENT GROUP, INC.",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "FREY ELECTRIC CONSTRUCTION CO.",
+            "type": "Organization",
+            "amount": 1000
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+            "type": "PAC",
+            "amount": 81352
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS PAC (RPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HOUSE CONSERVATIVES FUND",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CONSTELLATION BRANDS INC PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "DELAWARE NORTH COMPANIES, INC. PAC",
+            "type": "PAC",
+            "amount": 3300
+          },
+          {
+            "name": "UNITED PARCEL SERVICE INC. PAC (UPSPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "REYNOLDS AMERICAN INC. PAC; RAI PAC",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 91,
+    "total_votes_scored": 73,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AIR LINE PILOTS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "KOCH INDUSTRIES, INC. PAC (KOCHPAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AIR LINE PILOTS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 2,
+    "against_electorate_pct": 100,
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 58.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 65.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

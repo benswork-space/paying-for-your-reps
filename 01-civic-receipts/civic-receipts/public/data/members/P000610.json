@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "VI",
   "district": "0",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/P000610.jpg",
   "serving_since": 2015,
   "years_in_office": 11,
@@ -14,10 +15,61 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 88,
+    "total_votes_scored": 28,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "",
+        "bill": "HR1516",
+        "date": "2024-09-10",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on "
+      },
+      {
+        "vote_description": "",
+        "bill": "HR1615",
+        "date": "2023-06-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on "
+      },
+      {
+        "vote_description": "",
+        "bill": "HR4776",
+        "date": "2025-12-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on "
+      },
+      {
+        "vote_description": "",
+        "bill": "HR3838",
+        "date": "2025-09-10",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on "
+      },
+      {
+        "vote_description": "",
+        "bill": "HR5",
+        "date": "2023-03-24",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on "
+      }
+    ]
   },
   "electorate_alignment": {
     "issues_scored": 0,

@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "IA",
   "district": null,
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/E000295.jpg",
   "serving_since": 2015,
   "years_in_office": 11,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 74,
+    "total_votes_scored": 12,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to reauthorize wildlife habitat and conservation programs, and for other purposes.",
+        "bill": "HR5009",
+        "date": "2024-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on A bill to reauthorize wildlife habitat and conservation prog"
+      },
+      {
+        "vote_description": "A bill to reform the Foreign Intelligence Surveillance Act of 1978.",
+        "bill": "HR7888",
+        "date": "2024-04-19",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on A bill to reform the Foreign Intelligence Surveillance Act o"
+      },
+      {
+        "vote_description": "A bill to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+        "bill": "HR2670",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on A bill to authorize appropriations for fiscal year 2024 for "
+      },
+      {
+        "vote_description": "A bill to amend the Disaster Relief Supplemental Appropriations Act, 2023 to improve disaster relief funding for agricultural producers, and for other purposes.",
+        "bill": "HR662",
+        "date": "2023-11-01",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "ARCHER DANIELS MIDLAND COMPANY - ADM PAC",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on A bill to amend the Disaster Relief Supplemental Appropriati"
+      },
+      {
+        "vote_description": "To rescind funds from the Department of Energy loan programs office.",
+        "bill": "HR9468",
+        "date": "2024-09-19",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Nay on To rescind funds from the Department of Energy loan programs"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 88.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 58.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 15.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 61.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 68.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 67.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

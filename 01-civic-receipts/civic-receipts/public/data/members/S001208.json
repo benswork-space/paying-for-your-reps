@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "MI",
   "district": null,
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/S001208.jpg",
   "serving_since": 2019,
   "years_in_office": 7,
@@ -14,15 +15,107 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 61,
+    "total_votes_scored": 33,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Crucial Communism Teaching Act",
+        "bill": "HR5349",
+        "date": "2024-12-06",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Crucial Communism Teaching Act"
+      },
+      {
+        "vote_description": "Antisemitism Awareness Act",
+        "bill": "HR6090",
+        "date": "2024-05-01",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "MI PLANNED PARENTHOOD VOTES",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Yea on Antisemitism Awareness Act"
+      },
+      {
+        "vote_description": "STOP CCP Act",
+        "bill": "HR3334",
+        "date": "2024-09-25",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on STOP CCP Act"
+      },
+      {
+        "vote_description": "Accreditation for College Excellence Act",
+        "bill": "HR3724",
+        "date": "2024-09-19",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Accreditation for College Excellence Act"
+      },
+      {
+        "vote_description": "Protection of Women and Girls in Sports Act",
+        "bill": "HR734",
+        "date": "2023-04-20",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "MI PLANNED PARENTHOOD VOTES",
+        "donor_category": "Reproductive rights groups",
+        "donor_expected": "Yea on Protection of Women and Girls in Sports Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 5,
+    "against_electorate_pct": 20,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 91.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 60.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 61.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 69.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 66.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

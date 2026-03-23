@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "CA",
   "district": "11",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/P000197.jpg",
   "serving_since": 1987,
   "years_in_office": 39,
@@ -2168,97 +2169,104 @@
     ]
   },
   "donor_alignment": {
-    "overall_pct": 67,
-    "total_votes_scored": 24,
+    "overall_pct": 92,
+    "total_votes_scored": 208,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "industry": "(Defense)",
-        "industry_preferred": "Yea",
-        "member_voted": "Yea",
-        "aligned": true,
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
         "date": "2026-01-22",
-        "bill_url": "",
-        "donors": [
-          "L3HARRIS TECHNOLOGIES, INC. PAC ($50,000)"
-        ]
-      },
-      {
-        "vote_description": "Financial Services and General Government and National Security, Department of State, and Related Programs Appropriations Act, 2026",
-        "industry": "(Finance)",
-        "industry_preferred": "Yea",
-        "member_voted": "Yea",
-        "aligned": true,
-        "date": "2026-01-14",
-        "bill_url": "",
-        "donors": [
-          "AMERICA'S CREDIT UNIONS PAC ($50,000)",
-          "VISA, INC. PAC ($50,000)"
-        ]
-      },
-      {
-        "vote_description": "To direct the removal of United States Armed Forces from hostilities within or against Venezuela that have not been authorized by Congress",
-        "industry": "(Defense)",
-        "industry_preferred": "Yea",
-        "member_voted": "Yea",
-        "aligned": true,
-        "date": "2025-12-17",
-        "bill_url": "",
-        "donors": [
-          "L3HARRIS TECHNOLOGIES, INC. PAC ($50,000)"
-        ]
-      },
-      {
-        "vote_description": "Flexibility for Workers Education Act",
-        "industry": "(Labor)",
-        "industry_preferred": "Yea",
         "member_voted": "Nay",
-        "aligned": false,
-        "date": "2026-01-13",
-        "bill_url": "",
-        "donors": [
-          "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNT. BROTHERHOOD OF CARPENTERS & JOINERS ($150,000)",
-          "AMERICAN FEDERATION OF TEACHERS COPE ($150,000)",
-          "ENGINEERS POLITICAL EDUCATION COMMITTEE ($150,000)"
-        ]
+        "aligned": true,
+        "donor_name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNT. BROTHERHOOD OF CARPENTERS & JOINERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
       },
       {
         "vote_description": "Do No Harm in Medicaid Act",
-        "industry": "(Healthcare)",
-        "industry_preferred": "Yea",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "Emergency Housing Protections and Relief Act",
+        "bill": "HR7301",
+        "date": "2020-06-29",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea on Emergency Housing Protections and Relief Act"
+      },
+      {
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "COMCAST CORPORATION & NBCUNIVERSAL PAC",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Yea on Making appropriations for Legislative Branch for the fiscal "
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
         "member_voted": "Nay",
         "aligned": false,
-        "date": "2025-12-18",
-        "bill_url": "",
-        "donors": [
-          "AMERICAN DENTAL ASSOCIATION PAC ($150,000)",
-          "AMERICAN HOSPITAL ASSOCIATION PAC ($100,000)",
-          "AFLAC PAC ($50,000)"
-        ]
+        "donor_name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNT. BROTHERHOOD OF CARPENTERS & JOINERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 1,
+    "issues_scored": 4,
     "against_electorate_pct": 0,
     "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 91.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 72.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 69.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
       {
         "issue": "Regulate CO2 as a pollutant",
         "district_support_pct": 70.7,
         "margin_of_error": 7,
-        "member_position": "Voted Nay, with district",
+        "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],
-    "against_electorate_with_donors": [],
-    "methodology": "MRP on CES 2018-2021 survey data (164,700 respondents)"
+    "against_electorate_with_donors": []
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/nancy-pelosi/P000197",
     "opensecrets": "https://www.opensecrets.org/members-of-congress/summary?cid=N00007360",
     "official_website": "https://pelosi.house.gov"
-  },
-  "gender": "F"
+  }
 }

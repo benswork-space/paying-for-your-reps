@@ -1,0 +1,532 @@
+{
+  "bioguide_id": "H001103",
+  "name": "Pablo Jos\u00e9 Hern\u00e1ndez",
+  "congresses": [
+    119
+  ],
+  "chamber": "house",
+  "ideology": {
+    "nominate_dim1": -0.496,
+    "nominate_dim2": -0.194,
+    "description": "DW-NOMINATE scores: dim1 = liberal (-1) to conservative (+1), dim2 = social issues"
+  },
+  "vote_stats": {
+    "total_votes": 46,
+    "yea": 6,
+    "nay": 40,
+    "absent_or_present": 0,
+    "congresses_covered": 1
+  },
+  "recent_votes": [
+    {
+      "congress": 119,
+      "roll_number": 404,
+      "date": "2026-01-22",
+      "bill": "HR7148",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "N/A",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 403,
+      "date": "2026-01-22",
+      "bill": "HR7148",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "N/A",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 387,
+      "date": "2026-01-14",
+      "bill": "HR7006",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "N/A",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 386,
+      "date": "2026-01-14",
+      "bill": "HR7006",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "N/A",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 353,
+      "date": "2025-12-18",
+      "bill": "HR4776",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 352,
+      "date": "2025-12-18",
+      "bill": "HR4776",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 351,
+      "date": "2025-12-18",
+      "bill": "HR4776",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 326,
+      "date": "2025-12-11",
+      "bill": "HR3383",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Yea",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 325,
+      "date": "2025-12-11",
+      "bill": "HR3383",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Yea",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 324,
+      "date": "2025-12-11",
+      "bill": "HR3383",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 259,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Yea",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 258,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 257,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 256,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 255,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 254,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 253,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 252,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 251,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 250,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 249,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 248,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 247,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 246,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 245,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 244,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 243,
+      "date": "2025-09-10",
+      "bill": "HR3838",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Yea",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 236,
+      "date": "2025-09-04",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 235,
+      "date": "2025-09-04",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 234,
+      "date": "2025-09-04",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 233,
+      "date": "2025-09-03",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 232,
+      "date": "2025-09-03",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 231,
+      "date": "2025-09-03",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 230,
+      "date": "2025-09-03",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 229,
+      "date": "2025-09-03",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "N/A",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 228,
+      "date": "2025-09-03",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 227,
+      "date": "2025-09-03",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 226,
+      "date": "2025-09-03",
+      "bill": "HR4553",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 209,
+      "date": "2025-07-18",
+      "bill": "HR4016",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 208,
+      "date": "2025-07-18",
+      "bill": "HR4016",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 207,
+      "date": "2025-07-18",
+      "bill": "HR4016",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 206,
+      "date": "2025-07-18",
+      "bill": "HR4016",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 205,
+      "date": "2025-07-18",
+      "bill": "HR4016",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 204,
+      "date": "2025-07-18",
+      "bill": "HR4016",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 203,
+      "date": "2025-07-18",
+      "bill": "HR4016",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 179,
+      "date": "2025-06-25",
+      "bill": "HR3944",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Agreed to"
+    },
+    {
+      "congress": 119,
+      "roll_number": 149,
+      "date": "2025-06-04",
+      "bill": "HR2483",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Yea",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 81,
+      "date": "2025-03-27",
+      "bill": "HR1048",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 80,
+      "date": "2025-03-27",
+      "bill": "HR1048",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 79,
+      "date": "2025-03-27",
+      "bill": "HR1048",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Nay",
+      "result": "Failed"
+    },
+    {
+      "congress": 119,
+      "roll_number": 78,
+      "date": "2025-03-27",
+      "bill": "HR1048",
+      "description": "",
+      "question": "On Agreeing to the Amendment",
+      "position": "Yea",
+      "result": "Failed"
+    }
+  ]
+}

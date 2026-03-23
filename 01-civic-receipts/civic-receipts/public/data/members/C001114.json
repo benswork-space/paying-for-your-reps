@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "UT",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/C001114.jpg",
   "serving_since": 2017,
   "years_in_office": 9,
@@ -14,15 +15,107 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 77,
+    "total_votes_scored": 31,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act",
+        "bill": "HJRES42",
+        "date": "2023-04-19",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CONSERVATION COALITION PAC (ACC PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on Disapproving the action of the District of Columbia Council "
+      },
+      {
+        "vote_description": "Merger Filing Fee Modernization Act",
+        "bill": "HR3843",
+        "date": "2022-09-29",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Merger Filing Fee Modernization Act"
+      },
+      {
+        "vote_description": "Disapproving the action of the District of Columbia Council in approving the Local Resident Voting Rights Amendment Act of 2022",
+        "bill": "HJRES24",
+        "date": "2023-02-09",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CONSERVATION COALITION PAC (ACC PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on Disapproving the action of the District of Columbia Council "
+      },
+      {
+        "vote_description": "To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",
+        "bill": "HR1023",
+        "date": "2024-03-22",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN CONSERVATION COALITION PAC (ACC PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on To repeal section 134 of the Clean Air Act, relating to the "
+      },
+      {
+        "vote_description": "Pandemic is Over Act",
+        "bill": "HR382",
+        "date": "2023-01-31",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Pandemic is Over Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 5,
+    "against_electorate_pct": 60,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 88.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 49.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 57.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 61.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 59.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

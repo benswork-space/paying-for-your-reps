@@ -5,24 +5,1152 @@
   "chamber": "house",
   "state": "IL",
   "district": "3",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/R000617.jpg",
   "serving_since": 2023,
   "years_in_office": 3,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1148288,
+    "campaign_raised": 1131488,
+    "leadership_pac_raised": 16800,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 682287,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 31413
+          },
+          {
+            "name": "D'ESCOTO INC.",
+            "type": "Organization",
+            "amount": 11650
+          },
+          {
+            "name": "AYAZZ CONSTRCTION LLC",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "STATE OF ILLINOIS",
+            "type": "Organization",
+            "amount": 8550
+          },
+          {
+            "name": "BULL AND BEAR CO",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "NORWEGIAN AMERICAN HOSPITAL",
+            "type": "Organization",
+            "amount": 6900
+          },
+          {
+            "name": "TAI GINSBERG & ASSOCIATES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ARIEL INVESTMENTS LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "POLK BROS FOUNDATION",
+            "type": "Organization",
+            "amount": 6520
+          },
+          {
+            "name": "BARNES & THORNBURG",
+            "type": "Organization",
+            "amount": 6500
+          },
+          {
+            "name": "JAWAHIR JEWELRY",
+            "type": "Organization",
+            "amount": 6300
+          },
+          {
+            "name": "ALTERNATIVE SCHOOLS NETWORK",
+            "type": "Organization",
+            "amount": 5750
+          },
+          {
+            "name": "HUBCOM",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "STANFORD UNIVERSITY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "2IM GROUP LLC",
+            "type": "Organization",
+            "amount": 4650
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 401517,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1042800
+          },
+          {
+            "name": "ROOTED IN MOVEMENT",
+            "type": "PAC",
+            "amount": 390000
+          },
+          {
+            "name": "LOCAL 881 UNITED FOOD AND COMMERCIAL WORKERS POLITICAL ACTION FUND",
+            "type": "PAC",
+            "amount": 105000
+          },
+          {
+            "name": "MEDICARE FOR ALL PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "PAC TO THE FUTURE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "COURAGE TO CHANGE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "JUSTICE DEMOCRATS PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "CHC BOLD PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 80000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 150 POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 75000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 75000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 16800,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1042800
+          },
+          {
+            "name": "ROOTED IN MOVEMENT",
+            "type": "PAC",
+            "amount": 390000
+          },
+          {
+            "name": "LOCAL 881 UNITED FOOD AND COMMERCIAL WORKERS POLITICAL ACTION FUND",
+            "type": "PAC",
+            "amount": 105000
+          },
+          {
+            "name": "MEDICARE FOR ALL PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "PAC TO THE FUTURE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "COURAGE TO CHANGE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "JUSTICE DEMOCRATS PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "CHC BOLD PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 80000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 150 POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 75000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 75000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00863712",
+            "name": "ROOTED & READY PAC",
+            "total_raised": 16800,
+            "top_employers": [
+              {
+                "name": "D'ESCOTO INC.",
+                "type": "Organization",
+                "amount": 2500
+              },
+              {
+                "name": "BARNES & THORNBURG",
+                "type": "Organization",
+                "amount": 500
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "ACTBLUE",
+                "type": "PAC",
+                "amount": 6800
+              },
+              {
+                "name": "AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "LOCAL 881 UNITED FOOD AND COMMERCIAL WORKERS POLITICAL ACTION FUND",
+                "type": "PAC",
+                "amount": 5000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00796672",
+      "total_raised": 1131488,
+      "individual_contributions": 682287,
+      "individual_itemized": 561198,
+      "individual_unitemized": 121089,
+      "pac_contributions": 401517,
+      "other_receipts": 47684,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 31413
+        },
+        {
+          "name": "AYAZZ CONSTRCTION LLC",
+          "type": "Organization",
+          "amount": 11600
+        },
+        {
+          "name": "D'ESCOTO INC.",
+          "type": "Organization",
+          "amount": 9150
+        },
+        {
+          "name": "STATE OF ILLINOIS",
+          "type": "Organization",
+          "amount": 8550
+        },
+        {
+          "name": "BULL AND BEAR CO",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "NORWEGIAN AMERICAN HOSPITAL",
+          "type": "Organization",
+          "amount": 6900
+        },
+        {
+          "name": "TAI GINSBERG & ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARIEL INVESTMENTS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "POLK BROS FOUNDATION",
+          "type": "Organization",
+          "amount": 6520
+        },
+        {
+          "name": "JAWAHIR JEWELRY",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "BARNES & THORNBURG",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "ALTERNATIVE SCHOOLS NETWORK",
+          "type": "Organization",
+          "amount": 5750
+        },
+        {
+          "name": "HUBCOM",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "STANFORD UNIVERSITY",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "2IM GROUP LLC",
+          "type": "Organization",
+          "amount": 4650
+        },
+        {
+          "name": "CITY OF CHICAGO",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "CCAO",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "FUENTES CONSULTING",
+          "type": "Organization",
+          "amount": 4050
+        },
+        {
+          "name": "PUERTO RICAN CULTURAL CENTER",
+          "type": "Organization",
+          "amount": 4040
+        },
+        {
+          "name": "PEDIATRIC HEALTH ASSOCIATES",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "ACCESS COMMUNITY HEALTH NETWORK",
+          "type": "Organization",
+          "amount": 3512
+        },
+        {
+          "name": "IBF PROP MGMT LLC",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "ABY & SUMMER INC",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "GILLONS INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FUEL LINE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MDHCS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "NORTHWESTERN MEDICINE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BLOCK",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AS BEVERAGE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "UNITED HEATH CARE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "OPTIMA LAB",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BTEC / XD TECH",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SAKS TECHNOLOGIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KAPITAN GOMAA",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PMP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "RIVERSIDE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AHMAD PROPERTIES",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "LINKEDIN",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "PRAIRIE MANAGEMENT AND DEVELOPMENT, IN",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "ILLINOIS SENATE",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "ARAB AMERICAN INSTITUTE",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "THE PUERTO RICAN CULTURAL CENTER",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "PRAIRIE MANAGEMENT AND DEVELOPMENT INC",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "NMPRAC",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "COGAN & POWER",
+          "type": "Organization",
+          "amount": 2600
+        },
+        {
+          "name": "INNER CITY MUSLIM ACTION NETWORK",
+          "type": "Organization",
+          "amount": 2600
+        },
+        {
+          "name": "MPI / WATERMELON",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "IWCC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "BEN LAZARE CONSULTING",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "GABRIEL LOPEZ AND ASSOCIATES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "CHADBOURNE & PARKE LLP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "DATA-DRIVEN NARRATIVES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "LAMBENT FOUNDATION",
+          "type": "Organization",
+          "amount": 2475
+        },
+        {
+          "name": "HUGHES SOCOL PIERS RSNICK & DYM LTD.",
+          "type": "Organization",
+          "amount": 2350
+        },
+        {
+          "name": "MERCYHEALTH",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "TRIANGLE RESTAURANTS",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "TORRES CONSULTING INC",
+          "type": "Organization",
+          "amount": 2150
+        },
+        {
+          "name": "BICKERDIKE REDEVELOPMENT CORP.",
+          "type": "Organization",
+          "amount": 2050
+        },
+        {
+          "name": "EVERSPRING",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TED LIEU FOR CONGRESS COMMITTEE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "GERMANE NEPHROLOGY",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "S&P GLOBAL",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "JASMIN MEDITERRANEAN",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "GENESIS ORTHOPEDICS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "SSM HEALTH",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PROPHARMA",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "AISHA QADEER",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "OWNER",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "DUANE MORRIS LLP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TSG",
+          "type": "Organization",
+          "amount": 1800
+        },
+        {
+          "name": "ELEVATE",
+          "type": "Organization",
+          "amount": 1791
+        },
+        {
+          "name": "CPS",
+          "type": "Organization",
+          "amount": 1782
+        },
+        {
+          "name": "ACCENTURE",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "CHICAGO CARES",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "MPI",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "STAR AUTO",
+          "type": "Organization",
+          "amount": 1675
+        },
+        {
+          "name": "NACHC",
+          "type": "Organization",
+          "amount": 1625
+        },
+        {
+          "name": "WORLD BICYCLE RELIEF",
+          "type": "Organization",
+          "amount": 1515
+        },
+        {
+          "name": "HHDC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BRAVO HOSPITALITY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "NA",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "COOK COUNTY GOVERNMENT",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CNA FINANCIAL",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "ACHIEVE AGENCY INC.",
+          "type": "Organization",
+          "amount": 1350
+        },
+        {
+          "name": "CHICAGO PUBLIC SCHOOLS",
+          "type": "Organization",
+          "amount": 1300
+        },
+        {
+          "name": "HITN",
+          "type": "Organization",
+          "amount": 1300
+        },
+        {
+          "name": "JOELRMONARCH ATTY",
+          "type": "Organization",
+          "amount": 1290
+        },
+        {
+          "name": "UNIVERSITY OF CHICAGO",
+          "type": "Organization",
+          "amount": 1260
+        },
+        {
+          "name": "HERRING & PANZER LLP",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "PRICEWATERHOUSECOOPERS",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "UNITED WORKING FAMILIES",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "MCK",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "CIVIC ENGINEER",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "INGALLS HOSPITAL",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "ARAB AMERICAN FAMILY SERVICES",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "NONPROFIT",
+          "type": "Organization",
+          "amount": 1250
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 1036000
+        },
+        {
+          "name": "ROOTED IN MOVEMENT",
+          "type": "PAC",
+          "amount": 390000
+        },
+        {
+          "name": "MEDICARE FOR ALL PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "LOCAL 881 UNITED FOOD AND COMMERCIAL WORKERS POLITICAL ACTION FUND",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "PAC TO THE FUTURE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "COURAGE TO CHANGE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "JUSTICE DEMOCRATS PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "CHC BOLD PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 80000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 150 POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 75000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 75000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "WFP NATIONAL PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DEMAND JUSTICE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "WORKING FAMILIES PARTY NATIONAL PAC WFP",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "THE LABORERS' INTERNATIONAL UNION OF NORTH AMERICA PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ILLINOIS MUSLIM POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "PRAIRIE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DEFEND THE VOTE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "WAY TO LEAD PAC",
+          "type": "PAC",
+          "amount": 47890
+        },
+        {
+          "name": "CHICAGO TEACHERS UNION-SSF",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "TRANSPORT WORKERS UNION OF AMERICA",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "ROOTED IN COMMUNITY LEADERSHIP PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "PROGRESSIVE VOTERS OF AMERICA",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNION PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "IMMIGRANTS' LIST",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF HEAT AND FROST INSULATORS AND ALLIED WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+          "type": "PAC",
+          "amount": 25000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00863712",
+        "name": "ROOTED & READY PAC",
+        "total_raised": 16800,
+        "top_employers": [
+          {
+            "name": "D'ESCOTO INC.",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "BARNES & THORNBURG",
+            "type": "Organization",
+            "amount": 500
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 6800
+          },
+          {
+            "name": "AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LOCAL 881 UNITED FOOD AND COMMERCIAL WORKERS POLITICAL ACTION FUND",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 84,
+    "total_votes_scored": 79,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes",
+        "bill": "HR7147",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICA'S CREDIT UNION PAC",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on Making further consolidated appropriations for the fiscal ye"
+      },
+      {
+        "vote_description": "DUMP Red Tape Act",
+        "bill": "HR4305",
+        "date": "2025-12-03",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on DUMP Red Tape Act"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 2,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 63.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 75.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

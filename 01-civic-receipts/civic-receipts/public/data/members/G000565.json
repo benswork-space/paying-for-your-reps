@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "AZ",
   "district": "9",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/G000565.jpg",
   "serving_since": 2011,
   "years_in_office": 15,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 93,
+    "total_votes_scored": 41,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Kayla Hamilton Act",
+        "bill": "HR4371",
+        "date": "2025-12-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on Kayla Hamilton Act"
+      },
+      {
+        "vote_description": "CLEAN DC Act",
+        "bill": "HR5107",
+        "date": "2025-11-19",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on CLEAN DC Act"
+      },
+      {
+        "vote_description": "District of Columbia Cash Bail Reform Act",
+        "bill": "HR5214",
+        "date": "2025-11-19",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on District of Columbia Cash Bail Reform Act"
+      },
+      {
+        "vote_description": "District of Columbia Policing Protection Act",
+        "bill": "HR5143",
+        "date": "2025-09-17",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on District of Columbia Policing Protection Act"
+      },
+      {
+        "vote_description": "Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enforcement agencies",
+        "bill": "HCONRES40",
+        "date": "2023-05-18",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Nay on Expressing support for local law enforcement officers and co"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 100,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 64.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 66.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 70.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "AL",
   "district": "4",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/A000055.jpg",
   "serving_since": 1997,
   "years_in_office": 29,
@@ -14,15 +15,91 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 94,
+    "total_votes_scored": 84,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "To require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes",
+        "bill": "S1071",
+        "date": "2025-12-10",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on To require the Secretary of Veterans Affairs to disinter the"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Nay on Making appropriations for Legislative Branch for the fiscal "
+      },
+      {
+        "vote_description": "To prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia",
+        "bill": "HR192",
+        "date": "2024-05-23",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Nay on To prohibit individuals who are not citizens of the United S"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 33,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 50.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 35.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 59.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

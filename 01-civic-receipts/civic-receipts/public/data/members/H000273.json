@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "CO",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/H000273.jpg",
   "serving_since": 2021,
   "years_in_office": 5,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 67,
+    "total_votes_scored": 9,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
+        "bill": "S3853",
+        "date": "2024-03-07",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+      },
+      {
+        "vote_description": "A bill to require the imposition of sanctions with respect to entities responsible for the planning, construction, or operation of the Nord Stream 2 pipeline and their corporate officers and to apply congressional review under the Countering America's Adversaries Through Sanctions Act to the removal of sanctions relating to Nord Stream 2, and for other purposes.",
+        "bill": "S3436",
+        "date": "2022-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on A bill to require the imposition of sanctions with respect t"
+      },
+      {
+        "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
+        "bill": "HR4346",
+        "date": "2022-07-27",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "CHARTER SCHOOLS ACTION PAC",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Yea on A bill making appropriations for Legislative Branch for the "
+      },
+      {
+        "vote_description": "A joint resolution to provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers' Conference Committee of the National Railway Labor Conference and certain of their employees.",
+        "bill": "HJRES100",
+        "date": "2022-12-01",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on A joint resolution to provide for a resolution with respect "
+      },
+      {
+        "vote_description": "A bill to prohibit the use of funds to implement, administer, or enforce certain rules of the Environmental Protection Agency.",
+        "bill": "S4072",
+        "date": "2024-04-18",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on A bill to prohibit the use of funds to implement, administer"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 33,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 61.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 15.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 60.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 65.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 63.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

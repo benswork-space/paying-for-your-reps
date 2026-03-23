@@ -33,24 +33,125 @@ def slugify_name(name):
     return name.lower().replace(" ", "-").replace(".", "").replace("'", "")
 
 
-def generate_member_json(member, finance, donor_alignment, electorate_alignment):
-    """Generate the full member JSON matching the app's MemberData type."""
-    bio_id = member["bioguide_id"]
-    opensecrets_id = member.get("opensecrets_id", "")
+def build_funding_from_fec(fec_data):
+    """Build the full funding structure from an FEC sidecar file."""
+    totals = fec_data.get("totals", {})
+    cycle = str(fec_data.get("cycle", "2024"))
+    campaign_pac_contributors = fec_data.get("campaign_pac_contributors", [])
+    campaign_top_employers = fec_data.get("campaign_top_employers", [])
+    leadership_pacs = fec_data.get("leadership_pacs", [])
 
-    # Finance data
-    fin = finance.get(bio_id, {})
+    # Use committee_ids (new format) or fall back to committee_id (old format)
+    committee_ids = fec_data.get("fec_committee_ids", [])
+    if not committee_ids:
+        cid = fec_data.get("fec_committee_id")
+        committee_ids = [cid] if cid else []
+
+    # Campaign committee detail
+    campaign = {
+        "committee_id": committee_ids[0] if committee_ids else "",
+        "total_raised": totals.get("total_raised", 0),
+        "individual_contributions": totals.get("individual_contributions", 0),
+        "individual_itemized": totals.get("individual_itemized", 0),
+        "individual_unitemized": totals.get("individual_unitemized", 0),
+        "pac_contributions": totals.get("pac_contributions", 0),
+        "other_receipts": totals.get("other_receipts", 0),
+        "top_employers": [
+            {"name": e["name"], "type": "Organization", "amount": e["total"]}
+            for e in campaign_top_employers
+        ],
+        "top_pac_donors": [
+            {"name": c["name"], "type": "PAC", "amount": int(c["total"])}
+            for c in campaign_pac_contributors
+        ],
+    }
+
+    # Leadership PAC details
+    leadership_pac_data = []
+    for lp in leadership_pacs:
+        leadership_pac_data.append({
+            "committee_id": lp["committee_id"],
+            "name": lp["name"],
+            "total_raised": lp.get("receipts", 0),
+            "top_employers": [
+                {"name": e["name"], "type": "Organization", "amount": e["total"]}
+                for e in lp.get("top_employers", [])
+            ],
+            "top_pac_donors": [
+                {"name": c["name"], "type": "PAC", "amount": int(c["total"])}
+                for c in lp.get("contributors", [])
+            ],
+        })
+
+    leadership_total = sum(lp.get("receipts", 0) for lp in leadership_pacs)
+    combined_total = totals.get("total_raised", 0) + leadership_total
+
+    # Build top_industries
+    all_employers = {}
+    for e in campaign_top_employers:
+        all_employers[e["name"]] = all_employers.get(e["name"], 0) + e["total"]
+    for lp in leadership_pacs:
+        for e in lp.get("top_employers", []):
+            all_employers[e["name"]] = all_employers.get(e["name"], 0) + e["total"]
+    sorted_employers = sorted(all_employers.items(), key=lambda x: -x[1])[:15]
+
+    all_pac_donors = {}
+    for c in campaign_pac_contributors:
+        all_pac_donors[c["name"]] = all_pac_donors.get(c["name"], 0) + int(c["total"])
+    for lp in leadership_pacs:
+        for c in lp.get("contributors", []):
+            all_pac_donors[c["name"]] = all_pac_donors.get(c["name"], 0) + int(c["total"])
+    sorted_pac_donors = sorted(all_pac_donors.items(), key=lambda x: -x[1])[:15]
+
+    top_industries = []
+    individual_total = totals.get("individual_contributions", 0)
+    pac_total = totals.get("pac_contributions", 0)
+
+    if individual_total > 0:
+        top_industries.append({
+            "code": "IND",
+            "name": "Individual Contributions",
+            "amount": individual_total,
+            "donors": [{"name": n, "type": "Organization", "amount": a} for n, a in sorted_employers],
+        })
+
+    if pac_total > 0 or leadership_total > 0:
+        top_industries.append({
+            "code": "PAC",
+            "name": "PAC & Committee Contributions",
+            "amount": pac_total,
+            "donors": [{"name": n, "type": "PAC", "amount": a} for n, a in sorted_pac_donors],
+        })
+
+    if leadership_total > 0:
+        top_industries.append({
+            "code": "LPAC",
+            "name": "Leadership PAC",
+            "amount": leadership_total,
+            "donors": [{"name": n, "type": "PAC", "amount": a} for n, a in sorted_pac_donors],
+            "details": leadership_pac_data,
+        })
+
+    return {
+        "cycle": cycle,
+        "total_raised": combined_total,
+        "campaign_raised": totals.get("total_raised", 0),
+        "leadership_pac_raised": leadership_total,
+        "top_industries": top_industries,
+        "campaign": campaign,
+        "leadership_pacs": leadership_pac_data,
+    }
+
+
+def build_funding_from_finance(fin):
+    """Build a basic funding structure from the legacy finance.json data."""
     top_industries = fin.get("top_industries", [])
-
-    # Merge top contributors into their industries as donors
     top_contribs = fin.get("top_contributors", [])
     for industry in top_industries:
         if not industry.get("donors"):
-            # Assign top contributors as donors (simplified — in production
-            # we'd match by industry code)
             industry["donors"] = top_contribs[:5] if top_contribs else []
 
-    funding = {
+    return {
         "cycle": fin.get("cycle", "2024"),
         "total_raised": fin.get("total_raised", 0),
         "top_industries": [
@@ -70,6 +171,19 @@ def generate_member_json(member, finance, donor_alignment, electorate_alignment)
             for ind in top_industries[:6]
         ],
     }
+
+
+def generate_member_json(member, finance, fec_data_map, donor_alignment, electorate_alignment):
+    """Generate the full member JSON matching the app's MemberData type."""
+    bio_id = member["bioguide_id"]
+    opensecrets_id = member.get("opensecrets_id", "")
+
+    # Prefer FEC sidecar data over legacy finance.json
+    if bio_id in fec_data_map:
+        funding = build_funding_from_fec(fec_data_map[bio_id])
+    else:
+        fin = finance.get(bio_id, {})
+        funding = build_funding_from_finance(fin)
 
     # Donor alignment
     da = donor_alignment.get(bio_id, {})
@@ -102,6 +216,7 @@ def generate_member_json(member, finance, donor_alignment, electorate_alignment)
         "chamber": member["chamber"],
         "state": member["state"],
         "district": member.get("district"),
+        "gender": member.get("gender"),
         "photo_url": member["photo_url"],
         "serving_since": member.get("serving_since"),
         "years_in_office": member.get("years_in_office", 0),
@@ -128,9 +243,17 @@ def main():
     donor_alignment = load_json(os.path.join(RAW_DIR, "donor_alignment.json"), "donor_alignment")
     electorate_alignment = load_json(os.path.join(RAW_DIR, "electorate_alignment.json"), "electorate_alignment")
 
-    # Create output directories
+    # Load FEC sidecar files (authoritative source when available)
     members_dir = os.path.join(PUBLIC_DIR, "members")
     os.makedirs(members_dir, exist_ok=True)
+
+    fec_data_map = {}
+    fec_dir = members_dir  # sidecars live alongside member JSONs
+    for fname in os.listdir(fec_dir):
+        if fname.endswith("_fec.json"):
+            bio_id = fname.replace("_fec.json", "")
+            fec_data_map[bio_id] = load_json(os.path.join(fec_dir, fname), f"FEC {bio_id}")
+    print(f"  Loaded {len(fec_data_map)} FEC sidecar files")
 
     # Generate per-member JSON
     print(f"Generating JSON for {len(members)} members...")
@@ -139,7 +262,7 @@ def main():
     for member in members:
         bio_id = member["bioguide_id"]
         member_json = generate_member_json(
-            member, finance, donor_alignment, electorate_alignment
+            member, finance, fec_data_map, donor_alignment, electorate_alignment
         )
 
         path = os.path.join(members_dir, f"{bio_id}.json")

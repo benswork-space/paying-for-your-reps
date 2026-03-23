@@ -5,24 +5,1470 @@
   "chamber": "house",
   "state": "SC",
   "district": "4",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/T000480.jpg",
   "serving_since": 2019,
   "years_in_office": 7,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 2444278,
+    "campaign_raised": 2312884,
+    "leadership_pac_raised": 131394,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 344474,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 20262
+          },
+          {
+            "name": "SYNERGI PARTNERS",
+            "type": "Organization",
+            "amount": 19900
+          },
+          {
+            "name": "WAYPOINT CONSULTING LLC",
+            "type": "Organization",
+            "amount": 10600
+          },
+          {
+            "name": "COLLUMS LUMBER",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "LAE AUGUSTA",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "LINCOLN ENERGY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "1607 STRATEGIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "JOHNSON MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MINDSET",
+            "type": "Organization",
+            "amount": 5750
+          },
+          {
+            "name": "PII HOLDINGS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BLACKSTONE",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CAPITAL CORP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ADVANCE FINANCIAL",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ELLIS HINTON",
+            "type": "Organization",
+            "amount": 4300
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 997350,
+        "donors": [
+          {
+            "name": "TIMMONS, WILLIAM R IV",
+            "type": "PAC",
+            "amount": 6510000
+          },
+          {
+            "name": "TEAM TIMMONS",
+            "type": "PAC",
+            "amount": 294280
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 219800
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+            "type": "PAC",
+            "amount": 128100
+          },
+          {
+            "name": "DUKE ENERGY CORPORATION PAC",
+            "type": "PAC",
+            "amount": 73700
+          },
+          {
+            "name": "SOUTHERN COMPANY EMPLOYEES PAC",
+            "type": "PAC",
+            "amount": 72500
+          },
+          {
+            "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS INC. PAC)",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "THE HOME DEPOT INC. PAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "THE EYE OF THE TIGER PAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "DIRECT SUPPLY, INC. PARTNERS PAC (DSI PARTNERS PAC)",
+            "type": "PAC",
+            "amount": 70000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 131394,
+        "donors": [
+          {
+            "name": "TIMMONS, WILLIAM R IV",
+            "type": "PAC",
+            "amount": 6510000
+          },
+          {
+            "name": "TEAM TIMMONS",
+            "type": "PAC",
+            "amount": 294280
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 219800
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+            "type": "PAC",
+            "amount": 128100
+          },
+          {
+            "name": "DUKE ENERGY CORPORATION PAC",
+            "type": "PAC",
+            "amount": 73700
+          },
+          {
+            "name": "SOUTHERN COMPANY EMPLOYEES PAC",
+            "type": "PAC",
+            "amount": 72500
+          },
+          {
+            "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS INC. PAC)",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "THE HOME DEPOT INC. PAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "THE EYE OF THE TIGER PAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+            "type": "PAC",
+            "amount": 70000
+          },
+          {
+            "name": "DIRECT SUPPLY, INC. PARTNERS PAC (DSI PARTNERS PAC)",
+            "type": "PAC",
+            "amount": 70000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00703173",
+            "name": "UPSTATE SC PAC",
+            "total_raised": 131394,
+            "top_employers": [
+              {
+                "name": "SYNERGI PARTNERS",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "JOHNSON MANAGEMENT",
+                "type": "Organization",
+                "amount": 6600
+              },
+              {
+                "name": "COLLUMS LUMBER",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SELF",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "LAE AUGUSTA",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "WAYPOINT CONSULTING LLC",
+                "type": "Organization",
+                "amount": 3000
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "TEAM TIMMONS",
+                "type": "PAC",
+                "amount": 41694
+              },
+              {
+                "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "BIPARTISAN VOLUNTARY PUBLIC AFFAIRS COMMITTEE OF THE PNC FINANCIAL SERVICES GROUP, INC. (P",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "SELF-INSURANCE INSTITUTE OF AMERICA INC POLITICAL ACTION COMMITTEE (SIPAC)",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "AMERICAN FINANCIAL SERVICES ASSOCIATION PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "WAYPOINT CONSULTING LLC",
+                "type": "PAC",
+                "amount": 4000
+              },
+              {
+                "name": "DUKE ENERGY CORPORATION PAC",
+                "type": "PAC",
+                "amount": 3700
+              },
+              {
+                "name": "ROCK HOLDINGS INC. PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "SPARTANBURG COUNTY GOP",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "SOUTHERN COMPANY EMPLOYEES PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "AMERICAN SENIORS HOUSING ASSOCIATION (SENIORS HOUSING PAC)",
+                "type": "PAC",
+                "amount": 2500
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00668491",
+      "total_raised": 2312884,
+      "individual_contributions": 344474,
+      "individual_itemized": 336661,
+      "individual_unitemized": 7813,
+      "pac_contributions": 997350,
+      "other_receipts": 971060,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 15262
+        },
+        {
+          "name": "SYNERGI PARTNERS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "WAYPOINT CONSULTING LLC",
+          "type": "Organization",
+          "amount": 7600
+        },
+        {
+          "name": "LINCOLN ENERGY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "1607 STRATEGIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MINDSET",
+          "type": "Organization",
+          "amount": 5750
+        },
+        {
+          "name": "PII HOLDINGS",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "BLACKSTONE",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "CAPITAL CORP",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ADVANCE FINANCIAL",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ELLIS HINTON",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "NEALE CREEK, LLC",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "COLLUMS LUMBER",
+          "type": "Organization",
+          "amount": 3600
+        },
+        {
+          "name": "FEDERAL HALL POLICY ADVISORS, LLC",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "HARBINGER STRATEGIES",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "REPOWER SOUTH",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "ROBINHOOD MARKETS",
+          "type": "Organization",
+          "amount": 3350
+        },
+        {
+          "name": "HUGHES AGENCY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "REMSON",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ROCKET CENTRAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MDC HOLDINGS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SECURITY FINANCE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SILVER COMPANIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GREGORY PEST SOLUTIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "IPS PACKING",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LBKM LAW",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LAE AUGUSTA",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FAIRWAY FORD INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PAXOS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FIRST RELIANCE BANK",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CREI HOLDINGS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "RS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "OXFORD",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ACAC FITNESS WELLNESS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "AMSCOT FINANCIAL INC.",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "CAPITOL COUNSEL",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "FEDERAL HALL POLICY ADVISORS",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "CROSSROADS STRATEGIES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ROBINHOOD MARKETS INC.",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "THORN RUN PARTNERS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "DUFFY  YOUNG",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "FORBES TATE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "UPSTATE PODIATRY GROUP, PA SIMPSONVILL",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TOWER LOAN",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "S-3 GROUP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "METROMONT LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "BLUE RIDGE ELECTRIC COOPERATIVE INC.",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "HUNT PEGWOOD COMPANY",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "THE FUNDWORKS, LLC",
+          "type": "Organization",
+          "amount": 1875
+        },
+        {
+          "name": "EXPANSION CAPITAL GROUP",
+          "type": "Organization",
+          "amount": 1875
+        },
+        {
+          "name": "CFG MERCHANT SOLUTIONS",
+          "type": "Organization",
+          "amount": 1875
+        },
+        {
+          "name": "WHETSTONE HOLDINGS",
+          "type": "Organization",
+          "amount": 1875
+        },
+        {
+          "name": "GHP INVESTMENT ADVISORS, INC.",
+          "type": "Organization",
+          "amount": 1776
+        },
+        {
+          "name": "VISUALIS",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "LEGACY MANAGEMENT GROUP",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "SCG",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "REALTYLINK",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "AQUIA GROUP",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "FS VECTOR",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BANK POLICY INSTITUTE",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "MB DAVIS GROUP",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "ALPINE QUANTITATIVE INVESTMENT FUND",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "SKYFLOW",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "CHURCHILL FORGE PROPERTIES",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "JONES WALKER",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "ENCOMPASS HEALTH",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "THE INTERTECH GROUP, INC.",
+          "type": "Organization",
+          "amount": 1007
+        },
+        {
+          "name": "CARRINGTON COLEMAN",
+          "type": "Organization",
+          "amount": 1005
+        },
+        {
+          "name": "MONEYTREE INC.",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "NELSON MULLINS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "KVP INC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SOFTWISE",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "NEW CANAAN IMPACT CAPITAL",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "RST",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MINDET",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "FARRAGUT PARTNERS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "TITAN PRODUCTION CO. LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "LAKESIDE SOFTWARE",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SQUIRE PATTON BOGGS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "BLUE RIDGE ELECTRIC COOPERATIVE",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "JOHN MUSSETTO, ESQ",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "COMPETITIVE CARRIERS ASSOC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CAPITAL COUNSEL",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CLG",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SOUTHERN GLAZERS WINE AND SPIRITS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CORMAC GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "PMC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "COMMUNITY FINANCIAL SERVICE CENTERS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "TOSH, INC.",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "ACHI INVESTMENTS LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SRMC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "ATLAS CROSSING",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "DALY CONSULTING GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "S 3 GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "PRISMA HEALTH",
+          "type": "Organization",
+          "amount": 1000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "TIMMONS, WILLIAM R IV",
+          "type": "PAC",
+          "amount": 6510000
+        },
+        {
+          "name": "TEAM TIMMONS",
+          "type": "PAC",
+          "amount": 252586
+        },
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 219800
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "type": "PAC",
+          "amount": 128100
+        },
+        {
+          "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS INC. PAC)",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "THE HOME DEPOT INC. PAC",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "THE EYE OF THE TIGER PAC",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "SOUTHERN COMPANY EMPLOYEES PAC",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "DIRECT SUPPLY, INC. PARTNERS PAC (DSI PARTNERS PAC)",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "DUKE ENERGY CORPORATION PAC",
+          "type": "PAC",
+          "amount": 70000
+        },
+        {
+          "name": "BUILD PAC OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 49000
+        },
+        {
+          "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "ON WISCONSIN PAC, INC.",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "IN THE ARENA PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "A NEW NATION PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NATIONAL RESTAURANT ASSOCIATION PAC (RESTAURANT PAC)",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NEW YORK LIFE INSURANCE COMPANY PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "31 DAYS PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "VALOR PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "ASSOCIATION OF KENTUCKY FRIED CHICKEN FRANCHISEES INC PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "CRH AMERICAS, INC. PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "MARYLAND ASSOCIATION FOR CONCERNED CITIZENS PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "UBS AMERICAS INC. PAC (UBS PAC)",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA FEDERAL GOVERNMENT PROGRAMS",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "INNOVATION PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "SELF-INSURANCE INSTITUTE OF AMERICA, INC. PAC (SELF-INSURANCE PAC)",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "FEDERAL BIPARTISAN VOLUNTARY PUBLIC AFFAIRS COMMITTEE OF THE PNC FINANCIAL SERVICES GROUP, INC. (...",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "MUST ACT TO CREATE EXCELLENCE PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "RE-JOYCE PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "QC HOLDINGS, INC. PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "AMERICA'S FUTURE, TOGETHER",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "BAKER PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "AMERICAN SENIORS HOUSING ASSOCIATION (SENIORS HOUSING PAC)",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "MORTGAGE BANKERS ASSOCIATION PAC (MORPAC)",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "OSHKOSH CORPORATION EMPLOYEES PAC (OCEPAC)",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "PRICEWATERHOUSECOOPERS PAC I",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "COMCAST CORPORATION & NBCUNIVERSAL PAC - FEDERAL",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NATIONAL APARTMENT ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "ROCK HOLDINGS INC. PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "JUMP INTO ACTION FOR CONSERVATIVES TO KEEP OUR IDEAS ELEVATED PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "CHAMPION AMERICAN VALUES",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "TD BANK N.A. PAC",
+          "type": "PAC",
+          "amount": 28000
+        },
+        {
+          "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+          "type": "PAC",
+          "amount": 28000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 28000
+        },
+        {
+          "name": "INFIN, A FINANCIAL SERVICES ALLIANCE, INC. PAC ('INFIN PAC')",
+          "type": "PAC",
+          "amount": 28000
+        },
+        {
+          "name": "SAMSUNG ELECTRONICS AMERICA INC PAC",
+          "type": "PAC",
+          "amount": 28000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+          "type": "PAC",
+          "amount": 24500
+        },
+        {
+          "name": "THE NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION ACTION COMMITTEE FOR RURAL ELECTRIFICATION (A...",
+          "type": "PAC",
+          "amount": 24500
+        },
+        {
+          "name": "NATIONAL RENTAL HOME COUNCIL PAC",
+          "type": "PAC",
+          "amount": 24500
+        },
+        {
+          "name": "FIRST AMERICAN FINANCIAL CORPORATION PAC",
+          "type": "PAC",
+          "amount": 24500
+        },
+        {
+          "name": "REGIONS FINANCIAL CORPORATION PAC",
+          "type": "PAC",
+          "amount": 24500
+        },
+        {
+          "name": "TENACIOUS PAC",
+          "type": "PAC",
+          "amount": 23100
+        },
+        {
+          "name": "FREEDOM FORCE PAC",
+          "type": "PAC",
+          "amount": 23100
+        },
+        {
+          "name": "REPUBLICAN JEWISH COALITION-PAC (RJC-PAC)",
+          "type": "PAC",
+          "amount": 23100
+        },
+        {
+          "name": "SOUTH CAROLINA FARM BUREAU FEDERATION PAC",
+          "type": "PAC",
+          "amount": 23100
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00703173",
+        "name": "UPSTATE SC PAC",
+        "total_raised": 131394,
+        "top_employers": [
+          {
+            "name": "SYNERGI PARTNERS",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "JOHNSON MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "COLLUMS LUMBER",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "LAE AUGUSTA",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "WAYPOINT CONSULTING LLC",
+            "type": "Organization",
+            "amount": 3000
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "TEAM TIMMONS",
+            "type": "PAC",
+            "amount": 41694
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BIPARTISAN VOLUNTARY PUBLIC AFFAIRS COMMITTEE OF THE PNC FINANCIAL SERVICES GROUP, INC. (P",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SELF-INSURANCE INSTITUTE OF AMERICA INC POLITICAL ACTION COMMITTEE (SIPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN FINANCIAL SERVICES ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "WAYPOINT CONSULTING LLC",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "DUKE ENERGY CORPORATION PAC",
+            "type": "PAC",
+            "amount": 3700
+          },
+          {
+            "name": "ROCK HOLDINGS INC. PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SPARTANBURG COUNTY GOP",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SOUTHERN COMPANY EMPLOYEES PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN SENIORS HOUSING ASSOCIATION (SENIORS HOUSING PAC)",
+            "type": "PAC",
+            "amount": 2500
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 89,
+    "total_votes_scored": 21,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from hostilities within or against Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES64",
+        "date": "2025-12-17",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from hos"
+      },
+      {
+        "vote_description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with presidentially designated terrorist organizations in the Western Hemisphere",
+        "bill": "HCONRES61",
+        "date": "2025-12-17",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on Directing the President, pursuant to section 5(c) of the War"
+      },
+      {
+        "vote_description": "21st Century Peace through Strength Act",
+        "bill": "HR8038",
+        "date": "2024-04-20",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on 21st Century Peace through Strength Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 33,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 60.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 46.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 62.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

@@ -5,24 +5,1082 @@
   "chamber": "house",
   "state": "WA",
   "district": "6",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/R000621.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1988942,
+    "campaign_raised": 1978942,
+    "leadership_pac_raised": 10000,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1548225,
+        "donors": [
+          {
+            "name": "SOUTHERN STATES LLC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "RAIKES FOUNDATION",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "AMAZON.COM INC",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "MICROSOFT CORP",
+            "type": "Organization",
+            "amount": 9050
+          },
+          {
+            "name": "SECOND AVENUE PARTNERS",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "UNIVERSITY OF WASHINGTON",
+            "type": "Organization",
+            "amount": 8080
+          },
+          {
+            "name": "BLUE WAVE POLITICAL PARTNERS LLC",
+            "type": "Organization",
+            "amount": 7800
+          },
+          {
+            "name": "VALVE CORP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TOWER VENTURES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WINKLEVOSS CAPITAL MANAGEMENT LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BURKE MUSEUM",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SUR LEGAL COLLABORATIVE INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GOOGLE LLC",
+            "type": "Organization",
+            "amount": 6300
+          },
+          {
+            "name": "RS DIVERSIFIED",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "SOUTH KITSAP SCHOOL DISTRICT",
+            "type": "Organization",
+            "amount": 5310
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 421950,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1585000
+          },
+          {
+            "name": "EQUALITY PAC",
+            "type": "PAC",
+            "amount": 105000
+          },
+          {
+            "name": "PODER PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "CHC BOLD PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INT'L UNION CMTE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "M-PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "LA BAMBA PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SPIKE PAC",
+            "type": "PAC",
+            "amount": 66000
+          },
+          {
+            "name": "WASHINGTON WOMEN FOR CHOICE",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 10000,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1585000
+          },
+          {
+            "name": "EQUALITY PAC",
+            "type": "PAC",
+            "amount": 105000
+          },
+          {
+            "name": "PODER PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "CHC BOLD PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INT'L UNION CMTE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "M-PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "LA BAMBA PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SPIKE PAC",
+            "type": "PAC",
+            "amount": 66000
+          },
+          {
+            "name": "WASHINGTON WOMEN FOR CHOICE",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00890475",
+            "name": "DE COLORES PAC",
+            "total_raised": 10000,
+            "top_employers": [],
+            "top_pac_donors": [
+              {
+                "name": "WASHINGTON WOMEN FOR CHOICE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "EQUALITY PAC",
+                "type": "PAC",
+                "amount": 5000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00857094",
+      "total_raised": 1978942,
+      "individual_contributions": 1548225,
+      "individual_itemized": 1136455,
+      "individual_unitemized": 411770,
+      "pac_contributions": 421950,
+      "other_receipts": 8767,
+      "top_employers": [
+        {
+          "name": "SOUTHERN STATES LLC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "RAIKES FOUNDATION",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "AMAZON.COM INC",
+          "type": "Organization",
+          "amount": 11600
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "type": "Organization",
+          "amount": 9050
+        },
+        {
+          "name": "SECOND AVENUE PARTNERS",
+          "type": "Organization",
+          "amount": 8600
+        },
+        {
+          "name": "UNIVERSITY OF WASHINGTON",
+          "type": "Organization",
+          "amount": 8080
+        },
+        {
+          "name": "BLUE WAVE POLITICAL PARTNERS LLC",
+          "type": "Organization",
+          "amount": 7800
+        },
+        {
+          "name": "VALVE CORP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TOWER VENTURES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WINKLEVOSS CAPITAL MANAGEMENT LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BURKE MUSEUM",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SUR LEGAL COLLABORATIVE INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GOOGLE LLC",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "RS DIVERSIFIED",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "SOUTH KITSAP SCHOOL DISTRICT",
+          "type": "Organization",
+          "amount": 5310
+        },
+        {
+          "name": "INVARIANT GR",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "D&P CREATIVE STRATEGIES LLC",
+          "type": "Organization",
+          "amount": 5100
+        },
+        {
+          "name": "EAGLE HARBOR CHURCH",
+          "type": "Organization",
+          "amount": 4350
+        },
+        {
+          "name": "TRILOGY INTERNATIONAL PARTNERS",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "ROLLA LLC",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "TANIUM",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "FAIRVOTE WASHINGTON",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "INATAI FOUNDATION",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "TIBER CREEK GROUP INC",
+          "type": "Organization",
+          "amount": 3550
+        },
+        {
+          "name": "D&P CREATIVE STRATEGIES",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "REPROHUB",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LOEWS HOTELS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CLAUSE LAW P.L.L.C.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TRANCEKA CAPITAL LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PEASLEY GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CAPITOL HILL CANDLE COMPANY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CAMPION FOUNDATIOM",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CUMMING FOUNDATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "JHM",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MORGAN STANLEY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PACHULSKI, STANG, ZIEHL & JONES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DISTRICT OF COLUMBIA OFFICE OF THE ATT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LTD X LIZZIE TISCH",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CAR PROS AUTOMOTIVE GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LAW OFFICES OF JAMES DEGEL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MOGA INVESTMENTS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ALSOP LOUIE PARTNERS, LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "STARIS AI, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BERG ASSOCIATES LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CULTURAL PRODUCTIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DELPHI CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 2800
+        },
+        {
+          "name": "PORT TOWNSEND CHIROPRACTIC",
+          "type": "Organization",
+          "amount": 2501
+        },
+        {
+          "name": "VOGEL GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "WELLS FARGO ADVISORS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "EE OVERTON",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "FELSON COMPANIES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "G&H INTERNATIONAL SERVICES INCGZSER",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "UNITED STATES CONGRESS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "TROVARES INC",
+          "type": "Organization",
+          "amount": 2400
+        },
+        {
+          "name": "CAMPION FOUNDATION",
+          "type": "Organization",
+          "amount": 2300
+        },
+        {
+          "name": "JAMESTOWN S'KLALLAM TRIBE",
+          "type": "Organization",
+          "amount": 2300
+        },
+        {
+          "name": "TECH DNA LLC",
+          "type": "Organization",
+          "amount": 2295
+        },
+        {
+          "name": "K&L GATES LLP",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "STATE OF WASHINGTON",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "OLYMPIC COLLEGE",
+          "type": "Organization",
+          "amount": 2135
+        },
+        {
+          "name": "SEATTLE FOUNDATION",
+          "type": "Organization",
+          "amount": 2130
+        },
+        {
+          "name": "MVAR MEDIA LLC",
+          "type": "Organization",
+          "amount": 2100
+        },
+        {
+          "name": "SKUDA LAW FIRM PLLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "BERGMAN OSLUND UDO LITTLE PLLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "DAVIES-CROOKS ASSOCIATES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "CATALPA CLINI",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "EARTH FINANCE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "BERGMAN OSLUND",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TIDES TAVERN",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "BAG INVESTMENTS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "GOLDMAN",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "THOMPSON AND SMITCH",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "VALLEY MEDICAL CENTER",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "WASHINGTON STATE LEGISLATURE",
+          "type": "Organization",
+          "amount": 1875
+        },
+        {
+          "name": "AREX CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 1800
+        },
+        {
+          "name": "MATERIALS FOR THE ARTS",
+          "type": "Organization",
+          "amount": 1800
+        },
+        {
+          "name": "BOWERY RESIDENTS'? COMMITTEE",
+          "type": "Organization",
+          "amount": 1800
+        },
+        {
+          "name": "THE EVERETT CLINIC",
+          "type": "Organization",
+          "amount": 1800
+        },
+        {
+          "name": "NORTH OLYMPIC HEALTHCARE NETWORK",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "CENTER FOR COMMUNITY CHANGE",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "MULTICARE",
+          "type": "Organization",
+          "amount": 1525
+        },
+        {
+          "name": "RUDIN MANAGEMENT COMPANY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "PENINSULA SUBARU",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "DESIMONE CONSULTING GROUP LLC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "THE GILBERT & JACKI CISNEROS FDN",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CATALYST",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "SALTCHUCK RESOURCES",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "HD FOWLER CO",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BAINUM FAMILY FOUNDATION",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CITY OF BAINBRIDGE ISLAND",
+          "type": "Organization",
+          "amount": 1450
+        },
+        {
+          "name": "WASHINGTON STATE",
+          "type": "Organization",
+          "amount": 1450
+        },
+        {
+          "name": "APPLE INC",
+          "type": "Organization",
+          "amount": 1400
+        },
+        {
+          "name": "THE DAZZLE CLEANING COMPANY",
+          "type": "Organization",
+          "amount": 1375
+        },
+        {
+          "name": "PORCH GROUP",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "UPSWING RESEARCH & STRATEGY",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "VIRGINIA MASON MEDICAL CENTER",
+          "type": "Organization",
+          "amount": 1250
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 1585000
+        },
+        {
+          "name": "PODER PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "CHC BOLD PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INT'L UNION CMTE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "M-PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "LA BAMBA PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "EQUALITY PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "SPIKE PAC",
+          "type": "PAC",
+          "amount": 66000
+        },
+        {
+          "name": "WASHINGTON WOMEN FOR CHOICE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "PROGRESSIVE TURNOUT PROJECT",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NEW DEMOCRAT COALITION ACTION FUND",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "L PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "EMILYS LIST",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICA NEEDS NEW INNOVATION AND ENERGY PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "MAINSTREAM PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "UAW V CAP",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "INLAND EMPIRE STRIKES PAC; THE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ELECT DEMOCRATIC WOMEN",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "HUMAN RIGHTS CAMPAIGN PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "EQUALITY PROJECT PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "ELECT DEMS NOW PAC",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "DE COLORES PAC",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC PAC)",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "RESOLUTE COURAGE PAC",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "PROLIANCE SURGEONS POLITICAL ACTION COMMITTE",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "CENTRAL COAST VALUES PAC",
+          "type": "PAC",
+          "amount": 33000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00890475",
+        "name": "DE COLORES PAC",
+        "total_raised": 10000,
+        "top_employers": [],
+        "top_pac_donors": [
+          {
+            "name": "WASHINGTON WOMEN FOR CHOICE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "EQUALITY PAC",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 90,
+    "total_votes_scored": 54,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes",
+        "bill": "HR7147",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay on Making further consolidated appropriations for the fiscal ye"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on SHOWER Act"
+      },
+      {
+        "vote_description": "DUMP Red Tape Act",
+        "bill": "HR4305",
+        "date": "2025-12-03",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay on DUMP Red Tape Act"
+      },
+      {
+        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+        "bill": "HR881",
+        "date": "2025-05-07",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 65.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

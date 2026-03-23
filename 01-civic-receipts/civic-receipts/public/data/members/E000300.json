@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "CO",
   "district": "8",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/E000300.jpg",
   "serving_since": 2025,
   "years_in_office": 1,
@@ -14,10 +15,61 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 89,
+    "total_votes_scored": 43,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Kayla Hamilton Act",
+        "bill": "HR4371",
+        "date": "2025-12-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Yea on Kayla Hamilton Act"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Protecting Prudent Investment of Retirement Savings Act"
+      },
+      {
+        "vote_description": "Protect America\u2019s Workforce Act",
+        "bill": "HR2550",
+        "date": "2025-12-11",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Protect America\u2019s Workforce Act"
+      }
+    ]
   },
   "electorate_alignment": {
     "issues_scored": 0,

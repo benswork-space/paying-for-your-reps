@@ -1,0 +1,65 @@
+{
+  "district": "MO-01",
+  "issues": [
+    {
+      "issue": "Universal background checks for gun purchases",
+      "topic": "Gun Control",
+      "support_pct": 91.2,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Ban on assault-style weapons",
+      "topic": "Gun Control",
+      "support_pct": 71.9,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Abortion should always be legal",
+      "topic": "Abortion",
+      "support_pct": 67.1,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Prohibit all abortions after 20 weeks",
+      "topic": "Abortion",
+      "support_pct": 17.0,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Support the Affordable Care Act",
+      "topic": "Healthcare",
+      "support_pct": 67.9,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Regulate CO2 as a pollutant",
+      "topic": "Climate",
+      "support_pct": 73.5,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Require minimum renewable fuel production",
+      "topic": "Climate",
+      "support_pct": 72.9,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Grant legal status to DACA recipients",
+      "topic": "Immigration",
+      "support_pct": 75.2,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Build a wall on the U.S.-Mexico border",
+      "topic": "Immigration",
+      "support_pct": 25.3,
+      "margin_of_error": 7
+    },
+    {
+      "issue": "Require permits to carry concealed guns",
+      "topic": "Gun Control",
+      "support_pct": 74.1,
+      "margin_of_error": 7
+    }
+  ]
+}

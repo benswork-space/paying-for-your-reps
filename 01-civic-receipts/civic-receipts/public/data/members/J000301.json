@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "SD",
   "district": "0",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/J000301.jpg",
   "serving_since": 2019,
   "years_in_office": 7,
@@ -14,10 +15,61 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 97,
+    "total_votes_scored": 111,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "DAIRY FARMERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE; AKA DFA-PAC",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "Consolidated Appropriations Act, 2026",
+        "bill": "HR7148",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Financial industry",
+        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
+      },
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "Meat and Poultry Special Investigator Act",
+        "bill": "HR7606",
+        "date": "2022-06-16",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "DAIRY FARMERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE; AKA DFA-PAC",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Nay on Meat and Poultry Special Investigator Act"
+      }
+    ]
   },
   "electorate_alignment": {
     "issues_scored": 0,

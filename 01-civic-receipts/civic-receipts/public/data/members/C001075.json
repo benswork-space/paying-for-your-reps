@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "LA",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/C001075.jpg",
   "serving_since": 2009,
   "years_in_office": 17,
@@ -14,15 +15,105 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 60,
+    "total_votes_scored": 4,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.",
+        "bill": "HR3967",
+        "date": "2022-06-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "TEVA PHARMACEUTICALS USA INC. POLITICAL ACTION COMMITTEE (TEVA PAC)",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on A bill to improve health care and benefits for veterans expo"
+      },
+      {
+        "vote_description": "A bill to address behavioral health and well-being among health care professionals.",
+        "bill": "S610",
+        "date": "2021-12-09",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "TEVA PHARMACEUTICALS USA INC. POLITICAL ACTION COMMITTEE (TEVA PAC)",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on A bill to address behavioral health and well-being among hea"
+      },
+      {
+        "vote_description": "A bill to prohibit the use of funds to implement, administer, or enforce certain rules of the Environmental Protection Agency.",
+        "bill": "S4072",
+        "date": "2024-04-18",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "FIRST SOLAR INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Clean energy industry",
+        "donor_expected": "Nay on A bill to prohibit the use of funds to implement, administer"
+      },
+      {
+        "vote_description": "A bill to require the imposition of sanctions with respect to entities responsible for the planning, construction, or operation of the Nord Stream 2 pipeline and their corporate officers and to apply congressional review under the Countering America's Adversaries Through Sanctions Act to the removal of sanctions relating to Nord Stream 2, and for other purposes.",
+        "bill": "S3436",
+        "date": "2022-01-13",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "FIRST SOLAR INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Clean energy industry",
+        "donor_expected": "Nay on A bill to require the imposition of sanctions with respect t"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 89.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 50.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 23.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 51.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 63.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 57.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

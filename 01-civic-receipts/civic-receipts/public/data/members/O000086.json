@@ -5,24 +5,1160 @@
   "chamber": "house",
   "state": "UT",
   "district": "4",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/O000086.jpg",
   "serving_since": 2021,
   "years_in_office": 5,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1553580,
+    "campaign_raised": 1473808,
+    "leadership_pac_raised": 79772,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 999344,
+        "donors": [
+          {
+            "name": "UNIFIED PURCHASING GROUP",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "COOL MASTER PRO LLC",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+            "type": "Organization",
+            "amount": 9210
+          },
+          {
+            "name": "SAN JOAQUIN VALLEY COLLEGE INC.",
+            "type": "Organization",
+            "amount": 8400
+          },
+          {
+            "name": "FISHER INVESTMENTS",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "TOSH INC.",
+            "type": "Organization",
+            "amount": 7100
+          },
+          {
+            "name": "4LIFE RESEARCH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CITADEL LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NEWSMAX MEDIA INC.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CAMEO COLLEGE OF ESSENTIAL BEAUTY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SOUTHERN WASTE SYSTEMS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "JAMES CALLAN INC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CROW HOLDINGS DEVELOPMENT",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "QUALITY MAT COMPANY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ALEXANDRIA REAL ESTATE EQUITIES",
+            "type": "Organization",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 399800,
+        "donors": [
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 1980504
+          },
+          {
+            "name": "BURGESS OWENS VICTORY COMMITTEE",
+            "type": "PAC",
+            "amount": 204510
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+            "type": "PAC",
+            "amount": 107948
+          },
+          {
+            "name": "COOL MASTER PRO LLC",
+            "type": "PAC",
+            "amount": 79200
+          },
+          {
+            "name": "LEAN FORWARD AMERICA FUND",
+            "type": "PAC",
+            "amount": 72436
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COM",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "WESTERN ALLIANCE OF FARMWORKER ADVOCATES PAC (WAFA PAC)",
+            "type": "PAC",
+            "amount": 36000
+          },
+          {
+            "name": "USA FARMWORKER PAC",
+            "type": "PAC",
+            "amount": 36000
+          },
+          {
+            "name": "PERRY REAL ESTATE HOLDINGS LLC",
+            "type": "PAC",
+            "amount": 32800
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 32000
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "PATRIOT FREEDOM PAC INC",
+            "type": "PAC",
+            "amount": 20000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 79772,
+        "donors": [
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 1980504
+          },
+          {
+            "name": "BURGESS OWENS VICTORY COMMITTEE",
+            "type": "PAC",
+            "amount": 204510
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+            "type": "PAC",
+            "amount": 107948
+          },
+          {
+            "name": "COOL MASTER PRO LLC",
+            "type": "PAC",
+            "amount": 79200
+          },
+          {
+            "name": "LEAN FORWARD AMERICA FUND",
+            "type": "PAC",
+            "amount": 72436
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COM",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "WESTERN ALLIANCE OF FARMWORKER ADVOCATES PAC (WAFA PAC)",
+            "type": "PAC",
+            "amount": 36000
+          },
+          {
+            "name": "USA FARMWORKER PAC",
+            "type": "PAC",
+            "amount": 36000
+          },
+          {
+            "name": "PERRY REAL ESTATE HOLDINGS LLC",
+            "type": "PAC",
+            "amount": 32800
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 32000
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "PATRIOT FREEDOM PAC INC",
+            "type": "PAC",
+            "amount": 20000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00769125",
+            "name": "DREAM BIG PAC",
+            "total_raised": 79772,
+            "top_employers": [
+              {
+                "name": "FISHER INVESTMENTS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "UNIFIED PURCHASING GROUP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "QUALITY MAT COMPANY",
+                "type": "Organization",
+                "amount": 1700
+              },
+              {
+                "name": "ALEXANDRIA REAL ESTATE EQUITIES",
+                "type": "Organization",
+                "amount": 1700
+              },
+              {
+                "name": "CROW HOLDINGS DEVELOPMENT",
+                "type": "Organization",
+                "amount": 1700
+              },
+              {
+                "name": "JAMES CALLAN INC",
+                "type": "Organization",
+                "amount": 1700
+              },
+              {
+                "name": "PENCOR",
+                "type": "Organization",
+                "amount": 300
+              },
+              {
+                "name": "VIDLER WATER COMPANY",
+                "type": "Organization",
+                "amount": 200
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "BURGESS OWENS VICTORY COMMITTEE",
+                "type": "PAC",
+                "amount": 34657
+              },
+              {
+                "name": "BURGESS 4 UTAH",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "L3HARRIS TECHNOLOGIES INC. PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "WINRED",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "SUMMIT CO. REPUBLICAN EXECUTIVE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION",
+                "type": "PAC",
+                "amount": 5000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00725853",
+      "total_raised": 1473808,
+      "individual_contributions": 999344,
+      "individual_itemized": 713827,
+      "individual_unitemized": 285517,
+      "pac_contributions": 399800,
+      "other_receipts": 74664,
+      "top_employers": [
+        {
+          "name": "COOL MASTER PRO LLC",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+          "type": "Organization",
+          "amount": 9210
+        },
+        {
+          "name": "SAN JOAQUIN VALLEY COLLEGE INC.",
+          "type": "Organization",
+          "amount": 8400
+        },
+        {
+          "name": "TOSH INC.",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "4LIFE RESEARCH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "UNIFIED PURCHASING GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CITADEL LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NEWSMAX MEDIA INC.",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "CAMEO COLLEGE OF ESSENTIAL BEAUTY",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "SOUTHERN WASTE SYSTEMS",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "FIERCE GOVERNMENT RELATIONS",
+          "type": "Organization",
+          "amount": 3750
+        },
+        {
+          "name": "THE STUDIO ACADEMY OF BEAUTY",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "ARVIG ENTERPRISES",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "BPSB",
+          "type": "Organization",
+          "amount": 3430
+        },
+        {
+          "name": "JAMES CALLAN INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FISHER INVESTMENTS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "OLD CITY INVESTMENT PARTNERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DUTKO GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CROW HOLDINGS DEVELOPMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "A10 CAPITAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PLANO 6500 LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SLAVIC 401K",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "QUALITY MAT COMPANY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CLARKE CAPITAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ACI JET",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PCCA",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BILL LUKE CHRYSLER JEEP & DODGE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DUTKO GOVERNMENT RELATIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BLACKSTONE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "VISTAPOINTE CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ALEXANDRIA REAL ESTATE EQUITIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SUCCESS ACADEMY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MRI",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "BROWNSTEIN HYATT FARBER SCHRECK",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "THE THACKERAY COMPANY",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "WILLIAM PERRY & ASSOCIATES",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "FULL SAIL UNIVERSITY",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "KCB TOWERS INC.",
+          "type": "Organization",
+          "amount": 2800
+        },
+        {
+          "name": "RECKITT",
+          "type": "Organization",
+          "amount": 2505
+        },
+        {
+          "name": "ALABAMA SCHOOL OF NAIL TECHNOLOGY  COS",
+          "type": "Organization",
+          "amount": 2505
+        },
+        {
+          "name": "MOVING",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "GARZONE CONSTRUCTION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SPIRITS OF THE WASATCH",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "BENE'S CAREER ACADEMY",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "KUCHU SHABU",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "TRIUMPH HIGHER EDUCATION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ARIZONA COLLEGE OF NURSING",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "DAXREM HOLDINGS LLC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "NELSON FIRE SYSTEMS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "INFINITE MIND",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SONORAN DESERT INSTITUTE",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "Y MEADOWS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TURNAGE BEAUTY INSTITUTE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "UNITED ENERGY WORKERS HEALTHCARE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "EVERGREEN BEAUTY COLLEGE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TARDUS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "THE SMITH FREE GROUP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TARRANT COUNTY SHERIFF",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "NCGA",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "BLUE CHAIR LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "CEDAR CITY CORPORATION",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "HIBERNIA RESOURCES IV",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "POLARIS CONSULTING",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MRU",
+          "type": "Organization",
+          "amount": 1850
+        },
+        {
+          "name": "AXEON CORP",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "FOOT LOCKER",
+          "type": "Organization",
+          "amount": 1667
+        },
+        {
+          "name": "HSO",
+          "type": "Organization",
+          "amount": 1667
+        },
+        {
+          "name": "WHITE PINE CAPITAL MGMR",
+          "type": "Organization",
+          "amount": 1667
+        },
+        {
+          "name": "ROTOR CLIP",
+          "type": "Organization",
+          "amount": 1667
+        },
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 1510
+        },
+        {
+          "name": "CENTEGIX",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CR'U INSTITUTE",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "SPEC FRANCHISE",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "YESCO",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "USR HOLDINGS LLC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "AVEDA",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "SKINWORKS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "FIRE ALARM SALES",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "ALLIED",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "KELLER CAPITAL",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "TOP NAILS AND HAIR BEAUTY SCHOOL",
+          "type": "Organization",
+          "amount": 1300
+        },
+        {
+          "name": "AVEDA ARTS AND SCIENCES INSTITUTES",
+          "type": "Organization",
+          "amount": 1255
+        },
+        {
+          "name": "NETAPP INC",
+          "type": "Organization",
+          "amount": 1200
+        },
+        {
+          "name": "PIONEER YOUTH SERVICES",
+          "type": "Organization",
+          "amount": 1150
+        },
+        {
+          "name": "RADVIEW",
+          "type": "Organization",
+          "amount": 1080
+        },
+        {
+          "name": "VALIANT INTEGRATED SERVICES",
+          "type": "Organization",
+          "amount": 1079
+        },
+        {
+          "name": "FLEXICON CORPORATION",
+          "type": "Organization",
+          "amount": 1060
+        },
+        {
+          "name": "ERCON INC",
+          "type": "Organization",
+          "amount": 1030
+        },
+        {
+          "name": "EVANS HAIRSTYLING COLLEGE",
+          "type": "Organization",
+          "amount": 1005
+        },
+        {
+          "name": "SPORT CLIPS HAIRCUTS",
+          "type": "Organization",
+          "amount": 1005
+        },
+        {
+          "name": "FISCH PROPERTIES",
+          "type": "Organization",
+          "amount": 1005
+        },
+        {
+          "name": "BEACH INVESTMENT COUNSEL",
+          "type": "Organization",
+          "amount": 1005
+        },
+        {
+          "name": "RT",
+          "type": "Organization",
+          "amount": 1005
+        },
+        {
+          "name": "SOUTHWEST INSTITUTE OF HEALING ARTS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "PURE STORAGE",
+          "type": "Organization",
+          "amount": 1000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 1975504
+        },
+        {
+          "name": "BURGESS OWENS VICTORY COMMITTEE",
+          "type": "PAC",
+          "amount": 169853
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+          "type": "PAC",
+          "amount": 107948
+        },
+        {
+          "name": "COOL MASTER PRO LLC",
+          "type": "PAC",
+          "amount": 79200
+        },
+        {
+          "name": "LEAN FORWARD AMERICA FUND",
+          "type": "PAC",
+          "amount": 72436
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COM",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "WESTERN ALLIANCE OF FARMWORKER ADVOCATES PAC (WAFA PAC)",
+          "type": "PAC",
+          "amount": 36000
+        },
+        {
+          "name": "USA FARMWORKER PAC",
+          "type": "PAC",
+          "amount": 36000
+        },
+        {
+          "name": "PERRY REAL ESTATE HOLDINGS LLC",
+          "type": "PAC",
+          "amount": 32800
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 32000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "PATRIOT FREEDOM PAC INC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "APOLLO EDUCATION GROUP INC. POLITICAL ORGANIZATION FOR LEGIS",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICANS FOR LEGISLATING EXCELLENCE PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "TOMORROW IS MEANINGFUL PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS INC. POLITICAL ACTION C",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "BLACK AMERICA'S POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "ALLIED HEALTH PROFESSIONS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "SLM CORPORATION PAC (SALLIE MAE PAC)",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 16000
+        },
+        {
+          "name": "EARLY CARE & EDUCATION CONSORTIUM POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 14000
+        },
+        {
+          "name": "PEACH STATE PAC",
+          "type": "PAC",
+          "amount": 13200
+        },
+        {
+          "name": "L3HARRIS TECHNOLOGIES INC. PAC",
+          "type": "PAC",
+          "amount": 12000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00769125",
+        "name": "DREAM BIG PAC",
+        "total_raised": 79772,
+        "top_employers": [
+          {
+            "name": "FISHER INVESTMENTS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "UNIFIED PURCHASING GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "QUALITY MAT COMPANY",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "ALEXANDRIA REAL ESTATE EQUITIES",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "CROW HOLDINGS DEVELOPMENT",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "JAMES CALLAN INC",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "PENCOR",
+            "type": "Organization",
+            "amount": 300
+          },
+          {
+            "name": "VIDLER WATER COMPANY",
+            "type": "Organization",
+            "amount": 200
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "BURGESS OWENS VICTORY COMMITTEE",
+            "type": "PAC",
+            "amount": 34657
+          },
+          {
+            "name": "BURGESS 4 UTAH",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "L3HARRIS TECHNOLOGIES INC. PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SUMMIT CO. REPUBLICAN EXECUTIVE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 93,
+    "total_votes_scored": 65,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
+        "bill": "HCONRES68",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+      },
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "To require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes",
+        "bill": "S1071",
+        "date": "2025-12-10",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "L3HARRIS TECHNOLOGIES INC. PAC",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on To require the Secretary of Veterans Affairs to disinter the"
+      },
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AIR LINE PILOTS ASSOCIATION PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Syria",
+        "bill": "HCONRES21",
+        "date": "2023-03-08",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION CO",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea on Directing the President, pursuant to section 5(c) of the War"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 62.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 54.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 69.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

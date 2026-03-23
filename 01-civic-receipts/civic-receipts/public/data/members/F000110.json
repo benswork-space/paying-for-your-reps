@@ -5,6 +5,7 @@
   "chamber": "house",
   "state": "LA",
   "district": "6",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/F000110.jpg",
   "serving_since": 1993,
   "years_in_office": 33,
@@ -14,15 +15,65 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 100,
+    "total_votes_scored": 12,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "CRESCENT RIVER PORT PILOTS ASSOCIATION FEDERAL POLITICAL ACTION COMMITTEE/CRPPA FED PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Lower Health Care Premiums for All Americans Act",
+        "bill": "HR6703",
+        "date": "2025-12-17",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Lower Health Care Premiums for All Americans Act"
+      },
+      {
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "CRESCENT RIVER PORT PILOTS ASSOCIATION FEDERAL POLITICAL ACTION COMMITTEE/CRPPA FED PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Protecting Prudent Investment of Retirement Savings Act"
+      },
+      {
+        "vote_description": "Flexibility for Workers Education Act",
+        "bill": "HR2262",
+        "date": "2026-01-13",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "CRESCENT RIVER PORT PILOTS ASSOCIATION FEDERAL POLITICAL ACTION COMMITTEE/CRPPA FED PAC",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Flexibility for Workers Education Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 52.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

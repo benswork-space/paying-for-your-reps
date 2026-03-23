@@ -5,24 +5,992 @@
   "chamber": "house",
   "state": "IA",
   "district": "1",
+  "gender": "F",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/M001215.jpg",
   "serving_since": 2021,
   "years_in_office": 5,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 5800753,
+    "campaign_raised": 5800753,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 2234638,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 124214
+          },
+          {
+            "name": "NYCBS",
+            "type": "Organization",
+            "amount": 26878
+          },
+          {
+            "name": "RDV CORPORATION",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "ESTES COMPANY",
+            "type": "Organization",
+            "amount": 16000
+          },
+          {
+            "name": "DAVITA",
+            "type": "Organization",
+            "amount": 15500
+          },
+          {
+            "name": "FRANKLIN MOUNTAIN MANAGEMENT",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "STARKEY HEARING TECHNOLOGIES",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "MARQUIS MANAGEMENT, INC",
+            "type": "Organization",
+            "amount": 11250
+          },
+          {
+            "name": "KLINGER COMPANIES, LLC",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "JANE ST. CAPITAL",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "JANE STREET",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "EXECUTIVE CHAIRMAN",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "UIHC",
+            "type": "Organization",
+            "amount": 9433
+          },
+          {
+            "name": "CONSUMER TECHNOLOGY ASSOCIATION",
+            "type": "Organization",
+            "amount": 9100
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 2340483,
+        "donors": [
+          {
+            "name": "PROTECT THE HOUSE 2024",
+            "type": "PAC",
+            "amount": 3856172
+          },
+          {
+            "name": "SCALISE LEADERSHIP FUND 2024",
+            "type": "PAC",
+            "amount": 1573401
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 1304000
+          },
+          {
+            "name": "GOP WINNING WOMEN 2024",
+            "type": "PAC",
+            "amount": 1171477
+          },
+          {
+            "name": "MILLER-MEEKS, MARIANNETTE JANE",
+            "type": "PAC",
+            "amount": 420000
+          },
+          {
+            "name": "AMERICAN BATTLEGROUND FUND",
+            "type": "PAC",
+            "amount": 289706
+          },
+          {
+            "name": "DEMOCRACY ENGINE, INC., PAC",
+            "type": "PAC",
+            "amount": 132000
+          },
+          {
+            "name": "CONTINUING AMERICAS STRENGTH AND SECURITY PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "TAG LLC",
+            "type": "PAC",
+            "amount": 85828
+          },
+          {
+            "name": "COHERUS BIOSCIENCES PAC",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "PAYCHEX",
+            "type": "PAC",
+            "amount": 50791
+          },
+          {
+            "name": "BLAINE PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "DEFENDING THE AMERICAN DREAM PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "AMERICAN SECURITY PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00558825",
+      "total_raised": 5800753,
+      "individual_contributions": 2234638,
+      "individual_itemized": 1894647,
+      "individual_unitemized": 339991,
+      "pac_contributions": 2340483,
+      "other_receipts": 1225632,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 124214
+        },
+        {
+          "name": "NYCBS",
+          "type": "Organization",
+          "amount": 26878
+        },
+        {
+          "name": "RDV CORPORATION",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "ESTES COMPANY",
+          "type": "Organization",
+          "amount": 16000
+        },
+        {
+          "name": "DAVITA",
+          "type": "Organization",
+          "amount": 15500
+        },
+        {
+          "name": "FRANKLIN MOUNTAIN MANAGEMENT",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "STARKEY HEARING TECHNOLOGIES",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "MARQUIS MANAGEMENT, INC",
+          "type": "Organization",
+          "amount": 11250
+        },
+        {
+          "name": "KLINGER COMPANIES, LLC",
+          "type": "Organization",
+          "amount": 10000
+        },
+        {
+          "name": "JANE ST. CAPITAL",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "JANE STREET",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "EXECUTIVE CHAIRMAN",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "UIHC",
+          "type": "Organization",
+          "amount": 9433
+        },
+        {
+          "name": "CONSUMER TECHNOLOGY ASSOCIATION",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "DURHAM",
+          "type": "Organization",
+          "amount": 8345
+        },
+        {
+          "name": "CHARLES  POTOMAC CAPITAL",
+          "type": "Organization",
+          "amount": 8054
+        },
+        {
+          "name": "VORNADO REALTY TRUST",
+          "type": "Organization",
+          "amount": 8003
+        },
+        {
+          "name": "VALLEY DISTRIBTION CORP",
+          "type": "Organization",
+          "amount": 7805
+        },
+        {
+          "name": "CEO",
+          "type": "Organization",
+          "amount": 7600
+        },
+        {
+          "name": "IOWA 80 GROUP",
+          "type": "Organization",
+          "amount": 7500
+        },
+        {
+          "name": "HAMES HOMES",
+          "type": "Organization",
+          "amount": 7405
+        },
+        {
+          "name": "ATTORNEY",
+          "type": "Organization",
+          "amount": 7203
+        },
+        {
+          "name": "AQR CAPITAL",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "ATWAL EYE CARE",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "IOWA STATE UNIVERSITY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MIDLAND ENERGY, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HILLWOOD AND THE PEROT GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LYNCH LIVESTOCK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DIAMONDBACKS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FISHER CREEK WEST, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LIBERTY MEDIA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VETERANS UNITED HOME LOANS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FIRST VIRTUAL GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ELLIOT MANAGEMENT CORP.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BLUFF POINT ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARCHER AUTO GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FRIESS ASSOCIATES LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CHARLES SCHWAB CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KIRKE FINANCIALL SERVICES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WELLMARK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BARKER COMPANIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PLASTPRO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BLUEWATER INTERNATIONAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BLACKSTONE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KHOSLA VENTURES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE MARCUS FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PRIME, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STANDARD INDUSTRIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CITADEL LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NORSEMEN TRUCKING INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DOLAN CORP.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SILVER EAGLE DISTRIBUTORS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "R AND R REALTY GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GLOBAL RESCUE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MOUNTAINAIRE CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CANTOR FITZGERALD",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DOLAN HOMES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CUMBERLAND DEVELOPMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HAMILTON POINT INVESTMENTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "INTERACTIVE BROKERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WESTERN NATIONAL GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DCOR, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CLEARPATH FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ULINE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "J.W. CHILDS ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "EDWARD C. LEVY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "RETINA CONSULTANTS OF MICHIGAN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ENERGY TRANSFER COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TULCO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BALL VENTURES, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CROW HOLDINGS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "OAK STREAM INVESTORS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WESTERN NATIONAL PROPERTY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CIVIC SERVICE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "EDISON CHOUEST OFFSHORE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SABIN METAL CORP.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WINDOW WORLD",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARNEL AND AFFILIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "IOWA SELECT FARMS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "EPIC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "REAL ESTATE DEVELOPER",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PERFORMANCE CONTRACTORS, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GRANITE TELECOMMUNICATIONS, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BELTRAME LAW FIRM, PLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JM EAGLE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GRIMMWAY ENTERPRISES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NEW BALANCE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MELALEUCA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KENT CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CRST",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SENECA COMPANIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MCKINSEY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DUCHOSSOIS CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "PROTECT THE HOUSE 2024",
+          "type": "PAC",
+          "amount": 3856172
+        },
+        {
+          "name": "SCALISE LEADERSHIP FUND 2024",
+          "type": "PAC",
+          "amount": 1573401
+        },
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 1304000
+        },
+        {
+          "name": "GOP WINNING WOMEN 2024",
+          "type": "PAC",
+          "amount": 1171477
+        },
+        {
+          "name": "MILLER-MEEKS, MARIANNETTE JANE",
+          "type": "PAC",
+          "amount": 420000
+        },
+        {
+          "name": "AMERICAN BATTLEGROUND FUND",
+          "type": "PAC",
+          "amount": 289706
+        },
+        {
+          "name": "DEMOCRACY ENGINE, INC., PAC",
+          "type": "PAC",
+          "amount": 132000
+        },
+        {
+          "name": "CONTINUING AMERICAS STRENGTH AND SECURITY PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "TAG LLC",
+          "type": "PAC",
+          "amount": 85828
+        },
+        {
+          "name": "COHERUS BIOSCIENCES PAC",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "PAYCHEX",
+          "type": "PAC",
+          "amount": 50791
+        },
+        {
+          "name": "BLAINE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DEFENDING THE AMERICAN DREAM PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN SECURITY PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "SWISHER INTERNATIONAL INC PAC FUND",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "COMCAST CORPORATION AND NBCUNIVERSAL PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION PAC (SKINPAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CONSUMER TECHNOLOGY ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "EYEPAC POLITICAL ACTION COMMITTEE FOR AMERICAN SOCIETY OF CATARACT AND REFRACTIVE SURGERY",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AKSM UROLOGY PAC 'AKSM UROLOGY PAC'",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BAKER PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "MAINTAINING ALL REPUBLICANS IN OFFICE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BIPARTISAN CLIMATE FUND",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "POET PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "VIATRIS INC. PAC (VIAPAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "MEDICAL DEVICE MANUFACTURERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN PETROLEUM INSTITUTE PAC (API PAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BALL CORPORATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CHEVRON EMPLOYEES PAC - CHEVRON CORPORATION",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "IN THE ARENA PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "COUNCIL OF INSURANCE AGENTS AND BROKERS PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "GENENTECH INC. PAC (GENENPAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NEUROSURGERY PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "E-PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "REJOICE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BUCKEYE LIBERTY PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "HELLFIRE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "SEAL PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CONQUERING CANCER PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CHEMICAL DISTRIBUTORS RESPONSIBLE DISTRIBUTION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "LAND OF OPPORTUNITY PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "KEEP AMERICA ROLLING",
+          "type": "PAC",
+          "amount": 50000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 93,
+    "total_votes_scored": 55,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "SHOWER Act",
+        "bill": "HR4593",
+        "date": "2026-01-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN PETROLEUM INSTITUTE PAC (API PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on SHOWER Act"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "COMCAST CORPORATION AND NBCUNIVERSAL PAC",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Nay on Making appropriations for Legislative Branch for the fiscal "
+      },
+      {
+        "vote_description": "Affordable HOMES Act",
+        "bill": "HR5184",
+        "date": "2026-01-09",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "AMERICAN PETROLEUM INSTITUTE PAC (API PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea on Affordable HOMES Act"
+      },
+      {
+        "vote_description": "To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",
+        "bill": "HR1023",
+        "date": "2024-03-22",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "AMERICAN PETROLEUM INSTITUTE PAC (API PAC)",
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay on To repeal section 134 of the Clean Air Act, relating to the "
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 3,
+    "against_electorate_pct": 67,
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 63.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 59.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 68.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

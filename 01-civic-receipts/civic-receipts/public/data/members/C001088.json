@@ -5,6 +5,7 @@
   "chamber": "senate",
   "state": "DE",
   "district": null,
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/C001088.jpg",
   "serving_since": 2010,
   "years_in_office": 16,
@@ -14,15 +15,115 @@
     "top_industries": []
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 93,
+    "total_votes_scored": 14,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
+        "bill": "S2073",
+        "date": "2024-07-30",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "DROPBOX INC PAC",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
+      },
+      {
+        "vote_description": "A bill to reauthorize wildlife habitat and conservation programs, and for other purposes.",
+        "bill": "HR5009",
+        "date": "2024-12-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "TRANSDIGM GROUP INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on A bill to reauthorize wildlife habitat and conservation prog"
+      },
+      {
+        "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
+        "bill": "HR4346",
+        "date": "2022-07-27",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "DROPBOX INC PAC",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on A bill making appropriations for Legislative Branch for the "
+      },
+      {
+        "vote_description": "A bill to provide for a coordinated Federal research initiative to ensure continued United States leadership in engineering biology.",
+        "bill": "HR4521",
+        "date": "2022-03-28",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "DROPBOX INC PAC",
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea on A bill to provide for a coordinated Federal research initiat"
+      },
+      {
+        "vote_description": "To rescind funds from the Department of Energy loan programs office.",
+        "bill": "HR9468",
+        "date": "2024-09-19",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_name": "TRANSDIGM GROUP INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea on To rescind funds from the Department of Energy loan programs"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 6,
+    "against_electorate_pct": 33,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 92.5,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 65.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 15.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 57.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 69.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 64.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {

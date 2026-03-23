@@ -1,0 +1,726 @@
+{
+  "bioguide_id": "C001108",
+  "fec_candidate_id": "H6KY01110",
+  "fec_committee_id": "C00588764",
+  "cycle": 2024,
+  "totals": {
+    "total_raised": 7650141,
+    "total_spent": 5518741,
+    "individual_contributions": 6674291,
+    "individual_itemized": 3062731,
+    "individual_unitemized": 3611560,
+    "pac_contributions": 805999,
+    "other_receipts": 169851,
+    "cash_on_hand": 3209222
+  },
+  "campaign_pac_contributors": [
+    {
+      "name": "WINRED",
+      "total": 1288000.0,
+      "count": 290
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+      "total": 166000.0,
+      "count": 40
+    },
+    {
+      "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "CHEVRON EMPLOYEES PAC - CHEVRON CORPORATION",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "AMERICAN OPTOMETRIC ASSOCIATION PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "UNITED POSTMASTERS AND MANAGERS OF AMERICA POLITICAL FUND (UPMA PAC)",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "VALERO ENERGY CORPORATION PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "ASSOCIATED BUILDERS & CONTRACTORS PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "ALTRIA GROUP INC PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "CALPORTLAND COMPANY PAC (CALPORTLAND PAC)",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "FRIENDS OF COMMUNITY ONCOLOGY PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "AMERICAN SOCIETY OF INTERVENTIONAL PAIN PHYSICIAN PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "CONQUERING CANCER PAC",
+      "total": 100000.0,
+      "count": 20
+    },
+    {
+      "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+      "total": 85000.0,
+      "count": 20
+    },
+    {
+      "name": "BUILD PAC",
+      "total": 70000.0,
+      "count": 20
+    },
+    {
+      "name": "REYNOLDS AMERICAN INC. PAC; RAI PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF POSTAL SUPERVISORS PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "TOYOTA MOTOR NORTH AMERICA, INC PAC (TOYOTA/LEXUS PAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMAZON CORPORATE LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "HALLMARK CARDS PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "HUCK PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "KOCH INDUSTRIES, INC. PAC (KOCHPAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "UPSPAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "MICROSOFT CORPORATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "POLSINELLI PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "HONEYWELL INTERNATIONAL PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "ASSOCIATION OF KENTUCKY FRIED CHICKEN FRANCHISEES PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "KENTUCKY HOSPITAL ASSOCIATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "POET PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "THE EYE OF THE TIGER PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION - PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "LHC GROUP, INC. PAC",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "JUUL LABS, INC. EMPLOYEES PAC (JLE PAC)",
+      "total": 50000.0,
+      "count": 10
+    },
+    {
+      "name": "HUMANA INC. PAC",
+      "total": 40000.0,
+      "count": 10
+    },
+    {
+      "name": "USPS",
+      "total": 40000.0,
+      "count": 10
+    },
+    {
+      "name": "BROWN-FORMAN CORPORATION NON-PARTISAN COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+      "total": 40000.0,
+      "count": 10
+    },
+    {
+      "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION PAC",
+      "total": 40000.0,
+      "count": 10
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS, INC. PAC (VERIZON PAC)",
+      "total": 40000.0,
+      "count": 10
+    }
+  ],
+  "campaign_top_employers": [
+    {
+      "name": "NYCBS",
+      "total": 52300,
+      "count": 43
+    },
+    {
+      "name": "NEW YORK CANCER AND BLOOD SPECIALISTS",
+      "total": 23750,
+      "count": 23
+    },
+    {
+      "name": "SWIFT & STALEY",
+      "total": 20000,
+      "count": 11
+    },
+    {
+      "name": "CASSIDY & COMPANY",
+      "total": 19800,
+      "count": 6
+    },
+    {
+      "name": "NEXTGEN MANAGEMENT",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "ELLIOTT INVESTMENT MANAGEMENT",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "total": 10000,
+      "count": 5
+    },
+    {
+      "name": "KIRKLAND & ELLIS",
+      "total": 8800,
+      "count": 4
+    },
+    {
+      "name": "SITE DEVELOPMENT",
+      "total": 8190,
+      "count": 39
+    },
+    {
+      "name": "OHIO PAIN CLINIC",
+      "total": 7900,
+      "count": 4
+    },
+    {
+      "name": "SAFTI",
+      "total": 7825,
+      "count": 26
+    },
+    {
+      "name": "SELF",
+      "total": 7719,
+      "count": 90
+    },
+    {
+      "name": "CODELL CONSTRUCTION CO.",
+      "total": 7500,
+      "count": 3
+    },
+    {
+      "name": "COFFEY CONST. CO.",
+      "total": 7300,
+      "count": 3
+    },
+    {
+      "name": "GESSLER CLINIC",
+      "total": 7200,
+      "count": 2
+    },
+    {
+      "name": "PATIENTRIGHTSADVOCATE.ORG",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "CHARLES SCHWAB CORPORATION",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "VMAR DEV LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "W STRATEGIES",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CASSIDY HOME",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "THE BERRY CORP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "SABIN METAL CORP.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "PRIME COMMUNITY MANAGEMENT",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "DUO BROADBAND",
+      "total": 6600,
+      "count": 5
+    },
+    {
+      "name": "MOUNTAIN LAKE CORP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "HALLMARK CARDS INC.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CLEARPATH",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "MICROSOFT CORPORATION",
+      "total": 6600,
+      "count": 1
+    },
+    {
+      "name": "ULINE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "THE LAW OFFICE OF STAHL, PC",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "EYE CARE ASSOCIATES OF KENTUCKY",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "STEPHENS PIPE & STEEL",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "TRUMPET CALLS INC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "BLACKSTONE",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "ALLIANCE RESOURCE PARTNERS LP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "BEIGENE",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "ALTRIA CLIENT SERVICES",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "RESMED, INC.",
+      "total": 6500,
+      "count": 14
+    },
+    {
+      "name": "JAMES MARINE",
+      "total": 6000,
+      "count": 2
+    },
+    {
+      "name": "US BANK",
+      "total": 6000,
+      "count": 3
+    },
+    {
+      "name": "LEXISNEXIS RISK SOLUTIONS",
+      "total": 5600,
+      "count": 3
+    },
+    {
+      "name": "FOUR RIVERS NUCLEAR PARTNERSHIP",
+      "total": 5500,
+      "count": 5
+    },
+    {
+      "name": "ARCHER AUTO GROUP",
+      "total": 5500,
+      "count": 5
+    },
+    {
+      "name": "CROUNSE CORPORATION",
+      "total": 5500,
+      "count": 4
+    },
+    {
+      "name": "PRC ASSOCIATES",
+      "total": 5400,
+      "count": 4
+    },
+    {
+      "name": "A&C COMMUNICATIONS CORP",
+      "total": 5300,
+      "count": 2
+    },
+    {
+      "name": "FROST BROWN TODD",
+      "total": 5000,
+      "count": 6
+    },
+    {
+      "name": "NEW YORK CANCER AND BLOOD",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "MEHLMAN CONSULTING",
+      "total": 5000,
+      "count": 6
+    },
+    {
+      "name": "LAKE CUMBERLAND PHARAMCY",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "NEW YORK CANCER AND BLOOD SPECIALIST",
+      "total": 5000,
+      "count": 5
+    },
+    {
+      "name": "BRANSCUM CONSTRUCTION",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "POMEROY LAND",
+      "total": 4763,
+      "count": 111
+    },
+    {
+      "name": "PETER AMORELLO CONST",
+      "total": 4600,
+      "count": 46
+    },
+    {
+      "name": "FAMILY PRACTICE CENTER",
+      "total": 4600,
+      "count": 11
+    },
+    {
+      "name": "WEST OHIO DERMATOLOGY",
+      "total": 4500,
+      "count": 18
+    },
+    {
+      "name": "PADUCAH & LOUISVILLE RAILWAY, INC.",
+      "total": 4500,
+      "count": 2
+    },
+    {
+      "name": "I DECK ENERGY SERVICES INC",
+      "total": 4300,
+      "count": 4
+    },
+    {
+      "name": "VAPROSHIELD",
+      "total": 4250,
+      "count": 12
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC",
+      "total": 4050,
+      "count": 2
+    },
+    {
+      "name": "CHESAPEAKE CONSTRUCTION CO.",
+      "total": 4000,
+      "count": 2
+    },
+    {
+      "name": "THE SMITH-FREE GROUP",
+      "total": 4000,
+      "count": 6
+    },
+    {
+      "name": "OPKO HEALTH INC",
+      "total": 4000,
+      "count": 4
+    },
+    {
+      "name": "PENCOR",
+      "total": 3750,
+      "count": 11
+    },
+    {
+      "name": "BEIGENE USA, INC.",
+      "total": 3500,
+      "count": 3
+    },
+    {
+      "name": "FIERCE GOVERNMENT RELATIONS",
+      "total": 3500,
+      "count": 2
+    },
+    {
+      "name": "WK&T",
+      "total": 3500,
+      "count": 2
+    },
+    {
+      "name": "COMMONWEALTH OF KY",
+      "total": 3500,
+      "count": 3
+    },
+    {
+      "name": "SC CONTRACTING",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "JACKSON FAMILY WINES",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "ALIXPARTNERS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "GEO CONSTULTANTS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "KEISER UNIVERSITY",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "MDECK ENERGY SOURCES",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "TASTY BRANDS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "1607 STRATEGIES",
+      "total": 3300,
+      "count": 3
+    },
+    {
+      "name": "VIVEX BIOLOGICS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "WKRT",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "R&S DRUGS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "DANIEL DEFENSE",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "STRAWBERRY HILLS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "A10 ASSOCIATES",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "TENNESSEE ONCOLOGY",
+      "total": 3250,
+      "count": 4
+    },
+    {
+      "name": "ONE ONCOLOGY",
+      "total": 3000,
+      "count": 2
+    },
+    {
+      "name": "FALCONITE DEVELOPMENT INC",
+      "total": 3000,
+      "count": 1
+    },
+    {
+      "name": "WORKMAN ENGINEERING",
+      "total": 3000,
+      "count": 2
+    },
+    {
+      "name": "NYCB",
+      "total": 3000,
+      "count": 2
+    },
+    {
+      "name": "CENTRAL FLORIDA PATHOLOGY ASSOCIATES P",
+      "total": 3000,
+      "count": 5
+    },
+    {
+      "name": "FOUR RIVERS NUCLEAR PARTNERSHIP, LLC",
+      "total": 3000,
+      "count": 3
+    },
+    {
+      "name": "KIRKLAND & ELLIS LLP",
+      "total": 3000,
+      "count": 3
+    },
+    {
+      "name": "ZEAGER BROS INC",
+      "total": 3000,
+      "count": 9
+    },
+    {
+      "name": "JBS COMMUNICATIONS, LLC",
+      "total": 3000,
+      "count": 3
+    },
+    {
+      "name": "MARQUETTE TRANSPORTATION",
+      "total": 3000,
+      "count": 1
+    },
+    {
+      "name": "GIBSON DUNN & CRUTCHER",
+      "total": 3000,
+      "count": 2
+    },
+    {
+      "name": "DUO COUNTY TELEPHONE",
+      "total": 3000,
+      "count": 1
+    }
+  ],
+  "leadership_pacs": []
+}

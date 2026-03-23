@@ -1,0 +1,981 @@
+{
+  "bioguide_id": "L000600",
+  "fec_candidate_id": "H2NY23228",
+  "fec_committee_id": "C00817932",
+  "cycle": 2024,
+  "totals": {
+    "total_raised": 1931075,
+    "total_spent": 927737,
+    "individual_contributions": 889803,
+    "individual_itemized": 823726,
+    "individual_unitemized": 66077,
+    "pac_contributions": 856663,
+    "other_receipts": 184609,
+    "cash_on_hand": 1093808
+  },
+  "campaign_pac_contributors": [
+    {
+      "name": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+      "total": 1064806.4699999997,
+      "count": 81
+    },
+    {
+      "name": "WINRED",
+      "total": 297000.0,
+      "count": 54
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+      "total": 119700.0,
+      "count": 27
+    },
+    {
+      "name": "FRESHMAN AGRICULTURAL REPUBLICAN MEMBERS TRUST AKA FARM TRUST, ERIC ALAN RICK",
+      "total": 105629.49,
+      "count": 18
+    },
+    {
+      "name": "NEW YORKERS FOR COMMON SENSE",
+      "total": 102317.67000000001,
+      "count": 9
+    },
+    {
+      "name": "GROW THE MAJORITY NY",
+      "total": 97121.06999999998,
+      "count": 9
+    },
+    {
+      "name": "THE FARM CREDIT COUNCIL PAC",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "NEW YORK LIFE INSURANCE COMPANY PAC",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "INNOVATION PAC",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "CONSTELLATION BRANDS INC PAC",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC (AFIT-PAC)",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "NATIONAL FUEL GAS COMPANY FEDERAL PAC",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "CORNING INCORPORATED EMPLOYEES PAC (COREPAC)",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "AIR LINE PILOTS ASSOCIATION PAC",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "UBS AMERICAS INC. PAC (UBS PAC)",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING PAC INC",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS (EMMER PAC)",
+      "total": 90000.0,
+      "count": 18
+    },
+    {
+      "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+      "total": 67500.0,
+      "count": 18
+    },
+    {
+      "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+      "total": 67500.0,
+      "count": 27
+    },
+    {
+      "name": "NUCOR CORPORATION PAC",
+      "total": 63000.0,
+      "count": 18
+    },
+    {
+      "name": "SENECA NATION OF INDIANS",
+      "total": 59400.0,
+      "count": 9
+    },
+    {
+      "name": "HUCK PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "THE EYE OF THE TIGER PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF TH...",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "AMERICAN INVESTMENT COUNCIL PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL PROPANE GAS ASSOCIATION PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF PLUMBING-HEATING-COOLING CONTRACTORS PAC AKA PHCC-PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "FORD MOTOR COMPANY CIVIC ACTION FUND",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "PUBLIC SERVICE ENTERPRISE GROUP INC. PAC (PEGPAC)",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "THOROUGHBRED PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "KOCH INDUSTRIES, INC. PAC (KOCHPAC)",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "FRIENDS OF COMMUNITY ONCOLOGY PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "DELAWARE NORTH COMPANIES, INC. PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "CONQUERING CANCER PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "CHEVRON EMPLOYEES PAC (CEPAC)",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL RESTAURANT ASSOCIATION PAC",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "AMERICAN DENTAL ASSOCIATION PAC (ADA PAC)",
+      "total": 45000.0,
+      "count": 9
+    },
+    {
+      "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC (SWAPA PAC)",
+      "total": 40500.0,
+      "count": 9
+    },
+    {
+      "name": "GT FARM TEAM 2024",
+      "total": 37901.34000000001,
+      "count": 9
+    },
+    {
+      "name": "H&R BLOCK INC. PAC (BLOCKPAC)",
+      "total": 36000.0,
+      "count": 9
+    },
+    {
+      "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PAC",
+      "total": 36000.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS PAC (RPAC)",
+      "total": 36000.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+      "total": 36000.0,
+      "count": 9
+    },
+    {
+      "name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
+      "total": 31500.0,
+      "count": 9
+    },
+    {
+      "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. PAC",
+      "total": 31500.0,
+      "count": 9
+    },
+    {
+      "name": "WE SAVE LOCAL, LLC",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "SECURING THE REPUBLIC FOR OUR NEXT GENERATION",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "FIRST IN TEXAS PAC",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "RED HOOK PAC",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "1890 PAC",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "PHILLIPS LYTLE LLP",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "NOCO PROPERTIES LLC",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "TENACIOUS PAC",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "MVL PAC",
+      "total": 29700.0,
+      "count": 9
+    },
+    {
+      "name": "COMCAST CORPORATION & NBCUNIVERSAL PAC - FEDERAL",
+      "total": 27000.0,
+      "count": 9
+    },
+    {
+      "name": "CEILING AND VISIBILITY UNLIMITED (CAVU PAC)",
+      "total": 27000.0,
+      "count": 9
+    },
+    {
+      "name": "FERT PAC (THE PAC OF THE FERTILIZER INSTITUTE)",
+      "total": 27000.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL PORK PRODUCERS COUNCIL PORK PAC",
+      "total": 22500.0,
+      "count": 9
+    },
+    {
+      "name": "HEIDELBERG MATERIALS US, INC. PAC",
+      "total": 22500.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC (NSSGA ROCKPAC)",
+      "total": 22500.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION PAC (NRLCA PAC)",
+      "total": 22500.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION (NECAPAC)",
+      "total": 22500.0,
+      "count": 9
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+      "total": 22500.0,
+      "count": 9
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS INC. PAC",
+      "total": 22500.0,
+      "count": 9
+    },
+    {
+      "name": "AVANGRID PAC",
+      "total": 22500.0,
+      "count": 9
+    }
+  ],
+  "campaign_top_employers": [
+    {
+      "name": "BLACKSTONE",
+      "total": 25216,
+      "count": 20
+    },
+    {
+      "name": "CORNING",
+      "total": 15255,
+      "count": 23
+    },
+    {
+      "name": "FREY ELECTRIC CONSTRUCTION CO.",
+      "total": 13800,
+      "count": 7
+    },
+    {
+      "name": "ST. PAULY TEXTILE",
+      "total": 13200,
+      "count": 4
+    },
+    {
+      "name": "CRYSTAL WINDOW AND DOOR SYSTEMS, LTD",
+      "total": 13200,
+      "count": 5
+    },
+    {
+      "name": "LIPPES MATHIAS LLP",
+      "total": 10781,
+      "count": 7
+    },
+    {
+      "name": "NYCBS",
+      "total": 10055,
+      "count": 26
+    },
+    {
+      "name": "REGENT",
+      "total": 9100,
+      "count": 10
+    },
+    {
+      "name": "TORREY FARMS",
+      "total": 9100,
+      "count": 4
+    },
+    {
+      "name": "SEALING DEVICES, INC.",
+      "total": 7100,
+      "count": 5
+    },
+    {
+      "name": "FISCHER INVESTMENT GROUP, INC.",
+      "total": 7100,
+      "count": 4
+    },
+    {
+      "name": "PHILLIPS LYTLE LLP",
+      "total": 7100,
+      "count": 5
+    },
+    {
+      "name": "OTIS EASTERN SERVICE LLC",
+      "total": 7100,
+      "count": 3
+    },
+    {
+      "name": "STEPHEN DEVELOPMENT",
+      "total": 7000,
+      "count": 6
+    },
+    {
+      "name": "MORNINGSIDE",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "ATWAL EYE CARE",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "CLEARPATH",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "THE PREMIER NETWORK",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "US DEPT. OF HOUSING URBAN DEVELOPMENT",
+      "total": 6600,
+      "count": 5
+    },
+    {
+      "name": "LIPPES MATHIAS WEXLER FRIEDMAN LLP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "CHARTWELL STRATEGY GROUP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "FIT FOR LIFE LLC",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "ACCENT STRIPE, INC",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "COOLEY LLP",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "BIG DOG STRATEGIES",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "NORTH COUNTRY CAPITAL LLC",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "INDUS HOSPITALITY GROUP INC",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "SINATRA AND CO.",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "UNITED REFINING CO.",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "AIRPORT PLAZA JEWELERS",
+      "total": 6600,
+      "count": 2
+    },
+    {
+      "name": "RANE MANAGEMENT",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "NYS ASSEMBLY / SEAMAN NORRIS LLP",
+      "total": 6600,
+      "count": 3
+    },
+    {
+      "name": "ADVANCED CARDIAC SURGICAL ASSOC, PLLC",
+      "total": 6600,
+      "count": 6
+    },
+    {
+      "name": "FIDELITY INVESTMENTS",
+      "total": 6600,
+      "count": 1
+    },
+    {
+      "name": "MASIELLO, MARTUCCI & ASSOCIATES",
+      "total": 6326,
+      "count": 3
+    },
+    {
+      "name": "UNION CONCRETE",
+      "total": 6300,
+      "count": 3
+    },
+    {
+      "name": "REID COS.",
+      "total": 6200,
+      "count": 4
+    },
+    {
+      "name": "AMERICAN DND, INC.",
+      "total": 6000,
+      "count": 2
+    },
+    {
+      "name": "BRIGHT STAR GROUP",
+      "total": 5500,
+      "count": 2
+    },
+    {
+      "name": "TODD STRATEGY LLC",
+      "total": 5300,
+      "count": 7
+    },
+    {
+      "name": "BARCLAY DAMON, LLP",
+      "total": 5300,
+      "count": 6
+    },
+    {
+      "name": "DOUGLAS DEVELOPMENT",
+      "total": 5300,
+      "count": 3
+    },
+    {
+      "name": "ACCENT STRIPE INC",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "ERIE COUNTY WATER AUTHORITY",
+      "total": 4993,
+      "count": 24
+    },
+    {
+      "name": "ERIE COUNTY SHERIFF'S OFFICE",
+      "total": 4620,
+      "count": 17
+    },
+    {
+      "name": "BUCKMAN",
+      "total": 4500,
+      "count": 2
+    },
+    {
+      "name": "FABER HOMES",
+      "total": 4500,
+      "count": 3
+    },
+    {
+      "name": "CARD & ASSOCIATES",
+      "total": 4300,
+      "count": 4
+    },
+    {
+      "name": "W STRATEGIES",
+      "total": 4300,
+      "count": 4
+    },
+    {
+      "name": "RENDR",
+      "total": 4130,
+      "count": 2
+    },
+    {
+      "name": "RICH FEUER ANDERSON",
+      "total": 4000,
+      "count": 3
+    },
+    {
+      "name": "RAYMOUR & FLANIGAN",
+      "total": 4000,
+      "count": 2
+    },
+    {
+      "name": "A. TITAN INSTRUMENTS",
+      "total": 4000,
+      "count": 2
+    },
+    {
+      "name": "PAC TOOL MOUNTS",
+      "total": 4000,
+      "count": 2
+    },
+    {
+      "name": "NIAGARA CUSTOM PLATING",
+      "total": 3700,
+      "count": 7
+    },
+    {
+      "name": "NATIONAL MILK PRODUCERS FEDERATION",
+      "total": 3550,
+      "count": 5
+    },
+    {
+      "name": "UNILAND DEVELOPMENT",
+      "total": 3500,
+      "count": 5
+    },
+    {
+      "name": "ERIE COUNTY LEGISLATOR",
+      "total": 3500,
+      "count": 2
+    },
+    {
+      "name": "CVS PHARMACY",
+      "total": 3449,
+      "count": 6
+    },
+    {
+      "name": "VEIN TREATMENT CENTER",
+      "total": 3400,
+      "count": 2
+    },
+    {
+      "name": "MATTOON & ASSOCIATES",
+      "total": 3350,
+      "count": 5
+    },
+    {
+      "name": "WE SAVE LOCAL, LLC",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "NOCO PROPERTIES LLC",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "AMBRUS ASSET MANAGEMENT",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "GLENDALE DEVELOPMENT",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "1A AUTO INC",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "KPS CAPITAL PARTNERS",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "INTERARCH, INC.",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "CLINIQUE LABORATORIES",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "TREE OF LIFE FOUNDATION",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "SUCRO",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "MURPHY COMPANY",
+      "total": 3300,
+      "count": 2
+    },
+    {
+      "name": "ERIE COUNTY BOE",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "BOUSQUET HOLSTEIN",
+      "total": 3300,
+      "count": 1
+    },
+    {
+      "name": "TRY-IT DISTRIBUTING",
+      "total": 3300,
+      "count": 2
+    },
+    {
+      "name": "MIDDLEPORT PHARMACY",
+      "total": 3047,
+      "count": 4
+    },
+    {
+      "name": "FARRAGUT PARTNERS",
+      "total": 3000,
+      "count": 3
+    },
+    {
+      "name": "THE RUSSELL GROUP",
+      "total": 3000,
+      "count": 3
+    },
+    {
+      "name": "WROTB",
+      "total": 3000,
+      "count": 1
+    },
+    {
+      "name": "JOSEPH RATNER COMPANY INC",
+      "total": 2970,
+      "count": 1
+    },
+    {
+      "name": "BULLFROG HOTEL BAR AND GRILL",
+      "total": 2900,
+      "count": 1
+    },
+    {
+      "name": "TUSCARORA INDIAN BUSINESS SERVICES",
+      "total": 2600,
+      "count": 4
+    },
+    {
+      "name": "AML RIGHTSOURCE",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "JAMESTOWN MACADAM, INC.",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "IMPACT JOURNALS, LLC",
+      "total": 2500,
+      "count": 2
+    },
+    {
+      "name": "BBX CAPITAL",
+      "total": 2500,
+      "count": 2
+    },
+    {
+      "name": "NOVELLI WELLNESS CENTER",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "SLOAN-KETTERING CANCER CTR",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "THE SMITH FREE GROUP",
+      "total": 2500,
+      "count": 2
+    },
+    {
+      "name": "LAPUR LLC",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "INTUIT",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "HARBINGER STRATEGIES",
+      "total": 2500,
+      "count": 3
+    },
+    {
+      "name": "CAPITOL HILL POLICY GROUP",
+      "total": 2500,
+      "count": 2
+    },
+    {
+      "name": "THE JUDGE GROUP",
+      "total": 2500,
+      "count": 1
+    },
+    {
+      "name": "THE HOBBS GROUP, LLC",
+      "total": 2500,
+      "count": 3
+    },
+    {
+      "name": "ULRICH DEVELOPMENT CO., LLC",
+      "total": 2500,
+      "count": 1
+    }
+  ],
+  "leadership_pacs": [
+    {
+      "committee_id": "C00827881",
+      "name": "CIRCLE THE WAGONS PAC",
+      "receipts": 115652,
+      "contributors": [
+        {
+          "name": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+          "total": 81352.49,
+          "count": 8
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS PAC (RPAC)",
+          "total": 10000.0,
+          "count": 2
+        },
+        {
+          "name": "HOUSE CONSERVATIVES FUND",
+          "total": 5000.0,
+          "count": 1
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "total": 5000.0,
+          "count": 1
+        },
+        {
+          "name": "CONSTELLATION BRANDS INC PAC",
+          "total": 5000.0,
+          "count": 1
+        },
+        {
+          "name": "DELAWARE NORTH COMPANIES, INC. PAC",
+          "total": 3300.0,
+          "count": 1
+        },
+        {
+          "name": "UNITED PARCEL SERVICE INC. PAC (UPSPAC)",
+          "total": 2500.0,
+          "count": 1
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+          "total": 2500.0,
+          "count": 1
+        },
+        {
+          "name": "REYNOLDS AMERICAN INC. PAC; RAI PAC",
+          "total": 1000.0,
+          "count": 1
+        }
+      ],
+      "top_employers": [
+        {
+          "name": "LIPPES MATHIAS WEXLER FRIEDMAN LLP",
+          "total": 8400,
+          "count": 2
+        },
+        {
+          "name": "NYS ASSEMBLY / SEAMAN NORRIS LLP",
+          "total": 6400,
+          "count": 2
+        },
+        {
+          "name": "AMBRUS ASSET MANAGEMENT",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "SUCRO",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "LIPPES MATHIAS LLP",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "AIRPORT PLAZA JEWELERS",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "THE PREMIER NETWORK",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "ST. PAULY TEXTILE",
+          "total": 5000,
+          "count": 1
+        },
+        {
+          "name": "US DEPT. OF HOUSING URBAN DEVELOPMENT",
+          "total": 3650,
+          "count": 1
+        },
+        {
+          "name": "REGENT",
+          "total": 3400,
+          "count": 1
+        },
+        {
+          "name": "OTIS EASTERN SERVICE LLC",
+          "total": 3400,
+          "count": 1
+        },
+        {
+          "name": "NORTH COUNTRY CAPITAL LLC",
+          "total": 3300,
+          "count": 1
+        },
+        {
+          "name": "KPS CAPITAL PARTNERS",
+          "total": 3300,
+          "count": 1
+        },
+        {
+          "name": "FIDELITY INVESTMENTS",
+          "total": 3300,
+          "count": 1
+        },
+        {
+          "name": "ADVANCED CARDIAC SURGICAL ASSOC, PLLC",
+          "total": 2000,
+          "count": 1
+        },
+        {
+          "name": "FISCHER INVESTMENT GROUP, INC.",
+          "total": 1000,
+          "count": 1
+        },
+        {
+          "name": "FREY ELECTRIC CONSTRUCTION CO.",
+          "total": 1000,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

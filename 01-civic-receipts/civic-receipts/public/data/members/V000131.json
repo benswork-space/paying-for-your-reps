@@ -5,24 +5,1480 @@
   "chamber": "house",
   "state": "TX",
   "district": "33",
+  "gender": "M",
   "photo_url": "https://unitedstates.github.io/images/congress/450x550/V000131.jpg",
   "serving_since": 2013,
   "years_in_office": 13,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 2020488,
+    "campaign_raised": 1878488,
+    "leadership_pac_raised": 142000,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 624197,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 62400
+          },
+          {
+            "name": "ANDREESSEN HOROWITZ",
+            "type": "Organization",
+            "amount": 20000
+          },
+          {
+            "name": "AHCV",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "WITHERITE LAW GROUP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "BREAKTHROUGH ENERGY & BILL & MELINDA G",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "THEGROUP",
+            "type": "Organization",
+            "amount": 6800
+          },
+          {
+            "name": "TILLOTSON LAW",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BARON AND BUDD",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WATERS KRAUS PAUL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE WOODMONT COMPANY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SGWS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BOUNTY MINERALS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FINLEY RESOURCES, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KELLY HART & HALLMAN LLP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BARON & BLUE",
+            "type": "Organization",
+            "amount": 6600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 1254290,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1132000
+          },
+          {
+            "name": "TEXAS FARM BUREAU FRIENDS OF AGRICULTURE FUND (AGFUND) INC. (TEXAS FARM BUREAU AGFUND)",
+            "type": "PAC",
+            "amount": 136000
+          },
+          {
+            "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL PAC",
+            "type": "PAC",
+            "amount": 105000
+          },
+          {
+            "name": "BRICKLAYERS AND ALLIED CRAFTWORKERS PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "DEFEND THE VOTE PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE MULTI CANDIDATE COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "type": "PAC",
+            "amount": 83000
+          },
+          {
+            "name": "REGIONS FEDERAL PAC",
+            "type": "PAC",
+            "amount": 80000
+          },
+          {
+            "name": "REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "ABBOTT LABORATORIES EMPLOYEE PAC",
+            "type": "PAC",
+            "amount": 57500
+          },
+          {
+            "name": "DELOITTE FEDERAL PAC",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION COALITION PAC",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "PUBLIC SERVICE ENTERPRISE GROUP INC. POLITICAL ACTION COMMITTEE (PEGPAC)",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 142000,
+        "donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 1132000
+          },
+          {
+            "name": "TEXAS FARM BUREAU FRIENDS OF AGRICULTURE FUND (AGFUND) INC. (TEXAS FARM BUREAU AGFUND)",
+            "type": "PAC",
+            "amount": 136000
+          },
+          {
+            "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL PAC",
+            "type": "PAC",
+            "amount": 105000
+          },
+          {
+            "name": "BRICKLAYERS AND ALLIED CRAFTWORKERS PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "DEFEND THE VOTE PAC",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE MULTI CANDIDATE COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "type": "PAC",
+            "amount": 83000
+          },
+          {
+            "name": "REGIONS FEDERAL PAC",
+            "type": "PAC",
+            "amount": 80000
+          },
+          {
+            "name": "REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 60000
+          },
+          {
+            "name": "ABBOTT LABORATORIES EMPLOYEE PAC",
+            "type": "PAC",
+            "amount": 57500
+          },
+          {
+            "name": "DELOITTE FEDERAL PAC",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION COALITION PAC",
+            "type": "PAC",
+            "amount": 55000
+          },
+          {
+            "name": "PUBLIC SERVICE ENTERPRISE GROUP INC. POLITICAL ACTION COMMITTEE (PEGPAC)",
+            "type": "PAC",
+            "amount": 50000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00562330",
+            "name": "MAKING A REAL CHANGE PAC",
+            "total_raised": 142000,
+            "top_employers": [
+              {
+                "name": "ANDREESSEN HOROWITZ",
+                "type": "Organization",
+                "amount": 15000
+              },
+              {
+                "name": "AHCV",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "BREAKTHROUGH ENERGY & BILL & MELINDA G",
+                "type": "Organization",
+                "amount": 5000
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "ACTBLUE",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "REALTORS POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "ABBOTT LABORATORIES EMPLOYEE PAC",
+                "type": "PAC",
+                "amount": 7500
+              },
+              {
+                "name": "LOCKHEED MARTIN EMPLOYEES' PAC",
+                "type": "PAC",
+                "amount": 7500
+              },
+              {
+                "name": "DELOITTE FEDERAL PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "TEXTRON INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION COALITION PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "ACTBLUE TECHNICAL SERVICES",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "NEW YORK LIFE PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "ABBVIE POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 4500
+              },
+              {
+                "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 3500
+              },
+              {
+                "name": "SEMPRA ENERGY EMPLOYEES POLITICAL ACTION COMMITTEE- FEDERAL",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "LOCKHEED MARTIN PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "UNITED PARCEL SERVICE INC. PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC (ENGPAC)",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "COMCAST & NBC PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "LOWES CORPORATION PUBLIC AFFAIRS COMMITTEE",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "AT&T INC. FEDERAL PAC",
+                "type": "PAC",
+                "amount": 2000
+              },
+              {
+                "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+                "type": "PAC",
+                "amount": 1500
+              },
+              {
+                "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 1000
+              },
+              {
+                "name": "NEW DEMOCRAT COALITION PAC",
+                "type": "PAC",
+                "amount": 1000
+              },
+              {
+                "name": "NEW DEMOCRAT COALITION ACTION FUND",
+                "type": "PAC",
+                "amount": 1000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00506832",
+      "total_raised": 1878488,
+      "individual_contributions": 624197,
+      "individual_itemized": 609986,
+      "individual_unitemized": 14211,
+      "pac_contributions": 1254290,
+      "other_receipts": 1,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 62400
+        },
+        {
+          "name": "WITHERITE LAW GROUP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "THEGROUP",
+          "type": "Organization",
+          "amount": 6800
+        },
+        {
+          "name": "TILLOTSON LAW",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BARON AND BUDD",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WATERS KRAUS PAUL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE WOODMONT COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SGWS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BOUNTY MINERALS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FINLEY RESOURCES, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KELLY HART & HALLMAN LLP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BARON & BLUE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AHCV",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BONANZA OIL CO.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "RUSSELL GLEN COMPANY",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "STEWART STRATEGIES & SOLUTIONS",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "ROCKET HOMES",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "SNAP CLEAN CAR WASH",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "HILLWOOD",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "ANDREESSEN HOROWITZ",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ROCKET CENTRAL",
+          "type": "Organization",
+          "amount": 4700
+        },
+        {
+          "name": "ROACH LAW FIRM",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "PMGNT",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "DUCKS UNLIMITED",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "DIAMOND A FORD CORPORATION",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "INDEPENDENT",
+          "type": "Organization",
+          "amount": 3750
+        },
+        {
+          "name": "SOUTHERN GLAZER'S WINE AND SPIRITS",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "LARRY HOVE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HAMILTON WINGO LLP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BREAKTHROUGH ENERGY & BILL & MELINDA G",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KDC LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DORCHESTER MINERALS LP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "RAYZOR COMPANY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KELLY HART",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ROCKET MORTGAGE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "INDEPENDENT TUBE CORPORATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "THE CONTAINER STORE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "COLONIAL SAVINGS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BRAINTREE LABORATORIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HEART TO HEART HOSPICE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AMROCK",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "QUADRANT HOLDINGS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GOOGLE LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "COINBASE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ECG",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "MORGAN STANLEY SMITH BARNEY",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "TEXAS INDUSTRIAL SECURITY",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "RUSSELL GLEN",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "TRANS GLOBAL TECHNOLOGIES INC.",
+          "type": "Organization",
+          "amount": 2800
+        },
+        {
+          "name": "GAMTEX INDUSTIES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SSS INTERNATIONAL LLC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SCHNEIDER",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "PRESTA",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "THE DASCHLE GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SHIELD AI",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "MONTGOMERYGR",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "STAR RETINA",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "KRAMER DIRECT",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "HOUSE OF REPRESENTATIVES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "LONG ISLAND CONSERVATORY",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PETER DAMON GROUP LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "FOOD HEAVEN USA",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "DAVID F AND MARGARET T GROHNE FAMILY F",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "OGILVY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "VILLAGE HEALTH PARTNERS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "JACKSON WALKER",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "POST L GROUP LLC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "DALLAS AREA RAPID TRANSIT",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "THRIVE FP",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "HAYNES AND BOONE",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "TEXAS HEALTH RESOURCES",
+          "type": "Organization",
+          "amount": 1450
+        },
+        {
+          "name": "FEDERAL STREET STRATEGIES",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "WITCHER PROPERTIES LTD",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "LOCKHEED MARTIN",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "AKIN GUMP",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "EMPIRE CONSULTING GROUP",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "SCHENIDER",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "CHURCHILLFORGE PROPERTIES",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "JONES WALKER",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "SKYFLOW",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "MB DAVIS GROUP",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "ALPINE",
+          "type": "Organization",
+          "amount": 1112
+        },
+        {
+          "name": "UTSW",
+          "type": "Organization",
+          "amount": 1100
+        },
+        {
+          "name": "BRILLIANT STONE INVESTMENTS LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "PIONEER NATURAL RESOURCES USA INC.",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "WEITZMAN",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "RANSOM CAPITAL & ADVISORY LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "IMA FINANCIAL GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "BENNETT PARTNERS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "GHP INVESTMENT ADVISORS, INC.",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "FRANFUND",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "TEMPLE EMANU-EL",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "AKIN GUMP STRAUSS HAUER & FELD LLP",
+          "type": "Organization",
+          "amount": 1000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "ACTBLUE",
+          "type": "PAC",
+          "amount": 1122000
+        },
+        {
+          "name": "TEXAS FARM BUREAU FRIENDS OF AGRICULTURE FUND (AGFUND) INC. (TEXAS FARM BUREAU AGFUND)",
+          "type": "PAC",
+          "amount": 136000
+        },
+        {
+          "name": "BRICKLAYERS AND ALLIED CRAFTWORKERS PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "DEFEND THE VOTE PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE MULTI CANDIDATE COMMITTEE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL PAC",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "type": "PAC",
+          "amount": 83000
+        },
+        {
+          "name": "REGIONS FEDERAL PAC",
+          "type": "PAC",
+          "amount": 80000
+        },
+        {
+          "name": "PUBLIC SERVICE ENTERPRISE GROUP INC. POLITICAL ACTION COMMITTEE (PEGPAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMBULATORY SURGERY CENTER ASSOCIATION PAC (ASCAPAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "SMART TD PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS, INC. POLITICAL ACTION COMMITTEE)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "SEMPRA ENERGY",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DELOITTE, HASKINS & SELLS GOOD GOV'T P A C (A K A DH&S GOOD GOV'T PAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AIPAC AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "TEXAS CAPITAL BANK POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "MIDWEST REGION LABORERS' POLITICAL LEAGUE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "WINE & SPIRITS WHOLESALERS OF AMERICA PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "PRICEWATERHOUSECOOPERS PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DELOITTE FEDERAL PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ALLY FINANCIAL INC. PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "US ENERGY PAC (THE PAC OF AMERICAN EXPLORATION & PRODUCTION COUNCIL, INC.)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOC. PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "METROPOLITAN ANESTHESIA POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "EXXON MOBIL CORPORATION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "DEC PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "CATERPILLAR INC. POLITICAL ACTION COMMITTEE (CATPAC)",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BASF CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "BALL CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "ABBOTT LABORATORIES EMPLOYEE PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "HUMANA INC. PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION COALITION PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "SMITH AND NEPHEW INC PAC",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "AT&T INC. FEDERAL PAC",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "SEMPRA ENERGY EMPLOYEES POLITICAL ACTION COMMITTEE- FEDERAL",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITEE (EPEC)",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "NRG ENERGY INC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "HALL RENDER KILLIAN HEATH & LYMAN PC EMPLOYEE PAC  AKA HALLWAY PAC FEDERAL",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "TEXTRON INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "UBS AMERICAS INC. PAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "NCTAPAC",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "DROPBOX INC. PAC",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "type": "PAC",
+          "amount": 33000
+        },
+        {
+          "name": "ALPHA KAPPA ALPHA SORORITY PAC, INC. (AKA AKA 1908 PAC)",
+          "type": "PAC",
+          "amount": 33000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00562330",
+        "name": "MAKING A REAL CHANGE PAC",
+        "total_raised": 142000,
+        "top_employers": [
+          {
+            "name": "ANDREESSEN HOROWITZ",
+            "type": "Organization",
+            "amount": 15000
+          },
+          {
+            "name": "AHCV",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BREAKTHROUGH ENERGY & BILL & MELINDA G",
+            "type": "Organization",
+            "amount": 5000
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "ACTBLUE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ABBOTT LABORATORIES EMPLOYEE PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "LOCKHEED MARTIN EMPLOYEES' PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "DELOITTE FEDERAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "TEXTRON INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION COALITION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ACTBLUE TECHNICAL SERVICES",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NEW YORK LIFE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ABBVIE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "SEMPRA ENERGY EMPLOYEES POLITICAL ACTION COMMITTEE- FEDERAL",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "LOCKHEED MARTIN PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "UNITED PARCEL SERVICE INC. PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC (ENGPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "COMCAST & NBC PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "LOWES CORPORATION PUBLIC AFFAIRS COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AT&T INC. FEDERAL PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "NEW DEMOCRAT COALITION PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ]
   },
   "donor_alignment": {
-    "overall_pct": 0,
-    "total_votes_scored": 0,
+    "overall_pct": 85,
+    "total_votes_scored": 100,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "Whole Milk for Healthy Kids Act",
+        "bill": "HR1147",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "TEXAS FARM BUREAU FRIENDS OF AGRICULTURE FUND (AGFUND) INC. (TEXAS FARM BUREAU AGFUND)",
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+      },
+      {
+        "vote_description": "Pregnant Students\u2019 Rights Act",
+        "bill": "HR6359",
+        "date": "2026-01-22",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE MULTI CANDIDATE COMMITTEE",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+      },
+      {
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_name": "ABBOTT LABORATORIES EMPLOYEE PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay on Do No Harm in Medicaid Act"
+      },
+      {
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+        "donor_category": "Telecom companies",
+        "donor_expected": "Yea on Making appropriations for Legislative Branch for the fiscal "
+      },
+      {
+        "vote_description": "TRACE Act",
+        "bill": "HR1049",
+        "date": "2025-12-04",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE MULTI CANDIDATE COMMITTEE",
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay on TRACE Act"
+      }
+    ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 3,
     "against_electorate_pct": 0,
-    "highlights": [],
+    "highlights": [
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 68.9,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 62.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 72.4,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": []
   },
   "links": {
