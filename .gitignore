@@ -4,6 +4,12 @@ node_modules/
 *.env
 *.env.local
 
+# Only 01-civic-receipts is in this repo
+02-represent/
+03-pressure/
+04-daylight/
+05-town-square/
+
 # Large data files (download separately)
 01-civic-receipts/scripts/mrp/cumulative_2006-2024.rds
 01-civic-receipts/scripts/mrp/cumulative_ces_policy_preferences.tab
