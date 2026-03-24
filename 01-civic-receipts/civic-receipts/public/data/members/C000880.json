@@ -73,7 +73,7 @@
   },
   "electorate_alignment": {
     "issues_scored": 6,
-    "against_electorate_pct": 50,
+    "against_electorate_pct": 83,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
@@ -95,8 +95,8 @@
         "issue": "Prohibit all abortions after 20 weeks",
         "district_support_pct": 15.1,
         "margin_of_error": 7,
-        "member_position": "Voted Nay",
-        "aligned_with_electorate": true,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
@@ -119,12 +119,13 @@
         "issue": "Require minimum renewable fuel production",
         "district_support_pct": 57.5,
         "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],
-    "against_electorate_with_donors": []
+    "against_electorate_with_donors": [],
+    "source": "mrp-ces"
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/mike-crapo/C000880",

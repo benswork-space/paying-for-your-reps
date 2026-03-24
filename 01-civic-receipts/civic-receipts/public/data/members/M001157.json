@@ -72,8 +72,8 @@
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 3,
-    "against_electorate_pct": 67,
+    "issues_scored": 5,
+    "against_electorate_pct": 80,
     "highlights": [
       {
         "issue": "Ban on assault-style weapons",
@@ -92,6 +92,22 @@
         "aligned_with_donors": false
       },
       {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 17.2,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 58.8,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Regulate CO2 as a pollutant",
         "district_support_pct": 67.9,
         "margin_of_error": 7,
@@ -100,7 +116,8 @@
         "aligned_with_donors": false
       }
     ],
-    "against_electorate_with_donors": []
+    "against_electorate_with_donors": [],
+    "source": "mrp-ces"
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/michael-t-mccaul/M001157",

@@ -72,7 +72,7 @@
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
+    "issues_scored": 7,
     "against_electorate_pct": 0,
     "highlights": [
       {
@@ -100,15 +100,40 @@
         "aligned_with_donors": false
       },
       {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 12.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 65.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Regulate CO2 as a pollutant",
         "district_support_pct": 80.9,
         "margin_of_error": 7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 76.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
       }
     ],
-    "against_electorate_with_donors": []
+    "against_electorate_with_donors": [],
+    "source": "mrp-ces"
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/thomas-r-suozzi/S001201",

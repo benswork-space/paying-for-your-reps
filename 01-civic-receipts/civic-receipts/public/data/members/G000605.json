@@ -72,8 +72,8 @@
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 1,
-    "against_electorate_pct": 0,
+    "issues_scored": 4,
+    "against_electorate_pct": 25,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
@@ -82,9 +82,34 @@
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 76.0,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 81.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 79.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
       }
     ],
-    "against_electorate_with_donors": []
+    "against_electorate_with_donors": [],
+    "source": "mrp-ces"
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/adam-gray/G000605",

@@ -21,10 +21,20 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 0,
+    "issues_scored": 1,
     "against_electorate_pct": 0,
-    "highlights": [],
-    "against_electorate_with_donors": []
+    "highlights": [
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 68.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
+    "against_electorate_with_donors": [],
+    "source": "mrp-ces"
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/james-r-walkinshaw/W000831",

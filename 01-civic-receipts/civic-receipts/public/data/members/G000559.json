@@ -72,7 +72,7 @@
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 3,
+    "issues_scored": 5,
     "against_electorate_pct": 0,
     "highlights": [
       {
@@ -92,6 +92,22 @@
         "aligned_with_donors": false
       },
       {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 15.1,
+        "margin_of_error": 7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 56.6,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Regulate CO2 as a pollutant",
         "district_support_pct": 62.1,
         "margin_of_error": 7,
@@ -100,7 +116,8 @@
         "aligned_with_donors": false
       }
     ],
-    "against_electorate_with_donors": []
+    "against_electorate_with_donors": [],
+    "source": "mrp-ces"
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/john-garamendi/G000559",

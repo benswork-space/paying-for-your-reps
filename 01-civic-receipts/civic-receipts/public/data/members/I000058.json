@@ -21,12 +21,20 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 2,
+    "issues_scored": 4,
     "against_electorate_pct": 0,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
         "district_support_pct": 71.7,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 72.4,
         "margin_of_error": 7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
@@ -39,9 +47,18 @@
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 74.3,
+        "margin_of_error": 7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
       }
     ],
-    "against_electorate_with_donors": []
+    "against_electorate_with_donors": [],
+    "source": "mrp-ces"
   },
   "links": {
     "voting_record": "https://www.congress.gov/member/glenn-ivey/I000058",
