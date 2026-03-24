@@ -1,4 +1,4 @@
-import type { MemberData, VotingData } from "@/lib/types";
+import type { MemberData, VotingData, DistrictOpinion } from "@/lib/types";
 import RepHeader from "./RepHeader";
 import FundingSection from "./FundingSection";
 import VotingSection from "./VotingSection";
@@ -10,9 +10,10 @@ import ShareButton from "./ShareButton";
 interface RepCardProps {
   member: MemberData;
   voting: VotingData | null;
+  districtOpinion?: DistrictOpinion | null;
 }
 
-export default function RepCard({ member, voting }: RepCardProps) {
+export default function RepCard({ member, voting, districtOpinion }: RepCardProps) {
   return (
     <article className="mx-auto w-full max-w-lg space-y-10 py-4">
       <RepHeader member={member} />

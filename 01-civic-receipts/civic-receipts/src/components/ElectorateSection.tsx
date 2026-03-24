@@ -1,218 +1,28 @@
-import type {
-  ElectorateAlignment,
-  DistrictOpinion,
-  VotingData,
-} from "@/lib/types";
+import type { ElectorateAlignment } from "@/lib/types";
 import { formatPct } from "@/lib/format";
-
-/**
- * Maps issue labels from MRP data to keywords we search for in vote descriptions.
- * Each entry: [MRP issue label, keywords to match in vote descriptions, "support" means Yea or Nay]
- */
-const ISSUE_VOTE_MAP: {
-  issue: string;
-  keywords: string[];
-  supportMeansYea: boolean;
-}[] = [
-  {
-    issue: "Universal background checks for gun purchases",
-    keywords: ["background check", "gun purchase"],
-    supportMeansYea: true,
-  },
-  {
-    issue: "Ban on assault-style weapons",
-    keywords: ["assault weapon", "assault-style"],
-    supportMeansYea: true,
-  },
-  {
-    issue: "Abortion should always be legal",
-    keywords: ["abortion", "reproductive right", "right to contraception"],
-    supportMeansYea: true,
-  },
-  {
-    issue: "Support the Affordable Care Act",
-    keywords: ["affordable care act"],
-    supportMeansYea: true,
-  },
-  {
-    issue: "Regulate CO2 as a pollutant",
-    keywords: ["carbon", "co2", "greenhouse gas", "emissions regulation"],
-    supportMeansYea: true,
-  },
-  {
-    issue: "Require minimum renewable fuel production",
-    keywords: ["renewable fuel", "renewable energy standard", "clean energy"],
-    supportMeansYea: true,
-  },
-  {
-    issue: "Grant legal status to DACA recipients",
-    keywords: ["daca", "dreamer", "deferred action"],
-    supportMeansYea: true,
-  },
-  {
-    issue: "Build a wall on the U.S.-Mexico border",
-    keywords: ["border wall", "border barrier"],
-    supportMeansYea: true,
-  },
-  {
-    issue: "Require permits to carry concealed guns",
-    keywords: ["concealed carry", "concealed weapon"],
-    supportMeansYea: false, // permit requirement = restricting carry
-  },
-  {
-    issue: "Prohibit all abortions after 20 weeks",
-    keywords: ["20-week", "20 week", "late-term abortion", "pain-capable"],
-    supportMeansYea: true,
-  },
-];
-
-// Keywords indicating the bill inverts the expected position.
-// e.g., "Born-Alive Abortion Survivors Protection Act" — voting Nay is
-// the pro-choice position, so we flip the reported position.
-const INVERSION_KEYWORDS = [
-  "repeal", "rescind", "disapprov", "terminat", "eliminat",
-  "prohibit", "block", "defund", "restrict", "ban on",
-  "strike the", "nullif", "born-alive", "survivors protection",
-  "pain-capable", "unborn child",
-];
-
-function isInverted(description: string): boolean {
-  const desc = description.toLowerCase();
-  return INVERSION_KEYWORDS.some((kw) => desc.includes(kw));
-}
-
-function findMemberPosition(
-  issue: string,
-  voting?: VotingData
-): string | null {
-  if (!voting?.recent_votes) return null;
-
-  const mapping = ISSUE_VOTE_MAP.find((m) => m.issue === issue);
-  if (!mapping) return null;
-
-  // Search for a relevant vote (most recent first — already sorted)
-  for (const vote of voting.recent_votes) {
-    const desc = (vote.description || "").toLowerCase();
-    const bill = (vote.bill || "").toLowerCase();
-    const combined = `${desc} ${bill}`;
-
-    // Skip procedural votes (but NOT "motion to suspend the rules and pass")
-    const question = (vote.question || "").toLowerCase();
-    if (
-      question.includes("motion to table") ||
-      question.includes("motion to recommit") ||
-      question.includes("motion to commit") ||
-      question.includes("motion to adjourn") ||
-      question.includes("motion to discharge") ||
-      question.includes("motion to reconsider") ||
-      question.includes("motion to refer") ||
-      question.includes("motion to instruct") ||
-      question.includes("providing for consideration") ||
-      question.includes("ordering the previous") ||
-      question.includes("point of order") ||
-      question.includes("cloture") ||
-      question.includes("motion to proceed")
-    ) {
-      // But allow "motion to suspend the rules and pass/agree"
-      if (question.includes("suspend the rules")) {
-        // This is substantive — don't skip
-      } else {
-        continue;
-      }
-    }
-
-    const matched = mapping.keywords.some((kw) => combined.includes(kw));
-    if (matched && (vote.position === "Yea" || vote.position === "Nay")) {
-      // If the bill inverts the issue (e.g., an anti-abortion bill matched
-      // on "abortion" keyword), flip the position so scoring is correct.
-      let position = vote.position;
-      if (isInverted(vote.description || "")) {
-        position = position === "Yea" ? "Nay" : "Yea";
-      }
-      return `Voted ${position}`;
-    }
-  }
-
-  return null;
-}
-
-function isAligned(
-  memberPosition: string,
-  supportPct: number,
-  issue: string
-): boolean {
-  const mapping = ISSUE_VOTE_MAP.find((m) => m.issue === issue);
-  const majoritySupports = supportPct > 50;
-  const votedYea = memberPosition.includes("Yea");
-
-  if (!mapping) {
-    // Default: majority support + Yea = aligned
-    return majoritySupports === votedYea;
-  }
-
-  // If support means Yea, then majority support + Yea = aligned
-  if (mapping.supportMeansYea) {
-    return majoritySupports === votedYea;
-  } else {
-    // Support means Nay (e.g., "require permits" — supporting = restricting)
-    return majoritySupports !== votedYea;
-  }
-}
 
 interface ElectorateSectionProps {
   alignment: ElectorateAlignment;
-  districtOpinion?: DistrictOpinion;
-  voting?: VotingData;
 }
 
 export default function ElectorateSection({
   alignment,
-  districtOpinion,
-  voting,
 }: ElectorateSectionProps) {
-  // If we have live district data, use it instead of pre-computed alignment
-  const useDistrictData = districtOpinion && districtOpinion.issues.length > 0;
-
-  // Build highlights from district data + voting record
-  const liveHighlights = useDistrictData
-    ? districtOpinion.issues
-        .map((issue) => {
-          const memberPos = findMemberPosition(issue.issue, voting);
-          if (!memberPos) return null;
-          const aligned = isAligned(memberPos, issue.support_pct, issue.issue);
-          return {
-            issue: issue.issue,
-            district_support_pct: issue.support_pct,
-            margin_of_error: issue.margin_of_error,
-            member_position: memberPos,
-            aligned_with_electorate: aligned,
-            aligned_with_donors: false,
-          };
-        })
-        .filter(Boolean)
-    : [];
-
-  const highlights =
-    liveHighlights.length > 0 ? liveHighlights : alignment.highlights;
-
-  const issuesScored =
-    liveHighlights.length > 0
-      ? liveHighlights.length
-      : alignment.issues_scored;
+  // Use pre-computed alignment from the backend pipeline, which uses
+  // policy_area matching with party-line context, double-negative detection,
+  // and other heuristics that can't easily be replicated client-side.
+  const highlights = alignment.highlights;
+  const issuesScored = alignment.issues_scored;
 
   const alignedCount = highlights.filter(
-    (h) => h!.aligned_with_electorate
+    (h) => h.aligned_with_electorate
   ).length;
   const alignedPct =
     issuesScored > 0 ? Math.round((alignedCount / issuesScored) * 100) : 0;
 
-  const districtLabel = districtOpinion?.district
-    ? ` (${districtOpinion.district})`
-    : "";
-
   return (
     <section>
-      <h3 className="text-lg font-semibold">District alignment{districtLabel}</h3>
+      <h3 className="text-lg font-semibold">District alignment</h3>
       <p className="mt-1 text-sm text-zinc-500">
         How often they vote the way your district wants on key issues
       </p>
