@@ -891,92 +891,77 @@
     "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 100,
-    "total_votes_scored": 3,
+    "overall_pct": 0,
+    "total_votes_scored": 0,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": [
-      {
-        "vote_description": "A bill to require the imposition of sanctions with respect to entities responsible for the planning, construction, or operation of the Nord Stream 2 pipeline and their corporate officers and to apply congressional review under the Countering America's Adversaries Through Sanctions Act to the removal of sanctions relating to Nord Stream 2, and for other purposes.",
-        "bill": "S3436",
-        "date": "2022-01-13",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
-        "donor_category": "Clean energy industry",
-        "donor_expected": "Yea on A bill to require the imposition of sanctions with respect t"
-      },
-      {
-        "vote_description": "A bill to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.",
-        "bill": "HR3967",
-        "date": "2022-06-16",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
-        "donor_category": "Healthcare industry",
-        "donor_expected": "Yea on A bill to improve health care and benefits for veterans expo"
-      },
-      {
-        "vote_description": "A bill to address behavioral health and well-being among health care professionals.",
-        "bill": "S610",
-        "date": "2021-12-09",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
-        "donor_category": "Healthcare industry",
-        "donor_expected": "Yea on A bill to address behavioral health and well-being among hea"
-      }
-    ]
+    "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 8,
+    "against_electorate_pct": 38,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 89.2,
-        "margin_of_error": 7,
+        "district_support_pct": 88.0,
+        "margin_of_error": 4.9,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 60.4,
+        "margin_of_error": 7.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 55.6,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
-        "aligned_with_donors": false
-      },
-      {
-        "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 19.7,
-        "margin_of_error": 7,
+        "district_support_pct": 55.0,
+        "margin_of_error": 8.1,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": true,
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 52.6,
-        "margin_of_error": 7,
+        "district_support_pct": 52.1,
+        "margin_of_error": 6.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 66.3,
-        "margin_of_error": 7,
+        "district_support_pct": 65.8,
+        "margin_of_error": 6.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 60.0,
-        "margin_of_error": 7,
+        "district_support_pct": 59.2,
+        "margin_of_error": 6.8,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Grant legal status to DACA recipients",
+        "district_support_pct": 67.4,
+        "margin_of_error": 5.7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 61.7,
+        "margin_of_error": 6.7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

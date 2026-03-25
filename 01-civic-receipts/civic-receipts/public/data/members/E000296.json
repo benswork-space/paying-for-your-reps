@@ -1016,29 +1016,31 @@
     "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 95,
-    "total_votes_scored": 52,
+    "overall_pct": 72,
+    "total_votes_scored": 30,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "DUMP Red Tape Act",
-        "bill": "HR4305",
-        "date": "2025-12-03",
-        "member_voted": "Nay",
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
+        "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE (SMART)",
         "donor_category": "Tech companies",
-        "donor_expected": "Nay on DUMP Red Tape Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "CHIPS and Science Act \u2014 massive investment in semiconductor manufacturing and scientific research. Major tech companies like Intel, TSMC, and Samsung directly benefit from chip manufacturing subsidies."
       },
       {
         "vote_description": "Do No Harm in Medicaid Act",
@@ -1046,82 +1048,109 @@
         "date": "2025-12-18",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
         "donor_category": "Healthcare industry",
-        "donor_expected": "Nay on Do No Harm in Medicaid Act"
+        "donor_expected": "Nay",
+        "confidence": 0.85,
+        "reason": "Do No Harm in Medicaid Act \u2014 despite the friendly name, this bill CUTS Medicaid by restricting eligibility and reducing federal matching funds. Hospitals and healthcare providers oppose Medicaid cuts because they reduce patient volume and reimbursements."
       },
       {
-        "vote_description": "Meat and Poultry Special Investigator Act",
-        "bill": "HR7606",
-        "date": "2022-06-16",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
-        "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Meat and Poultry Special Investigator Act"
-      },
-      {
-        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
-        "bill": "HR881",
-        "date": "2025-05-07",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 9,
+    "against_electorate_pct": 11,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 93.0,
+        "margin_of_error": 3.7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 75.8,
-        "margin_of_error": 7,
+        "district_support_pct": 77.3,
+        "margin_of_error": 6.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 69.1,
-        "margin_of_error": 7,
+        "district_support_pct": 72.4,
+        "margin_of_error": 8.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 16.2,
-        "margin_of_error": 7,
+        "district_support_pct": 16.8,
+        "margin_of_error": 5.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 64.8,
-        "margin_of_error": 7,
+        "district_support_pct": 68.7,
+        "margin_of_error": 7.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 76.9,
-        "margin_of_error": 7,
+        "district_support_pct": 79.2,
+        "margin_of_error": 6.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 70.3,
-        "margin_of_error": 7,
+        "district_support_pct": 71.9,
+        "margin_of_error": 6.7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 29.3,
+        "margin_of_error": 7.0,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 75.4,
+        "margin_of_error": 6.3,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

@@ -11,33 +11,1054 @@
   "years_in_office": 3,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 818798,
+    "campaign_raised": 818798,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 283582,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 32038
+          },
+          {
+            "name": "INVARIANT",
+            "type": "Organization",
+            "amount": 10400
+          },
+          {
+            "name": "STATE OF VERMONT",
+            "type": "Organization",
+            "amount": 9554
+          },
+          {
+            "name": "GRASSROOTS ANALYTICS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BEACHWOLD",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "MUNOZ & CO",
+            "type": "Organization",
+            "amount": 3800
+          },
+          {
+            "name": "PARTNERSHIP FUND FOR NEW YORK CITY",
+            "type": "Organization",
+            "amount": 3800
+          },
+          {
+            "name": "MONUMENT ADVOCACY",
+            "type": "Organization",
+            "amount": 3750
+          },
+          {
+            "name": "LAW FIRM",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "NORTHEAST WYOMING PEDIATRIC ASSOC PC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CATALYST",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "VERMONT HOUSE OF REPRESENTATIVES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "META, INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "ALSOP LOUIE PARTNERS, LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "PERRY LAW, LP",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "GROWALD CLIMATE FUND, INC.",
+            "type": "Organization",
+            "amount": 3250
+          },
+          {
+            "name": "TIBER CREEK GROUP",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "NCCI HOLDINGS INC.",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "LINTILHAC FOUNDATION",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "VERMONT",
+            "type": "Organization",
+            "amount": 2800
+          },
+          {
+            "name": "DINSE",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "SERVICE EMPLOYEES INTERNATIONAL UNION",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "CLEAN YIELD ASSET MANAGEMENT",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "VERMONT ASSEMBLY",
+            "type": "Organization",
+            "amount": 2100
+          },
+          {
+            "name": "SUGARSNAP, LLC",
+            "type": "Organization",
+            "amount": 2050
+          },
+          {
+            "name": "WOLF KAHN FOUNDATION",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "MAMASEZZ FOODS, INC.",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "TED LIEU FOR CONGRESS COMMITTEE",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL TRUST FOR HISTORIC PRESERVATI",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "STEINSHARPE LLC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "PRIMMER PIPER EGGLESTON & CRAMER",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "TREMONT STRATEGIES GROUP, LLC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "AKERMAN LLP",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "AGM FINANCIAL SERVICES, INC.",
+            "type": "Organization",
+            "amount": 1750
+          },
+          {
+            "name": "PAUL FRANK AND COLLINS, P.C",
+            "type": "Organization",
+            "amount": 1577
+          },
+          {
+            "name": "EPA",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "ONLOGIC",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "UVM HEALTH NETWORK",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "BURR AND BURTON ACADEMY",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "VT COMMUNITY FOUNDATION",
+            "type": "Organization",
+            "amount": 1450
+          },
+          {
+            "name": "RENEWABLE ENERGY VERMONT",
+            "type": "Organization",
+            "amount": 1400
+          },
+          {
+            "name": "HARRIS AND FRANCES BLOCK FOUNDATION",
+            "type": "Organization",
+            "amount": 1400
+          },
+          {
+            "name": "BRATTLEBORO MEMORIAL HOSPITAL",
+            "type": "Organization",
+            "amount": 1400
+          },
+          {
+            "name": "VERMONT COMMUNITY FOUNDATION",
+            "type": "Organization",
+            "amount": 1350
+          },
+          {
+            "name": "NECRASON GROUP",
+            "type": "Organization",
+            "amount": 1300
+          },
+          {
+            "name": "UNIVERSITY OF VERMONT",
+            "type": "Organization",
+            "amount": 1290
+          },
+          {
+            "name": "LOSO'S PROFESSIONAL JANITORIAL SERVICE",
+            "type": "Organization",
+            "amount": 1250
+          },
+          {
+            "name": "ENCORE RENEWABLE ENERGY",
+            "type": "Organization",
+            "amount": 1250
+          },
+          {
+            "name": "GST BOCED",
+            "type": "Organization",
+            "amount": 1005
+          },
+          {
+            "name": "J.A. MORRISSEY, INC.",
+            "type": "Organization",
+            "amount": 1000
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 535216,
+        "donors": [
+          {
+            "name": "EQUALITY PROJECT PAC",
+            "type": "PAC",
+            "amount": 167318
+          },
+          {
+            "name": "PAC TO THE FUTURE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ELECT DEMOCRATIC WOMEN",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "WORKING FAMILIES PARTY PAC",
+            "type": "PAC",
+            "amount": 7400
+          },
+          {
+            "name": "INLAND EMPIRE STRIKES PAC; THE",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "MAINSTREAM PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "RIPPLE OF HOPE PAC",
+            "type": "PAC",
+            "amount": 5500
+          },
+          {
+            "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 5500
+          },
+          {
+            "name": "EQUALITY PAC",
+            "type": "PAC",
+            "amount": 5300
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NO VOTE LEFT BEHIND PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "TRUEDEM LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MEDICARE FOR ALL",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF HEAT AND FROST INSULATORS AND ALLIED WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "END CITIZENS UNITED",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION PAC (AAHOA PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HUMAN RIGHTS CAMPAIGN PAC",
+            "type": "PAC",
+            "amount": 4542
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "CICILLINE COMMITTEE",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "JAMIE RASKIN FOR CONGRESS",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "FGS GLOBAL (US) LLC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "MORE PERFECT UNION PAC",
+            "type": "PAC",
+            "amount": 3750
+          },
+          {
+            "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "FAIR SHOT PAC",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "INTEL CORPORATION POLITICAL ACTION COMMITTEE (IPAC)",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 2500
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 818798,
+      "individual_contributions": 283582,
+      "individual_itemized": 283582,
+      "individual_unitemized": 0,
+      "pac_contributions": 535216,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 32038
+        },
+        {
+          "name": "INVARIANT",
+          "type": "Organization",
+          "amount": 10400
+        },
+        {
+          "name": "STATE OF VERMONT",
+          "type": "Organization",
+          "amount": 9554
+        },
+        {
+          "name": "GRASSROOTS ANALYTICS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BEACHWOLD",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "MUNOZ & CO",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "PARTNERSHIP FUND FOR NEW YORK CITY",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "MONUMENT ADVOCACY",
+          "type": "Organization",
+          "amount": 3750
+        },
+        {
+          "name": "LAW FIRM",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "NORTHEAST WYOMING PEDIATRIC ASSOC PC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CATALYST",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "VERMONT HOUSE OF REPRESENTATIVES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "META, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ALSOP LOUIE PARTNERS, LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PERRY LAW, LP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GROWALD CLIMATE FUND, INC.",
+          "type": "Organization",
+          "amount": 3250
+        },
+        {
+          "name": "TIBER CREEK GROUP",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "NCCI HOLDINGS INC.",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "LINTILHAC FOUNDATION",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "VERMONT",
+          "type": "Organization",
+          "amount": 2800
+        },
+        {
+          "name": "DINSE",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SERVICE EMPLOYEES INTERNATIONAL UNION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "CLEAN YIELD ASSET MANAGEMENT",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "VERMONT ASSEMBLY",
+          "type": "Organization",
+          "amount": 2100
+        },
+        {
+          "name": "SUGARSNAP, LLC",
+          "type": "Organization",
+          "amount": 2050
+        },
+        {
+          "name": "WOLF KAHN FOUNDATION",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MAMASEZZ FOODS, INC.",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TED LIEU FOR CONGRESS COMMITTEE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL TRUST FOR HISTORIC PRESERVATI",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "STEINSHARPE LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PRIMMER PIPER EGGLESTON & CRAMER",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TREMONT STRATEGIES GROUP, LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "AKERMAN LLP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "AGM FINANCIAL SERVICES, INC.",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "PAUL FRANK AND COLLINS, P.C",
+          "type": "Organization",
+          "amount": 1577
+        },
+        {
+          "name": "EPA",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "ONLOGIC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "UVM HEALTH NETWORK",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BURR AND BURTON ACADEMY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "VT COMMUNITY FOUNDATION",
+          "type": "Organization",
+          "amount": 1450
+        },
+        {
+          "name": "RENEWABLE ENERGY VERMONT",
+          "type": "Organization",
+          "amount": 1400
+        },
+        {
+          "name": "HARRIS AND FRANCES BLOCK FOUNDATION",
+          "type": "Organization",
+          "amount": 1400
+        },
+        {
+          "name": "BRATTLEBORO MEMORIAL HOSPITAL",
+          "type": "Organization",
+          "amount": 1400
+        },
+        {
+          "name": "VERMONT COMMUNITY FOUNDATION",
+          "type": "Organization",
+          "amount": 1350
+        },
+        {
+          "name": "NECRASON GROUP",
+          "type": "Organization",
+          "amount": 1300
+        },
+        {
+          "name": "UNIVERSITY OF VERMONT",
+          "type": "Organization",
+          "amount": 1290
+        },
+        {
+          "name": "LOSO'S PROFESSIONAL JANITORIAL SERVICE",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "ENCORE RENEWABLE ENERGY",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "GST BOCED",
+          "type": "Organization",
+          "amount": 1005
+        },
+        {
+          "name": "J.A. MORRISSEY, INC.",
+          "type": "Organization",
+          "amount": 1000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "EQUALITY PROJECT PAC",
+          "type": "PAC",
+          "amount": 167318
+        },
+        {
+          "name": "PAC TO THE FUTURE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ELECT DEMOCRATIC WOMEN",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "WORKING FAMILIES PARTY PAC",
+          "type": "PAC",
+          "amount": 7400
+        },
+        {
+          "name": "INLAND EMPIRE STRIKES PAC; THE",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "MAINSTREAM PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "RIPPLE OF HOPE PAC",
+          "type": "PAC",
+          "amount": 5500
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 5500
+        },
+        {
+          "name": "EQUALITY PAC",
+          "type": "PAC",
+          "amount": 5300
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NO VOTE LEFT BEHIND PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "TRUEDEM LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MEDICARE FOR ALL",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF HEAT AND FROST INSULATORS AND ALLIED WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "END CITIZENS UNITED",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION PAC (AAHOA PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HUMAN RIGHTS CAMPAIGN PAC",
+          "type": "PAC",
+          "amount": 4542
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "CICILLINE COMMITTEE",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "JAMIE RASKIN FOR CONGRESS",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "FGS GLOBAL (US) LLC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "MORE PERFECT UNION PAC",
+          "type": "PAC",
+          "amount": 3750
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "FAIR SHOT PAC",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "INTEL CORPORATION POLITICAL ACTION COMMITTEE (IPAC)",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 2500
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 89,
-    "total_votes_scored": 34,
+    "overall_pct": 60,
+    "total_votes_scored": 21,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
-      },
-      {
-        "vote_description": "DUMP Red Tape Act",
-        "bill": "HR4305",
-        "date": "2025-12-03",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
-        "donor_category": "Tech companies",
-        "donor_expected": "Nay on DUMP Red Tape Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
         "vote_description": "Whole Milk for Healthy Kids Act",
@@ -45,9 +1066,10 @@
         "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
         "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Whole Milk for Healthy Kids Act \u2014 allows schools to offer whole-fat milk and flavored milk, supported by the dairy industry and National Dairy Council as it increases school milk sales."
       },
       {
         "vote_description": "Do No Harm in Medicaid Act",
@@ -55,26 +1077,104 @@
         "date": "2025-12-18",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
         "donor_category": "Healthcare industry",
-        "donor_expected": "Nay on Do No Harm in Medicaid Act"
+        "donor_expected": "Nay",
+        "confidence": 0.85,
+        "reason": "Do No Harm in Medicaid Act \u2014 despite the friendly name, this bill CUTS Medicaid by restricting eligibility and reducing federal matching funds. Hospitals and healthcare providers oppose Medicaid cuts because they reduce patient volume and reimbursements."
       },
       {
-        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
-        "bill": "HR881",
-        "date": "2025-05-07",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 0,
-    "against_electorate_pct": 0,
-    "highlights": [],
+    "issues_scored": 8,
+    "against_electorate_pct": 12,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.8,
+        "margin_of_error": 4.2,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 63.4,
+        "margin_of_error": 7.1,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 65.0,
+        "margin_of_error": 9.1,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 61.3,
+        "margin_of_error": 6.9,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 68.1,
+        "margin_of_error": 5.2,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 64.5,
+        "margin_of_error": 5.3,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 38.7,
+        "margin_of_error": 6.0,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 65.2,
+        "margin_of_error": 5.3,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      }
+    ],
     "against_electorate_with_donors": [],
     "source": "mrp-ces"
   },

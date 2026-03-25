@@ -21,38 +21,70 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 50,
+    "issues_scored": 8,
+    "against_electorate_pct": 38,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 86.6,
+        "margin_of_error": 5.9,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 60.5,
+        "margin_of_error": 8.8,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 60.6,
-        "margin_of_error": 7,
+        "district_support_pct": 59.8,
+        "margin_of_error": 10.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 60.7,
-        "margin_of_error": 7,
+        "district_support_pct": 59.7,
+        "margin_of_error": 8.5,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 62.3,
-        "margin_of_error": 7,
+        "district_support_pct": 61.3,
+        "margin_of_error": 7.7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 61.6,
+        "margin_of_error": 7.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
-        "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 62.4,
-        "margin_of_error": 7,
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 40.4,
+        "margin_of_error": 7.9,
         "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 58.1,
+        "margin_of_error": 7.5,
+        "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       }

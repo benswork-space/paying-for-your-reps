@@ -11,116 +11,925 @@
   "years_in_office": 9,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 273026,
+    "campaign_raised": 273026,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 195543,
+        "donors": [
+          {
+            "name": "SAULSBURY INDUSTRIES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "21ST CENTURY HEALTHCARE",
+            "type": "Organization",
+            "amount": 7500
+          },
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 6710
+          },
+          {
+            "name": "ULINE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TW LEWIS COMPANY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LEE BENSON",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BILLLUKE C. J. D.",
+            "type": "Organization",
+            "amount": 6200
+          },
+          {
+            "name": "INDOCK ENERGY SERVICES",
+            "type": "Organization",
+            "amount": 6200
+          },
+          {
+            "name": "CHRISTOPHER TODD",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "PHOENIX DEFENSE",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TKG",
+            "type": "Organization",
+            "amount": 4800
+          },
+          {
+            "name": "GOLKA ELECTRIC",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "SAULSBURG INDUSTRIES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "LONDEN INSURANCE GROUP",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "HSL PROPERTIES INC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "COMPASS REAL ESTATE",
+            "type": "Organization",
+            "amount": 3200
+          },
+          {
+            "name": "ISLAND DOCTORS",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "COWLES PARKWAY FORD, INC",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "HESS",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "KIRKLAND ELLIS",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "SANDS MOTOR COMPANY",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "KANE REALTY CORPORATION",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "PIVOT EQUITY",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "RL JONES CUSTOMHOUSE",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "BENNETT FAMILY OF COMPANIES",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "MERC UNITED SCHOOL DISTRICT",
+            "type": "Organization",
+            "amount": 2250
+          },
+          {
+            "name": "ENTREPRENEUR",
+            "type": "Organization",
+            "amount": 2075
+          },
+          {
+            "name": "REPUBLICAN HINDU COALITION",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "DUNLAPS AND KYLE CO INC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "SUN STATE BUILDERS",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "ARCHER AUTO GROUP",
+            "type": "Organization",
+            "amount": 1603
+          },
+          {
+            "name": "SIGLER",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "PENCOR",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "ADVANCED MATERIALS TECH",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "TREJO COMP.",
+            "type": "Organization",
+            "amount": 1250
+          },
+          {
+            "name": "SECO SEALS INC.",
+            "type": "Organization",
+            "amount": 1250
+          },
+          {
+            "name": "INNOVATIVE TOOLS",
+            "type": "Organization",
+            "amount": 1101
+          },
+          {
+            "name": "UNEMPLOYED",
+            "type": "Organization",
+            "amount": 1050
+          },
+          {
+            "name": "BERGE MAZDA",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "OFF HILL STRATEGIES",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "HORHE AUTO GROUP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "B3 STRATEGIES",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "CLARUS COMPANIES",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "AUTOMOTIVE MARKETING GROUP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "INDECK ENERGY SERVICES. INC",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "CW",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "SNELL AND WILMER LLP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "STRATEGIC ALIANCE ARMS",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "MADISON GRANITE",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "AXON",
+            "type": "Organization",
+            "amount": 1000
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 77483,
+        "donors": [
+          {
+            "name": "HOUSE FREEDOM FUND",
+            "type": "PAC",
+            "amount": 16846
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "PATRIOT FREEDOM PAC INC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HUCK PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "WE THE PEOPLE LEADERSHIP PAC",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "FRIENDS OF MATT GAETZ",
+            "type": "PAC",
+            "amount": 3485
+          },
+          {
+            "name": "ONE GENERATION",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "406 PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "CALPORTLAND COMPANY POLITICAL ACTION COMMITTEE (CALPORTLANDPAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "JIM JORDAN FOR CONGRESS",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 1112
+          },
+          {
+            "name": "CITIZENS UNITED POLITICAL VICTORY FUND",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "COMMUNITY BANCSHARES OF MISSISSIPPI INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "IHEARTMEDIA INC. PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 534
+          },
+          {
+            "name": "NATIONAL PRO-LIFE ALLIANCE PAC",
+            "type": "PAC",
+            "amount": 500
+          },
+          {
+            "name": "COUNCIL FOR CITIZENS AGAINST GOVERNMENT WASTE POLITICAL ACTION COMMITTEE (CCAGW PAC)",
+            "type": "PAC",
+            "amount": 6
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 273026,
+      "individual_contributions": 195543,
+      "individual_itemized": 195543,
+      "individual_unitemized": 0,
+      "pac_contributions": 77483,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SAULSBURY INDUSTRIES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "21ST CENTURY HEALTHCARE",
+          "type": "Organization",
+          "amount": 7500
+        },
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 6710
+        },
+        {
+          "name": "ULINE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TW LEWIS COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LEE BENSON",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BILLLUKE C. J. D.",
+          "type": "Organization",
+          "amount": 6200
+        },
+        {
+          "name": "INDOCK ENERGY SERVICES",
+          "type": "Organization",
+          "amount": 6200
+        },
+        {
+          "name": "CHRISTOPHER TODD",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "PHOENIX DEFENSE",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "TKG",
+          "type": "Organization",
+          "amount": 4800
+        },
+        {
+          "name": "GOLKA ELECTRIC",
+          "type": "Organization",
+          "amount": 3400
+        },
+        {
+          "name": "SAULSBURG INDUSTRIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LONDEN INSURANCE GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HSL PROPERTIES INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "COMPASS REAL ESTATE",
+          "type": "Organization",
+          "amount": 3200
+        },
+        {
+          "name": "ISLAND DOCTORS",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "COWLES PARKWAY FORD, INC",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "HESS",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "KIRKLAND ELLIS",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "SANDS MOTOR COMPANY",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "KANE REALTY CORPORATION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "PIVOT EQUITY",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "RL JONES CUSTOMHOUSE",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "BENNETT FAMILY OF COMPANIES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "MERC UNITED SCHOOL DISTRICT",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "ENTREPRENEUR",
+          "type": "Organization",
+          "amount": 2075
+        },
+        {
+          "name": "REPUBLICAN HINDU COALITION",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "DUNLAPS AND KYLE CO INC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "SUN STATE BUILDERS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ARCHER AUTO GROUP",
+          "type": "Organization",
+          "amount": 1603
+        },
+        {
+          "name": "SIGLER",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "PENCOR",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "ADVANCED MATERIALS TECH",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "TREJO COMP.",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "SECO SEALS INC.",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "INNOVATIVE TOOLS",
+          "type": "Organization",
+          "amount": 1101
+        },
+        {
+          "name": "UNEMPLOYED",
+          "type": "Organization",
+          "amount": 1050
+        },
+        {
+          "name": "BERGE MAZDA",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "OFF HILL STRATEGIES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "HORHE AUTO GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "B3 STRATEGIES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CLARUS COMPANIES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "AUTOMOTIVE MARKETING GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "INDECK ENERGY SERVICES. INC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CW",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SNELL AND WILMER LLP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "STRATEGIC ALIANCE ARMS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MADISON GRANITE",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "AXON",
+          "type": "Organization",
+          "amount": 1000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "HOUSE FREEDOM FUND",
+          "type": "PAC",
+          "amount": 16846
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "PATRIOT FREEDOM PAC INC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "WE THE PEOPLE LEADERSHIP PAC",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "FRIENDS OF MATT GAETZ",
+          "type": "PAC",
+          "amount": 3485
+        },
+        {
+          "name": "ONE GENERATION",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "406 PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "CALPORTLAND COMPANY POLITICAL ACTION COMMITTEE (CALPORTLANDPAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "JIM JORDAN FOR CONGRESS",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 1112
+        },
+        {
+          "name": "CITIZENS UNITED POLITICAL VICTORY FUND",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "COMMUNITY BANCSHARES OF MISSISSIPPI INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "IHEARTMEDIA INC. PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 534
+        },
+        {
+          "name": "NATIONAL PRO-LIFE ALLIANCE PAC",
+          "type": "PAC",
+          "amount": 500
+        },
+        {
+          "name": "COUNCIL FOR CITIZENS AGAINST GOVERNMENT WASTE POLITICAL ACTION COMMITTEE (CCAGW PAC)",
+          "type": "PAC",
+          "amount": 6
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 91,
-    "total_votes_scored": 85,
+    "overall_pct": 80,
+    "total_votes_scored": 24,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Protect Children\u2019s Innocence Act",
-        "bill": "HR3492",
-        "date": "2025-12-17",
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
       },
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "To designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the \u201cJoseph Woodrow Hatchett United States Courthouse and Federal Building\u201d",
+        "bill": "S2938",
+        "date": "2022-05-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Bipartisan Safer Communities Act \u2014 NRA opposed this as it enhances background checks for under-21 buyers, funds state red flag laws, and closes the boyfriend loophole. NRA lobbied against passage."
+      },
+      {
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "Kayla Hamilton Act",
-        "bill": "HR4371",
-        "date": "2025-12-16",
+        "vote_description": "Israel Security Assistance Support Act",
+        "bill": "HR8369",
+        "date": "2024-05-16",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Kayla Hamilton Act"
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Assistance Support Act \u2014 provides security assistance to Israel, a core AIPAC priority."
       },
       {
-        "vote_description": "Pregnant Women in Custody Act",
-        "bill": "HR6878",
-        "date": "2022-12-01",
-        "member_voted": "Nay",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Yea",
         "aligned": false,
-        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Pregnant Women in Custody Act"
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 83,
+    "issues_scored": 9,
+    "against_electorate_pct": 89,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 86.3,
+        "margin_of_error": 5.6,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 58.3,
-        "margin_of_error": 7,
+        "district_support_pct": 56.1,
+        "margin_of_error": 7.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 54.1,
-        "margin_of_error": 7,
+        "district_support_pct": 54.8,
+        "margin_of_error": 9.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 12.7,
-        "margin_of_error": 7,
+        "district_support_pct": 13.2,
+        "margin_of_error": 4.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 49.9,
-        "margin_of_error": 7,
+        "district_support_pct": 50.4,
+        "margin_of_error": 7.6,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": true,
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 58.8,
-        "margin_of_error": 7,
+        "district_support_pct": 59.4,
+        "margin_of_error": 7.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 56.9,
-        "margin_of_error": 7,
+        "district_support_pct": 57.5,
+        "margin_of_error": 6.9,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 49.8,
+        "margin_of_error": 7.4,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 57.6,
+        "margin_of_error": 6.8,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

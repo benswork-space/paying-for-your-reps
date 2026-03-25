@@ -11,99 +11,1131 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 15053372,
+    "campaign_raised": 15053372,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1915618,
+        "donors": [
+          {
+            "name": "GOOGLE",
+            "type": "Organization",
+            "amount": 25249
+          },
+          {
+            "name": "STATE OF OREGON",
+            "type": "Organization",
+            "amount": 17355
+          },
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 13450
+          },
+          {
+            "name": "MASS GENERAL HOSPITAL",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "MOTLEY RICE LLC",
+            "type": "Organization",
+            "amount": 12750
+          },
+          {
+            "name": "OHSU",
+            "type": "Organization",
+            "amount": 12113
+          },
+          {
+            "name": "NOT-EMPLOYED",
+            "type": "Organization",
+            "amount": 10900
+          },
+          {
+            "name": "MOTLEY RICE",
+            "type": "Organization",
+            "amount": 10300
+          },
+          {
+            "name": "JANE STREET CAPITAL",
+            "type": "Organization",
+            "amount": 10300
+          },
+          {
+            "name": "MICROSOFT",
+            "type": "Organization",
+            "amount": 10050
+          },
+          {
+            "name": "MEDLEY PARTNERS LLC",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "UCSF",
+            "type": "Organization",
+            "amount": 9800
+          },
+          {
+            "name": "BOSTON UNIVERSITY",
+            "type": "Organization",
+            "amount": 8532
+          },
+          {
+            "name": "PTC",
+            "type": "Organization",
+            "amount": 8100
+          },
+          {
+            "name": "TREMONT STRATEGIES GROUP LLC",
+            "type": "Organization",
+            "amount": 7300
+          },
+          {
+            "name": "IVE AGE MANAGEMENT",
+            "type": "Organization",
+            "amount": 6700
+          },
+          {
+            "name": "ART ADVISORS LLC",
+            "type": "Organization",
+            "amount": 6692
+          },
+          {
+            "name": "APPLE INC.",
+            "type": "Organization",
+            "amount": 6650
+          },
+          {
+            "name": "MCHA LLC",
+            "type": "Organization",
+            "amount": 6650
+          },
+          {
+            "name": "CHARLES AND LYNN SCHUSTERMAN FAMILY PH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ALSOP LOUIE PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "USB",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ANAYLSIS GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LIFE YIELD",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LTD X LIZZIE TISCH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LOEWS HOTELS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ALFRED CLARK",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "STEWART STRATEGIES & SOLUTIONS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THERAPEUTIC RESEARCH CENTER",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NIERENBERG INVESTMENT MANAGEMENT COMPA",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NAYYER ALI MD INC",
+            "type": "Organization",
+            "amount": 6599
+          },
+          {
+            "name": "OHSU AND MULTNOMAH COUNTY",
+            "type": "Organization",
+            "amount": 6428
+          },
+          {
+            "name": "VERNIER SCIENCE EDUCATION",
+            "type": "Organization",
+            "amount": 6299
+          },
+          {
+            "name": "GOOGLE INC",
+            "type": "Organization",
+            "amount": 6190
+          },
+          {
+            "name": "JHBC INC",
+            "type": "Organization",
+            "amount": 6145
+          },
+          {
+            "name": "UC BERKELEY",
+            "type": "Organization",
+            "amount": 6044
+          },
+          {
+            "name": "NIKE",
+            "type": "Organization",
+            "amount": 5950
+          },
+          {
+            "name": "STATE OF LOUISIANA",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "BUCHANAN INGERSOLL & ROONEY",
+            "type": "Organization",
+            "amount": 5750
+          },
+          {
+            "name": "DUNHAM MANAGEMENT CORP.",
+            "type": "Organization",
+            "amount": 5700
+          },
+          {
+            "name": "MOTLEY RICE, LLC",
+            "type": "Organization",
+            "amount": 5600
+          },
+          {
+            "name": "WORKPLACE CHANGES",
+            "type": "Organization",
+            "amount": 5130
+          },
+          {
+            "name": "CITY OF PORTLAND",
+            "type": "Organization",
+            "amount": 5115
+          },
+          {
+            "name": "APPLE",
+            "type": "Organization",
+            "amount": 5055
+          },
+          {
+            "name": "PARSONS & WHITTEMOR",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "REDMON GROUP INC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "HOLLIS PUBLIC AFFAIRS",
+            "type": "Organization",
+            "amount": 4800
+          },
+          {
+            "name": "SOJ",
+            "type": "Organization",
+            "amount": 4800
+          },
+          {
+            "name": "ROLLICKING ENTERPRISES LLC",
+            "type": "Organization",
+            "amount": 4766
+          },
+          {
+            "name": "PROVIDENCE HEALTH AND SERVICES",
+            "type": "Organization",
+            "amount": 4650
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 13137754,
+        "donors": [
+          {
+            "name": "CONGRESSIONAL LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 5427408
+          },
+          {
+            "name": "DCCC",
+            "type": "PAC",
+            "amount": 2366710
+          },
+          {
+            "name": "NRCC",
+            "type": "PAC",
+            "amount": 1957502
+          },
+          {
+            "name": "HMP",
+            "type": "PAC",
+            "amount": 549090
+          },
+          {
+            "name": "DEFENDING MAIN STREET SUPERPAC INC.",
+            "type": "PAC",
+            "amount": 519602
+          },
+          {
+            "name": "314 ACTION FUND",
+            "type": "PAC",
+            "amount": 483513
+          },
+          {
+            "name": "MAINSTREAM DEMOCRATS PAC",
+            "type": "PAC",
+            "amount": 377392
+          },
+          {
+            "name": "THE GOVERNING MAJORITY FUND",
+            "type": "PAC",
+            "amount": 215682
+          },
+          {
+            "name": "WFW ACTION FUND, INC.",
+            "type": "PAC",
+            "amount": 180720
+          },
+          {
+            "name": "LCV VICTORY FUND",
+            "type": "PAC",
+            "amount": 157156
+          },
+          {
+            "name": "UNITED WE CAN",
+            "type": "PAC",
+            "amount": 106149
+          },
+          {
+            "name": "DEMOCRACY ENGINE, INC., PAC",
+            "type": "PAC",
+            "amount": 52756
+          },
+          {
+            "name": "DIGIDEMS PAC",
+            "type": "PAC",
+            "amount": 19800
+          },
+          {
+            "name": "WORKING AMERICA",
+            "type": "PAC",
+            "amount": 17096
+          },
+          {
+            "name": "SD PAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "type": "PAC",
+            "amount": 13000
+          },
+          {
+            "name": "WELCOMEPAC",
+            "type": "PAC",
+            "amount": 12600
+          },
+          {
+            "name": "ELECT DEMOCRATIC WOMEN",
+            "type": "PAC",
+            "amount": 12000
+          },
+          {
+            "name": "GOOD FRIENDS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FAIR SHOT PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BEYOND THOUGHTS AND PRAYERS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DEFEND THE VOTE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMALGAMATED TRANSIT UNION - COPE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TRI-STATE MAXED-OUT WOMEN",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TAHOMA PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HOOPS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "EVERGREEN PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE LONG RUN PAC",
+            "type": "PAC",
+            "amount": 9500
+          },
+          {
+            "name": "BUILD AMERICA PAC",
+            "type": "PAC",
+            "amount": 9000
+          },
+          {
+            "name": "HIGHER HEIGHTS FOR AMERICA PAC",
+            "type": "PAC",
+            "amount": 8700
+          },
+          {
+            "name": "EMILYS LIST",
+            "type": "PAC",
+            "amount": 8066
+          },
+          {
+            "name": "DMFI PAC",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "BLUE NEVADA PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "MOVEON.ORG POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 7307
+          },
+          {
+            "name": "BACKPAC",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "GET OUT THE VOTE PAC",
+            "type": "PAC",
+            "amount": 6083
+          },
+          {
+            "name": "BUDWINSKI PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "REVIVING AMERICAN JOBS AGAIN PAC",
+            "type": "PAC",
+            "amount": 5002
+          },
+          {
+            "name": "AMERICA NEEDS NEW INNOVATION AND ENERGY PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "COMMITTEE FOR A LIVABLE FUTURE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "COMMITTEE FOR A DEMOCRATIC FUTURE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BLUE WAVE PROJECT",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "VOTE MAMA",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "REPRODUCTIVE FREEDOM FOR ALL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE NEXT 50 PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BEEPAC (BUILDING ECONOMIC EMPOWERMENT PAC)",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 15053372,
+      "individual_contributions": 1915618,
+      "individual_itemized": 1915618,
+      "individual_unitemized": 0,
+      "pac_contributions": 13137754,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "GOOGLE",
+          "type": "Organization",
+          "amount": 25249
+        },
+        {
+          "name": "STATE OF OREGON",
+          "type": "Organization",
+          "amount": 17355
+        },
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 13450
+        },
+        {
+          "name": "MASS GENERAL HOSPITAL",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "MOTLEY RICE LLC",
+          "type": "Organization",
+          "amount": 12750
+        },
+        {
+          "name": "OHSU",
+          "type": "Organization",
+          "amount": 12113
+        },
+        {
+          "name": "NOT-EMPLOYED",
+          "type": "Organization",
+          "amount": 10900
+        },
+        {
+          "name": "MOTLEY RICE",
+          "type": "Organization",
+          "amount": 10300
+        },
+        {
+          "name": "JANE STREET CAPITAL",
+          "type": "Organization",
+          "amount": 10300
+        },
+        {
+          "name": "MICROSOFT",
+          "type": "Organization",
+          "amount": 10050
+        },
+        {
+          "name": "MEDLEY PARTNERS LLC",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "UCSF",
+          "type": "Organization",
+          "amount": 9800
+        },
+        {
+          "name": "BOSTON UNIVERSITY",
+          "type": "Organization",
+          "amount": 8532
+        },
+        {
+          "name": "PTC",
+          "type": "Organization",
+          "amount": 8100
+        },
+        {
+          "name": "TREMONT STRATEGIES GROUP LLC",
+          "type": "Organization",
+          "amount": 7300
+        },
+        {
+          "name": "IVE AGE MANAGEMENT",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "ART ADVISORS LLC",
+          "type": "Organization",
+          "amount": 6692
+        },
+        {
+          "name": "APPLE INC.",
+          "type": "Organization",
+          "amount": 6650
+        },
+        {
+          "name": "MCHA LLC",
+          "type": "Organization",
+          "amount": 6650
+        },
+        {
+          "name": "CHARLES AND LYNN SCHUSTERMAN FAMILY PH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ALSOP LOUIE PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "USB",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ANAYLSIS GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LIFE YIELD",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LTD X LIZZIE TISCH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LOEWS HOTELS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ALFRED CLARK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STEWART STRATEGIES & SOLUTIONS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THERAPEUTIC RESEARCH CENTER",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NIERENBERG INVESTMENT MANAGEMENT COMPA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NAYYER ALI MD INC",
+          "type": "Organization",
+          "amount": 6599
+        },
+        {
+          "name": "OHSU AND MULTNOMAH COUNTY",
+          "type": "Organization",
+          "amount": 6428
+        },
+        {
+          "name": "VERNIER SCIENCE EDUCATION",
+          "type": "Organization",
+          "amount": 6299
+        },
+        {
+          "name": "GOOGLE INC",
+          "type": "Organization",
+          "amount": 6190
+        },
+        {
+          "name": "JHBC INC",
+          "type": "Organization",
+          "amount": 6145
+        },
+        {
+          "name": "UC BERKELEY",
+          "type": "Organization",
+          "amount": 6044
+        },
+        {
+          "name": "NIKE",
+          "type": "Organization",
+          "amount": 5950
+        },
+        {
+          "name": "STATE OF LOUISIANA",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "BUCHANAN INGERSOLL & ROONEY",
+          "type": "Organization",
+          "amount": 5750
+        },
+        {
+          "name": "DUNHAM MANAGEMENT CORP.",
+          "type": "Organization",
+          "amount": 5700
+        },
+        {
+          "name": "MOTLEY RICE, LLC",
+          "type": "Organization",
+          "amount": 5600
+        },
+        {
+          "name": "WORKPLACE CHANGES",
+          "type": "Organization",
+          "amount": 5130
+        },
+        {
+          "name": "CITY OF PORTLAND",
+          "type": "Organization",
+          "amount": 5115
+        },
+        {
+          "name": "APPLE",
+          "type": "Organization",
+          "amount": 5055
+        },
+        {
+          "name": "PARSONS & WHITTEMOR",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "REDMON GROUP INC",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "HOLLIS PUBLIC AFFAIRS",
+          "type": "Organization",
+          "amount": 4800
+        },
+        {
+          "name": "SOJ",
+          "type": "Organization",
+          "amount": 4800
+        },
+        {
+          "name": "ROLLICKING ENTERPRISES LLC",
+          "type": "Organization",
+          "amount": 4766
+        },
+        {
+          "name": "PROVIDENCE HEALTH AND SERVICES",
+          "type": "Organization",
+          "amount": 4650
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "CONGRESSIONAL LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 5427408
+        },
+        {
+          "name": "DCCC",
+          "type": "PAC",
+          "amount": 2366710
+        },
+        {
+          "name": "NRCC",
+          "type": "PAC",
+          "amount": 1957502
+        },
+        {
+          "name": "HMP",
+          "type": "PAC",
+          "amount": 549090
+        },
+        {
+          "name": "DEFENDING MAIN STREET SUPERPAC INC.",
+          "type": "PAC",
+          "amount": 519602
+        },
+        {
+          "name": "314 ACTION FUND",
+          "type": "PAC",
+          "amount": 483513
+        },
+        {
+          "name": "MAINSTREAM DEMOCRATS PAC",
+          "type": "PAC",
+          "amount": 377392
+        },
+        {
+          "name": "THE GOVERNING MAJORITY FUND",
+          "type": "PAC",
+          "amount": 215682
+        },
+        {
+          "name": "WFW ACTION FUND, INC.",
+          "type": "PAC",
+          "amount": 180720
+        },
+        {
+          "name": "LCV VICTORY FUND",
+          "type": "PAC",
+          "amount": 157156
+        },
+        {
+          "name": "UNITED WE CAN",
+          "type": "PAC",
+          "amount": 106149
+        },
+        {
+          "name": "DEMOCRACY ENGINE, INC., PAC",
+          "type": "PAC",
+          "amount": 52756
+        },
+        {
+          "name": "DIGIDEMS PAC",
+          "type": "PAC",
+          "amount": 19800
+        },
+        {
+          "name": "WORKING AMERICA",
+          "type": "PAC",
+          "amount": 17096
+        },
+        {
+          "name": "SD PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NEW DEMOCRAT COALITION ACTION FUND",
+          "type": "PAC",
+          "amount": 13000
+        },
+        {
+          "name": "WELCOMEPAC",
+          "type": "PAC",
+          "amount": 12600
+        },
+        {
+          "name": "ELECT DEMOCRATIC WOMEN",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "GOOD FRIENDS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FAIR SHOT PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BEYOND THOUGHTS AND PRAYERS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DEFEND THE VOTE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TRI-STATE MAXED-OUT WOMEN",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TAHOMA PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HOOPS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EVERGREEN PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE LONG RUN PAC",
+          "type": "PAC",
+          "amount": 9500
+        },
+        {
+          "name": "BUILD AMERICA PAC",
+          "type": "PAC",
+          "amount": 9000
+        },
+        {
+          "name": "HIGHER HEIGHTS FOR AMERICA PAC",
+          "type": "PAC",
+          "amount": 8700
+        },
+        {
+          "name": "EMILYS LIST",
+          "type": "PAC",
+          "amount": 8066
+        },
+        {
+          "name": "DMFI PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "BLUE NEVADA PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "MOVEON.ORG POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 7307
+        },
+        {
+          "name": "BACKPAC",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "GET OUT THE VOTE PAC",
+          "type": "PAC",
+          "amount": 6083
+        },
+        {
+          "name": "BUDWINSKI PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "REVIVING AMERICAN JOBS AGAIN PAC",
+          "type": "PAC",
+          "amount": 5002
+        },
+        {
+          "name": "AMERICA NEEDS NEW INNOVATION AND ENERGY PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "COMMITTEE FOR A LIVABLE FUTURE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "COMMITTEE FOR A DEMOCRATIC FUTURE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BLUE WAVE PROJECT",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "VOTE MAMA",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "REPRODUCTIVE FREEDOM FOR ALL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE NEXT 50 PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BEEPAC (BUILDING ECONOMIC EMPOWERMENT PAC)",
+          "type": "PAC",
+          "amount": 5000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 95,
-    "total_votes_scored": 19,
+    "overall_pct": 25,
+    "total_votes_scored": 8,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Born-Alive Abortion Survivors Protection Act",
-        "bill": "HR21",
-        "date": "2025-01-23",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
         "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "EMILYS LIST",
-        "donor_category": "Reproductive rights groups",
-        "donor_expected": "Nay on Born-Alive Abortion Survivors Protection Act"
-      },
-      {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
-        "donor_category": "Fossil fuel industry",
-        "donor_expected": "Nay on SHOWER Act"
-      },
-      {
-        "vote_description": "Protection of Women and Girls in Sports Act",
-        "bill": "HR28",
-        "date": "2025-01-14",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "EMILYS LIST",
-        "donor_category": "Reproductive rights groups",
-        "donor_expected": "Nay on Protection of Women and Girls in Sports Act"
-      },
-      {
-        "vote_description": "Pet and Livestock Protection Act",
-        "bill": "HR845",
-        "date": "2025-12-18",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
-        "donor_category": "Fossil fuel industry",
-        "donor_expected": "Nay on Pet and Livestock Protection Act"
-      },
-      {
-        "vote_description": "Affordable HOMES Act",
-        "bill": "HR5184",
-        "date": "2026-01-09",
-        "member_voted": "Yea",
         "aligned": false,
-        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Nay on Affordable HOMES Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
+      },
+      {
+        "vote_description": "State Planning for Reliability and Affordability Act",
+        "bill": "HR3628",
+        "date": "2025-12-11",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "State Planning for Reliability and Affordability Act \u2014 gives states more authority to override EPA clean energy mandates, protecting existing fossil fuel power plants from forced retirement."
+      },
+      {
+        "vote_description": "National Coal Council Reestablishment Act",
+        "bill": "HR3015",
+        "date": "2025-09-18",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "National Coal Council Reestablishment Act \u2014 re-establishes federal advisory body for coal industry, signaling government support for coal."
+      },
+      {
+        "vote_description": "Promoting Cross-border Energy Infrastructure Act",
+        "bill": "HR3062",
+        "date": "2025-09-18",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Promoting Cross-border Energy Infrastructure Act \u2014 facilitates cross-border pipeline and energy infrastructure permits, benefiting oil and gas companies importing/exporting fossil fuels."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 0,
+    "issues_scored": 5,
+    "against_electorate_pct": 20,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 65.2,
-        "margin_of_error": 7,
+        "district_support_pct": 64.6,
+        "margin_of_error": 9.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 66.9,
-        "margin_of_error": 7,
+        "district_support_pct": 66.1,
+        "margin_of_error": 7.6,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 68.4,
-        "margin_of_error": 7,
+        "district_support_pct": 67.6,
+        "margin_of_error": 7.4,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 66.4,
+        "margin_of_error": 7.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
-        "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 67.2,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 33.3,
+        "margin_of_error": 7.5,
+        "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       }

@@ -1262,112 +1262,141 @@
     ]
   },
   "donor_alignment": {
-    "overall_pct": 80,
-    "total_votes_scored": 63,
+    "overall_pct": 70,
+    "total_votes_scored": 15,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Protect Children\u2019s Innocence Act",
-        "bill": "HR3492",
-        "date": "2025-12-17",
+        "vote_description": "End Chinese Dominance of Electric Vehicles in America Act",
+        "bill": "HR7980",
+        "date": "2024-09-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+        "donor_category": "Auto industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "End Chinese Dominance of Electric Vehicles in America Act \u2014 restricts EV tax credits for Chinese-connected vehicles. Auto dealers support this as it slows the EV transition that threatens their service revenue model."
       },
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "To designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the \u201cJoseph Woodrow Hatchett United States Courthouse and Federal Building\u201d",
+        "bill": "S2938",
+        "date": "2022-05-18",
+        "member_voted": "Nay",
+        "aligned": true,
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Bipartisan Safer Communities Act \u2014 NRA opposed this as it enhances background checks for under-21 buyers, funds state red flag laws, and closes the boyfriend loophole. NRA lobbied against passage."
+      },
+      {
+        "vote_description": "Choice in Automobile Retail Sales Act",
+        "bill": "HR4468",
+        "date": "2023-12-06",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "ALLIED PILOTS ASSOCIATION PAC",
+        "donor_category": "Auto industry",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Choice in Automobile Retail Sales Act (CARS Act) \u2014 blocks EPA from finalizing rules that would effectively ban gas-powered vehicles. Auto dealers' top legislative priority as it preserves the gas vehicle market."
+      },
+      {
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
+        "member_voted": "Yea",
+        "aligned": false,
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "Kayla Hamilton Act",
-        "bill": "HR4371",
-        "date": "2025-12-16",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Kayla Hamilton Act"
-      },
-      {
-        "vote_description": "CLEAN DC Act",
-        "bill": "HR5107",
-        "date": "2025-11-19",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on CLEAN DC Act"
-      },
-      {
-        "vote_description": "To lower the age at which a minor may be tried as an adult for certain criminal offenses in the District of Columbia to 14 years of age",
-        "bill": "HR5140",
-        "date": "2025-09-16",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on To lower the age at which a minor may be tried as an adult f"
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 83,
+    "issues_scored": 9,
+    "against_electorate_pct": 67,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.4,
+        "margin_of_error": 5.6,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 58.6,
-        "margin_of_error": 7,
+        "district_support_pct": 57.0,
+        "margin_of_error": 8.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 45.0,
-        "margin_of_error": 7,
+        "district_support_pct": 44.9,
+        "margin_of_error": 9.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 23.1,
-        "margin_of_error": 7,
+        "district_support_pct": 23.0,
+        "margin_of_error": 6.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 51.9,
-        "margin_of_error": 7,
+        "district_support_pct": 52.2,
+        "margin_of_error": 8.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 59.4,
-        "margin_of_error": 7,
+        "district_support_pct": 59.0,
+        "margin_of_error": 7.7,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 57.5,
-        "margin_of_error": 7,
+        "district_support_pct": 57.2,
+        "margin_of_error": 7.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 50.7,
+        "margin_of_error": 7.9,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 55.5,
+        "margin_of_error": 7.4,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

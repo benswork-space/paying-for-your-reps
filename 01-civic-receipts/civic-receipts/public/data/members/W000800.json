@@ -496,112 +496,122 @@
     "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 84,
-    "total_votes_scored": 16,
+    "overall_pct": 78,
+    "total_votes_scored": 5,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
-        "bill": "S3853",
-        "date": "2024-03-07",
+        "vote_description": "Workforce Innovation and Opportunity Act of 2022",
+        "bill": "HR7309",
+        "date": "2022-05-17",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Workforce Innovation and Opportunity Act of 2022 \u2014 reauthorizes job training programs that unions support as they fund apprenticeships and workforce development."
       },
       {
-        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
-        "bill": "S2073",
-        "date": "2024-07-30",
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "SHEET METAL AND AIR CONDITIONING CONTRACTORS PAC",
         "donor_category": "Tech companies",
-        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "CHIPS and Science Act \u2014 massive investment in semiconductor manufacturing and scientific research. Major tech companies like Intel, TSMC, and Samsung directly benefit from chip manufacturing subsidies."
       },
       {
-        "vote_description": "Providing for a correction in the enrollment of H.J. Res. 100",
-        "bill": "HCONRES119",
-        "date": "2022-11-30",
+        "vote_description": "Rights for the Transportation Security Administration Workforce Act",
+        "bill": "HR903",
+        "date": "2022-05-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on Providing for a correction in the enrollment of H.J. Res. 10"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Rights for the TSA Workforce Act \u2014 grants TSA employees full Title 5 labor protections and collective bargaining rights. Unions strongly supported this bill."
       },
       {
-        "vote_description": "To provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers\u2019 Conference Committee of the National Railway Labor Conference and certain of their employees",
-        "bill": "HJRES100",
-        "date": "2022-11-30",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
-        "donor_category": "Labor unions",
-        "donor_expected": "Yea on To provide for a resolution with respect to the unresolved d"
-      },
-      {
-        "vote_description": "Susan Muffley Act",
-        "bill": "HR6929",
-        "date": "2022-07-27",
-        "member_voted": "Yea",
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
+        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Susan Muffley Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 8,
+    "against_electorate_pct": 25,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 88.2,
-        "margin_of_error": 7,
+        "district_support_pct": 88.0,
+        "margin_of_error": 4.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 67.9,
-        "margin_of_error": 7,
+        "district_support_pct": 65.7,
+        "margin_of_error": 7.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 71.0,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
+        "district_support_pct": 68.0,
+        "margin_of_error": 9.1,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 11.3,
+        "margin_of_error": 3.7,
+        "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 66.8,
-        "margin_of_error": 7,
+        "district_support_pct": 64.0,
+        "margin_of_error": 6.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 73.3,
-        "margin_of_error": 7,
+        "district_support_pct": 70.7,
+        "margin_of_error": 5.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 68.5,
-        "margin_of_error": 7,
+        "district_support_pct": 66.5,
+        "margin_of_error": 5.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 68.2,
+        "margin_of_error": 5.3,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

@@ -11,53 +11,1087 @@
   "years_in_office": 5,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 5500773,
+    "campaign_raised": 5500773,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 294630,
+        "donors": [
+          {
+            "name": "ELLIOTT INVESTMENT MANAGEMENT",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "VETERANS GUARDIAN VA CLAIM CONSULTING",
+            "type": "Organization",
+            "amount": 9800
+          },
+          {
+            "name": "FORK SAND INC",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "SCENT",
+            "type": "Organization",
+            "amount": 6700
+          },
+          {
+            "name": "ORACLE",
+            "type": "Organization",
+            "amount": 6700
+          },
+          {
+            "name": "KELLOGG CAPITAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "VETERANS UNITED HOME LOANS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GREAT POINT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "DEASON CAPITAL SERVICES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GWYNN'S OF MOUNT PLEASANT",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "LEEVISTA CENTER",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "ORACLE CORPORATION",
+            "type": "Organization",
+            "amount": 4900
+          },
+          {
+            "name": "DUNLAPT",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "WESTENFIELD",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "THE BAINBRIDGE COMPANIES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "SELECT SERVICES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CONFER PACIC INC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "SOUTH CAROLINA FEDERAL CREDIT UNION",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "KOOZER PAINTING",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CALDWELL PARTNERS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "HIGH PLAINS ACRE LLP",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "KEY SQUARE GROUP",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "WILLOW ASSET MANAGEMENT",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "GOOGLE LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CHAMPION FIBERGLASS, INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "GS SUPPLY CO.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "HIGHLAND PAVING CO, LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "LAGOS  LAGOS PLL",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CAPITOL SOUTH LLC",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "RAVELEL DEVELOPMENT CORP",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "BRYANT BROTHERS",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "BRS  CO",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "STARZ",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "STEPHENS INC.",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "REAL ESTATE SOLUTIONS 1031 INC",
+            "type": "Organization",
+            "amount": 2600
+          },
+          {
+            "name": "KROGER",
+            "type": "Organization",
+            "amount": 2600
+          },
+          {
+            "name": "CRAIGSLIST",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "REGIONAL MEDICAL CENTER",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "ICEBREAKER",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "TREY HARRELL LAW OFFICE, LLC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "MUSC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "JOSEPH GROUP",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "CRAP POT LLC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "RNDC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "STAN SMITH EVENT",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "AW CONSTANT COMPANY",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "JP MORGAN CHASE",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "ATLANTIC REALTY",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "GOOGLE",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "VAN SCOYOC ASSOCIATES",
+            "type": "Organization",
+            "amount": 1500
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 5206143,
+        "donors": [
+          {
+            "name": "SOUTH CAROLINA PATRIOTS PAC",
+            "type": "PAC",
+            "amount": 3309845
+          },
+          {
+            "name": "CLUB FOR GROWTH ACTION",
+            "type": "PAC",
+            "amount": 485422
+          },
+          {
+            "name": "WIN IT BACK PAC",
+            "type": "PAC",
+            "amount": 357282
+          },
+          {
+            "name": "PALMETTO VALUES",
+            "type": "PAC",
+            "amount": 270397
+          },
+          {
+            "name": "YOUR LOWCOUNTRY NEIGHBORS",
+            "type": "PAC",
+            "amount": 115000
+          },
+          {
+            "name": "ANIMAL WELLNESS ACTION",
+            "type": "PAC",
+            "amount": 30828
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 28760
+          },
+          {
+            "name": "CLUB FOR GROWTH PAC",
+            "type": "PAC",
+            "amount": 21132
+          },
+          {
+            "name": "BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA FEDERAL GOVERNMENT PROGRAMS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ORACLE AMERICA, INC. POLITICAL ACTION COMMITTEE (ORACLE PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HONOR COURAGE COMMITMENT PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CONSTELLATION BRANDS INC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "E-PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MVL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "HUMANE SOCIETY LEGISLATIVE FUND POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "RAPTOR PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CANOPY GROWTH USA LLC EMPLOYEES POLITICAL FORUM (CANOPY GROWTH EMPLOYEES POLITICAL FORUM)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL RESTAURANT ASSOCIATION PAC (RESTAURANT PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "DOMINION ENERGY, INC. POLITICAL ACTION COMMITTEE - DOMINION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BOLD OCEAN LLC PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICA'S FIRST PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BUILDING OPPORTUNITIES FOR A STRONGER TOMORROW B.O.S.T. PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MILLIKEN & COMPANY PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NEW YORK LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "PEOPLE FOR ENTERPRISE TRADE AND ECONOMIC GROWTH (PETE PAC)",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 5500773,
+      "individual_contributions": 294630,
+      "individual_itemized": 294630,
+      "individual_unitemized": 0,
+      "pac_contributions": 5206143,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "ELLIOTT INVESTMENT MANAGEMENT",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "VETERANS GUARDIAN VA CLAIM CONSULTING",
+          "type": "Organization",
+          "amount": 9800
+        },
+        {
+          "name": "FORK SAND INC",
+          "type": "Organization",
+          "amount": 8300
+        },
+        {
+          "name": "SCENT",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "ORACLE",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "KELLOGG CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VETERANS UNITED HOME LOANS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GREAT POINT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DEASON CAPITAL SERVICES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GWYNN'S OF MOUNT PLEASANT",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "LEEVISTA CENTER",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "ORACLE CORPORATION",
+          "type": "Organization",
+          "amount": 4900
+        },
+        {
+          "name": "DUNLAPT",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "WESTENFIELD",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "THE BAINBRIDGE COMPANIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SELECT SERVICES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CONFER PACIC INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SOUTH CAROLINA FEDERAL CREDIT UNION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KOOZER PAINTING",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CALDWELL PARTNERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HIGH PLAINS ACRE LLP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "KEY SQUARE GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "WILLOW ASSET MANAGEMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GOOGLE LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CHAMPION FIBERGLASS, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GS SUPPLY CO.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HIGHLAND PAVING CO, LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LAGOS  LAGOS PLL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CAPITOL SOUTH LLC",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "RAVELEL DEVELOPMENT CORP",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "BRYANT BROTHERS",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "BRS  CO",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "STARZ",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "STEPHENS INC.",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "REAL ESTATE SOLUTIONS 1031 INC",
+          "type": "Organization",
+          "amount": 2600
+        },
+        {
+          "name": "KROGER",
+          "type": "Organization",
+          "amount": 2600
+        },
+        {
+          "name": "CRAIGSLIST",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "REGIONAL MEDICAL CENTER",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ICEBREAKER",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TREY HARRELL LAW OFFICE, LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "MUSC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "JOSEPH GROUP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "CRAP POT LLC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "RNDC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "STAN SMITH EVENT",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "AW CONSTANT COMPANY",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "JP MORGAN CHASE",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ATLANTIC REALTY",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "GOOGLE",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "VAN SCOYOC ASSOCIATES",
+          "type": "Organization",
+          "amount": 1500
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "SOUTH CAROLINA PATRIOTS PAC",
+          "type": "PAC",
+          "amount": 3309845
+        },
+        {
+          "name": "CLUB FOR GROWTH ACTION",
+          "type": "PAC",
+          "amount": 485422
+        },
+        {
+          "name": "WIN IT BACK PAC",
+          "type": "PAC",
+          "amount": 357282
+        },
+        {
+          "name": "PALMETTO VALUES",
+          "type": "PAC",
+          "amount": 270397
+        },
+        {
+          "name": "YOUR LOWCOUNTRY NEIGHBORS",
+          "type": "PAC",
+          "amount": 115000
+        },
+        {
+          "name": "ANIMAL WELLNESS ACTION",
+          "type": "PAC",
+          "amount": 30828
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 28760
+        },
+        {
+          "name": "CLUB FOR GROWTH PAC",
+          "type": "PAC",
+          "amount": 21132
+        },
+        {
+          "name": "BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA FEDERAL GOVERNMENT PROGRAMS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ORACLE AMERICA, INC. POLITICAL ACTION COMMITTEE (ORACLE PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HONOR COURAGE COMMITMENT PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CONSTELLATION BRANDS INC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "E-PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MVL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "HUMANE SOCIETY LEGISLATIVE FUND POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "RAPTOR PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CANOPY GROWTH USA LLC EMPLOYEES POLITICAL FORUM (CANOPY GROWTH EMPLOYEES POLITICAL FORUM)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL RESTAURANT ASSOCIATION PAC (RESTAURANT PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "DOMINION ENERGY, INC. POLITICAL ACTION COMMITTEE - DOMINION PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BOLD OCEAN LLC PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICA'S FIRST PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BUILDING OPPORTUNITIES FOR A STRONGER TOMORROW B.O.S.T. PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MILLIKEN & COMPANY PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NEW YORK LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "PEOPLE FOR ENTERPRISE TRADE AND ECONOMIC GROWTH (PETE PAC)",
+          "type": "PAC",
+          "amount": 5000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 91,
-    "total_votes_scored": 135,
+    "overall_pct": 85,
+    "total_votes_scored": 69,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
+        "vote_description": "Israel Security Assistance Support Act",
+        "bill": "HR8369",
+        "date": "2024-05-16",
+        "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
         "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Assistance Support Act \u2014 provides security assistance to Israel, a core AIPAC priority."
       },
       {
-        "vote_description": "To require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes",
-        "bill": "S1071",
-        "date": "2025-12-10",
+        "vote_description": "Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026",
+        "bill": "HR3838",
+        "date": "2025-09-10",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
         "donor_category": "Defense contractors",
-        "donor_expected": "Yea on To require the Secretary of Veterans Affairs to disinter the"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "FY2026 NDAA (National Defense Authorization Act) \u2014 authorizes military spending, procurement, and personnel. Defense contractors strongly support annual NDAA passage as it funds weapons systems and military programs."
       },
       {
-        "vote_description": "DUMP Red Tape Act",
-        "bill": "HR4305",
-        "date": "2025-12-03",
+        "vote_description": "End Chinese Dominance of Electric Vehicles in America Act",
+        "bill": "HR7980",
+        "date": "2024-09-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "ORACLE AMERICA, INC. POLITICAL ACTION COMMITTEE (ORACLE PAC)",
-        "donor_category": "Tech companies",
-        "donor_expected": "Yea on DUMP Red Tape Act"
+        "donor_category": "Auto industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "End Chinese Dominance of Electric Vehicles in America Act \u2014 restricts EV tax credits for Chinese-connected vehicles. Auto dealers support this as it slows the EV transition that threatens their service revenue model."
       },
       {
-        "vote_description": "Consolidated Appropriations Act, 2026",
-        "bill": "HR7148",
-        "date": "2026-01-22",
+        "vote_description": "Financial Innovation and Technology for the 21st Century Act",
+        "bill": "HR4763",
+        "date": "2024-05-22",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
         "donor_category": "Financial industry",
-        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Financial Innovation and Technology for the 21st Century Act (FIT21) \u2014 comprehensive crypto regulation that creates SEC/CFTC framework favorable to financial industry participation in digital assets."
       },
       {
         "vote_description": "21st Century Peace through Strength Act",
@@ -65,54 +1099,79 @@
         "date": "2024-04-20",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
         "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on 21st Century Peace through Strength Act"
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "21st Century Peace through Strength Act \u2014 includes Israel aid among broader national security package. AIPAC supported the Israel components."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 5,
-    "against_electorate_pct": 80,
+    "issues_scored": 8,
+    "against_electorate_pct": 88,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 90.5,
+        "margin_of_error": 4.6,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 68.1,
-        "margin_of_error": 7,
+        "district_support_pct": 65.4,
+        "margin_of_error": 8.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 58.1,
-        "margin_of_error": 7,
+        "district_support_pct": 57.2,
+        "margin_of_error": 9.9,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 57.8,
-        "margin_of_error": 7,
+        "district_support_pct": 56.6,
+        "margin_of_error": 8.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 67.5,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "district_support_pct": 66.5,
+        "margin_of_error": 7.2,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 63.1,
-        "margin_of_error": 7,
+        "district_support_pct": 62.0,
+        "margin_of_error": 7.2,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 42.5,
+        "margin_of_error": 7.7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 65.7,
+        "margin_of_error": 6.9,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

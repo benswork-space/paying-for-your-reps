@@ -11,116 +11,1156 @@
   "years_in_office": 11,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 50059772,
+    "campaign_raised": 50059772,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 49530610,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 2114366
+          },
+          {
+            "name": "ULINE CORPORATION",
+            "type": "Organization",
+            "amount": 578200
+          },
+          {
+            "name": "MOUNTAIRE CORPORATION",
+            "type": "Organization",
+            "amount": 578200
+          },
+          {
+            "name": "CITADEL INVESTMENT GROUP LLC",
+            "type": "Organization",
+            "amount": 578200
+          },
+          {
+            "name": "STEPHENS INC.",
+            "type": "Organization",
+            "amount": 574000
+          },
+          {
+            "name": "FISHER INVESTMENTS",
+            "type": "Organization",
+            "amount": 463935
+          },
+          {
+            "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+            "type": "Organization",
+            "amount": 334020
+          },
+          {
+            "name": "MILLENNIUM PARTNERS",
+            "type": "Organization",
+            "amount": 331150
+          },
+          {
+            "name": "S C JOHNSON AND SONS INC",
+            "type": "Organization",
+            "amount": 330400
+          },
+          {
+            "name": "THE DUCHOSSOIS GROUP",
+            "type": "Organization",
+            "amount": 330400
+          },
+          {
+            "name": "CHARLES SCHWAB CORPORATION",
+            "type": "Organization",
+            "amount": 330400
+          },
+          {
+            "name": "CASTLE HARLAN INC",
+            "type": "Organization",
+            "amount": 300000
+          },
+          {
+            "name": "COHEN KLINGENSTEIN",
+            "type": "Organization",
+            "amount": 289100
+          },
+          {
+            "name": "ELLIOTT MANAGEMENT CORPORATION",
+            "type": "Organization",
+            "amount": 289100
+          },
+          {
+            "name": "PAYROLL AND INSURANCE GROUP",
+            "type": "Organization",
+            "amount": 289100
+          },
+          {
+            "name": "FEDERAL EXPRESS",
+            "type": "Organization",
+            "amount": 261882
+          },
+          {
+            "name": "PUTNAM INVESTMENTS",
+            "type": "Organization",
+            "amount": 258549
+          },
+          {
+            "name": "ABC SUPPLY",
+            "type": "Organization",
+            "amount": 255500
+          },
+          {
+            "name": "PLATTE INSTITUTE FOR ECONOMIC RESEARCH",
+            "type": "Organization",
+            "amount": 250000
+          },
+          {
+            "name": "PEROT GROUP",
+            "type": "Organization",
+            "amount": 247800
+          },
+          {
+            "name": "JW CHILDS ASSOCIATES",
+            "type": "Organization",
+            "amount": 245000
+          },
+          {
+            "name": "PALOS VERDES INVESTMENTS INC",
+            "type": "Organization",
+            "amount": 225000
+          },
+          {
+            "name": "DISCOVERY HYDROVAC",
+            "type": "Organization",
+            "amount": 221291
+          },
+          {
+            "name": "MONARCH INVESTMENT & MANAGEMENT GROUP",
+            "type": "Organization",
+            "amount": 200000
+          },
+          {
+            "name": "WSJ PROPERTIES",
+            "type": "Organization",
+            "amount": 200000
+          },
+          {
+            "name": "HILL CO",
+            "type": "Organization",
+            "amount": 198420
+          },
+          {
+            "name": "AGMAN PARTNERS",
+            "type": "Organization",
+            "amount": 186343
+          },
+          {
+            "name": "SOROBAN CAPITAL",
+            "type": "Organization",
+            "amount": 181300
+          },
+          {
+            "name": "BGR GOVERNMENT AFFAIRS",
+            "type": "Organization",
+            "amount": 170275
+          },
+          {
+            "name": "VETERANS GUARDIAN",
+            "type": "Organization",
+            "amount": 165200
+          },
+          {
+            "name": "HALP",
+            "type": "Organization",
+            "amount": 165000
+          },
+          {
+            "name": "MEIJER SUPERSTORES INC",
+            "type": "Organization",
+            "amount": 160400
+          },
+          {
+            "name": "JC2 VENTURES",
+            "type": "Organization",
+            "amount": 156600
+          },
+          {
+            "name": "NEW MOUNTAIN CAPITAL",
+            "type": "Organization",
+            "amount": 156300
+          },
+          {
+            "name": "POHANKA AUTOMOTIVE GROUP",
+            "type": "Organization",
+            "amount": 150000
+          },
+          {
+            "name": "THE ANSCHUTZ COMPANIES",
+            "type": "Organization",
+            "amount": 150000
+          },
+          {
+            "name": "BGR GROUP",
+            "type": "Organization",
+            "amount": 144473
+          },
+          {
+            "name": "28TH STREET VENTURES",
+            "type": "Organization",
+            "amount": 141300
+          },
+          {
+            "name": "TIGERRISK PARTNERS",
+            "type": "Organization",
+            "amount": 141300
+          },
+          {
+            "name": "UTILITIES INTERNATIONAL",
+            "type": "Organization",
+            "amount": 141300
+          },
+          {
+            "name": "BLACKSTONE",
+            "type": "Organization",
+            "amount": 135900
+          },
+          {
+            "name": "JANE STREET CAPITAL",
+            "type": "Organization",
+            "amount": 132600
+          },
+          {
+            "name": "U S DEPT OF JUSTICE",
+            "type": "Organization",
+            "amount": 125488
+          },
+          {
+            "name": "AQR CAPITAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 125000
+          },
+          {
+            "name": "LSV ASSET MANAGEMENT",
+            "type": "Organization",
+            "amount": 125000
+          },
+          {
+            "name": "NORTHWESTERN UNIVESITY",
+            "type": "Organization",
+            "amount": 125000
+          },
+          {
+            "name": "HUBBARD BROADCASTING INC",
+            "type": "Organization",
+            "amount": 125000
+          },
+          {
+            "name": "CHIEF OIL AND GAS LLC",
+            "type": "Organization",
+            "amount": 125000
+          },
+          {
+            "name": "ARCHER CHRYSLER-JEEP/ DODGE R-V",
+            "type": "Organization",
+            "amount": 124139
+          },
+          {
+            "name": "INDECK ENERGY SERVICES INC",
+            "type": "Organization",
+            "amount": 114233
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 529162,
+        "donors": [
+          {
+            "name": "QUALCOMM INCORPORATED POLITICAL ACTION COMMITTEE (QPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "REPUBLICAN MAJORITY FUND",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "PAC FOR AMERICA",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "WILD AND WONDERFUL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DIRIGO PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TOGETHER HOLDING OUR MAJORITY PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "JOBS OPPORTUNITY AND NEW IDEAS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BIG SKY OPPORTUNITY PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "STEER PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COMMON VALUES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE PETER NORBECK LEADERSHIP PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CONTINUING AMERICA'S STRENGTH AND SECURITY PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "R SENATE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COACH PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BOOTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HEARTLAND VALUES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CONSERVATIVES HARVESTING SUCCESS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DEFEND OUR CONSERVATIVE SENATE PAC (DOC'S PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE HAWKEYE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN EXCELLENCE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BALL CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "DROPBOX INC PAC",
+            "type": "PAC",
+            "amount": 6600
+          },
+          {
+            "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "HILTON WORLDWIDE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "AMERICAN PILOTS' ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5500
+          },
+          {
+            "name": "BRYAN CAVE LLP POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "VIGOR PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ATN INTERNATIONAL, INC. POLITICAL ACTION COMMITTEE (ATN PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HALLIBURTON COMPANY PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "RPM INTERNATIONAL INC. MANUFACTURING IN AMERICA PAC, DBA RPM MANUFACTURING IN AMERICA PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SHEET METAL & AIR CONDITIONING CONTRACTORS' NATIONAL ASSOC., INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "WITH HONOR PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LYONDELL CHEMICAL COMPANY PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "FRIENDS OF TRIDENT SEAFOODS CORPORATION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CROWLEY MARITIME CORPORATION FEDERAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CALPORTLAND COMPANY POLITICAL ACTION COMMITTEE (CALPORTLANDPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CISCO SYSTEMS, INC. FEDERAL PAC, AKA CISCO SYSTEMS EPAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BLUEGRASS COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "SALTCHUK RESOURCES, INC. PAC",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "ALASKA AIR GROUP INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "COTTON FOR SENATE, INC.",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "MATSON, INC. FEDERAL ELECTION COMMITTEE",
+            "type": "PAC",
+            "amount": 3500
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 50059772,
+      "individual_contributions": 49530610,
+      "individual_itemized": 49530610,
+      "individual_unitemized": 0,
+      "pac_contributions": 529162,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 2114366
+        },
+        {
+          "name": "ULINE CORPORATION",
+          "type": "Organization",
+          "amount": 578200
+        },
+        {
+          "name": "MOUNTAIRE CORPORATION",
+          "type": "Organization",
+          "amount": 578200
+        },
+        {
+          "name": "CITADEL INVESTMENT GROUP LLC",
+          "type": "Organization",
+          "amount": 578200
+        },
+        {
+          "name": "STEPHENS INC.",
+          "type": "Organization",
+          "amount": 574000
+        },
+        {
+          "name": "FISHER INVESTMENTS",
+          "type": "Organization",
+          "amount": 463935
+        },
+        {
+          "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+          "type": "Organization",
+          "amount": 334020
+        },
+        {
+          "name": "MILLENNIUM PARTNERS",
+          "type": "Organization",
+          "amount": 331150
+        },
+        {
+          "name": "S C JOHNSON AND SONS INC",
+          "type": "Organization",
+          "amount": 330400
+        },
+        {
+          "name": "THE DUCHOSSOIS GROUP",
+          "type": "Organization",
+          "amount": 330400
+        },
+        {
+          "name": "CHARLES SCHWAB CORPORATION",
+          "type": "Organization",
+          "amount": 330400
+        },
+        {
+          "name": "CASTLE HARLAN INC",
+          "type": "Organization",
+          "amount": 300000
+        },
+        {
+          "name": "COHEN KLINGENSTEIN",
+          "type": "Organization",
+          "amount": 289100
+        },
+        {
+          "name": "ELLIOTT MANAGEMENT CORPORATION",
+          "type": "Organization",
+          "amount": 289100
+        },
+        {
+          "name": "PAYROLL AND INSURANCE GROUP",
+          "type": "Organization",
+          "amount": 289100
+        },
+        {
+          "name": "FEDERAL EXPRESS",
+          "type": "Organization",
+          "amount": 261882
+        },
+        {
+          "name": "PUTNAM INVESTMENTS",
+          "type": "Organization",
+          "amount": 258549
+        },
+        {
+          "name": "ABC SUPPLY",
+          "type": "Organization",
+          "amount": 255500
+        },
+        {
+          "name": "PLATTE INSTITUTE FOR ECONOMIC RESEARCH",
+          "type": "Organization",
+          "amount": 250000
+        },
+        {
+          "name": "PEROT GROUP",
+          "type": "Organization",
+          "amount": 247800
+        },
+        {
+          "name": "JW CHILDS ASSOCIATES",
+          "type": "Organization",
+          "amount": 245000
+        },
+        {
+          "name": "PALOS VERDES INVESTMENTS INC",
+          "type": "Organization",
+          "amount": 225000
+        },
+        {
+          "name": "DISCOVERY HYDROVAC",
+          "type": "Organization",
+          "amount": 221291
+        },
+        {
+          "name": "MONARCH INVESTMENT & MANAGEMENT GROUP",
+          "type": "Organization",
+          "amount": 200000
+        },
+        {
+          "name": "WSJ PROPERTIES",
+          "type": "Organization",
+          "amount": 200000
+        },
+        {
+          "name": "HILL CO",
+          "type": "Organization",
+          "amount": 198420
+        },
+        {
+          "name": "AGMAN PARTNERS",
+          "type": "Organization",
+          "amount": 186343
+        },
+        {
+          "name": "SOROBAN CAPITAL",
+          "type": "Organization",
+          "amount": 181300
+        },
+        {
+          "name": "BGR GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 170275
+        },
+        {
+          "name": "VETERANS GUARDIAN",
+          "type": "Organization",
+          "amount": 165200
+        },
+        {
+          "name": "HALP",
+          "type": "Organization",
+          "amount": 165000
+        },
+        {
+          "name": "MEIJER SUPERSTORES INC",
+          "type": "Organization",
+          "amount": 160400
+        },
+        {
+          "name": "JC2 VENTURES",
+          "type": "Organization",
+          "amount": 156600
+        },
+        {
+          "name": "NEW MOUNTAIN CAPITAL",
+          "type": "Organization",
+          "amount": 156300
+        },
+        {
+          "name": "POHANKA AUTOMOTIVE GROUP",
+          "type": "Organization",
+          "amount": 150000
+        },
+        {
+          "name": "THE ANSCHUTZ COMPANIES",
+          "type": "Organization",
+          "amount": 150000
+        },
+        {
+          "name": "BGR GROUP",
+          "type": "Organization",
+          "amount": 144473
+        },
+        {
+          "name": "28TH STREET VENTURES",
+          "type": "Organization",
+          "amount": 141300
+        },
+        {
+          "name": "TIGERRISK PARTNERS",
+          "type": "Organization",
+          "amount": 141300
+        },
+        {
+          "name": "UTILITIES INTERNATIONAL",
+          "type": "Organization",
+          "amount": 141300
+        },
+        {
+          "name": "BLACKSTONE",
+          "type": "Organization",
+          "amount": 135900
+        },
+        {
+          "name": "JANE STREET CAPITAL",
+          "type": "Organization",
+          "amount": 132600
+        },
+        {
+          "name": "U S DEPT OF JUSTICE",
+          "type": "Organization",
+          "amount": 125488
+        },
+        {
+          "name": "AQR CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 125000
+        },
+        {
+          "name": "LSV ASSET MANAGEMENT",
+          "type": "Organization",
+          "amount": 125000
+        },
+        {
+          "name": "NORTHWESTERN UNIVESITY",
+          "type": "Organization",
+          "amount": 125000
+        },
+        {
+          "name": "HUBBARD BROADCASTING INC",
+          "type": "Organization",
+          "amount": 125000
+        },
+        {
+          "name": "CHIEF OIL AND GAS LLC",
+          "type": "Organization",
+          "amount": 125000
+        },
+        {
+          "name": "ARCHER CHRYSLER-JEEP/ DODGE R-V",
+          "type": "Organization",
+          "amount": 124139
+        },
+        {
+          "name": "INDECK ENERGY SERVICES INC",
+          "type": "Organization",
+          "amount": 114233
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "QUALCOMM INCORPORATED POLITICAL ACTION COMMITTEE (QPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "REPUBLICAN MAJORITY FUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PAC FOR AMERICA",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "WILD AND WONDERFUL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DIRIGO PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TOGETHER HOLDING OUR MAJORITY PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "JOBS OPPORTUNITY AND NEW IDEAS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BIG SKY OPPORTUNITY PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "STEER PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COMMON VALUES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE PETER NORBECK LEADERSHIP PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CONTINUING AMERICA'S STRENGTH AND SECURITY PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "R SENATE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COACH PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BOOTS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HEARTLAND VALUES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CONSERVATIVES HARVESTING SUCCESS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DEFEND OUR CONSERVATIVE SENATE PAC (DOC'S PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE HAWKEYE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN EXCELLENCE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BALL CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "DROPBOX INC PAC",
+          "type": "PAC",
+          "amount": 6600
+        },
+        {
+          "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "HILTON WORLDWIDE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "AMERICAN PILOTS' ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5500
+        },
+        {
+          "name": "BRYAN CAVE LLP POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "VIGOR PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ATN INTERNATIONAL, INC. POLITICAL ACTION COMMITTEE (ATN PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HALLIBURTON COMPANY PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "RPM INTERNATIONAL INC. MANUFACTURING IN AMERICA PAC, DBA RPM MANUFACTURING IN AMERICA PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SHEET METAL & AIR CONDITIONING CONTRACTORS' NATIONAL ASSOC., INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "WITH HONOR PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "LYONDELL CHEMICAL COMPANY PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "FRIENDS OF TRIDENT SEAFOODS CORPORATION PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CROWLEY MARITIME CORPORATION FEDERAL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CALPORTLAND COMPANY POLITICAL ACTION COMMITTEE (CALPORTLANDPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CISCO SYSTEMS, INC. FEDERAL PAC, AKA CISCO SYSTEMS EPAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BLUEGRASS COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "SALTCHUK RESOURCES, INC. PAC",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "ALASKA AIR GROUP INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "COTTON FOR SENATE, INC.",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "MATSON, INC. FEDERAL ELECTION COMMITTEE",
+          "type": "PAC",
+          "amount": 3500
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 88,
-    "total_votes_scored": 18,
+    "overall_pct": 53,
+    "total_votes_scored": 5,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
-        "bill": "S2073",
-        "date": "2024-07-30",
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "DROPBOX INC PAC",
-        "donor_category": "Tech companies",
-        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
-      },
-      {
-        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
-        "bill": "S3853",
-        "date": "2024-03-07",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       },
       {
-        "vote_description": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
-        "bill": "S1071",
-        "date": "2025-12-17",
+        "vote_description": "A bill to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+        "bill": "HR2670",
+        "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
         "donor_category": "Defense contractors",
-        "donor_expected": "Yea on A bill to require the Secretary of Veterans Affairs to disin"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "FY2024 NDAA conference report \u2014 final version of annual defense authorization bill. Defense industry's top legislative priority each year."
+      },
+      {
+        "vote_description": "A bill to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.",
+        "bill": "HR7776",
+        "date": "2022-07-28",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Water Resources Development and NDAA package \u2014 vehicle for FY2023 NDAA and defense authorization provisions."
       },
       {
         "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
         "bill": "HR4346",
         "date": "2022-07-27",
         "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "DROPBOX INC PAC",
-        "donor_category": "Tech companies",
-        "donor_expected": "Nay on A bill making appropriations for Legislative Branch for the "
-      },
-      {
-        "vote_description": "A joint resolution to provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers' Conference Committee of the National Railway Labor Conference and certain of their employees.",
-        "bill": "HJRES100",
-        "date": "2022-12-01",
-        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
-        "donor_category": "Labor unions",
-        "donor_expected": "Yea on A joint resolution to provide for a resolution with respect "
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "CHIPS and Science Act \u2014 massive investment in semiconductor manufacturing and scientific research. Major tech companies like Intel, TSMC, and Samsung directly benefit from chip manufacturing subsidies."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 100,
+    "issues_scored": 8,
+    "against_electorate_pct": 50,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 83.3,
-        "margin_of_error": 7,
+        "district_support_pct": 83.8,
+        "margin_of_error": 5.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 50.0,
+        "margin_of_error": 6.0,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 56.4,
-        "margin_of_error": 7,
-        "member_position": "Voted Nay",
-        "aligned_with_electorate": false,
-        "aligned_with_donors": false
-      },
-      {
-        "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 16.7,
-        "margin_of_error": 7,
+        "district_support_pct": 56.5,
+        "margin_of_error": 7.3,
         "member_position": "Voted Yea",
-        "aligned_with_electorate": false,
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 50.9,
-        "margin_of_error": 7,
+        "district_support_pct": 51.5,
+        "margin_of_error": 6.2,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 55.5,
-        "margin_of_error": 7,
+        "district_support_pct": 58.5,
+        "margin_of_error": 4.9,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 55.0,
-        "margin_of_error": 7,
+        "district_support_pct": 57.0,
+        "margin_of_error": 5.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Grant legal status to DACA recipients",
+        "district_support_pct": 67.3,
+        "margin_of_error": 3.3,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 52.5,
+        "margin_of_error": 4.9,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

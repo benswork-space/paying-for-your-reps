@@ -11,99 +11,1120 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 19963069,
+    "campaign_raised": 19963069,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 2161739,
+        "donors": [
+          {
+            "name": "GOOGLE LLC",
+            "type": "Organization",
+            "amount": 16387
+          },
+          {
+            "name": "PANISH, SHEA, BOYLE, ET AL.",
+            "type": "Organization",
+            "amount": 16200
+          },
+          {
+            "name": "APPLE INC",
+            "type": "Organization",
+            "amount": 14200
+          },
+          {
+            "name": "UNIVERSITY OF CALIFORNIA BERKELEY",
+            "type": "Organization",
+            "amount": 13350
+          },
+          {
+            "name": "ALTAIR LAW",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "ARIAS, SANGUINETTI, WANG & TEAM",
+            "type": "Organization",
+            "amount": 11300
+          },
+          {
+            "name": "TAYLOR & RING",
+            "type": "Organization",
+            "amount": 10175
+          },
+          {
+            "name": "TAYLOR RING",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "ATLAS SETTLEMENT GROUP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "SEBER BULGER LAW, LLP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "CALIFORNIA WASTE SOLUTIONS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "THE VARTAZARIAN LAW FIRM",
+            "type": "Organization",
+            "amount": 9600
+          },
+          {
+            "name": "BD&J, PC",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "SHERIF EDMOND EL DABE",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "THE OMOFOMA LAW FIRM",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "MILLION DOLLAR BABY",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "STATE OF CALIFORNIA",
+            "type": "Organization",
+            "amount": 8717
+          },
+          {
+            "name": "DORDICK LAW CORPORATION",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "SINGLETON SCHREIBER, LLP",
+            "type": "Organization",
+            "amount": 8350
+          },
+          {
+            "name": "RIZIO LIPINSKY LAW FIRM, PC",
+            "type": "Organization",
+            "amount": 7100
+          },
+          {
+            "name": "DESANTIS LEGAL",
+            "type": "Organization",
+            "amount": 7100
+          },
+          {
+            "name": "AARONS WARD",
+            "type": "Organization",
+            "amount": 6800
+          },
+          {
+            "name": "PHILLIP NGHIEM",
+            "type": "Organization",
+            "amount": 6800
+          },
+          {
+            "name": "ART ADVISORS LLC",
+            "type": "Organization",
+            "amount": 6692
+          },
+          {
+            "name": "COVE HILL PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AITKEN, CAMPBELL, HEIKAUS, ET AL.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SAVIN BURSK LAW",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "IQ RISK INSURANCE SERVICES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ARDALAN & ASSOCIATES, APLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ACTS LAW FIRM",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KAZEROUNI LAW GROUP APC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SIMON LAW GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE HOMAMPOUR LAW FIRM",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NICOLE NGUYEN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "JANE STREET",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SHAYNA DAVIS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MASS GENERAL HOSPITAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CARRAZCO LAW",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ALSOP LOUIE PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "OAKTREE CAPITAL MGMT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KNIGHT LAW GROUP",
+            "type": "Organization",
+            "amount": 6534
+          },
+          {
+            "name": "KAISER PERMANENTE",
+            "type": "Organization",
+            "amount": 6161
+          },
+          {
+            "name": "BENTLEY & MORE, LLP",
+            "type": "Organization",
+            "amount": 6150
+          },
+          {
+            "name": "WILSHIRE LAW FIRM",
+            "type": "Organization",
+            "amount": 6050
+          },
+          {
+            "name": "ACTS LAW",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "RINGLER",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "ERNST LAW GROUP",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "LYNN FULLER",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "ROGER A. DREYER",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "DORDICK LAW",
+            "type": "Organization",
+            "amount": 5300
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 17801330,
+        "donors": [
+          {
+            "name": "CONGRESSIONAL LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 11363818
+          },
+          {
+            "name": "HMP",
+            "type": "PAC",
+            "amount": 1909514
+          },
+          {
+            "name": "LCV VICTORY FUND",
+            "type": "PAC",
+            "amount": 968995
+          },
+          {
+            "name": "AMERICA PAC",
+            "type": "PAC",
+            "amount": 553380
+          },
+          {
+            "name": "CHISPA PAC, SPONSORED BY CHISPA, A PROJECT OF TIDES ADVOCACY.",
+            "type": "PAC",
+            "amount": 342914
+          },
+          {
+            "name": "DEFENDING MAIN STREET SUPERPAC INC.",
+            "type": "PAC",
+            "amount": 300000
+          },
+          {
+            "name": "FOR OUR FREEDOM",
+            "type": "PAC",
+            "amount": 268074
+          },
+          {
+            "name": "ORANGE COUNTY PAC",
+            "type": "PAC",
+            "amount": 244911
+          },
+          {
+            "name": "WORKER POWER PAC",
+            "type": "PAC",
+            "amount": 209853
+          },
+          {
+            "name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
+            "type": "PAC",
+            "amount": 206184
+          },
+          {
+            "name": "DCCC",
+            "type": "PAC",
+            "amount": 189787
+          },
+          {
+            "name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+            "type": "PAC",
+            "amount": 155819
+          },
+          {
+            "name": "AFSCME WORKING FAMILIES FUND",
+            "type": "PAC",
+            "amount": 89499
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 46532
+          },
+          {
+            "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+            "type": "PAC",
+            "amount": 41289
+          },
+          {
+            "name": "JSTREETPAC",
+            "type": "PAC",
+            "amount": 40359
+          },
+          {
+            "name": "MAJORITY PAC",
+            "type": "PAC",
+            "amount": 36497
+          },
+          {
+            "name": "SOUTHERN CALIF4NIA VICTORY FUND",
+            "type": "PAC",
+            "amount": 32453
+          },
+          {
+            "name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "type": "PAC",
+            "amount": 19000
+          },
+          {
+            "name": "BATTLEGROUND CALIFORNIA",
+            "type": "PAC",
+            "amount": 18422
+          },
+          {
+            "name": "PIVOT VICTORY FUND",
+            "type": "PAC",
+            "amount": 18043
+          },
+          {
+            "name": "80-20 ASIAN AMERICAN EMPOWERMENT PAC",
+            "type": "PAC",
+            "amount": 17760
+          },
+          {
+            "name": "MOMSRISING TOGETHER",
+            "type": "PAC",
+            "amount": 15884
+          },
+          {
+            "name": "WORKING AMERICA",
+            "type": "PAC",
+            "amount": 15164
+          },
+          {
+            "name": "ASPIRE PAC",
+            "type": "PAC",
+            "amount": 14500
+          },
+          {
+            "name": "UNITE HERE LOCAL 11 PAC",
+            "type": "PAC",
+            "amount": 13774
+          },
+          {
+            "name": "FRONTLINE USA",
+            "type": "PAC",
+            "amount": 11600
+          },
+          {
+            "name": "SERVE AMERICA PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DEFEND THE DREAM",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION - PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL NO. 12 VOLUNTARY LEGISLATIVE FUND",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DIGIDEMS PAC",
+            "type": "PAC",
+            "amount": 8300
+          },
+          {
+            "name": "END CITIZENS UNITED",
+            "type": "PAC",
+            "amount": 8300
+          },
+          {
+            "name": "SUNFLOWER SEEDS PAC",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "SWING LEFT",
+            "type": "PAC",
+            "amount": 7675
+          },
+          {
+            "name": "GREAT CHAIN PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "SD PAC",
+            "type": "PAC",
+            "amount": 6700
+          },
+          {
+            "name": "BAN ASSAULT WEAPONS NOW PAC",
+            "type": "PAC",
+            "amount": 6600
+          },
+          {
+            "name": "ELECT DEMS NOW PAC",
+            "type": "PAC",
+            "amount": 6600
+          },
+          {
+            "name": "ELECT MORE DEMOCRATS PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "WOMEN FOR AMERICAN VALUES AND ETHICS POLITICAL ACTION COMMITTEE (A/K/A WAVE PAC)",
+            "type": "PAC",
+            "amount": 5944
+          },
+          {
+            "name": "PROGRESSIVE TURNOUT PROJECT",
+            "type": "PAC",
+            "amount": 5250
+          },
+          {
+            "name": "MOVEON.ORG POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 5079
+          },
+          {
+            "name": "VOTEVETS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 19963069,
+      "individual_contributions": 2161739,
+      "individual_itemized": 2161739,
+      "individual_unitemized": 0,
+      "pac_contributions": 17801330,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "GOOGLE LLC",
+          "type": "Organization",
+          "amount": 16387
+        },
+        {
+          "name": "PANISH, SHEA, BOYLE, ET AL.",
+          "type": "Organization",
+          "amount": 16200
+        },
+        {
+          "name": "APPLE INC",
+          "type": "Organization",
+          "amount": 14200
+        },
+        {
+          "name": "UNIVERSITY OF CALIFORNIA BERKELEY",
+          "type": "Organization",
+          "amount": 13350
+        },
+        {
+          "name": "ALTAIR LAW",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "ARIAS, SANGUINETTI, WANG & TEAM",
+          "type": "Organization",
+          "amount": 11300
+        },
+        {
+          "name": "TAYLOR & RING",
+          "type": "Organization",
+          "amount": 10175
+        },
+        {
+          "name": "TAYLOR RING",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "ATLAS SETTLEMENT GROUP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "SEBER BULGER LAW, LLP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "CALIFORNIA WASTE SOLUTIONS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "THE VARTAZARIAN LAW FIRM",
+          "type": "Organization",
+          "amount": 9600
+        },
+        {
+          "name": "BD&J, PC",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "SHERIF EDMOND EL DABE",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "THE OMOFOMA LAW FIRM",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "MILLION DOLLAR BABY",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "STATE OF CALIFORNIA",
+          "type": "Organization",
+          "amount": 8717
+        },
+        {
+          "name": "DORDICK LAW CORPORATION",
+          "type": "Organization",
+          "amount": 8600
+        },
+        {
+          "name": "SINGLETON SCHREIBER, LLP",
+          "type": "Organization",
+          "amount": 8350
+        },
+        {
+          "name": "RIZIO LIPINSKY LAW FIRM, PC",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "DESANTIS LEGAL",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "AARONS WARD",
+          "type": "Organization",
+          "amount": 6800
+        },
+        {
+          "name": "PHILLIP NGHIEM",
+          "type": "Organization",
+          "amount": 6800
+        },
+        {
+          "name": "ART ADVISORS LLC",
+          "type": "Organization",
+          "amount": 6692
+        },
+        {
+          "name": "COVE HILL PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AITKEN, CAMPBELL, HEIKAUS, ET AL.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SAVIN BURSK LAW",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "IQ RISK INSURANCE SERVICES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARDALAN & ASSOCIATES, APLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ACTS LAW FIRM",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KAZEROUNI LAW GROUP APC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SIMON LAW GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE HOMAMPOUR LAW FIRM",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NICOLE NGUYEN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JANE STREET",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SHAYNA DAVIS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MASS GENERAL HOSPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CARRAZCO LAW",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ALSOP LOUIE PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "OAKTREE CAPITAL MGMT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KNIGHT LAW GROUP",
+          "type": "Organization",
+          "amount": 6534
+        },
+        {
+          "name": "KAISER PERMANENTE",
+          "type": "Organization",
+          "amount": 6161
+        },
+        {
+          "name": "BENTLEY & MORE, LLP",
+          "type": "Organization",
+          "amount": 6150
+        },
+        {
+          "name": "WILSHIRE LAW FIRM",
+          "type": "Organization",
+          "amount": 6050
+        },
+        {
+          "name": "ACTS LAW",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "RINGLER",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "ERNST LAW GROUP",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "LYNN FULLER",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "ROGER A. DREYER",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "DORDICK LAW",
+          "type": "Organization",
+          "amount": 5300
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "CONGRESSIONAL LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 11363818
+        },
+        {
+          "name": "HMP",
+          "type": "PAC",
+          "amount": 1909514
+        },
+        {
+          "name": "LCV VICTORY FUND",
+          "type": "PAC",
+          "amount": 968995
+        },
+        {
+          "name": "AMERICA PAC",
+          "type": "PAC",
+          "amount": 553380
+        },
+        {
+          "name": "CHISPA PAC, SPONSORED BY CHISPA, A PROJECT OF TIDES ADVOCACY.",
+          "type": "PAC",
+          "amount": 342914
+        },
+        {
+          "name": "DEFENDING MAIN STREET SUPERPAC INC.",
+          "type": "PAC",
+          "amount": 300000
+        },
+        {
+          "name": "FOR OUR FREEDOM",
+          "type": "PAC",
+          "amount": 268074
+        },
+        {
+          "name": "ORANGE COUNTY PAC",
+          "type": "PAC",
+          "amount": 244911
+        },
+        {
+          "name": "WORKER POWER PAC",
+          "type": "PAC",
+          "amount": 209853
+        },
+        {
+          "name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
+          "type": "PAC",
+          "amount": 206184
+        },
+        {
+          "name": "DCCC",
+          "type": "PAC",
+          "amount": 189787
+        },
+        {
+          "name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+          "type": "PAC",
+          "amount": 155819
+        },
+        {
+          "name": "AFSCME WORKING FAMILIES FUND",
+          "type": "PAC",
+          "amount": 89499
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 46532
+        },
+        {
+          "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+          "type": "PAC",
+          "amount": 41289
+        },
+        {
+          "name": "JSTREETPAC",
+          "type": "PAC",
+          "amount": 40359
+        },
+        {
+          "name": "MAJORITY PAC",
+          "type": "PAC",
+          "amount": 36497
+        },
+        {
+          "name": "SOUTHERN CALIF4NIA VICTORY FUND",
+          "type": "PAC",
+          "amount": 32453
+        },
+        {
+          "name": "NEW DEMOCRAT COALITION ACTION FUND",
+          "type": "PAC",
+          "amount": 19000
+        },
+        {
+          "name": "BATTLEGROUND CALIFORNIA",
+          "type": "PAC",
+          "amount": 18422
+        },
+        {
+          "name": "PIVOT VICTORY FUND",
+          "type": "PAC",
+          "amount": 18043
+        },
+        {
+          "name": "80-20 ASIAN AMERICAN EMPOWERMENT PAC",
+          "type": "PAC",
+          "amount": 17760
+        },
+        {
+          "name": "MOMSRISING TOGETHER",
+          "type": "PAC",
+          "amount": 15884
+        },
+        {
+          "name": "WORKING AMERICA",
+          "type": "PAC",
+          "amount": 15164
+        },
+        {
+          "name": "ASPIRE PAC",
+          "type": "PAC",
+          "amount": 14500
+        },
+        {
+          "name": "UNITE HERE LOCAL 11 PAC",
+          "type": "PAC",
+          "amount": 13774
+        },
+        {
+          "name": "FRONTLINE USA",
+          "type": "PAC",
+          "amount": 11600
+        },
+        {
+          "name": "SERVE AMERICA PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DEFEND THE DREAM",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION - PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL NO. 12 VOLUNTARY LEGISLATIVE FUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DIGIDEMS PAC",
+          "type": "PAC",
+          "amount": 8300
+        },
+        {
+          "name": "END CITIZENS UNITED",
+          "type": "PAC",
+          "amount": 8300
+        },
+        {
+          "name": "SUNFLOWER SEEDS PAC",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "SWING LEFT",
+          "type": "PAC",
+          "amount": 7675
+        },
+        {
+          "name": "GREAT CHAIN PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "SD PAC",
+          "type": "PAC",
+          "amount": 6700
+        },
+        {
+          "name": "BAN ASSAULT WEAPONS NOW PAC",
+          "type": "PAC",
+          "amount": 6600
+        },
+        {
+          "name": "ELECT DEMS NOW PAC",
+          "type": "PAC",
+          "amount": 6600
+        },
+        {
+          "name": "ELECT MORE DEMOCRATS PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "WOMEN FOR AMERICAN VALUES AND ETHICS POLITICAL ACTION COMMITTEE (A/K/A WAVE PAC)",
+          "type": "PAC",
+          "amount": 5944
+        },
+        {
+          "name": "PROGRESSIVE TURNOUT PROJECT",
+          "type": "PAC",
+          "amount": 5250
+        },
+        {
+          "name": "MOVEON.ORG POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 5079
+        },
+        {
+          "name": "VOTEVETS",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 5000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 72,
-    "total_votes_scored": 44,
+    "overall_pct": 63,
+    "total_votes_scored": 12,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Born-Alive Abortion Survivors Protection Act",
-        "bill": "HR21",
-        "date": "2025-01-23",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
-        "donor_category": "Reproductive rights groups",
-        "donor_expected": "Nay on Born-Alive Abortion Survivors Protection Act"
-      },
-      {
-        "vote_description": "Protect Children\u2019s Innocence Act",
-        "bill": "HR3492",
-        "date": "2025-12-17",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
-        "donor_category": "Gun control advocates",
-        "donor_expected": "Nay on Protect Children\u2019s Innocence Act"
-      },
-      {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AFSCME WORKING FAMILIES FUND",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "District of Columbia Cash Bail Reform Act",
-        "bill": "HR5214",
-        "date": "2025-11-19",
-        "member_voted": "Yea",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
+        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
-        "donor_category": "Gun control advocates",
-        "donor_expected": "Nay on District of Columbia Cash Bail Reform Act"
-      },
-      {
-        "vote_description": "TRACE Act",
-        "bill": "HR1049",
-        "date": "2025-12-04",
-        "member_voted": "Yea",
-        "aligned": false,
-        "donor_name": "AFSCME WORKING FAMILIES FUND",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on TRACE Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
+    "issues_scored": 5,
     "against_electorate_pct": 0,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 69.1,
-        "margin_of_error": 7,
+        "district_support_pct": 66.8,
+        "margin_of_error": 9.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 63.6,
-        "margin_of_error": 7,
+        "district_support_pct": 59.4,
+        "margin_of_error": 8.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 71.5,
-        "margin_of_error": 7,
+        "district_support_pct": 70.1,
+        "margin_of_error": 7.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 70.6,
-        "margin_of_error": 7,
+        "district_support_pct": 68.7,
+        "margin_of_error": 7.0,
         "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 38.6,
+        "margin_of_error": 8.0,
+        "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       }

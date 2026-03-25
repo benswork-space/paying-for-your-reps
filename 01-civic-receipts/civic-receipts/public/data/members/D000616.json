@@ -880,112 +880,141 @@
     ]
   },
   "donor_alignment": {
-    "overall_pct": 95,
-    "total_votes_scored": 55,
+    "overall_pct": 92,
+    "total_votes_scored": 24,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
+      {
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
+      },
+      {
+        "vote_description": "Choice in Automobile Retail Sales Act",
+        "bill": "HR4468",
+        "date": "2023-12-06",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Auto industry",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Choice in Automobile Retail Sales Act (CARS Act) \u2014 blocks EPA from finalizing rules that would effectively ban gas-powered vehicles. Auto dealers' top legislative priority as it preserves the gas vehicle market."
+      },
       {
         "vote_description": "Whole Milk for Healthy Kids Act",
         "bill": "HR1147",
         "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL BEER WHOLESALERS ASSN PAC",
         "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Whole Milk for Healthy Kids Act \u2014 allows schools to offer whole-fat milk and flavored milk, supported by the dairy industry and National Dairy Council as it increases school milk sales."
       },
       {
-        "vote_description": "Protect Children\u2019s Innocence Act",
-        "bill": "HR3492",
-        "date": "2025-12-17",
-        "member_voted": "Yea",
+        "vote_description": "To designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the \u201cJoseph Woodrow Hatchett United States Courthouse and Federal Building\u201d",
+        "bill": "S2938",
+        "date": "2022-05-18",
+        "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "NATIONAL RIFLE ASSOCIATION",
         "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Bipartisan Safer Communities Act \u2014 NRA opposed this as it enhances background checks for under-21 buyers, funds state red flag laws, and closes the boyfriend loophole. NRA lobbied against passage."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "Meat and Poultry Special Investigator Act",
-        "bill": "HR7606",
-        "date": "2022-06-16",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "NATIONAL BEER WHOLESALERS ASSN PAC",
-        "donor_category": "Agriculture industry",
-        "donor_expected": "Nay on Meat and Poultry Special Investigator Act"
-      },
-      {
-        "vote_description": "Pregnant Women in Custody Act",
-        "bill": "HR6878",
-        "date": "2022-12-01",
+        "vote_description": "Israel Security Supplemental Appropriations Act, 2024",
+        "bill": "HR8034",
+        "date": "2024-04-20",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "NATIONAL RIFLE ASSOCIATION",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Pregnant Women in Custody Act"
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Supplemental Appropriations Act 2024 \u2014 $14.3B in military aid to Israel including Iron Dome replenishment. AIPAC's top legislative priority."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 50,
+    "issues_scored": 9,
+    "against_electorate_pct": 44,
     "highlights": [
       {
-        "issue": "Ban on assault-style weapons",
-        "district_support_pct": 51.5,
-        "margin_of_error": 7,
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 84.3,
+        "margin_of_error": 5.6,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 50.0,
+        "margin_of_error": 8.2,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 46.7,
-        "margin_of_error": 7,
+        "district_support_pct": 46.1,
+        "margin_of_error": 9.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 23.9,
-        "margin_of_error": 7,
+        "district_support_pct": 24.9,
+        "margin_of_error": 6.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 46.7,
-        "margin_of_error": 7,
+        "district_support_pct": 45.8,
+        "margin_of_error": 7.2,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 57.6,
-        "margin_of_error": 7,
+        "district_support_pct": 57.2,
+        "margin_of_error": 8.1,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 54.6,
+        "margin_of_error": 7.3,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 56.3,
+        "margin_of_error": 7.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
-        "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 55.2,
-        "margin_of_error": 7,
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 53.2,
+        "margin_of_error": 7.6,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": false,
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

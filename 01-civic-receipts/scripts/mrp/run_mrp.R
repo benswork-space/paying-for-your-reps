@@ -130,19 +130,29 @@ df <- df %>%
 cat(sprintf("After cleaning: %d respondents across %d districts\n",
             nrow(df), length(unique(df$cd_clean))))
 
-# --- Build poststratification table from the data itself ---
-# Ideally we'd use ACS data, but for V1 we use the survey's own
-# weighted demographics as a proxy. This is less precise but avoids
-# needing to download and process Census microdata.
-cat("Building poststratification cells...\n")
+# --- Load ACS poststratification table ---
+# Uses actual Census population data (ACS 5-year estimates) instead of
+# survey respondent demographics. This corrects for selection bias in
+# the CES sample (over-representation of college-educated, urban, etc.).
+# Run fetch_acs.py first to generate the CSV.
+ACS_FILE <- file.path(DATA_DIR, "acs_district_demographics.csv")
+if (!file.exists(ACS_FILE)) {
+  stop("ACS demographics file not found. Run: python3 scripts/mrp/fetch_acs.py")
+}
 
-# Create all demographic cells per district
-ps_table <- df %>%
-  group_by(cd_clean, state_f, female, age_bin, educ_bin, race_bin) %>%
-  summarise(n_cell = n(), .groups = "drop") %>%
-  # Weight by cell size (proxy for population)
+cat("Loading ACS poststratification table...\n")
+ps_table <- read_csv(ACS_FILE, show_col_types = FALSE) %>%
+  mutate(
+    female = as.integer(female),
+    age_bin = as.character(age_bin),
+    educ_bin = as.character(educ_bin),
+    race_bin = as.character(race_bin),
+    # Extract state abbreviation for the state random effect
+    state_f = as.factor(sub("-.*", "", cd_clean))
+  ) %>%
+  filter(population > 0) %>%
   group_by(cd_clean) %>%
-  mutate(cell_weight = n_cell / sum(n_cell)) %>%
+  mutate(cell_weight = population / sum(population)) %>%
   ungroup()
 
 cat(sprintf("Poststratification table: %d cells across %d districts\n",
@@ -181,9 +191,12 @@ for (q_name in names(QUESTIONS)) {
 
     cat("  Model fitted successfully\n")
 
-    # Predict for each poststratification cell
-    ps_table$pred_prob <- predict(model, newdata = ps_table, type = "response",
-                                  allow.new.levels = TRUE)
+    # Predict for each poststratification cell (with standard errors)
+    pred <- predict(model, newdata = ps_table, type = "link",
+                    allow.new.levels = TRUE, se.fit = TRUE)
+    # Convert from logit scale to probability
+    ps_table$pred_prob <- plogis(pred$fit)
+    ps_table$pred_se <- pred$se.fit * ps_table$pred_prob * (1 - ps_table$pred_prob)  # delta method
 
     # Aggregate to district level (weighted by cell size)
     district_est <- ps_table %>%
@@ -191,14 +204,17 @@ for (q_name in names(QUESTIONS)) {
       group_by(cd_clean) %>%
       summarise(
         support_pct = round(weighted.mean(pred_prob, cell_weight, na.rm = TRUE) * 100, 1),
+        # Margin of error: pooled SE across cells, scaled to percentage points (95% CI)
+        margin_of_error = round(1.96 * sqrt(weighted.mean(pred_se^2, cell_weight, na.rm = TRUE)) * 100, 1),
         n_cells = n(),
         .groups = "drop"
       ) %>%
       mutate(
+        # Floor at 3, cap at 12 for reasonable display
+        margin_of_error = pmin(pmax(margin_of_error, 3), 12),
         question = q_name,
         label = q_info$label,
-        topic = q_info$topic,
-        margin_of_error = 7  # Conservative estimate for MRP at CD level
+        topic = q_info$topic
       )
 
     results <- bind_rows(results, district_est)

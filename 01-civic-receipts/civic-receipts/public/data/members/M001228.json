@@ -11,33 +11,1076 @@
   "years_in_office": 3,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1735650,
+    "campaign_raised": 1735650,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 599343,
+        "donors": [
+          {
+            "name": "PRIMARY CARE PROGRESS",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "TWENTY AND CREEK",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "MARCUS G. FAUST, PC",
+            "type": "Organization",
+            "amount": 11900
+          },
+          {
+            "name": "DUTKO GOVERNMENT AFFAIRS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "ALLEGIANCE STRATEGIES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "ARNOLD VENTURES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "DORSEY WHITNEY",
+            "type": "Organization",
+            "amount": 9800
+          },
+          {
+            "name": "ALLEGIANCE STRATEGIES, LLC",
+            "type": "Organization",
+            "amount": 9600
+          },
+          {
+            "name": "THE MAJORITY GROUP",
+            "type": "Organization",
+            "amount": 8100
+          },
+          {
+            "name": "UNIVERSITY OF UTAH",
+            "type": "Organization",
+            "amount": 7250
+          },
+          {
+            "name": "UTAH CREDIT UNION ASSOCIATION",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "SINCLAIR OIL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE REAGAN COMPANIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SMALL BUSINESS CONSULTING CORPORATAION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MONTE HOLM & ASSOCIATES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CLEARPATH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "STRATA PRODUCTION COMPANY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "EXAMITY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "STUKENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ROBERTS INTERNATIONAL AGRICULTURAL",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "FIERCE GOVERNMENT RELATIONS",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "JEFFREY J. KIMBELL & ASSOCIATES",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "MARCUS G. FAUST P.C.",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "LINDSKOV LT RANCH",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "DEVELOPMENT SOLUTIONS GROUP, INC.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SOUTHERN UTAH TITLE",
+            "type": "Organization",
+            "amount": 4800
+          },
+          {
+            "name": "UNITED STATES SENATE",
+            "type": "Organization",
+            "amount": 4551
+          },
+          {
+            "name": "ATS COMMUNICATIONS, INC.",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "AMERICA FIRST CREDIT UNION",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "STEPHEN WADE AUTO CENTER",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "SUMMIT RECOMMERCE GROUP",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "HURRICANE FAMILY PHARMACY",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "MCDONALD'S",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "ZIONS BANCORPORATION",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "JT STEEL INC",
+            "type": "Organization",
+            "amount": 4250
+          },
+          {
+            "name": "UTAH INDEPENDENT BANK",
+            "type": "Organization",
+            "amount": 4100
+          },
+          {
+            "name": "BULLOCH'S DRUG STORE",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "ROUTE ONE INVESTMENT COMPANY, LP",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "CLYDE COMPANIES",
+            "type": "Organization",
+            "amount": 3800
+          },
+          {
+            "name": "ZIONS BANK",
+            "type": "Organization",
+            "amount": 3550
+          },
+          {
+            "name": "GARFIELD COUNTY",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "THE MCKEON GROUP",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "MERIDIAN HILL STRATEGIES",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "STATE OF UTAH",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "BOUNDARY STONE PARTNERS",
+            "type": "Organization",
+            "amount": 3330
+          },
+          {
+            "name": "MCMAHON VENTURES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CHARLES SCHWAB CORPORATION",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CUMBERLAND DEV.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "WIFE",
+            "type": "Organization",
+            "amount": 3300
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 1136307,
+        "donors": [
+          {
+            "name": "DUTY SERVICE HONOR",
+            "type": "PAC",
+            "amount": 69946
+          },
+          {
+            "name": "ALL IN FOR UTAH",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 27500
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 27000
+          },
+          {
+            "name": "E-PAC",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "AMERICAN UNITY PAC INC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "FIRST IN FREEDOM PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "TO FORM A MORE PERFECT UNION",
+            "type": "PAC",
+            "amount": 19000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 16760
+          },
+          {
+            "name": "SOCK IT TO 'EM PAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "DELTA AIR LINES PAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "type": "PAC",
+            "amount": 13500
+          },
+          {
+            "name": "GREEN BERET POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12547
+          },
+          {
+            "name": "NATIONAL TELECOMMUNICATIONS COOPERATIVE ASSOCIATION RURAL BROADBAND PAC",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "type": "PAC",
+            "amount": 12000
+          },
+          {
+            "name": "ENGINEERING AND SOFTWARE SYSTEMS SOLUTIONS, INC. PAC",
+            "type": "PAC",
+            "amount": 11000
+          },
+          {
+            "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "OVINTIV USA INC. PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "type": "PAC",
+            "amount": 9500
+          },
+          {
+            "name": "1-800 CONTACTS, INC. PAC",
+            "type": "PAC",
+            "amount": 9500
+          },
+          {
+            "name": "SCALISE FOR CONGRESS",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "CONSTITUTIONAL CONSERVATIVES FUND",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "WESTERN ENERGY ALLIANCE PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "PACIFICORP - PACIFIC POWER/ROCKY MOUNTAIN POWER PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "RAPTOR PAC",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "CMR POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "CONSERVATIVE OPPORTUNITY LEADERSHIP AND ENTERPRISE PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "WFW ACTION FUND, INC.",
+            "type": "PAC",
+            "amount": 5800
+          },
+          {
+            "name": "FREEDOM 21: FIGHTING FOR FREEDOM IN THE 21ST CENTURY",
+            "type": "PAC",
+            "amount": 5800
+          },
+          {
+            "name": "EMMER FOR CONGRESS",
+            "type": "PAC",
+            "amount": 5640
+          },
+          {
+            "name": "DEFENDING MAIN STREET SUPERPAC INC.",
+            "type": "PAC",
+            "amount": 5626
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 1735650,
+      "individual_contributions": 599343,
+      "individual_itemized": 599343,
+      "individual_unitemized": 0,
+      "pac_contributions": 1136307,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "PRIMARY CARE PROGRESS",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "TWENTY AND CREEK",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "MARCUS G. FAUST, PC",
+          "type": "Organization",
+          "amount": 11900
+        },
+        {
+          "name": "DUTKO GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "ALLEGIANCE STRATEGIES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "ARNOLD VENTURES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "DORSEY WHITNEY",
+          "type": "Organization",
+          "amount": 9800
+        },
+        {
+          "name": "ALLEGIANCE STRATEGIES, LLC",
+          "type": "Organization",
+          "amount": 9600
+        },
+        {
+          "name": "THE MAJORITY GROUP",
+          "type": "Organization",
+          "amount": 8100
+        },
+        {
+          "name": "UNIVERSITY OF UTAH",
+          "type": "Organization",
+          "amount": 7250
+        },
+        {
+          "name": "UTAH CREDIT UNION ASSOCIATION",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "SINCLAIR OIL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE REAGAN COMPANIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SMALL BUSINESS CONSULTING CORPORATAION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MONTE HOLM & ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CLEARPATH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STRATA PRODUCTION COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "EXAMITY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STUKENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ROBERTS INTERNATIONAL AGRICULTURAL",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "FIERCE GOVERNMENT RELATIONS",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "JEFFREY J. KIMBELL & ASSOCIATES",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "MARCUS G. FAUST P.C.",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "LINDSKOV LT RANCH",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "DEVELOPMENT SOLUTIONS GROUP, INC.",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "SOUTHERN UTAH TITLE",
+          "type": "Organization",
+          "amount": 4800
+        },
+        {
+          "name": "UNITED STATES SENATE",
+          "type": "Organization",
+          "amount": 4551
+        },
+        {
+          "name": "ATS COMMUNICATIONS, INC.",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "AMERICA FIRST CREDIT UNION",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "STEPHEN WADE AUTO CENTER",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "SUMMIT RECOMMERCE GROUP",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "HURRICANE FAMILY PHARMACY",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "MCDONALD'S",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "ZIONS BANCORPORATION",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "JT STEEL INC",
+          "type": "Organization",
+          "amount": 4250
+        },
+        {
+          "name": "UTAH INDEPENDENT BANK",
+          "type": "Organization",
+          "amount": 4100
+        },
+        {
+          "name": "BULLOCH'S DRUG STORE",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "ROUTE ONE INVESTMENT COMPANY, LP",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "CLYDE COMPANIES",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "ZIONS BANK",
+          "type": "Organization",
+          "amount": 3550
+        },
+        {
+          "name": "GARFIELD COUNTY",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "THE MCKEON GROUP",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "MERIDIAN HILL STRATEGIES",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "STATE OF UTAH",
+          "type": "Organization",
+          "amount": 3400
+        },
+        {
+          "name": "BOUNDARY STONE PARTNERS",
+          "type": "Organization",
+          "amount": 3330
+        },
+        {
+          "name": "MCMAHON VENTURES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CHARLES SCHWAB CORPORATION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CUMBERLAND DEV.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "WIFE",
+          "type": "Organization",
+          "amount": 3300
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "DUTY SERVICE HONOR",
+          "type": "PAC",
+          "amount": 69946
+        },
+        {
+          "name": "ALL IN FOR UTAH",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 35000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 27500
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 27000
+        },
+        {
+          "name": "E-PAC",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "AMERICAN UNITY PAC INC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "FIRST IN FREEDOM PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "TO FORM A MORE PERFECT UNION",
+          "type": "PAC",
+          "amount": 19000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 16760
+        },
+        {
+          "name": "SOCK IT TO 'EM PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "DELTA AIR LINES PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+          "type": "PAC",
+          "amount": 13500
+        },
+        {
+          "name": "GREEN BERET POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12547
+        },
+        {
+          "name": "NATIONAL TELECOMMUNICATIONS COOPERATIVE ASSOCIATION RURAL BROADBAND PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "ENGINEERING AND SOFTWARE SYSTEMS SOLUTIONS, INC. PAC",
+          "type": "PAC",
+          "amount": 11000
+        },
+        {
+          "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "OVINTIV USA INC. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+          "type": "PAC",
+          "amount": 9500
+        },
+        {
+          "name": "1-800 CONTACTS, INC. PAC",
+          "type": "PAC",
+          "amount": 9500
+        },
+        {
+          "name": "SCALISE FOR CONGRESS",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "CONSTITUTIONAL CONSERVATIVES FUND",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "WESTERN ENERGY ALLIANCE PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "PACIFICORP - PACIFIC POWER/ROCKY MOUNTAIN POWER PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "RAPTOR PAC",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "CMR POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "CONSERVATIVE OPPORTUNITY LEADERSHIP AND ENTERPRISE PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "WFW ACTION FUND, INC.",
+          "type": "PAC",
+          "amount": 5800
+        },
+        {
+          "name": "FREEDOM 21: FIGHTING FOR FREEDOM IN THE 21ST CENTURY",
+          "type": "PAC",
+          "amount": 5800
+        },
+        {
+          "name": "EMMER FOR CONGRESS",
+          "type": "PAC",
+          "amount": 5640
+        },
+        {
+          "name": "DEFENDING MAIN STREET SUPERPAC INC.",
+          "type": "PAC",
+          "amount": 5626
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 94,
-    "total_votes_scored": 106,
+    "overall_pct": 91,
+    "total_votes_scored": 49,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
-        "donor_category": "Labor unions",
-        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       },
       {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
-        "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "End Chinese Dominance of Electric Vehicles in America Act",
+        "bill": "HR7980",
+        "date": "2024-09-12",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Auto industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "End Chinese Dominance of Electric Vehicles in America Act \u2014 restricts EV tax credits for Chinese-connected vehicles. Auto dealers support this as it slows the EV transition that threatens their service revenue model."
       },
       {
         "vote_description": "Whole Milk for Healthy Kids Act",
@@ -45,58 +1088,66 @@
         "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
         "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Whole Milk for Healthy Kids Act \u2014 allows schools to offer whole-fat milk and flavored milk, supported by the dairy industry and National Dairy Council as it increases school milk sales."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
-        "bill": "HR881",
-        "date": "2025-05-07",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Yea",
         "aligned": false,
-        "donor_name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 3,
-    "against_electorate_pct": 67,
+    "issues_scored": 5,
+    "against_electorate_pct": 100,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 52.4,
-        "margin_of_error": 7,
+        "district_support_pct": 51.9,
+        "margin_of_error": 8.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 52.9,
-        "margin_of_error": 7,
+        "district_support_pct": 52.3,
+        "margin_of_error": 6.6,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 57.2,
-        "margin_of_error": 7,
+        "district_support_pct": 57.0,
+        "margin_of_error": 7.5,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 55.9,
+        "margin_of_error": 6.8,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 45.4,
+        "margin_of_error": 7.0,
         "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

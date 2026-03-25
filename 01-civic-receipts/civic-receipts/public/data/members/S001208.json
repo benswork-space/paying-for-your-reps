@@ -11,108 +11,1159 @@
   "years_in_office": 7,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 93180663,
+    "campaign_raised": 93180663,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 10936215,
+        "donors": [
+          {
+            "name": "UNIVERSITY OF MICHIGAN",
+            "type": "Organization",
+            "amount": 170107
+          },
+          {
+            "name": "MICHIGAN STATE UNIVERSITY",
+            "type": "Organization",
+            "amount": 135597
+          },
+          {
+            "name": "GOOGLE LLC",
+            "type": "Organization",
+            "amount": 59578
+          },
+          {
+            "name": "WILMER CUTLER PICKERING HALE AND DORR",
+            "type": "Organization",
+            "amount": 43600
+          },
+          {
+            "name": "APPLE INC",
+            "type": "Organization",
+            "amount": 30973
+          },
+          {
+            "name": "HARVARD UNIVERSITY",
+            "type": "Organization",
+            "amount": 29750
+          },
+          {
+            "name": "META PLATFORMS INC",
+            "type": "Organization",
+            "amount": 28923
+          },
+          {
+            "name": "COLUMBIA UNIVERSITY",
+            "type": "Organization",
+            "amount": 26178
+          },
+          {
+            "name": "GENERAL MOTORS CO",
+            "type": "Organization",
+            "amount": 25042
+          },
+          {
+            "name": "STATE OF MICHIGAN",
+            "type": "Organization",
+            "amount": 23751
+          },
+          {
+            "name": "HENRY FORD HEALTH",
+            "type": "Organization",
+            "amount": 22896
+          },
+          {
+            "name": "FORD MOTOR CO",
+            "type": "Organization",
+            "amount": 22382
+          },
+          {
+            "name": "APOLLO GLOBAL MANAGEMENT INC",
+            "type": "Organization",
+            "amount": 21800
+          },
+          {
+            "name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+            "type": "Organization",
+            "amount": 20618
+          },
+          {
+            "name": "COREWELL HEALTH",
+            "type": "Organization",
+            "amount": 19022
+          },
+          {
+            "name": "UNIVERSITY OF CALIFORNIA",
+            "type": "Organization",
+            "amount": 17596
+          },
+          {
+            "name": "MSU",
+            "type": "Organization",
+            "amount": 16652
+          },
+          {
+            "name": "LOC PERFORMANCE PRODUCTS",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "US DEPARTMENT OF STATE",
+            "type": "Organization",
+            "amount": 16425
+          },
+          {
+            "name": "WAYNE STATE UNIVERSITY",
+            "type": "Organization",
+            "amount": 15625
+          },
+          {
+            "name": "HENRY FORD HEALTH SYSTEM",
+            "type": "Organization",
+            "amount": 15296
+          },
+          {
+            "name": "HONIGMAN LLP",
+            "type": "Organization",
+            "amount": 14700
+          },
+          {
+            "name": "POWER ROGERS PLLC",
+            "type": "Organization",
+            "amount": 14400
+          },
+          {
+            "name": "STEPTOE & JOHNSON LLP",
+            "type": "Organization",
+            "amount": 14200
+          },
+          {
+            "name": "STANFORD UNIVERSITY",
+            "type": "Organization",
+            "amount": 14102
+          },
+          {
+            "name": "DRAGONFLY THERAPEUTICS INC",
+            "type": "Organization",
+            "amount": 13700
+          },
+          {
+            "name": "FEDERAL GOVERNMENT",
+            "type": "Organization",
+            "amount": 13689
+          },
+          {
+            "name": "LINKEDIN",
+            "type": "Organization",
+            "amount": 13542
+          },
+          {
+            "name": "PROSPECT HOTEL ADVISORS",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "JANE STREET CAPITAL LLC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BAD ROBOT",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "Q PRIME INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BAIN CAPITAL",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "NAPIER PARK GLOBAL CAPITAL",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "THE CARLYLE GROUP",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "DE SHAW & COMPANY LP",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "ARES MANAGEMENT CORP",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "SCHUSTERMAN INTERESTS LLC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "US DEPARTMENT OF DEFENSE",
+            "type": "Organization",
+            "amount": 13180
+          },
+          {
+            "name": "MICROSOFT CORP",
+            "type": "Organization",
+            "amount": 13114
+          },
+          {
+            "name": "CORNELL UNIVERSITY",
+            "type": "Organization",
+            "amount": 13108
+          },
+          {
+            "name": "GOLDMAN SACHS",
+            "type": "Organization",
+            "amount": 12805
+          },
+          {
+            "name": "US ENVIRONMENTAL PROTECTION AGENCY",
+            "type": "Organization",
+            "amount": 12745
+          },
+          {
+            "name": "KIRKLAND & ELLIS LLP",
+            "type": "Organization",
+            "amount": 12605
+          },
+          {
+            "name": "AMAZON.COM INC",
+            "type": "Organization",
+            "amount": 12402
+          },
+          {
+            "name": "ORACLE CORP",
+            "type": "Organization",
+            "amount": 12398
+          },
+          {
+            "name": "SULLIVAN & CROMWELL LLP",
+            "type": "Organization",
+            "amount": 12300
+          },
+          {
+            "name": "UNIVERSITY OF CHICAGO",
+            "type": "Organization",
+            "amount": 12133
+          },
+          {
+            "name": "GARDNER-WHITE",
+            "type": "Organization",
+            "amount": 11900
+          },
+          {
+            "name": "KEEFE KEEFE & UNSELL PC",
+            "type": "Organization",
+            "amount": 11700
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 82244448,
+        "donors": [
+          {
+            "name": "SENATE LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 32331382
+          },
+          {
+            "name": "NRSC",
+            "type": "PAC",
+            "amount": 10984391
+          },
+          {
+            "name": "PROTECT PROGRESS",
+            "type": "PAC",
+            "amount": 10046680
+          },
+          {
+            "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+            "type": "PAC",
+            "amount": 6050543
+          },
+          {
+            "name": "GLCF, INC.",
+            "type": "PAC",
+            "amount": 4488560
+          },
+          {
+            "name": "BLACKPAC",
+            "type": "PAC",
+            "amount": 2446750
+          },
+          {
+            "name": "CFFE PAC",
+            "type": "PAC",
+            "amount": 2149300
+          },
+          {
+            "name": "DSCC",
+            "type": "PAC",
+            "amount": 1959000
+          },
+          {
+            "name": "WINSENATE",
+            "type": "PAC",
+            "amount": 1898849
+          },
+          {
+            "name": "LCV VICTORY FUND",
+            "type": "PAC",
+            "amount": 1671970
+          },
+          {
+            "name": "SOMOS PAC",
+            "type": "PAC",
+            "amount": 1172980
+          },
+          {
+            "name": "FC PAC",
+            "type": "PAC",
+            "amount": 1014195
+          },
+          {
+            "name": "FOR OUR FUTURE",
+            "type": "PAC",
+            "amount": 767871
+          },
+          {
+            "name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+            "type": "PAC",
+            "amount": 758001
+          },
+          {
+            "name": "VOTEVETS",
+            "type": "PAC",
+            "amount": 424507
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 405000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+            "type": "PAC",
+            "amount": 310849
+          },
+          {
+            "name": "WORKING AMERICA",
+            "type": "PAC",
+            "amount": 232257
+          },
+          {
+            "name": "MI PLANNED PARENTHOOD VOTES",
+            "type": "PAC",
+            "amount": 206535
+          },
+          {
+            "name": "ALLIANCE FOR YOUTH ACTION",
+            "type": "PAC",
+            "amount": 195301
+          },
+          {
+            "name": "MI PODER PAC",
+            "type": "PAC",
+            "amount": 152500
+          },
+          {
+            "name": "REPRODUCTIVE FREEDOM FOR ALL FREEDOM FUND",
+            "type": "PAC",
+            "amount": 140364
+          },
+          {
+            "name": "ONE FOR ALL COMMITTEE",
+            "type": "PAC",
+            "amount": 123028
+          },
+          {
+            "name": "RED SENATE",
+            "type": "PAC",
+            "amount": 121232
+          },
+          {
+            "name": "MI PODER",
+            "type": "PAC",
+            "amount": 112497
+          },
+          {
+            "name": "JDCA PAC",
+            "type": "PAC",
+            "amount": 96140
+          },
+          {
+            "name": "RJC VICTORY FUND",
+            "type": "PAC",
+            "amount": 78544
+          },
+          {
+            "name": "IN UNION USA",
+            "type": "PAC",
+            "amount": 75205
+          },
+          {
+            "name": "AMERICA FIRST ACTION FUND",
+            "type": "PAC",
+            "amount": 74316
+          },
+          {
+            "name": "MILLIONS OF MICHIGANIANS",
+            "type": "PAC",
+            "amount": 71847
+          },
+          {
+            "name": "SCHIFF(T) THE SENATE",
+            "type": "PAC",
+            "amount": 68500
+          },
+          {
+            "name": "COMMUNITY CHANGE VOTERS",
+            "type": "PAC",
+            "amount": 68206
+          },
+          {
+            "name": "PLANNED PARENTHOOD VOTES",
+            "type": "PAC",
+            "amount": 59719
+          },
+          {
+            "name": "GREAT OPPORTUNITY PAC, INC.",
+            "type": "PAC",
+            "amount": 52500
+          },
+          {
+            "name": "CLEAN WAVE",
+            "type": "PAC",
+            "amount": 50995
+          },
+          {
+            "name": "NATIONAL WOMEN''S LAW CENTER ACTION FUND",
+            "type": "PAC",
+            "amount": 44114
+          },
+          {
+            "name": "CENTER FORWARD COMMITTEE",
+            "type": "PAC",
+            "amount": 40000
+          },
+          {
+            "name": "IN UNION USA ACTION",
+            "type": "PAC",
+            "amount": 36856
+          },
+          {
+            "name": "VALOR AMERICA",
+            "type": "PAC",
+            "amount": 33334
+          },
+          {
+            "name": "FAB FOUR FOR SENATE",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+            "type": "PAC",
+            "amount": 17630
+          },
+          {
+            "name": "END CITIZENS UNITED",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "UNITED WE CAN",
+            "type": "PAC",
+            "amount": 14630
+          },
+          {
+            "name": "FRONTLINE USA",
+            "type": "PAC",
+            "amount": 13300
+          },
+          {
+            "name": "MICHIGAN PEOPLES CHOICE",
+            "type": "PAC",
+            "amount": 12535
+          },
+          {
+            "name": "VOTEBLUE",
+            "type": "PAC",
+            "amount": 12450
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 93180663,
+      "individual_contributions": 10936215,
+      "individual_itemized": 10936215,
+      "individual_unitemized": 0,
+      "pac_contributions": 82244448,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "UNIVERSITY OF MICHIGAN",
+          "type": "Organization",
+          "amount": 170107
+        },
+        {
+          "name": "MICHIGAN STATE UNIVERSITY",
+          "type": "Organization",
+          "amount": 135597
+        },
+        {
+          "name": "GOOGLE LLC",
+          "type": "Organization",
+          "amount": 59578
+        },
+        {
+          "name": "WILMER CUTLER PICKERING HALE AND DORR",
+          "type": "Organization",
+          "amount": 43600
+        },
+        {
+          "name": "APPLE INC",
+          "type": "Organization",
+          "amount": 30973
+        },
+        {
+          "name": "HARVARD UNIVERSITY",
+          "type": "Organization",
+          "amount": 29750
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "type": "Organization",
+          "amount": 28923
+        },
+        {
+          "name": "COLUMBIA UNIVERSITY",
+          "type": "Organization",
+          "amount": 26178
+        },
+        {
+          "name": "GENERAL MOTORS CO",
+          "type": "Organization",
+          "amount": 25042
+        },
+        {
+          "name": "STATE OF MICHIGAN",
+          "type": "Organization",
+          "amount": 23751
+        },
+        {
+          "name": "HENRY FORD HEALTH",
+          "type": "Organization",
+          "amount": 22896
+        },
+        {
+          "name": "FORD MOTOR CO",
+          "type": "Organization",
+          "amount": 22382
+        },
+        {
+          "name": "APOLLO GLOBAL MANAGEMENT INC",
+          "type": "Organization",
+          "amount": 21800
+        },
+        {
+          "name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+          "type": "Organization",
+          "amount": 20618
+        },
+        {
+          "name": "COREWELL HEALTH",
+          "type": "Organization",
+          "amount": 19022
+        },
+        {
+          "name": "UNIVERSITY OF CALIFORNIA",
+          "type": "Organization",
+          "amount": 17596
+        },
+        {
+          "name": "MSU",
+          "type": "Organization",
+          "amount": 16652
+        },
+        {
+          "name": "LOC PERFORMANCE PRODUCTS",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "US DEPARTMENT OF STATE",
+          "type": "Organization",
+          "amount": 16425
+        },
+        {
+          "name": "WAYNE STATE UNIVERSITY",
+          "type": "Organization",
+          "amount": 15625
+        },
+        {
+          "name": "HENRY FORD HEALTH SYSTEM",
+          "type": "Organization",
+          "amount": 15296
+        },
+        {
+          "name": "HONIGMAN LLP",
+          "type": "Organization",
+          "amount": 14700
+        },
+        {
+          "name": "POWER ROGERS PLLC",
+          "type": "Organization",
+          "amount": 14400
+        },
+        {
+          "name": "STEPTOE & JOHNSON LLP",
+          "type": "Organization",
+          "amount": 14200
+        },
+        {
+          "name": "STANFORD UNIVERSITY",
+          "type": "Organization",
+          "amount": 14102
+        },
+        {
+          "name": "DRAGONFLY THERAPEUTICS INC",
+          "type": "Organization",
+          "amount": 13700
+        },
+        {
+          "name": "FEDERAL GOVERNMENT",
+          "type": "Organization",
+          "amount": 13689
+        },
+        {
+          "name": "LINKEDIN",
+          "type": "Organization",
+          "amount": 13542
+        },
+        {
+          "name": "PROSPECT HOTEL ADVISORS",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "JANE STREET CAPITAL LLC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BAD ROBOT",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "Q PRIME INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BAIN CAPITAL",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "NAPIER PARK GLOBAL CAPITAL",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "THE CARLYLE GROUP",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "DE SHAW & COMPANY LP",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "ARES MANAGEMENT CORP",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "SCHUSTERMAN INTERESTS LLC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "US DEPARTMENT OF DEFENSE",
+          "type": "Organization",
+          "amount": 13180
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "type": "Organization",
+          "amount": 13114
+        },
+        {
+          "name": "CORNELL UNIVERSITY",
+          "type": "Organization",
+          "amount": 13108
+        },
+        {
+          "name": "GOLDMAN SACHS",
+          "type": "Organization",
+          "amount": 12805
+        },
+        {
+          "name": "US ENVIRONMENTAL PROTECTION AGENCY",
+          "type": "Organization",
+          "amount": 12745
+        },
+        {
+          "name": "KIRKLAND & ELLIS LLP",
+          "type": "Organization",
+          "amount": 12605
+        },
+        {
+          "name": "AMAZON.COM INC",
+          "type": "Organization",
+          "amount": 12402
+        },
+        {
+          "name": "ORACLE CORP",
+          "type": "Organization",
+          "amount": 12398
+        },
+        {
+          "name": "SULLIVAN & CROMWELL LLP",
+          "type": "Organization",
+          "amount": 12300
+        },
+        {
+          "name": "UNIVERSITY OF CHICAGO",
+          "type": "Organization",
+          "amount": 12133
+        },
+        {
+          "name": "GARDNER-WHITE",
+          "type": "Organization",
+          "amount": 11900
+        },
+        {
+          "name": "KEEFE KEEFE & UNSELL PC",
+          "type": "Organization",
+          "amount": 11700
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "SENATE LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 32331382
+        },
+        {
+          "name": "NRSC",
+          "type": "PAC",
+          "amount": 10984391
+        },
+        {
+          "name": "PROTECT PROGRESS",
+          "type": "PAC",
+          "amount": 10046680
+        },
+        {
+          "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+          "type": "PAC",
+          "amount": 6050543
+        },
+        {
+          "name": "GLCF, INC.",
+          "type": "PAC",
+          "amount": 4488560
+        },
+        {
+          "name": "BLACKPAC",
+          "type": "PAC",
+          "amount": 2446750
+        },
+        {
+          "name": "CFFE PAC",
+          "type": "PAC",
+          "amount": 2149300
+        },
+        {
+          "name": "DSCC",
+          "type": "PAC",
+          "amount": 1959000
+        },
+        {
+          "name": "WINSENATE",
+          "type": "PAC",
+          "amount": 1898849
+        },
+        {
+          "name": "LCV VICTORY FUND",
+          "type": "PAC",
+          "amount": 1671970
+        },
+        {
+          "name": "SOMOS PAC",
+          "type": "PAC",
+          "amount": 1172980
+        },
+        {
+          "name": "FC PAC",
+          "type": "PAC",
+          "amount": 1014195
+        },
+        {
+          "name": "FOR OUR FUTURE",
+          "type": "PAC",
+          "amount": 767871
+        },
+        {
+          "name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+          "type": "PAC",
+          "amount": 758001
+        },
+        {
+          "name": "VOTEVETS",
+          "type": "PAC",
+          "amount": 424507
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 405000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+          "type": "PAC",
+          "amount": 310849
+        },
+        {
+          "name": "WORKING AMERICA",
+          "type": "PAC",
+          "amount": 232257
+        },
+        {
+          "name": "MI PLANNED PARENTHOOD VOTES",
+          "type": "PAC",
+          "amount": 206535
+        },
+        {
+          "name": "ALLIANCE FOR YOUTH ACTION",
+          "type": "PAC",
+          "amount": 195301
+        },
+        {
+          "name": "MI PODER PAC",
+          "type": "PAC",
+          "amount": 152500
+        },
+        {
+          "name": "REPRODUCTIVE FREEDOM FOR ALL FREEDOM FUND",
+          "type": "PAC",
+          "amount": 140364
+        },
+        {
+          "name": "ONE FOR ALL COMMITTEE",
+          "type": "PAC",
+          "amount": 123028
+        },
+        {
+          "name": "RED SENATE",
+          "type": "PAC",
+          "amount": 121232
+        },
+        {
+          "name": "MI PODER",
+          "type": "PAC",
+          "amount": 112497
+        },
+        {
+          "name": "JDCA PAC",
+          "type": "PAC",
+          "amount": 96140
+        },
+        {
+          "name": "RJC VICTORY FUND",
+          "type": "PAC",
+          "amount": 78544
+        },
+        {
+          "name": "IN UNION USA",
+          "type": "PAC",
+          "amount": 75205
+        },
+        {
+          "name": "AMERICA FIRST ACTION FUND",
+          "type": "PAC",
+          "amount": 74316
+        },
+        {
+          "name": "MILLIONS OF MICHIGANIANS",
+          "type": "PAC",
+          "amount": 71847
+        },
+        {
+          "name": "SCHIFF(T) THE SENATE",
+          "type": "PAC",
+          "amount": 68500
+        },
+        {
+          "name": "COMMUNITY CHANGE VOTERS",
+          "type": "PAC",
+          "amount": 68206
+        },
+        {
+          "name": "PLANNED PARENTHOOD VOTES",
+          "type": "PAC",
+          "amount": 59719
+        },
+        {
+          "name": "GREAT OPPORTUNITY PAC, INC.",
+          "type": "PAC",
+          "amount": 52500
+        },
+        {
+          "name": "CLEAN WAVE",
+          "type": "PAC",
+          "amount": 50995
+        },
+        {
+          "name": "NATIONAL WOMEN''S LAW CENTER ACTION FUND",
+          "type": "PAC",
+          "amount": 44114
+        },
+        {
+          "name": "CENTER FORWARD COMMITTEE",
+          "type": "PAC",
+          "amount": 40000
+        },
+        {
+          "name": "IN UNION USA ACTION",
+          "type": "PAC",
+          "amount": 36856
+        },
+        {
+          "name": "VALOR AMERICA",
+          "type": "PAC",
+          "amount": 33334
+        },
+        {
+          "name": "FAB FOUR FOR SENATE",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+          "type": "PAC",
+          "amount": 17630
+        },
+        {
+          "name": "END CITIZENS UNITED",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "UNITED WE CAN",
+          "type": "PAC",
+          "amount": 14630
+        },
+        {
+          "name": "FRONTLINE USA",
+          "type": "PAC",
+          "amount": 13300
+        },
+        {
+          "name": "MICHIGAN PEOPLES CHOICE",
+          "type": "PAC",
+          "amount": 12535
+        },
+        {
+          "name": "VOTEBLUE",
+          "type": "PAC",
+          "amount": 12450
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 61,
-    "total_votes_scored": 33,
+    "overall_pct": 57,
+    "total_votes_scored": 17,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Crucial Communism Teaching Act",
-        "bill": "HR5349",
-        "date": "2024-12-06",
+        "vote_description": "Israel Security Supplemental Appropriations Act, 2024",
+        "bill": "HR8034",
+        "date": "2024-04-20",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
-        "donor_category": "Labor unions",
-        "donor_expected": "Yea on Crucial Communism Teaching Act"
-      },
-      {
-        "vote_description": "Antisemitism Awareness Act",
-        "bill": "HR6090",
-        "date": "2024-05-01",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "MI PLANNED PARENTHOOD VOTES",
-        "donor_category": "Reproductive rights groups",
-        "donor_expected": "Yea on Antisemitism Awareness Act"
-      },
-      {
-        "vote_description": "STOP CCP Act",
-        "bill": "HR3334",
-        "date": "2024-09-25",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
         "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on STOP CCP Act"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Supplemental Appropriations Act 2024 \u2014 $14.3B in military aid to Israel including Iron Dome replenishment. AIPAC's top legislative priority."
       },
       {
-        "vote_description": "Accreditation for College Excellence Act",
-        "bill": "HR3724",
-        "date": "2024-09-19",
+        "vote_description": "21st Century Peace through Strength Act",
+        "bill": "HR8038",
+        "date": "2024-04-20",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "21st Century Peace through Strength Act \u2014 includes Israel aid among broader national security package. AIPAC supported the Israel components."
+      },
+      {
+        "vote_description": "Condemning Iran\u2019s unprecedented drone and missile attack on Israel",
+        "bill": "HRES1143",
+        "date": "2024-04-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Resolution condemning Iran's drone and missile attack on Israel \u2014 AIPAC strongly supported condemning Iran's direct attack on Israel."
+      },
+      {
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on Accreditation for College Excellence Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       },
       {
-        "vote_description": "Protection of Women and Girls in Sports Act",
-        "bill": "HR734",
-        "date": "2023-04-20",
+        "vote_description": "Family and Small Business Taxpayer Protection Act",
+        "bill": "HR23",
+        "date": "2023-01-09",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "MI PLANNED PARENTHOOD VOTES",
-        "donor_category": "Reproductive rights groups",
-        "donor_expected": "Yea on Protection of Women and Girls in Sports Act"
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Bill to sanction ICC for investigating US allies (including Israel) \u2014 AIPAC strongly supported protecting Israel from ICC prosecution."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 5,
-    "against_electorate_pct": 0,
+    "issues_scored": 7,
+    "against_electorate_pct": 29,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 91.1,
-        "margin_of_error": 7,
+        "district_support_pct": 90.0,
+        "margin_of_error": 5.0,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 64.1,
+        "margin_of_error": 7.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 60.5,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "district_support_pct": 60.0,
+        "margin_of_error": 8.0,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 61.6,
-        "margin_of_error": 7,
+        "district_support_pct": 61.0,
+        "margin_of_error": 6.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 69.7,
-        "margin_of_error": 7,
+        "district_support_pct": 68.8,
+        "margin_of_error": 7.0,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 66.1,
-        "margin_of_error": 7,
+        "district_support_pct": 65.1,
+        "margin_of_error": 6.7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 64.9,
+        "margin_of_error": 7.0,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

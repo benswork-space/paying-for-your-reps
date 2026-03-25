@@ -1304,78 +1304,83 @@
     ]
   },
   "donor_alignment": {
-    "overall_pct": 90,
-    "total_votes_scored": 118,
+    "overall_pct": 37,
+    "total_votes_scored": 54,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "D.R.I.V.E.-DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "DUMP Red Tape Act",
-        "bill": "HR4305",
-        "date": "2025-12-03",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
-        "donor_category": "Tech companies",
-        "donor_expected": "Nay on DUMP Red Tape Act"
-      },
-      {
-        "vote_description": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2026",
-        "bill": "HR3944",
-        "date": "2025-06-25",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
-        "donor_category": "Defense contractors",
-        "donor_expected": "Nay on Military Construction, Veterans Affairs, and Related Agencie"
-      },
-      {
-        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
-        "bill": "HR881",
-        "date": "2025-05-07",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "D.R.I.V.E.-DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "Israel Security Assistance Support Act",
+        "bill": "HR8369",
+        "date": "2024-05-16",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Assistance Support Act \u2014 provides security assistance to Israel, a core AIPAC priority."
+      },
+      {
+        "vote_description": "Fourth Amendment Is Not For Sale Act",
+        "bill": "HR4639",
+        "date": "2024-04-17",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_category": "Tech companies",
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Fourth Amendment Is Not For Sale Act \u2014 prohibits government purchase of personal data from data brokers without a warrant. Tech companies and data brokers oppose restrictions on the data marketplace."
+      },
+      {
+        "vote_description": "Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026",
+        "bill": "HR3838",
+        "date": "2025-09-10",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "FY2026 NDAA (National Defense Authorization Act) \u2014 authorizes military spending, procurement, and personnel. Defense contractors strongly support annual NDAA passage as it funds weapons systems and military programs."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
+    "issues_scored": 5,
     "against_electorate_pct": 0,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
         "district_support_pct": 71.4,
-        "margin_of_error": 7,
+        "margin_of_error": 8.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 66.3,
-        "margin_of_error": 7,
+        "district_support_pct": 66.7,
+        "margin_of_error": 7.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
@@ -1383,16 +1388,24 @@
       {
         "issue": "Regulate CO2 as a pollutant",
         "district_support_pct": 73.6,
-        "margin_of_error": 7,
+        "margin_of_error": 6.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 69.4,
-        "margin_of_error": 7,
+        "district_support_pct": 69.5,
+        "margin_of_error": 6.4,
         "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 33.7,
+        "margin_of_error": 7.0,
+        "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       }

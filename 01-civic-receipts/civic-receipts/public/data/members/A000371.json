@@ -11,116 +11,1175 @@
   "years_in_office": 11,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 4283471,
+    "campaign_raised": 4283471,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1675198,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 98434
+          },
+          {
+            "name": "WELLS FARGO",
+            "type": "Organization",
+            "amount": 34700
+          },
+          {
+            "name": "THEGROUP",
+            "type": "Organization",
+            "amount": 16200
+          },
+          {
+            "name": "PAUL WEISS RIFKIND WHARTON & GARRISON",
+            "type": "Organization",
+            "amount": 15800
+          },
+          {
+            "name": "DAVITA",
+            "type": "Organization",
+            "amount": 15500
+          },
+          {
+            "name": "THE DASCHLE GROUP",
+            "type": "Organization",
+            "amount": 14400
+          },
+          {
+            "name": "GENERAL ATOMICS",
+            "type": "Organization",
+            "amount": 14100
+          },
+          {
+            "name": "GENTEX CORP.",
+            "type": "Organization",
+            "amount": 12600
+          },
+          {
+            "name": "GENTEX CORPORATION",
+            "type": "Organization",
+            "amount": 12300
+          },
+          {
+            "name": "NEW WORLD MEDICAL",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "GENENTECH",
+            "type": "Organization",
+            "amount": 10850
+          },
+          {
+            "name": "INVARIANT",
+            "type": "Organization",
+            "amount": 10750
+          },
+          {
+            "name": "PAUL WEISS",
+            "type": "Organization",
+            "amount": 10100
+          },
+          {
+            "name": "ROCKET COMPANIES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "GENTEX",
+            "type": "Organization",
+            "amount": 9200
+          },
+          {
+            "name": "GOLDMAN SACHS",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "SUBJECT MATTER",
+            "type": "Organization",
+            "amount": 9000
+          },
+          {
+            "name": "BAUPOST",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "ANDURIL INDUSTRIES",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "COMCAST",
+            "type": "Organization",
+            "amount": 8000
+          },
+          {
+            "name": "CORDOBA CORPORATION",
+            "type": "Organization",
+            "amount": 7600
+          },
+          {
+            "name": "PALANTIR TECHNOLOGIES",
+            "type": "Organization",
+            "amount": 7350
+          },
+          {
+            "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+            "type": "Organization",
+            "amount": 6935
+          },
+          {
+            "name": "S-3 GROUP",
+            "type": "Organization",
+            "amount": 6800
+          },
+          {
+            "name": "ESRI",
+            "type": "Organization",
+            "amount": 6800
+          },
+          {
+            "name": "MONUMENT ADVOCACY",
+            "type": "Organization",
+            "amount": 6700
+          },
+          {
+            "name": "COINBASE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FEDERAL BUSINESS GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HARVARD UNIVERSITY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TINDER",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SUN CAPITAL PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TA ASSOCIATES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WILLOUGHBY CAPITAL HOLDINGS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GUAC-LOCK",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MATICH CORPORATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE METHODIST HOSPITAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BASCO, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CORDISH COMPANIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ZEEV VENTURES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PIVOTAL VENTURES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GOOGLE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CALBAG METALS CO.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE KRAFT GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SCHOOLSFIRST FCU",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BESSEMER VENTURE PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CAPITAL GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GENERATION IM",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CELIS LAW GROUP PLLC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "VALLEY OBGYN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KAISER PERMANENTE",
+            "type": "Organization",
+            "amount": 6600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 2608273,
+        "donors": [
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 69688
+          },
+          {
+            "name": "SCHNEIDER NATIONAL INC., TRANSPAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "CAPITAL ONE FINANCIAL CORP. ASSOC. POLITICAL FUND",
+            "type": "PAC",
+            "amount": 11000
+          },
+          {
+            "name": "150PAC.ORG",
+            "type": "PAC",
+            "amount": 11000
+          },
+          {
+            "name": "THE BOEING COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MOLINA HEALTHCARE, INC. PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "EDISON INTERNATIONAL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DELTA AIR LINES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "EDWARDS LIFESCIENCES POLITICAL ACTION COMMITTEE (A.K.A. EDWARDS PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ABBVIE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL RESTAURANT ASSOCIATION PAC (RESTAURANT PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE (ICI PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ANHEUSER-BUSCH COMPANIES LLC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "LPL FINANCIAL LLC POLITICAL ACTION COMMITTEE (LPL PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HUMANA INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BLUE SHIELD OF CALIFORNIA PAC (SHIELD PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "GENERAL MOTORS COMPANY POLITICAL ACTION COMMITTEE (GM PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CONSTELLATION BRANDS INC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 4283471,
+      "individual_contributions": 1675198,
+      "individual_itemized": 1675198,
+      "individual_unitemized": 0,
+      "pac_contributions": 2608273,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 98434
+        },
+        {
+          "name": "WELLS FARGO",
+          "type": "Organization",
+          "amount": 34700
+        },
+        {
+          "name": "THEGROUP",
+          "type": "Organization",
+          "amount": 16200
+        },
+        {
+          "name": "PAUL WEISS RIFKIND WHARTON & GARRISON",
+          "type": "Organization",
+          "amount": 15800
+        },
+        {
+          "name": "DAVITA",
+          "type": "Organization",
+          "amount": 15500
+        },
+        {
+          "name": "THE DASCHLE GROUP",
+          "type": "Organization",
+          "amount": 14400
+        },
+        {
+          "name": "GENERAL ATOMICS",
+          "type": "Organization",
+          "amount": 14100
+        },
+        {
+          "name": "GENTEX CORP.",
+          "type": "Organization",
+          "amount": 12600
+        },
+        {
+          "name": "GENTEX CORPORATION",
+          "type": "Organization",
+          "amount": 12300
+        },
+        {
+          "name": "NEW WORLD MEDICAL",
+          "type": "Organization",
+          "amount": 11600
+        },
+        {
+          "name": "GENENTECH",
+          "type": "Organization",
+          "amount": 10850
+        },
+        {
+          "name": "INVARIANT",
+          "type": "Organization",
+          "amount": 10750
+        },
+        {
+          "name": "PAUL WEISS",
+          "type": "Organization",
+          "amount": 10100
+        },
+        {
+          "name": "ROCKET COMPANIES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "GENTEX",
+          "type": "Organization",
+          "amount": 9200
+        },
+        {
+          "name": "GOLDMAN SACHS",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "SUBJECT MATTER",
+          "type": "Organization",
+          "amount": 9000
+        },
+        {
+          "name": "BAUPOST",
+          "type": "Organization",
+          "amount": 8600
+        },
+        {
+          "name": "ANDURIL INDUSTRIES",
+          "type": "Organization",
+          "amount": 8300
+        },
+        {
+          "name": "COMCAST",
+          "type": "Organization",
+          "amount": 8000
+        },
+        {
+          "name": "CORDOBA CORPORATION",
+          "type": "Organization",
+          "amount": 7600
+        },
+        {
+          "name": "PALANTIR TECHNOLOGIES",
+          "type": "Organization",
+          "amount": 7350
+        },
+        {
+          "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 6935
+        },
+        {
+          "name": "S-3 GROUP",
+          "type": "Organization",
+          "amount": 6800
+        },
+        {
+          "name": "ESRI",
+          "type": "Organization",
+          "amount": 6800
+        },
+        {
+          "name": "MONUMENT ADVOCACY",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "COINBASE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FEDERAL BUSINESS GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HARVARD UNIVERSITY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TINDER",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SUN CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TA ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WILLOUGHBY CAPITAL HOLDINGS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GUAC-LOCK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MATICH CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE METHODIST HOSPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BASCO, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CORDISH COMPANIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ZEEV VENTURES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PIVOTAL VENTURES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GOOGLE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CALBAG METALS CO.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE KRAFT GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SCHOOLSFIRST FCU",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BESSEMER VENTURE PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CAPITAL GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GENERATION IM",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CELIS LAW GROUP PLLC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VALLEY OBGYN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KAISER PERMANENTE",
+          "type": "Organization",
+          "amount": 6600
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 69688
+        },
+        {
+          "name": "SCHNEIDER NATIONAL INC., TRANSPAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "CAPITAL ONE FINANCIAL CORP. ASSOC. POLITICAL FUND",
+          "type": "PAC",
+          "amount": 11000
+        },
+        {
+          "name": "150PAC.ORG",
+          "type": "PAC",
+          "amount": 11000
+        },
+        {
+          "name": "THE BOEING COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MOLINA HEALTHCARE, INC. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EDISON INTERNATIONAL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DELTA AIR LINES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EDWARDS LIFESCIENCES POLITICAL ACTION COMMITTEE (A.K.A. EDWARDS PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ABBVIE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL RESTAURANT ASSOCIATION PAC (RESTAURANT PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE (ICI PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ANHEUSER-BUSCH COMPANIES LLC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "LPL FINANCIAL LLC POLITICAL ACTION COMMITTEE (LPL PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HUMANA INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BLUE SHIELD OF CALIFORNIA PAC (SHIELD PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "GENERAL MOTORS COMPANY POLITICAL ACTION COMMITTEE (GM PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CONSTELLATION BRANDS INC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 93,
-    "total_votes_scored": 90,
+    "overall_pct": 46,
+    "total_votes_scored": 51,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
+        "vote_description": "Israel Security Supplemental Appropriations Act, 2024",
+        "bill": "HR8034",
+        "date": "2024-04-20",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
         "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on To direct the removal of United States Armed Forces from Ven"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Supplemental Appropriations Act 2024 \u2014 $14.3B in military aid to Israel including Iron Dome replenishment. AIPAC's top legislative priority."
       },
       {
-        "vote_description": "To require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes",
-        "bill": "S1071",
-        "date": "2025-12-10",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "THE BOEING COMPANY POLITICAL ACTION COMMITTEE",
-        "donor_category": "Defense contractors",
-        "donor_expected": "Yea on To require the Secretary of Veterans Affairs to disinter the"
-      },
-      {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AIR LINE PILOTS ASSOCIATION PAC",
-        "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
-      },
-      {
-        "vote_description": "Do No Harm in Medicaid Act",
-        "bill": "HR498",
-        "date": "2025-12-18",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
-        "donor_category": "Healthcare industry",
-        "donor_expected": "Nay on Do No Harm in Medicaid Act"
-      },
-      {
-        "vote_description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Syria",
-        "bill": "HCONRES21",
-        "date": "2023-03-08",
+        "vote_description": "Israel Security Assistance Support Act",
+        "bill": "HR8369",
+        "date": "2024-05-16",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
         "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on Directing the President, pursuant to section 5(c) of the War"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Assistance Support Act \u2014 provides security assistance to Israel, a core AIPAC priority."
+      },
+      {
+        "vote_description": "Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026",
+        "bill": "HR3838",
+        "date": "2025-09-10",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "FY2026 NDAA (National Defense Authorization Act) \u2014 authorizes military spending, procurement, and personnel. Defense contractors strongly support annual NDAA passage as it funds weapons systems and military programs."
+      },
+      {
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 9,
+    "against_electorate_pct": 11,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 90.7,
+        "margin_of_error": 4.6,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 75.7,
-        "margin_of_error": 7,
+        "district_support_pct": 72.4,
+        "margin_of_error": 6.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 73.2,
-        "margin_of_error": 7,
+        "district_support_pct": 70.1,
+        "margin_of_error": 8.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 11.4,
-        "margin_of_error": 7,
+        "district_support_pct": 16.2,
+        "margin_of_error": 5.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 70.2,
-        "margin_of_error": 7,
+        "district_support_pct": 63.9,
+        "margin_of_error": 7.6,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 76.0,
-        "margin_of_error": 7,
+        "district_support_pct": 75.7,
+        "margin_of_error": 5.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 75.9,
-        "margin_of_error": 7,
+        "district_support_pct": 73.8,
+        "margin_of_error": 6.0,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 29.7,
+        "margin_of_error": 6.9,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 69.8,
+        "margin_of_error": 6.5,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

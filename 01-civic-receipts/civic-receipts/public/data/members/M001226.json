@@ -11,100 +11,1167 @@
   "years_in_office": 3,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 3460290,
+    "campaign_raised": 3460290,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1219998,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 85700
+          },
+          {
+            "name": "LOWENSTEIN SANDLER LLP",
+            "type": "Organization",
+            "amount": 24050
+          },
+          {
+            "name": "BGR GROUP",
+            "type": "Organization",
+            "amount": 13750
+          },
+          {
+            "name": "URBY",
+            "type": "Organization",
+            "amount": 13300
+          },
+          {
+            "name": "CARELLA BYRNE",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BLACKSTONE",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "LEFRAK",
+            "type": "Organization",
+            "amount": 11400
+          },
+          {
+            "name": "LOWENSTEIN SANDLER",
+            "type": "Organization",
+            "amount": 10900
+          },
+          {
+            "name": "WINNING STRATEGIES WASHINGTON",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "THE DASCHLE GROUP",
+            "type": "Organization",
+            "amount": 9600
+          },
+          {
+            "name": "SILLS CUMMIS & GROSS",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "SCARINCI HOLLENBECK",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "TIBER CREEK GROUP",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "SILVERMAN",
+            "type": "Organization",
+            "amount": 7600
+          },
+          {
+            "name": "INVARIANT",
+            "type": "Organization",
+            "amount": 7500
+          },
+          {
+            "name": "HEAGNEY",
+            "type": "Organization",
+            "amount": 7300
+          },
+          {
+            "name": "ELI GLOBAL",
+            "type": "Organization",
+            "amount": 7100
+          },
+          {
+            "name": "CSG LAW",
+            "type": "Organization",
+            "amount": 6850
+          },
+          {
+            "name": "UNISWAP LABS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SCHULTE ROTH & ZABEL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "APOLLO GLOBAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CAROLYN ROWAN COLLECTION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "RAMAS CONTRACTORS LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CASTLEKNIGHT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GENOVA BURNS LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "IRONSTATE HOLDINGS LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "IRONSTATE DEVELOPMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "APPLIED PROPERTY MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GOLDMAN SACHS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "APPLIED HOUSING MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PRIOR WORLD",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ALECKO CAPITAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BREAKTHRU BEVERAGE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ARIEL INVESTMENTS LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FOUNDATION RISK PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "1ST FINANCIAL BANK USA",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MAYA BLUE TECH CORP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CANOE BROOK MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HOUSING INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LAW OFFICE OF JASPREET SINGH",
+            "type": "Organization",
+            "amount": 6500
+          },
+          {
+            "name": "CAPITOL COUNSEL",
+            "type": "Organization",
+            "amount": 6500
+          },
+          {
+            "name": "GPI",
+            "type": "Organization",
+            "amount": 5900
+          },
+          {
+            "name": "MERCURY PUBLIC AFFAIRS",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "CHIESA SHAHINIAN & GIANTOMASI PC",
+            "type": "Organization",
+            "amount": 5550
+          },
+          {
+            "name": "FIRETREE LTD.",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "FIRETREE LTD",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "NY WATERWAY",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "BEIGENE",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "STATE OF NEW JERSEY",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "INDEPENDENT CHEMICAL CORP",
+            "type": "Organization",
+            "amount": 5170
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 2240292,
+        "donors": [
+          {
+            "name": "CHC BOLD PAC",
+            "type": "PAC",
+            "amount": 495899
+          },
+          {
+            "name": "AMERICA'S PROMISE",
+            "type": "PAC",
+            "amount": 389086
+          },
+          {
+            "name": "PROTECT PROGRESS",
+            "type": "PAC",
+            "amount": 215063
+          },
+          {
+            "name": "BOLD AMERICA",
+            "type": "PAC",
+            "amount": 117712
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 72414
+          },
+          {
+            "name": "THE IMPACT FUND",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "THE TURNOUT PROJECT",
+            "type": "PAC",
+            "amount": 41318
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS",
+            "type": "PAC",
+            "amount": 34092
+          },
+          {
+            "name": "YOUTH SAVE DEMOCRACY PAC",
+            "type": "PAC",
+            "amount": 26000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "NORPAC",
+            "type": "PAC",
+            "amount": 14048
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12301
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "PAC TO THE FUTURE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMALGAMATED TRANSIT UNION - COPE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "PRUDENTIAL FINANCIAL INC. FEDERAL POLITICAL ACTION COMMITTEE (AKA - PRUDENTIAL FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ORGANON & CO. EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "VIBE PAC (VICTORY BY INVESTING BUILDING EMPOWERING)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NEW MILLENNIUM PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CRH AMERICAS, INC. PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BRISTOL-MYERS SQUIBB COMPANY POLITICAL ACTION COMMITTEE (BMS PAC)",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "DEFEND THE VOTE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "INTERNATIONAL LONGSHOREMEN'S ASSOCIATION COMMITTEE ON POLITICAL EDUCATION",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "MERCK & CO., INC., EMPLOYEES POLITICAL ACTION COMMITTEE (MERCK PAC)",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+            "type": "PAC",
+            "amount": 5800
+          },
+          {
+            "name": "AMERICAN AIRLINES INC. POLITICAL ACTION COMMITTEE (AAPAC)",
+            "type": "PAC",
+            "amount": 5500
+          },
+          {
+            "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 3460290,
+      "individual_contributions": 1219998,
+      "individual_itemized": 1219998,
+      "individual_unitemized": 0,
+      "pac_contributions": 2240292,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 85700
+        },
+        {
+          "name": "LOWENSTEIN SANDLER LLP",
+          "type": "Organization",
+          "amount": 24050
+        },
+        {
+          "name": "BGR GROUP",
+          "type": "Organization",
+          "amount": 13750
+        },
+        {
+          "name": "URBY",
+          "type": "Organization",
+          "amount": 13300
+        },
+        {
+          "name": "CARELLA BYRNE",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BLACKSTONE",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "LEFRAK",
+          "type": "Organization",
+          "amount": 11400
+        },
+        {
+          "name": "LOWENSTEIN SANDLER",
+          "type": "Organization",
+          "amount": 10900
+        },
+        {
+          "name": "WINNING STRATEGIES WASHINGTON",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "THE DASCHLE GROUP",
+          "type": "Organization",
+          "amount": 9600
+        },
+        {
+          "name": "SILLS CUMMIS & GROSS",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "SCARINCI HOLLENBECK",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "TIBER CREEK GROUP",
+          "type": "Organization",
+          "amount": 8600
+        },
+        {
+          "name": "SILVERMAN",
+          "type": "Organization",
+          "amount": 7600
+        },
+        {
+          "name": "INVARIANT",
+          "type": "Organization",
+          "amount": 7500
+        },
+        {
+          "name": "HEAGNEY",
+          "type": "Organization",
+          "amount": 7300
+        },
+        {
+          "name": "ELI GLOBAL",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "CSG LAW",
+          "type": "Organization",
+          "amount": 6850
+        },
+        {
+          "name": "UNISWAP LABS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SCHULTE ROTH & ZABEL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "APOLLO GLOBAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CAROLYN ROWAN COLLECTION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "RAMAS CONTRACTORS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CASTLEKNIGHT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GENOVA BURNS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "IRONSTATE HOLDINGS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "IRONSTATE DEVELOPMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "APPLIED PROPERTY MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GOLDMAN SACHS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "APPLIED HOUSING MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PRIOR WORLD",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ALECKO CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BREAKTHRU BEVERAGE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARIEL INVESTMENTS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FOUNDATION RISK PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "1ST FINANCIAL BANK USA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MAYA BLUE TECH CORP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CANOE BROOK MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HOUSING INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LAW OFFICE OF JASPREET SINGH",
+          "type": "Organization",
+          "amount": 6500
+        },
+        {
+          "name": "CAPITOL COUNSEL",
+          "type": "Organization",
+          "amount": 6500
+        },
+        {
+          "name": "GPI",
+          "type": "Organization",
+          "amount": 5900
+        },
+        {
+          "name": "MERCURY PUBLIC AFFAIRS",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "CHIESA SHAHINIAN & GIANTOMASI PC",
+          "type": "Organization",
+          "amount": 5550
+        },
+        {
+          "name": "FIRETREE LTD.",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "FIRETREE LTD",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "NY WATERWAY",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "BEIGENE",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "STATE OF NEW JERSEY",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "INDEPENDENT CHEMICAL CORP",
+          "type": "Organization",
+          "amount": 5170
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "CHC BOLD PAC",
+          "type": "PAC",
+          "amount": 495899
+        },
+        {
+          "name": "AMERICA'S PROMISE",
+          "type": "PAC",
+          "amount": 389086
+        },
+        {
+          "name": "PROTECT PROGRESS",
+          "type": "PAC",
+          "amount": 215063
+        },
+        {
+          "name": "BOLD AMERICA",
+          "type": "PAC",
+          "amount": 117712
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 72414
+        },
+        {
+          "name": "THE IMPACT FUND",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "THE TURNOUT PROJECT",
+          "type": "PAC",
+          "amount": 41318
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS",
+          "type": "PAC",
+          "amount": 34092
+        },
+        {
+          "name": "YOUTH SAVE DEMOCRACY PAC",
+          "type": "PAC",
+          "amount": 26000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "NORPAC",
+          "type": "PAC",
+          "amount": 14048
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12301
+        },
+        {
+          "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PAC TO THE FUTURE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PRUDENTIAL FINANCIAL INC. FEDERAL POLITICAL ACTION COMMITTEE (AKA - PRUDENTIAL FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ORGANON & CO. EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "VIBE PAC (VICTORY BY INVESTING BUILDING EMPOWERING)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NEW MILLENNIUM PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CRH AMERICAS, INC. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BRISTOL-MYERS SQUIBB COMPANY POLITICAL ACTION COMMITTEE (BMS PAC)",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "DEFEND THE VOTE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "INTERNATIONAL LONGSHOREMEN'S ASSOCIATION COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "MERCK & CO., INC., EMPLOYEES POLITICAL ACTION COMMITTEE (MERCK PAC)",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+          "type": "PAC",
+          "amount": 5800
+        },
+        {
+          "name": "AMERICAN AIRLINES INC. POLITICAL ACTION COMMITTEE (AAPAC)",
+          "type": "PAC",
+          "amount": 5500
+        },
+        {
+          "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+          "type": "PAC",
+          "amount": 5000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 87,
-    "total_votes_scored": 51,
+    "overall_pct": 55,
+    "total_votes_scored": 27,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
+        "vote_description": "Israel Security Supplemental Appropriations Act, 2024",
+        "bill": "HR8034",
+        "date": "2024-04-20",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
         "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on To direct the removal of United States Armed Forces from Ven"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Supplemental Appropriations Act 2024 \u2014 $14.3B in military aid to Israel including Iron Dome replenishment. AIPAC's top legislative priority."
       },
       {
-        "vote_description": "DUMP Red Tape Act",
-        "bill": "HR4305",
-        "date": "2025-12-03",
+        "vote_description": "Fourth Amendment Is Not For Sale Act",
+        "bill": "HR4639",
+        "date": "2024-04-17",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
         "donor_category": "Tech companies",
-        "donor_expected": "Nay on DUMP Red Tape Act"
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Fourth Amendment Is Not For Sale Act \u2014 prohibits government purchase of personal data from data brokers without a warrant. Tech companies and data brokers oppose restrictions on the data marketplace."
       },
       {
-        "vote_description": "Do No Harm in Medicaid Act",
-        "bill": "HR498",
-        "date": "2025-12-18",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "MERCK & CO., INC., EMPLOYEES POLITICAL ACTION COMMITTEE (MERCK PAC)",
-        "donor_category": "Healthcare industry",
-        "donor_expected": "Nay on Do No Harm in Medicaid Act"
-      },
-      {
-        "vote_description": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
-        "bill": "HR881",
-        "date": "2025-05-07",
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
+      },
+      {
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
+        "member_voted": "Nay",
+        "aligned": false,
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on DHS Restrictions on Confucius Institutes and Chinese Entitie"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 0,
+    "issues_scored": 8,
+    "against_electorate_pct": 12,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 89.6,
+        "margin_of_error": 4.9,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 72.9,
+        "margin_of_error": 9.2,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 70.9,
-        "margin_of_error": 7,
+        "district_support_pct": 67.6,
+        "margin_of_error": 10.8,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 64.4,
-        "margin_of_error": 7,
+        "district_support_pct": 60.0,
+        "margin_of_error": 9.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 82.4,
-        "margin_of_error": 7,
+        "district_support_pct": 80.6,
+        "margin_of_error": 7.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 77.3,
-        "margin_of_error": 7,
+        "district_support_pct": 74.9,
+        "margin_of_error": 7.7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 30.4,
+        "margin_of_error": 9.0,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 76.2,
+        "margin_of_error": 7.8,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

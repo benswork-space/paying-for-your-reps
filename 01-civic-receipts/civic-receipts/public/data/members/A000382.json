@@ -11,47 +11,1089 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 41285484,
+    "campaign_raised": 41285484,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 7176907,
+        "donors": [
+          {
+            "name": "PRINCE GEORGE'S COUNTY",
+            "type": "Organization",
+            "amount": 38751
+          },
+          {
+            "name": "UNIVERSITY OF MARYLAND",
+            "type": "Organization",
+            "amount": 34776
+          },
+          {
+            "name": "FEDERAL GOVERNMENT",
+            "type": "Organization",
+            "amount": 30137
+          },
+          {
+            "name": "MEDSTAR HEALTH INC",
+            "type": "Organization",
+            "amount": 29481
+          },
+          {
+            "name": "JOHNS HOPKINS UNIVERSITY",
+            "type": "Organization",
+            "amount": 26961
+          },
+          {
+            "name": "STATE OF MARYLAND",
+            "type": "Organization",
+            "amount": 25323
+          },
+          {
+            "name": "CORNERSTONE GOVERNMENT AFFAIRS INC",
+            "type": "Organization",
+            "amount": 24770
+          },
+          {
+            "name": "GOOGLE LLC",
+            "type": "Organization",
+            "amount": 20476
+          },
+          {
+            "name": "BRIGHTVIEW SENIOR LIVING",
+            "type": "Organization",
+            "amount": 19000
+          },
+          {
+            "name": "META PLATFORMS INC",
+            "type": "Organization",
+            "amount": 18382
+          },
+          {
+            "name": "GEORGETOWN UNIVERSITY",
+            "type": "Organization",
+            "amount": 18253
+          },
+          {
+            "name": "MEYERS RODBELL & ROSENBAUM PA",
+            "type": "Organization",
+            "amount": 18200
+          },
+          {
+            "name": "MARYLAND GENERAL ASSEMBLY",
+            "type": "Organization",
+            "amount": 17607
+          },
+          {
+            "name": "WILMER CUTLER PICKERING HALE AND DORR",
+            "type": "Organization",
+            "amount": 17300
+          },
+          {
+            "name": "GIBSON DUNN & CRUTCHER LLP",
+            "type": "Organization",
+            "amount": 16950
+          },
+          {
+            "name": "GREENBERG TRAURIG",
+            "type": "Organization",
+            "amount": 16310
+          },
+          {
+            "name": "NAI MICHAEL",
+            "type": "Organization",
+            "amount": 16175
+          },
+          {
+            "name": "GALLAGHER EVELIUS & JONES LLP",
+            "type": "Organization",
+            "amount": 15700
+          },
+          {
+            "name": "AKIN GUMP STRAUSS HAUER & FELD LLP",
+            "type": "Organization",
+            "amount": 14676
+          },
+          {
+            "name": "COMCAST CORP",
+            "type": "Organization",
+            "amount": 14450
+          },
+          {
+            "name": "NATIONAL INSTITUTES OF HEALTH",
+            "type": "Organization",
+            "amount": 14044
+          },
+          {
+            "name": "URBAN ONE INC",
+            "type": "Organization",
+            "amount": 13900
+          },
+          {
+            "name": "PAUL WEISS RIFKIND WHARTON & GARRISON",
+            "type": "Organization",
+            "amount": 13700
+          },
+          {
+            "name": "MOTIR SERVICES, INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BAD ROBOT PRODUCTIONS",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BUCH CONSTRUCTION INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BANNEKER VENTURES LLC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "GS PROCTOR & ASSOCIATES INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "GIBBS AND HALLER",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "MCGUIREWOODS LLP",
+            "type": "Organization",
+            "amount": 12650
+          },
+          {
+            "name": "CLOUDFORCE",
+            "type": "Organization",
+            "amount": 12600
+          },
+          {
+            "name": "MONTGOMERY COUNTY PUBLIC SCHOOLS",
+            "type": "Organization",
+            "amount": 12453
+          },
+          {
+            "name": "GEORGE WASHINGTON UNIVERSITY",
+            "type": "Organization",
+            "amount": 12084
+          },
+          {
+            "name": "RESIDENTIAL TITLE & ESCROW CO",
+            "type": "Organization",
+            "amount": 11700
+          },
+          {
+            "name": "DOUGLAS DEVELOPMENT",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "BROWNSTEIN HYATT FARBER SCHRECK LLP",
+            "type": "Organization",
+            "amount": 11500
+          },
+          {
+            "name": "AMAZON.COM INC",
+            "type": "Organization",
+            "amount": 11264
+          },
+          {
+            "name": "PRINCE GEORGE'S COUNTY PUBLIC SCHOOLS",
+            "type": "Organization",
+            "amount": 10931
+          },
+          {
+            "name": "INVARIANT GR",
+            "type": "Organization",
+            "amount": 10900
+          },
+          {
+            "name": "RIFKIN WEINER LIVINGSTON LLC",
+            "type": "Organization",
+            "amount": 10745
+          },
+          {
+            "name": "HOWARD UNIVERSITY",
+            "type": "Organization",
+            "amount": 10740
+          },
+          {
+            "name": "MICROSOFT CORP",
+            "type": "Organization",
+            "amount": 10598
+          },
+          {
+            "name": "REED SMITH LLP",
+            "type": "Organization",
+            "amount": 10375
+          },
+          {
+            "name": "CANE INVESTMENTS LLC",
+            "type": "Organization",
+            "amount": 10150
+          },
+          {
+            "name": "US DEPARTMENT OF HOUSING AND URBAN DEV",
+            "type": "Organization",
+            "amount": 9920
+          },
+          {
+            "name": "ALBRIGHT STONEBRIDGE GROUP LLC",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "J PINNELLI COMPANY LLC",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "THE WONDERFUL COMPANY",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "STEPTOE & JOHNSON LLP",
+            "type": "Organization",
+            "amount": 9750
+          },
+          {
+            "name": "US FOOD AND DRUG ADMINISTRATION",
+            "type": "Organization",
+            "amount": 9677
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 34108577,
+        "donors": [
+          {
+            "name": "MARYLAND'S FUTURE",
+            "type": "PAC",
+            "amount": 26656730
+          },
+          {
+            "name": "DSCC",
+            "type": "PAC",
+            "amount": 1218300
+          },
+          {
+            "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO",
+            "type": "PAC",
+            "amount": 1156302
+          },
+          {
+            "name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+            "type": "PAC",
+            "amount": 1155421
+          },
+          {
+            "name": "BLACK PROGRESSIVE ACTION COALITION",
+            "type": "PAC",
+            "amount": 991240
+          },
+          {
+            "name": "BLACKPAC",
+            "type": "PAC",
+            "amount": 804237
+          },
+          {
+            "name": "CASA IN ACTION PAC",
+            "type": "PAC",
+            "amount": 164374
+          },
+          {
+            "name": "SAVE AMERICA FUND",
+            "type": "PAC",
+            "amount": 146913
+          },
+          {
+            "name": "ROLLING SEA ACTION FUND",
+            "type": "PAC",
+            "amount": 127500
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 108000
+          },
+          {
+            "name": "JSTREETPAC",
+            "type": "PAC",
+            "amount": 92360
+          },
+          {
+            "name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST FEDERAL POLITICAL ACTION FUND",
+            "type": "PAC",
+            "amount": 75000
+          },
+          {
+            "name": "RED SENATE",
+            "type": "PAC",
+            "amount": 42751
+          },
+          {
+            "name": "PROTECTING OUR VOTE PAC",
+            "type": "PAC",
+            "amount": 36198
+          },
+          {
+            "name": "CHESAPEAKE CLIMATE ACTION NETWORK ACTION FUND",
+            "type": "PAC",
+            "amount": 31369
+          },
+          {
+            "name": "LARRY GIBSON",
+            "type": "PAC",
+            "amount": 30670
+          },
+          {
+            "name": "ALSOBROOKS SLOTKIN VICTORY FUND",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "CLIMATE EMERGENCY ADVOCATES",
+            "type": "PAC",
+            "amount": 24279
+          },
+          {
+            "name": "UPSET THE SETUP",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "1199 SEIU NEW YORK STATE POLITICAL ACTION FUND",
+            "type": "PAC",
+            "amount": 16619
+          },
+          {
+            "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "PEOPLE FOR THE AMERICAN WAY",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "ELECTING WOMEN BAY AREA PAC",
+            "type": "PAC",
+            "amount": 13020
+          },
+          {
+            "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "type": "PAC",
+            "amount": 12923
+          },
+          {
+            "name": "REPRODUCTIVE FREEDOM FOR ALL PAC",
+            "type": "PAC",
+            "amount": 12250
+          },
+          {
+            "name": "JDCA PAC",
+            "type": "PAC",
+            "amount": 11950
+          },
+          {
+            "name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+            "type": "PAC",
+            "amount": 11750
+          },
+          {
+            "name": "DEMOCRATIC STATE CENTRAL COMMITTEE OF MARYLAND",
+            "type": "PAC",
+            "amount": 10950
+          },
+          {
+            "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MOMS FED UP",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TRI-STATE MAXED-OUT WOMEN",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "OFF THE SIDELINES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "WOMEN'S POLITICAL COMMITTEE FEDERAL",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "REV UP PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "PURPOSE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "M-PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ELECT DEMOCRATIC WOMEN",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "I GOT YOUR BACK PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DEFEND THE DREAM",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "WAY TO LEAD PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMALGAMATED TRANSIT UNION - COPE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DEMOCRACY SUMMER LEADERSHIP PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TURQUOISE PAC",
+            "type": "PAC",
+            "amount": 10000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 41285484,
+      "individual_contributions": 7176907,
+      "individual_itemized": 7176907,
+      "individual_unitemized": 0,
+      "pac_contributions": 34108577,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "PRINCE GEORGE'S COUNTY",
+          "type": "Organization",
+          "amount": 38751
+        },
+        {
+          "name": "UNIVERSITY OF MARYLAND",
+          "type": "Organization",
+          "amount": 34776
+        },
+        {
+          "name": "FEDERAL GOVERNMENT",
+          "type": "Organization",
+          "amount": 30137
+        },
+        {
+          "name": "MEDSTAR HEALTH INC",
+          "type": "Organization",
+          "amount": 29481
+        },
+        {
+          "name": "JOHNS HOPKINS UNIVERSITY",
+          "type": "Organization",
+          "amount": 26961
+        },
+        {
+          "name": "STATE OF MARYLAND",
+          "type": "Organization",
+          "amount": 25323
+        },
+        {
+          "name": "CORNERSTONE GOVERNMENT AFFAIRS INC",
+          "type": "Organization",
+          "amount": 24770
+        },
+        {
+          "name": "GOOGLE LLC",
+          "type": "Organization",
+          "amount": 20476
+        },
+        {
+          "name": "BRIGHTVIEW SENIOR LIVING",
+          "type": "Organization",
+          "amount": 19000
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "type": "Organization",
+          "amount": 18382
+        },
+        {
+          "name": "GEORGETOWN UNIVERSITY",
+          "type": "Organization",
+          "amount": 18253
+        },
+        {
+          "name": "MEYERS RODBELL & ROSENBAUM PA",
+          "type": "Organization",
+          "amount": 18200
+        },
+        {
+          "name": "MARYLAND GENERAL ASSEMBLY",
+          "type": "Organization",
+          "amount": 17607
+        },
+        {
+          "name": "WILMER CUTLER PICKERING HALE AND DORR",
+          "type": "Organization",
+          "amount": 17300
+        },
+        {
+          "name": "GIBSON DUNN & CRUTCHER LLP",
+          "type": "Organization",
+          "amount": 16950
+        },
+        {
+          "name": "GREENBERG TRAURIG",
+          "type": "Organization",
+          "amount": 16310
+        },
+        {
+          "name": "NAI MICHAEL",
+          "type": "Organization",
+          "amount": 16175
+        },
+        {
+          "name": "GALLAGHER EVELIUS & JONES LLP",
+          "type": "Organization",
+          "amount": 15700
+        },
+        {
+          "name": "AKIN GUMP STRAUSS HAUER & FELD LLP",
+          "type": "Organization",
+          "amount": 14676
+        },
+        {
+          "name": "COMCAST CORP",
+          "type": "Organization",
+          "amount": 14450
+        },
+        {
+          "name": "NATIONAL INSTITUTES OF HEALTH",
+          "type": "Organization",
+          "amount": 14044
+        },
+        {
+          "name": "URBAN ONE INC",
+          "type": "Organization",
+          "amount": 13900
+        },
+        {
+          "name": "PAUL WEISS RIFKIND WHARTON & GARRISON",
+          "type": "Organization",
+          "amount": 13700
+        },
+        {
+          "name": "MOTIR SERVICES, INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BAD ROBOT PRODUCTIONS",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BUCH CONSTRUCTION INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BANNEKER VENTURES LLC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "GS PROCTOR & ASSOCIATES INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "GIBBS AND HALLER",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "MCGUIREWOODS LLP",
+          "type": "Organization",
+          "amount": 12650
+        },
+        {
+          "name": "CLOUDFORCE",
+          "type": "Organization",
+          "amount": 12600
+        },
+        {
+          "name": "MONTGOMERY COUNTY PUBLIC SCHOOLS",
+          "type": "Organization",
+          "amount": 12453
+        },
+        {
+          "name": "GEORGE WASHINGTON UNIVERSITY",
+          "type": "Organization",
+          "amount": 12084
+        },
+        {
+          "name": "RESIDENTIAL TITLE & ESCROW CO",
+          "type": "Organization",
+          "amount": 11700
+        },
+        {
+          "name": "DOUGLAS DEVELOPMENT",
+          "type": "Organization",
+          "amount": 11600
+        },
+        {
+          "name": "BROWNSTEIN HYATT FARBER SCHRECK LLP",
+          "type": "Organization",
+          "amount": 11500
+        },
+        {
+          "name": "AMAZON.COM INC",
+          "type": "Organization",
+          "amount": 11264
+        },
+        {
+          "name": "PRINCE GEORGE'S COUNTY PUBLIC SCHOOLS",
+          "type": "Organization",
+          "amount": 10931
+        },
+        {
+          "name": "INVARIANT GR",
+          "type": "Organization",
+          "amount": 10900
+        },
+        {
+          "name": "RIFKIN WEINER LIVINGSTON LLC",
+          "type": "Organization",
+          "amount": 10745
+        },
+        {
+          "name": "HOWARD UNIVERSITY",
+          "type": "Organization",
+          "amount": 10740
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "type": "Organization",
+          "amount": 10598
+        },
+        {
+          "name": "REED SMITH LLP",
+          "type": "Organization",
+          "amount": 10375
+        },
+        {
+          "name": "CANE INVESTMENTS LLC",
+          "type": "Organization",
+          "amount": 10150
+        },
+        {
+          "name": "US DEPARTMENT OF HOUSING AND URBAN DEV",
+          "type": "Organization",
+          "amount": 9920
+        },
+        {
+          "name": "ALBRIGHT STONEBRIDGE GROUP LLC",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "J PINNELLI COMPANY LLC",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "THE WONDERFUL COMPANY",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "STEPTOE & JOHNSON LLP",
+          "type": "Organization",
+          "amount": 9750
+        },
+        {
+          "name": "US FOOD AND DRUG ADMINISTRATION",
+          "type": "Organization",
+          "amount": 9677
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "MARYLAND'S FUTURE",
+          "type": "PAC",
+          "amount": 26656730
+        },
+        {
+          "name": "DSCC",
+          "type": "PAC",
+          "amount": 1218300
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO",
+          "type": "PAC",
+          "amount": 1156302
+        },
+        {
+          "name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+          "type": "PAC",
+          "amount": 1155421
+        },
+        {
+          "name": "BLACK PROGRESSIVE ACTION COALITION",
+          "type": "PAC",
+          "amount": 991240
+        },
+        {
+          "name": "BLACKPAC",
+          "type": "PAC",
+          "amount": 804237
+        },
+        {
+          "name": "CASA IN ACTION PAC",
+          "type": "PAC",
+          "amount": 164374
+        },
+        {
+          "name": "SAVE AMERICA FUND",
+          "type": "PAC",
+          "amount": 146913
+        },
+        {
+          "name": "ROLLING SEA ACTION FUND",
+          "type": "PAC",
+          "amount": 127500
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 108000
+        },
+        {
+          "name": "JSTREETPAC",
+          "type": "PAC",
+          "amount": 92360
+        },
+        {
+          "name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST FEDERAL POLITICAL ACTION FUND",
+          "type": "PAC",
+          "amount": 75000
+        },
+        {
+          "name": "RED SENATE",
+          "type": "PAC",
+          "amount": 42751
+        },
+        {
+          "name": "PROTECTING OUR VOTE PAC",
+          "type": "PAC",
+          "amount": 36198
+        },
+        {
+          "name": "CHESAPEAKE CLIMATE ACTION NETWORK ACTION FUND",
+          "type": "PAC",
+          "amount": 31369
+        },
+        {
+          "name": "LARRY GIBSON",
+          "type": "PAC",
+          "amount": 30670
+        },
+        {
+          "name": "ALSOBROOKS SLOTKIN VICTORY FUND",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "CLIMATE EMERGENCY ADVOCATES",
+          "type": "PAC",
+          "amount": 24279
+        },
+        {
+          "name": "UPSET THE SETUP",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "1199 SEIU NEW YORK STATE POLITICAL ACTION FUND",
+          "type": "PAC",
+          "amount": 16619
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "PEOPLE FOR THE AMERICAN WAY",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "ELECTING WOMEN BAY AREA PAC",
+          "type": "PAC",
+          "amount": 13020
+        },
+        {
+          "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+          "type": "PAC",
+          "amount": 12923
+        },
+        {
+          "name": "REPRODUCTIVE FREEDOM FOR ALL PAC",
+          "type": "PAC",
+          "amount": 12250
+        },
+        {
+          "name": "JDCA PAC",
+          "type": "PAC",
+          "amount": 11950
+        },
+        {
+          "name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+          "type": "PAC",
+          "amount": 11750
+        },
+        {
+          "name": "DEMOCRATIC STATE CENTRAL COMMITTEE OF MARYLAND",
+          "type": "PAC",
+          "amount": 10950
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MOMS FED UP",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TRI-STATE MAXED-OUT WOMEN",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "OFF THE SIDELINES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "WOMEN'S POLITICAL COMMITTEE FEDERAL",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "REV UP PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PURPOSE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "M-PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ELECT DEMOCRATIC WOMEN",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "I GOT YOUR BACK PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DEFEND THE DREAM",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "WAY TO LEAD PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DEMOCRACY SUMMER LEADERSHIP PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TURQUOISE PAC",
+          "type": "PAC",
+          "amount": 10000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
     "overall_pct": 0,
-    "total_votes_scored": 0,
+    "total_votes_scored": 1,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": []
+    "examples": [
+      {
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      }
+    ]
   },
   "electorate_alignment": {
     "issues_scored": 4,
-    "against_electorate_pct": 0,
+    "against_electorate_pct": 25,
     "highlights": [
       {
-        "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 93.0,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 66.6,
+        "margin_of_error": 9.9,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 65.0,
-        "margin_of_error": 7,
+        "district_support_pct": 64.1,
+        "margin_of_error": 8.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 73.6,
-        "margin_of_error": 7,
+        "district_support_pct": 73.0,
+        "margin_of_error": 7.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 69.0,
-        "margin_of_error": 7,
+        "district_support_pct": 68.2,
+        "margin_of_error": 7.0,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false

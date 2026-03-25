@@ -2,8 +2,40 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import { useState } from "react";
 import type { MemberSummary } from "@/lib/types";
 import { partyInfo } from "@/lib/format";
+
+function TabPhoto({ name, photoUrl }: { name: string; photoUrl: string }) {
+  const [error, setError] = useState(false);
+
+  if (error || !photoUrl) {
+    const initials = name
+      .split(" ")
+      .filter((p) => !p.endsWith("."))
+      .map((p) => p[0])
+      .slice(0, 2)
+      .join("");
+    return (
+      <div className="flex h-full w-full items-center justify-center bg-zinc-300 dark:bg-zinc-600">
+        <span className="text-xs font-bold text-zinc-500 dark:text-zinc-300">
+          {initials}
+        </span>
+      </div>
+    );
+  }
+
+  return (
+    <Image
+      src={photoUrl}
+      alt={name}
+      fill
+      className="object-cover"
+      sizes="32px"
+      onError={() => setError(true)}
+    />
+  );
+}
 
 interface RepTabBarProps {
   zip: string;
@@ -21,10 +53,10 @@ export default function RepTabBar({
   function handleShare() {
     const url = window.location.href;
     const text = activeName
-      ? `See who funds ${activeName} and how they vote — Civic Receipts`
-      : `See who funds your representatives — Civic Receipts`;
+      ? `See who funds ${activeName} and how they vote — Paying for your Reps`
+      : `See who funds your representatives — Paying for your Reps`;
     if (navigator.share) {
-      navigator.share({ title: "Civic Receipts", text, url });
+      navigator.share({ title: "Paying for your Reps", text, url });
     } else {
       navigator.clipboard.writeText(`${text}\n${url}`);
       alert("Link copied to clipboard!");
@@ -52,13 +84,7 @@ export default function RepTabBar({
               aria-current={active ? "page" : undefined}
             >
               <div className="relative h-8 w-8 shrink-0 overflow-hidden rounded-full bg-zinc-200 dark:bg-zinc-700">
-                <Image
-                  src={m.photo_url}
-                  alt={m.name}
-                  fill
-                  className="object-cover"
-                  sizes="32px"
-                />
+                <TabPhoto name={m.name} photoUrl={m.photo_url} />
                 <div
                   className="absolute bottom-0 right-0 h-2.5 w-2.5 rounded-full border-2 border-white dark:border-zinc-900"
                   style={{ backgroundColor: color }}

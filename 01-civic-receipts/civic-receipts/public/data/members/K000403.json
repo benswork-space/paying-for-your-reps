@@ -11,99 +11,1142 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 775042,
+    "campaign_raised": 775042,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 443672,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 66112
+          },
+          {
+            "name": "DEACONESS HOSPITAL",
+            "type": "Organization",
+            "amount": 24234
+          },
+          {
+            "name": "VIVINT",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "ARCADIS",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "PREMIER FAMILY MEDICAL",
+            "type": "Organization",
+            "amount": 15930
+          },
+          {
+            "name": "UNIVERSITY OF MICHIGAN",
+            "type": "Organization",
+            "amount": 13300
+          },
+          {
+            "name": "CASTLE CREEK HOMES",
+            "type": "Organization",
+            "amount": 11800
+          },
+          {
+            "name": "LINCOLN HILL PARTNERS",
+            "type": "Organization",
+            "amount": 11170
+          },
+          {
+            "name": "STATE OF UTAH",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "REAGAN SIGNS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "RIMROCK CAPITAL PARTNERS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "CENTER FOR GROWTH AND OPPORTUNITY",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "RRJ CONSULTING",
+            "type": "Organization",
+            "amount": 9181
+          },
+          {
+            "name": "LEVIS",
+            "type": "Organization",
+            "amount": 6700
+          },
+          {
+            "name": "PRIME INSURANCE CO",
+            "type": "Organization",
+            "amount": 6700
+          },
+          {
+            "name": "PG CITY",
+            "type": "Organization",
+            "amount": 6700
+          },
+          {
+            "name": "BULLOCH'S DRUG STORE",
+            "type": "Organization",
+            "amount": 6589
+          },
+          {
+            "name": "INTERMOUNTAIN HEALTH",
+            "type": "Organization",
+            "amount": 6402
+          },
+          {
+            "name": "STATE OF UT",
+            "type": "Organization",
+            "amount": 6300
+          },
+          {
+            "name": "EXCEL EYE CENTER",
+            "type": "Organization",
+            "amount": 6205
+          },
+          {
+            "name": "CAPITOL GOVERNMENT SOLUTIONS",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "WEATHERFORD",
+            "type": "Organization",
+            "amount": 5205
+          },
+          {
+            "name": "DUTKO GOVERNMENT AFFAIRS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "VON BATTEN-MONTAGUE-YORK",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ZIONS BANK",
+            "type": "Organization",
+            "amount": 4764
+          },
+          {
+            "name": "ZIONS BANCORPORATION",
+            "type": "Organization",
+            "amount": 4432
+          },
+          {
+            "name": "KHOSROW",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "WEBER STATE UNIVERSITY",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "WILSON MOTOR CO",
+            "type": "Organization",
+            "amount": 3570
+          },
+          {
+            "name": "HEALTHEQUITY",
+            "type": "Organization",
+            "amount": 3570
+          },
+          {
+            "name": "4LIFE RESEARCH",
+            "type": "Organization",
+            "amount": 3435
+          },
+          {
+            "name": "REAGAN OUTDOORS",
+            "type": "Organization",
+            "amount": 3366
+          },
+          {
+            "name": "THE ADAMS COMPANY",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "SILVER SUMMIT CAPITAL LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "MEDIC.LIFE",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "9AMHEALTH",
+            "type": "Organization",
+            "amount": 3123
+          },
+          {
+            "name": "UNIVERSITY OF UTAH",
+            "type": "Organization",
+            "amount": 3082
+          },
+          {
+            "name": "DMBA",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "UTAH CREDIT UNION ASSOCIATION",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICA FIRST CREDIT UNION",
+            "type": "Organization",
+            "amount": 2280
+          },
+          {
+            "name": "INTERMOUNTAIN HEALTH CARE",
+            "type": "Organization",
+            "amount": 2082
+          },
+          {
+            "name": "NIURIDGE",
+            "type": "Organization",
+            "amount": 2082
+          },
+          {
+            "name": "BECKS DRUGS",
+            "type": "Organization",
+            "amount": 2082
+          },
+          {
+            "name": "STOKE",
+            "type": "Organization",
+            "amount": 2041
+          },
+          {
+            "name": "STOKES STRATEGIES",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "BOLINDER RESOURCES",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "ACADEMICA WEST",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "WOODBURY CORPORATION",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "TOURO UNIVERSITY",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "CONTEXT VENTURES",
+            "type": "Organization",
+            "amount": 1700
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 331370,
+        "donors": [
+          {
+            "name": "UTAH REPUBLICAN PARTY",
+            "type": "PAC",
+            "amount": 34999
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MERIT MEDICAL SYSTEMS INC EMPLOYEE GOOD GOVERNANCE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "CONSTITUTIONAL CONSERVATIVES FUND",
+            "type": "PAC",
+            "amount": 5497
+          },
+          {
+            "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HEALTHCARE FREEDOM FUND",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "FIRST IN FREEDOM PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LEAD ENCOURAGE ELECT PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY INC POLITICAL COMMITTEE (OPHTHPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "RAPTOR PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LIFEPOINT HEALTH PAC - THE PAC OF LIFEPOINT CORPORATE SERVICES, GENERAL PARTNERSHIP (LCSGP) AND FACILITIES WHICH ARE SUBSIDIARIES OF LIFEPOINT HEALTH (COLLECTIVELY LIFEPOINT)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HUCK PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SOCK IT TO 'EM PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "JIM JORDAN FOR CONGRESS",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "MARNY PAC",
+            "type": "PAC",
+            "amount": 3300
+          },
+          {
+            "name": "KEEP ELECTING NEW TALENT PAC",
+            "type": "PAC",
+            "amount": 3300
+          },
+          {
+            "name": "CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "FRIENDS OF DAVE JOYCE",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "AMERICAN SOCIETY OF PLASTIC SURGEONS PLASTYPAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "E-PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SUSAN B. ANTHONY LIST INC. CANDIDATE FUND (DBA SUSAN B. ANTHONY PRO-LIFE AMERICA CANDIDATE FUND)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "CATERPILLAR INC. POLITICAL ACTION COMMITTEE (CATPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "IN THE ARENA PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 775042,
+      "individual_contributions": 443672,
+      "individual_itemized": 443672,
+      "individual_unitemized": 0,
+      "pac_contributions": 331370,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 66112
+        },
+        {
+          "name": "DEACONESS HOSPITAL",
+          "type": "Organization",
+          "amount": 24234
+        },
+        {
+          "name": "VIVINT",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "ARCADIS",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "PREMIER FAMILY MEDICAL",
+          "type": "Organization",
+          "amount": 15930
+        },
+        {
+          "name": "UNIVERSITY OF MICHIGAN",
+          "type": "Organization",
+          "amount": 13300
+        },
+        {
+          "name": "CASTLE CREEK HOMES",
+          "type": "Organization",
+          "amount": 11800
+        },
+        {
+          "name": "LINCOLN HILL PARTNERS",
+          "type": "Organization",
+          "amount": 11170
+        },
+        {
+          "name": "STATE OF UTAH",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "REAGAN SIGNS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "RIMROCK CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "CENTER FOR GROWTH AND OPPORTUNITY",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "RRJ CONSULTING",
+          "type": "Organization",
+          "amount": 9181
+        },
+        {
+          "name": "LEVIS",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "PRIME INSURANCE CO",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "PG CITY",
+          "type": "Organization",
+          "amount": 6700
+        },
+        {
+          "name": "BULLOCH'S DRUG STORE",
+          "type": "Organization",
+          "amount": 6589
+        },
+        {
+          "name": "INTERMOUNTAIN HEALTH",
+          "type": "Organization",
+          "amount": 6402
+        },
+        {
+          "name": "STATE OF UT",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "EXCEL EYE CENTER",
+          "type": "Organization",
+          "amount": 6205
+        },
+        {
+          "name": "CAPITOL GOVERNMENT SOLUTIONS",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "WEATHERFORD",
+          "type": "Organization",
+          "amount": 5205
+        },
+        {
+          "name": "DUTKO GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "VON BATTEN-MONTAGUE-YORK",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ZIONS BANK",
+          "type": "Organization",
+          "amount": 4764
+        },
+        {
+          "name": "ZIONS BANCORPORATION",
+          "type": "Organization",
+          "amount": 4432
+        },
+        {
+          "name": "KHOSROW",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "WEBER STATE UNIVERSITY",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "WILSON MOTOR CO",
+          "type": "Organization",
+          "amount": 3570
+        },
+        {
+          "name": "HEALTHEQUITY",
+          "type": "Organization",
+          "amount": 3570
+        },
+        {
+          "name": "4LIFE RESEARCH",
+          "type": "Organization",
+          "amount": 3435
+        },
+        {
+          "name": "REAGAN OUTDOORS",
+          "type": "Organization",
+          "amount": 3366
+        },
+        {
+          "name": "THE ADAMS COMPANY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SILVER SUMMIT CAPITAL LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MEDIC.LIFE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "9AMHEALTH",
+          "type": "Organization",
+          "amount": 3123
+        },
+        {
+          "name": "UNIVERSITY OF UTAH",
+          "type": "Organization",
+          "amount": 3082
+        },
+        {
+          "name": "DMBA",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "UTAH CREDIT UNION ASSOCIATION",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICA FIRST CREDIT UNION",
+          "type": "Organization",
+          "amount": 2280
+        },
+        {
+          "name": "INTERMOUNTAIN HEALTH CARE",
+          "type": "Organization",
+          "amount": 2082
+        },
+        {
+          "name": "NIURIDGE",
+          "type": "Organization",
+          "amount": 2082
+        },
+        {
+          "name": "BECKS DRUGS",
+          "type": "Organization",
+          "amount": 2082
+        },
+        {
+          "name": "STOKE",
+          "type": "Organization",
+          "amount": 2041
+        },
+        {
+          "name": "STOKES STRATEGIES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "BOLINDER RESOURCES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ACADEMICA WEST",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "WOODBURY CORPORATION",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TOURO UNIVERSITY",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "CONTEXT VENTURES",
+          "type": "Organization",
+          "amount": 1700
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "UTAH REPUBLICAN PARTY",
+          "type": "PAC",
+          "amount": 34999
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MERIT MEDICAL SYSTEMS INC EMPLOYEE GOOD GOVERNANCE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "CONSTITUTIONAL CONSERVATIVES FUND",
+          "type": "PAC",
+          "amount": 5497
+        },
+        {
+          "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HEALTHCARE FREEDOM FUND",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "FIRST IN FREEDOM PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "LEAD ENCOURAGE ELECT PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY INC POLITICAL COMMITTEE (OPHTHPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "RAPTOR PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "LIFEPOINT HEALTH PAC - THE PAC OF LIFEPOINT CORPORATE SERVICES, GENERAL PARTNERSHIP (LCSGP) AND FACILITIES WHICH ARE SUBSIDIARIES OF LIFEPOINT HEALTH (COLLECTIVELY LIFEPOINT)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SOCK IT TO 'EM PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "JIM JORDAN FOR CONGRESS",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "MARNY PAC",
+          "type": "PAC",
+          "amount": 3300
+        },
+        {
+          "name": "KEEP ELECTING NEW TALENT PAC",
+          "type": "PAC",
+          "amount": 3300
+        },
+        {
+          "name": "CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "FRIENDS OF DAVE JOYCE",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "AMERICAN SOCIETY OF PLASTIC SURGEONS PLASTYPAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "E-PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SUSAN B. ANTHONY LIST INC. CANDIDATE FUND (DBA SUSAN B. ANTHONY PRO-LIFE AMERICA CANDIDATE FUND)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "CATERPILLAR INC. POLITICAL ACTION COMMITTEE (CATPAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "IN THE ARENA PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 94,
-    "total_votes_scored": 41,
+    "overall_pct": 88,
+    "total_votes_scored": 12,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       },
       {
-        "vote_description": "Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes",
-        "bill": "HR7147",
-        "date": "2026-01-22",
+        "vote_description": "SUPPORT for Patients and Communities Reauthorization Act",
+        "bill": "HR2483",
+        "date": "2025-06-04",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
-        "donor_category": "Financial industry",
-        "donor_expected": "Yea on Making further consolidated appropriations for the fiscal ye"
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "SUPPORT for Patients and Communities Reauthorization Act \u2014 reauthorizes opioid treatment programs and community health services. Healthcare industry supports as it funds treatment programs and drives patient volume."
+      },
+      {
+        "vote_description": "State Planning for Reliability and Affordability Act",
+        "bill": "HR3628",
+        "date": "2025-12-11",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "State Planning for Reliability and Affordability Act \u2014 gives states more authority to override EPA clean energy mandates, protecting existing fossil fuel power plants from forced retirement."
+      },
+      {
+        "vote_description": "National Coal Council Reestablishment Act",
+        "bill": "HR3015",
+        "date": "2025-09-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "National Coal Council Reestablishment Act \u2014 re-establishes federal advisory body for coal industry, signaling government support for coal."
       },
       {
         "vote_description": "Do No Harm in Medicaid Act",
         "bill": "HR498",
         "date": "2025-12-18",
         "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
-        "donor_category": "Healthcare industry",
-        "donor_expected": "Yea on Do No Harm in Medicaid Act"
-      },
-      {
-        "vote_description": "Consolidated Appropriations Act, 2026",
-        "bill": "HR7148",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
-        "donor_category": "Financial industry",
-        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay",
+        "confidence": 0.85,
+        "reason": "Do No Harm in Medicaid Act \u2014 despite the friendly name, this bill CUTS Medicaid by restricting eligibility and reducing federal matching funds. Hospitals and healthcare providers oppose Medicaid cuts because they reduce patient volume and reimbursements."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 75,
+    "issues_scored": 5,
+    "against_electorate_pct": 80,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 40.2,
-        "margin_of_error": 7,
+        "district_support_pct": 38.7,
+        "margin_of_error": 7.6,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 56.7,
-        "margin_of_error": 7,
+        "district_support_pct": 54.9,
+        "margin_of_error": 6.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 55.2,
-        "margin_of_error": 7,
+        "district_support_pct": 53.8,
+        "margin_of_error": 7.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 54.8,
-        "margin_of_error": 7,
+        "district_support_pct": 53.4,
+        "margin_of_error": 6.7,
         "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 37.4,
+        "margin_of_error": 6.6,
+        "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       }

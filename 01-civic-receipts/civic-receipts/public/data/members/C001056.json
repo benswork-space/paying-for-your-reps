@@ -2917,112 +2917,133 @@
     ]
   },
   "donor_alignment": {
-    "overall_pct": 78,
-    "total_votes_scored": 21,
+    "overall_pct": 90,
+    "total_votes_scored": 7,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
-        "bill": "S2073",
-        "date": "2024-07-30",
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE",
-        "donor_category": "Tech companies",
-        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
-      },
-      {
-        "vote_description": "A joint resolution to provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers' Conference Committee of the National Railway Labor Conference and certain of their employees.",
-        "bill": "HJRES100",
-        "date": "2022-12-01",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AIR LINE PILOTS ASSOCIATION PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on A joint resolution to provide for a resolution with respect "
-      },
-      {
-        "vote_description": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
-        "bill": "S1071",
-        "date": "2025-12-17",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "L3HARRIS TECHNOLOGIES INC. PAC",
-        "donor_category": "Defense contractors",
-        "donor_expected": "Yea on A bill to require the Secretary of Veterans Affairs to disin"
-      },
-      {
-        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
-        "bill": "S3853",
-        "date": "2024-03-07",
-        "member_voted": "Nay",
-        "aligned": false,
-        "donor_name": "AIR LINE PILOTS ASSOCIATION PAC",
-        "donor_category": "Labor unions",
-        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       },
       {
         "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
         "bill": "HR4346",
         "date": "2022-07-27",
         "member_voted": "Yea",
-        "aligned": false,
-        "donor_name": "MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE",
+        "aligned": true,
         "donor_category": "Tech companies",
-        "donor_expected": "Nay on A bill making appropriations for Legislative Branch for the "
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "CHIPS and Science Act \u2014 massive investment in semiconductor manufacturing and scientific research. Major tech companies like Intel, TSMC, and Samsung directly benefit from chip manufacturing subsidies."
+      },
+      {
+        "vote_description": "A bill to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+        "bill": "HR2670",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "FY2024 NDAA conference report \u2014 final version of annual defense authorization bill. Defense industry's top legislative priority each year."
+      },
+      {
+        "vote_description": "A bill to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.",
+        "bill": "HR7776",
+        "date": "2022-07-28",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Water Resources Development and NDAA package \u2014 vehicle for FY2023 NDAA and defense authorization provisions."
+      },
+      {
+        "vote_description": "An act to make our communities safer.",
+        "bill": "S2938",
+        "date": "2022-06-23",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Bipartisan Safer Communities Act \u2014 NRA opposed this as it enhances background checks for under-21 buyers, funds state red flag laws, and closes the boyfriend loophole. NRA lobbied against passage."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 100,
+    "issues_scored": 8,
+    "against_electorate_pct": 62,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 88.0,
-        "margin_of_error": 7,
+        "district_support_pct": 86.3,
+        "margin_of_error": 5.7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 57.8,
+        "margin_of_error": 8.2,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 56.0,
-        "margin_of_error": 7,
-        "member_position": "Voted Nay",
-        "aligned_with_electorate": false,
-        "aligned_with_donors": false
-      },
-      {
-        "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 19.9,
-        "margin_of_error": 7,
+        "district_support_pct": 54.9,
+        "margin_of_error": 9.0,
         "member_position": "Voted Yea",
-        "aligned_with_electorate": false,
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 52.0,
-        "margin_of_error": 7,
+        "district_support_pct": 50.8,
+        "margin_of_error": 7.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 65.4,
-        "margin_of_error": 7,
+        "district_support_pct": 65.0,
+        "margin_of_error": 8.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 61.7,
-        "margin_of_error": 7,
+        "district_support_pct": 61.0,
+        "margin_of_error": 7.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Grant legal status to DACA recipients",
+        "district_support_pct": 69.8,
+        "margin_of_error": 6.8,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 60.6,
+        "margin_of_error": 7.6,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

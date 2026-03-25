@@ -11,116 +11,1175 @@
   "years_in_office": 13,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 438804,
+    "campaign_raised": 438804,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 203127,
+        "donors": [
+          {
+            "name": "HARTMAN FOUNDATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AVANZAR INTERIOR TECHNOLOGIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GEORGE SALINAS INJURY LAWYERS",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "RX MEDIA",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "EL NORTE PRODUCTIONS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "BANIJAY",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "AHCV",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "MONTY & RAMIREZ",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "STARZ",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "J&P PAVING & GRADING",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CANTU CONSTRUCTION",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "MERRILL LYNCH",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "ATS COMMUNICATIONS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "SERNA AND SERNA",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "PRIMESTOR DEVELOPMENT INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "QUEVEDO LAW PLLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "MUCHO MAS MEDIA",
+            "type": "Organization",
+            "amount": 3150
+          },
+          {
+            "name": "AKIN",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "ANG PLLC",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "WELCOME TECH",
+            "type": "Organization",
+            "amount": 2800
+          },
+          {
+            "name": "OGILVY",
+            "type": "Organization",
+            "amount": 2750
+          },
+          {
+            "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+            "type": "Organization",
+            "amount": 2750
+          },
+          {
+            "name": "CULTURATI",
+            "type": "Organization",
+            "amount": 2700
+          },
+          {
+            "name": "OCANAS GROUP",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "OGILVY GOVERNMENT RELATIONS",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "CORNERSTONE",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "TRUJILLO GROUP",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "SHIPLEY &ASSOCIATESINC",
+            "type": "Organization",
+            "amount": 2250
+          },
+          {
+            "name": "BOOZ ALLEN HAMILTON",
+            "type": "Organization",
+            "amount": 2200
+          },
+          {
+            "name": "SANTANA CONSULTING",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "TEXANS FOR REASONABLE SOLUTIONS",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "AKIN GUMP",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "CUBAMAX TRAVEL",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "SWBC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "LAW OFFICE OF SERNA AND SERNA",
+            "type": "Organization",
+            "amount": 1666
+          },
+          {
+            "name": "BLACKROCK",
+            "type": "Organization",
+            "amount": 1650
+          },
+          {
+            "name": "MUNOZ & COMPANY",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "THE LEVY COMPANY INC",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "FEROX STRATEGIES",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "CC DISTRIBUTORS, INC.",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "DENTONS",
+            "type": "Organization",
+            "amount": 1250
+          },
+          {
+            "name": "STANFORD UNIVERSITY",
+            "type": "Organization",
+            "amount": 1250
+          },
+          {
+            "name": "NETFLIX",
+            "type": "Organization",
+            "amount": 1150
+          },
+          {
+            "name": "TDDC",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "MILMO GROUP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "NORTON ROSE FULBRIGHT LLP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "FORMA AUTOMOTIVE",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "MILLENNIUM STEEL OF TEXAS",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "3PAS STUDIOS",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "FREE EAGLE VENTURES",
+            "type": "Organization",
+            "amount": 1000
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 235677,
+        "donors": [
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BORDER HEALTH FEDERAL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MIDWEST REGION LABORERS' POLITICAL LEAGUE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 8167
+          },
+          {
+            "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF POSTAL SUPERVISORS PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AKERMAN LLP PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "DEMAND JUSTICE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "TELEVISAUNIVISION, INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "JSTREETPAC",
+            "type": "PAC",
+            "amount": 2750
+          },
+          {
+            "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "DELTA AIR LINES PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL COUNCIL OF TEXTILE ORGANIZATIONS INC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "INVESCO HOLDING COMPANY (US), INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NANCY PELOSI FOR CONGRESS",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "AAR CORP. PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "SOUTH TEXAS SUGAR CANE PRODUCERS PAC RIO GRANDE VALLEY SUGAR GROWERS, INC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "HUMAN RIGHTS CAMPAIGN PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "UNITEDEMOCRATS PAC",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "AMALGAMATED SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "MICHIGAN SUGAR COMPANY GROWERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "BARNES & THORNBURG POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "ANIMAL WELLNESS ACTION PAC",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 438804,
+      "individual_contributions": 203127,
+      "individual_itemized": 203127,
+      "individual_unitemized": 0,
+      "pac_contributions": 235677,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "HARTMAN FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AVANZAR INTERIOR TECHNOLOGIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GEORGE SALINAS INJURY LAWYERS",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "RX MEDIA",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "EL NORTE PRODUCTIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BANIJAY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AHCV",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MONTY & RAMIREZ",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "STARZ",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "J&P PAVING & GRADING",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CANTU CONSTRUCTION",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MERRILL LYNCH",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ATS COMMUNICATIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SERNA AND SERNA",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PRIMESTOR DEVELOPMENT INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "QUEVEDO LAW PLLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MUCHO MAS MEDIA",
+          "type": "Organization",
+          "amount": 3150
+        },
+        {
+          "name": "AKIN",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "ANG PLLC",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "WELCOME TECH",
+          "type": "Organization",
+          "amount": 2800
+        },
+        {
+          "name": "OGILVY",
+          "type": "Organization",
+          "amount": 2750
+        },
+        {
+          "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 2750
+        },
+        {
+          "name": "CULTURATI",
+          "type": "Organization",
+          "amount": 2700
+        },
+        {
+          "name": "OCANAS GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "OGILVY GOVERNMENT RELATIONS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "CORNERSTONE",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "TRUJILLO GROUP",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SHIPLEY &ASSOCIATESINC",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "BOOZ ALLEN HAMILTON",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "SANTANA CONSULTING",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "TEXANS FOR REASONABLE SOLUTIONS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "AKIN GUMP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "CUBAMAX TRAVEL",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "SWBC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "LAW OFFICE OF SERNA AND SERNA",
+          "type": "Organization",
+          "amount": 1666
+        },
+        {
+          "name": "BLACKROCK",
+          "type": "Organization",
+          "amount": 1650
+        },
+        {
+          "name": "MUNOZ & COMPANY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "THE LEVY COMPANY INC",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "FEROX STRATEGIES",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "CC DISTRIBUTORS, INC.",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "DENTONS",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "STANFORD UNIVERSITY",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "NETFLIX",
+          "type": "Organization",
+          "amount": 1150
+        },
+        {
+          "name": "TDDC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MILMO GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "NORTON ROSE FULBRIGHT LLP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "FORMA AUTOMOTIVE",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "MILLENNIUM STEEL OF TEXAS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "3PAS STUDIOS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "FREE EAGLE VENTURES",
+          "type": "Organization",
+          "amount": 1000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BORDER HEALTH FEDERAL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MIDWEST REGION LABORERS' POLITICAL LEAGUE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 8167
+        },
+        {
+          "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF POSTAL SUPERVISORS PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AKERMAN LLP PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "DEMAND JUSTICE PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "TELEVISAUNIVISION, INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "JSTREETPAC",
+          "type": "PAC",
+          "amount": 2750
+        },
+        {
+          "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "DELTA AIR LINES PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL COUNCIL OF TEXTILE ORGANIZATIONS INC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "INVESCO HOLDING COMPANY (US), INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NANCY PELOSI FOR CONGRESS",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "AAR CORP. PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "SOUTH TEXAS SUGAR CANE PRODUCERS PAC RIO GRANDE VALLEY SUGAR GROWERS, INC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "HUMAN RIGHTS CAMPAIGN PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "UNITEDEMOCRATS PAC",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "AMALGAMATED SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "MICHIGAN SUGAR COMPANY GROWERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "BARNES & THORNBURG POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "ANIMAL WELLNESS ACTION PAC",
+          "type": "PAC",
+          "amount": 1000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 90,
-    "total_votes_scored": 85,
+    "overall_pct": 57,
+    "total_votes_scored": 21,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "Meat and Poultry Special Investigator Act",
-        "bill": "HR7606",
-        "date": "2022-06-16",
+        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
+        "bill": "HR4346",
+        "date": "2022-07-28",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-        "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Meat and Poultry Special Investigator Act"
-      },
-      {
-        "vote_description": "Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes",
-        "bill": "HR7147",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "TELEVISAUNIVISION, INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Financial industry",
-        "donor_expected": "Nay on Making further consolidated appropriations for the fiscal ye"
-      },
-      {
-        "vote_description": "DUMP Red Tape Act",
-        "bill": "HR4305",
-        "date": "2025-12-03",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
         "donor_category": "Tech companies",
-        "donor_expected": "Nay on DUMP Red Tape Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "CHIPS and Science Act \u2014 massive investment in semiconductor manufacturing and scientific research. Major tech companies like Intel, TSMC, and Samsung directly benefit from chip manufacturing subsidies."
       },
       {
-        "vote_description": "Pandemic Unemployment Fraud Enforcement Act",
-        "bill": "HR1156",
-        "date": "2025-03-11",
+        "vote_description": "Workforce Innovation and Opportunity Act of 2022",
+        "bill": "HR7309",
+        "date": "2022-05-17",
         "member_voted": "Yea",
-        "aligned": false,
-        "donor_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "aligned": true,
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pandemic Unemployment Fraud Enforcement Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Workforce Innovation and Opportunity Act of 2022 \u2014 reauthorizes job training programs that unions support as they fund apprenticeships and workforce development."
+      },
+      {
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 9,
+    "against_electorate_pct": 11,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 89.0,
+        "margin_of_error": 4.1,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 70.2,
-        "margin_of_error": 7,
+        "district_support_pct": 67.4,
+        "margin_of_error": 6.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 65.0,
-        "margin_of_error": 7,
+        "district_support_pct": 63.9,
+        "margin_of_error": 7.7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 17.6,
-        "margin_of_error": 7,
+        "district_support_pct": 18.9,
+        "margin_of_error": 4.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 55.8,
-        "margin_of_error": 7,
+        "district_support_pct": 54.6,
+        "margin_of_error": 6.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 69.6,
-        "margin_of_error": 7,
+        "district_support_pct": 69.4,
+        "margin_of_error": 5.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 65.9,
-        "margin_of_error": 7,
+        "district_support_pct": 65.4,
+        "margin_of_error": 5.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 30.7,
+        "margin_of_error": 5.5,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 66.7,
+        "margin_of_error": 5.5,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

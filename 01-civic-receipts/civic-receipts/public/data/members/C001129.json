@@ -956,96 +956,133 @@
     "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 91,
-    "total_votes_scored": 63,
+    "overall_pct": 92,
+    "total_votes_scored": 45,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
+      {
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
+      },
       {
         "vote_description": "Whole Milk for Healthy Kids Act",
         "bill": "HR1147",
         "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
         "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Whole Milk for Healthy Kids Act \u2014 allows schools to offer whole-fat milk and flavored milk, supported by the dairy industry and National Dairy Council as it increases school milk sales."
       },
       {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
+        "vote_description": "End Chinese Dominance of Electric Vehicles in America Act",
+        "bill": "HR7980",
+        "date": "2024-09-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "KOCH INDUSTRIES, INC. PAC (KOCHPAC)",
+        "donor_category": "Auto industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "End Chinese Dominance of Electric Vehicles in America Act \u2014 restricts EV tax credits for Chinese-connected vehicles. Auto dealers support this as it slows the EV transition that threatens their service revenue model."
+      },
+      {
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
+        "member_voted": "Yea",
+        "aligned": true,
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       },
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "ALLIED PILOTS ASSOCIATION PAC",
-        "donor_category": "Labor unions",
-        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
-      },
-      {
-        "vote_description": "Do No Harm in Medicaid Act",
-        "bill": "HR498",
-        "date": "2025-12-18",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "TAKEDA PHARMACEUTICALS AMERICA INC. PAC",
-        "donor_category": "Healthcare industry",
-        "donor_expected": "Yea on Do No Harm in Medicaid Act"
-      },
-      {
-        "vote_description": "To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",
-        "bill": "HR1023",
-        "date": "2024-03-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Yea",
         "aligned": false,
-        "donor_name": "KOCH INDUSTRIES, INC. PAC (KOCHPAC)",
-        "donor_category": "Fossil fuel industry",
-        "donor_expected": "Nay on To repeal section 134 of the Clean Air Act, relating to the "
+        "donor_category": "Labor unions",
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 75,
+    "issues_scored": 8,
+    "against_electorate_pct": 62,
     "highlights": [
       {
-        "issue": "Abortion should always be legal",
-        "district_support_pct": 50.3,
-        "margin_of_error": 7,
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.4,
+        "margin_of_error": 3.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 58.3,
+        "margin_of_error": 6.5,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 49.8,
+        "margin_of_error": 7.3,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 49.4,
-        "margin_of_error": 7,
+        "district_support_pct": 48.7,
+        "margin_of_error": 5.5,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 62.8,
-        "margin_of_error": 7,
+        "district_support_pct": 62.4,
+        "margin_of_error": 6.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 58.5,
-        "margin_of_error": 7,
+        "district_support_pct": 57.8,
+        "margin_of_error": 5.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 45.8,
+        "margin_of_error": 6.0,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 60.6,
+        "margin_of_error": 5.9,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

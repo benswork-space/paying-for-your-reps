@@ -11,58 +11,1077 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 8839105,
+    "campaign_raised": 8839105,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 2021670,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 49620
+          },
+          {
+            "name": "COMMUNICARE HEALTH SERVICES",
+            "type": "Organization",
+            "amount": 29700
+          },
+          {
+            "name": "PILOT FLYING J",
+            "type": "Organization",
+            "amount": 23100
+          },
+          {
+            "name": "COMMUNICARE",
+            "type": "Organization",
+            "amount": 23100
+          },
+          {
+            "name": "ANTERO RESOURCES CORPORATION",
+            "type": "Organization",
+            "amount": 22740
+          },
+          {
+            "name": "TRITON CONSTRUCTION INC",
+            "type": "Organization",
+            "amount": 19800
+          },
+          {
+            "name": "WORKLINE",
+            "type": "Organization",
+            "amount": 19800
+          },
+          {
+            "name": "CMS",
+            "type": "Organization",
+            "amount": 19800
+          },
+          {
+            "name": "CHARTER ONE",
+            "type": "Organization",
+            "amount": 16800
+          },
+          {
+            "name": "RESERVE OIL & GAS",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "GUYAN MACHINERY",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "YESHIVAS DAAS CHOCHMA",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "DUTCH MILLER KIA",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "DIVERSIFIED GAS & OIL",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "UNITED STATES SENATE",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "CLEARPATH",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "THORNHILL AUTO GROUP",
+            "type": "Organization",
+            "amount": 14400
+          },
+          {
+            "name": "ARCH RESOURCES INC",
+            "type": "Organization",
+            "amount": 14100
+          },
+          {
+            "name": "NELSON BROTHERS INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "GOULD'S ELECTRIC MOTOR REPAIR INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "UNIVERSITY OF MINNESOTA",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "STEPHENS INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "CYBER SECURITY TAX OFFICE",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "HARRY GREEN CHEVROLET",
+            "type": "Organization",
+            "amount": 12400
+          },
+          {
+            "name": "MCKENNA  ASSOCIATES",
+            "type": "Organization",
+            "amount": 10900
+          },
+          {
+            "name": "MOSES GMC OF CHARLESTON",
+            "type": "Organization",
+            "amount": 10400
+          },
+          {
+            "name": "MOSES AUTO GROUP",
+            "type": "Organization",
+            "amount": 10400
+          },
+          {
+            "name": "EQUITRANS MIDSTREAM",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "HOPE GAS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "HAGERSTOWN FORD",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "APPLIED CONSTRUCTION SOLUTIONS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "WACO OIL & GAS CO.",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "ALPHA METALLURGICAL RESOURCES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "HARRY WRIGHT INC.",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "KNOWLEDGE UNIVERSE",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "LYRICAL MEDIA",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "UBS GROUP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "DIAMONDBACK BASEBALL",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "DIAMONDBACKS BASEBALL",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "WFG",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "ARIZONA CARDINALS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "WCF",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "IRONBRIDGE GOLF CLUB",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "SALTYS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "CHAMPINN INDUSTRIES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "KMGI",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "THE VECELLIO GROUP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "WESTERN WALL PRAYERS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "OMNE ERP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "LONG TERM CARE - COMMUNICARE HEALTH",
+            "type": "Organization",
+            "amount": 9900
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 6817435,
+        "donors": [
+          {
+            "name": "DEFEND AMERICAN JOBS",
+            "type": "PAC",
+            "amount": 3025543
+          },
+          {
+            "name": "CLUB FOR GROWTH ACTION",
+            "type": "PAC",
+            "amount": 2106027
+          },
+          {
+            "name": "TEAM WEST VIRGINIA",
+            "type": "PAC",
+            "amount": 483188
+          },
+          {
+            "name": "CONSERVATIVE AMERICANS PAC",
+            "type": "PAC",
+            "amount": 176584
+          },
+          {
+            "name": "JUSTICE VICTORY COMMITTEE",
+            "type": "PAC",
+            "amount": 153550
+          },
+          {
+            "name": "MORE JOBS, LESS GOVERNMENT",
+            "type": "PAC",
+            "amount": 25548
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 19118
+          },
+          {
+            "name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+            "type": "PAC",
+            "amount": 19000
+          },
+          {
+            "name": "MAKING A RESPONSIBLE STAND FOR HOUSEHOLDS IN AMERICA PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "WILD AND WONDERFUL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "PROJECT WEST POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BLUEGRASS COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DIVERSIFIED GAS & OIL CORPORATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DEFEND OUR CONSERVATIVE SENATE PAC (DOC'S PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BADLANDS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN EXCELLENCE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ARCH RESOURCES INC. POLITICAL ACTION COMMITTEE (ARCHPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "JOBS OPPORTUNITY AND NEW IDEAS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NEBRASKA SANDHILLS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FREEDOM FUND",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ALABAMA FIRST PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CONSERVATIVES HARVESTING SUCCESS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TRUE NORTH PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COMMON VALUES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HEARTLAND VALUES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DIRIGO PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE PETER NORBECK LEADERSHIP PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CRH AMERICAS, INC. PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ALTRIA GROUP, INC. POLITICAL ACTION COMMITTEE (ALTRIAPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "LEADERSHIP AND ACCOUNTABILITY ARE NATIONAL KEYS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "STEER PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CLEARWAY ENERGY INC PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
+            "type": "PAC",
+            "amount": 8908
+          },
+          {
+            "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+            "type": "PAC",
+            "amount": 8818
+          },
+          {
+            "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NATIONAL RESTAURANT ASSOCIATION PAC (RESTAURANT PAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "THE BOEING COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "AMERICAN PHYSICAL THERAPY ASSOCIATION PHYSICAL THERAPY POLITICAL ACTION COMMITTEE (PT-PAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "WEST VIRGINIANS FOR COAL",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "ALLIANCE COAL, LLC PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "BOOTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BIG SKY OPPORTUNITY PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "OORAH! POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 8839105,
+      "individual_contributions": 2021670,
+      "individual_itemized": 2021670,
+      "individual_unitemized": 0,
+      "pac_contributions": 6817435,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 49620
+        },
+        {
+          "name": "COMMUNICARE HEALTH SERVICES",
+          "type": "Organization",
+          "amount": 29700
+        },
+        {
+          "name": "PILOT FLYING J",
+          "type": "Organization",
+          "amount": 23100
+        },
+        {
+          "name": "COMMUNICARE",
+          "type": "Organization",
+          "amount": 23100
+        },
+        {
+          "name": "ANTERO RESOURCES CORPORATION",
+          "type": "Organization",
+          "amount": 22740
+        },
+        {
+          "name": "TRITON CONSTRUCTION INC",
+          "type": "Organization",
+          "amount": 19800
+        },
+        {
+          "name": "WORKLINE",
+          "type": "Organization",
+          "amount": 19800
+        },
+        {
+          "name": "CMS",
+          "type": "Organization",
+          "amount": 19800
+        },
+        {
+          "name": "CHARTER ONE",
+          "type": "Organization",
+          "amount": 16800
+        },
+        {
+          "name": "RESERVE OIL & GAS",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "GUYAN MACHINERY",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "YESHIVAS DAAS CHOCHMA",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "DUTCH MILLER KIA",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "DIVERSIFIED GAS & OIL",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "UNITED STATES SENATE",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "CLEARPATH",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "THORNHILL AUTO GROUP",
+          "type": "Organization",
+          "amount": 14400
+        },
+        {
+          "name": "ARCH RESOURCES INC",
+          "type": "Organization",
+          "amount": 14100
+        },
+        {
+          "name": "NELSON BROTHERS INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "GOULD'S ELECTRIC MOTOR REPAIR INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "UNIVERSITY OF MINNESOTA",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "STEPHENS INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "CYBER SECURITY TAX OFFICE",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "HARRY GREEN CHEVROLET",
+          "type": "Organization",
+          "amount": 12400
+        },
+        {
+          "name": "MCKENNA  ASSOCIATES",
+          "type": "Organization",
+          "amount": 10900
+        },
+        {
+          "name": "MOSES GMC OF CHARLESTON",
+          "type": "Organization",
+          "amount": 10400
+        },
+        {
+          "name": "MOSES AUTO GROUP",
+          "type": "Organization",
+          "amount": 10400
+        },
+        {
+          "name": "EQUITRANS MIDSTREAM",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "HOPE GAS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "HAGERSTOWN FORD",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "APPLIED CONSTRUCTION SOLUTIONS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "WACO OIL & GAS CO.",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "ALPHA METALLURGICAL RESOURCES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "HARRY WRIGHT INC.",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "KNOWLEDGE UNIVERSE",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "LYRICAL MEDIA",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "UBS GROUP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "DIAMONDBACK BASEBALL",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "DIAMONDBACKS BASEBALL",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "WFG",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "ARIZONA CARDINALS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "WCF",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "IRONBRIDGE GOLF CLUB",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "SALTYS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "CHAMPINN INDUSTRIES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "KMGI",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "THE VECELLIO GROUP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "WESTERN WALL PRAYERS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "OMNE ERP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "LONG TERM CARE - COMMUNICARE HEALTH",
+          "type": "Organization",
+          "amount": 9900
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "DEFEND AMERICAN JOBS",
+          "type": "PAC",
+          "amount": 3025543
+        },
+        {
+          "name": "CLUB FOR GROWTH ACTION",
+          "type": "PAC",
+          "amount": 2106027
+        },
+        {
+          "name": "TEAM WEST VIRGINIA",
+          "type": "PAC",
+          "amount": 483188
+        },
+        {
+          "name": "CONSERVATIVE AMERICANS PAC",
+          "type": "PAC",
+          "amount": 176584
+        },
+        {
+          "name": "JUSTICE VICTORY COMMITTEE",
+          "type": "PAC",
+          "amount": 153550
+        },
+        {
+          "name": "MORE JOBS, LESS GOVERNMENT",
+          "type": "PAC",
+          "amount": 25548
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 19118
+        },
+        {
+          "name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+          "type": "PAC",
+          "amount": 19000
+        },
+        {
+          "name": "MAKING A RESPONSIBLE STAND FOR HOUSEHOLDS IN AMERICA PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "WILD AND WONDERFUL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PROJECT WEST POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BLUEGRASS COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DIVERSIFIED GAS & OIL CORPORATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DEFEND OUR CONSERVATIVE SENATE PAC (DOC'S PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BADLANDS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN EXCELLENCE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ARCH RESOURCES INC. POLITICAL ACTION COMMITTEE (ARCHPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "JOBS OPPORTUNITY AND NEW IDEAS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NEBRASKA SANDHILLS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FREEDOM FUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ALABAMA FIRST PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CONSERVATIVES HARVESTING SUCCESS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TRUE NORTH PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COMMON VALUES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HEARTLAND VALUES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DIRIGO PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE PETER NORBECK LEADERSHIP PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CRH AMERICAS, INC. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ALTRIA GROUP, INC. POLITICAL ACTION COMMITTEE (ALTRIAPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "LEADERSHIP AND ACCOUNTABILITY ARE NATIONAL KEYS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "STEER PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CLEARWAY ENERGY INC PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
+          "type": "PAC",
+          "amount": 8908
+        },
+        {
+          "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+          "type": "PAC",
+          "amount": 8818
+        },
+        {
+          "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NATIONAL RESTAURANT ASSOCIATION PAC (RESTAURANT PAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "THE BOEING COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "AMERICAN PHYSICAL THERAPY ASSOCIATION PHYSICAL THERAPY POLITICAL ACTION COMMITTEE (PT-PAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "WEST VIRGINIANS FOR COAL",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "ALLIANCE COAL, LLC PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "BOOTS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BIG SKY OPPORTUNITY PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "OORAH! POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+          "type": "PAC",
+          "amount": 5000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 100,
-    "total_votes_scored": 1,
+    "overall_pct": 0,
+    "total_votes_scored": 0,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": [
-      {
-        "vote_description": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
-        "bill": "S1071",
-        "date": "2025-12-17",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "THE BOEING COMPANY POLITICAL ACTION COMMITTEE",
-        "donor_category": "Defense contractors",
-        "donor_expected": "Yea on A bill to require the Secretary of Veterans Affairs to disin"
-      }
-    ]
+    "examples": []
   },
   "electorate_alignment": {
     "issues_scored": 4,
-    "against_electorate_pct": 100,
+    "against_electorate_pct": 75,
     "highlights": [
       {
-        "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 88.0,
-        "margin_of_error": 7,
-        "member_position": "Voted Nay",
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 43.8,
+        "margin_of_error": 12.0,
+        "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 50.8,
-        "margin_of_error": 7,
+        "district_support_pct": 49.4,
+        "margin_of_error": 10.3,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": false,
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 60.4,
-        "margin_of_error": 7,
+        "district_support_pct": 59.2,
+        "margin_of_error": 8.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 55.5,
-        "margin_of_error": 7,
+        "district_support_pct": 54.2,
+        "margin_of_error": 8.7,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false

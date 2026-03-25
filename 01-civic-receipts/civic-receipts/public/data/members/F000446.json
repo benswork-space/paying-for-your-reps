@@ -1093,111 +1093,140 @@
   },
   "donor_alignment": {
     "overall_pct": 94,
-    "total_votes_scored": 60,
+    "total_votes_scored": 35,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       },
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       },
       {
-        "vote_description": "Affordable HOMES Act",
-        "bill": "HR5184",
-        "date": "2026-01-09",
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
-        "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on Affordable HOMES Act"
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
       },
       {
-        "vote_description": "Pet and Livestock Protection Act",
-        "bill": "HR845",
-        "date": "2025-12-18",
+        "vote_description": "State Planning for Reliability and Affordability Act",
+        "bill": "HR3628",
+        "date": "2025-12-11",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on Pet and Livestock Protection Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "State Planning for Reliability and Affordability Act \u2014 gives states more authority to override EPA clean energy mandates, protecting existing fossil fuel power plants from forced retirement."
       },
       {
-        "vote_description": "To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",
-        "bill": "HR1023",
-        "date": "2024-03-22",
-        "member_voted": "Yea",
+        "vote_description": "Providing for a correction in the enrollment of H.J. Res. 100",
+        "bill": "HCONRES119",
+        "date": "2022-11-30",
+        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Nay on To repeal section 134 of the Clean Air Act, relating to the "
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "115th Congress resolution expressing that a carbon tax would be detrimental \u2014 same anti-carbon-tax position favored by fossil fuel industry."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 67,
+    "issues_scored": 9,
+    "against_electorate_pct": 78,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 86.0,
+        "margin_of_error": 6.3,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 62.5,
-        "margin_of_error": 7,
+        "district_support_pct": 60.3,
+        "margin_of_error": 8.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 47.9,
-        "margin_of_error": 7,
+        "district_support_pct": 47.5,
+        "margin_of_error": 10.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 17.4,
-        "margin_of_error": 7,
+        "district_support_pct": 18.2,
+        "margin_of_error": 5.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 55.0,
-        "margin_of_error": 7,
+        "district_support_pct": 54.5,
+        "margin_of_error": 8.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 65.8,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "district_support_pct": 65.6,
+        "margin_of_error": 7.3,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 66.0,
-        "margin_of_error": 7,
+        "district_support_pct": 65.6,
+        "margin_of_error": 6.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 44.1,
+        "margin_of_error": 8.0,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 60.1,
+        "margin_of_error": 7.3,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

@@ -21,39 +21,71 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 100,
+    "issues_scored": 8,
+    "against_electorate_pct": 88,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 90.5,
+        "margin_of_error": 4.7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 68.0,
+        "margin_of_error": 8.4,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 66.1,
-        "margin_of_error": 7,
+        "district_support_pct": 65.0,
+        "margin_of_error": 10.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 60.2,
-        "margin_of_error": 7,
+        "district_support_pct": 59.2,
+        "margin_of_error": 8.7,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 73.8,
-        "margin_of_error": 7,
+        "district_support_pct": 72.5,
+        "margin_of_error": 7.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 68.2,
-        "margin_of_error": 7,
+        "district_support_pct": 67.0,
+        "margin_of_error": 7.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 41.3,
+        "margin_of_error": 8.7,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 71.2,
+        "margin_of_error": 7.0,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

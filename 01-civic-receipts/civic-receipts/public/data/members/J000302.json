@@ -11,43 +11,1065 @@
   "years_in_office": 7,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1611797,
+    "campaign_raised": 1611797,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 211914,
+        "donors": [
+          {
+            "name": "MARTIN'S FAMOUS PASTRY SHOPPE, INC",
+            "type": "Organization",
+            "amount": 12400
+          },
+          {
+            "name": "BGR GROUP",
+            "type": "Organization",
+            "amount": 9000
+          },
+          {
+            "name": "DAVITA",
+            "type": "Organization",
+            "amount": 7500
+          },
+          {
+            "name": "TIDES MEDICAL",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "CLEARPATH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KCUC",
+            "type": "Organization",
+            "amount": 6532
+          },
+          {
+            "name": "FARRAGUT PARTNERS",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "ALPINE GROUP",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "KOUNTOUPES DENHAM CARR  REID",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "ALSTON  BIRD, LLP",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "INVARIANT",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "ALSTON  BIRD",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "KANSAS CITY UROLOGY",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "SALT POINT STRATEGIES, LLC",
+            "type": "Organization",
+            "amount": 3800
+          },
+          {
+            "name": "PCCA",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "THE NICKLES GROUP",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "MARTIN'S FAMOUS PASTRY SHOPPE",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "NORTHWESTERN UNIVERSITY",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "W STRATEGIES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "TERREG MANAGEMENT",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "TODD STRATEGY GROUP",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "FISHER INVESTMENTS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "PLANO 6500 LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "GOOGLE LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "TODD STRATEGY LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "DAVITA INC.",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "HART HEALTH STRATEGIES",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "WEST FRONT STRATEGIES",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "DAVITA INC",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "APPLE INC.",
+            "type": "Organization",
+            "amount": 2250
+          },
+          {
+            "name": "WELLSPAN HEALTH",
+            "type": "Organization",
+            "amount": 2200
+          },
+          {
+            "name": "UPMC",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "ALSTON  BIRD LLP",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "FIERCE GOVERNMENT RELATIONS",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "THE PICARD GROUP",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "KOUNTOUPES DENHAM CARR & REID",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "THE MCMANUS GROUP",
+            "type": "Organization",
+            "amount": 1750
+          },
+          {
+            "name": "MARTIN FAMOUS PASTRY SHOPPES",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "KCUC UROLOGY AND ONCOLOGY",
+            "type": "Organization",
+            "amount": 1532
+          },
+          {
+            "name": "KDCR PARTNERS",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "WARD TRANSPORT & LOGISTICS",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "FEDERAL HEALTH POLICY STRATEGIES",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "AKIN GUMP STRAUSS HAUER AND FELD",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "THE CORMAC GROUP",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "THORN RUN PARTNERS",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "RECORA",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "AQUINAS ACADEMY",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "THE STANTON PARK GROUP",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "STYLES STRATEGY",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "ARENT FOX SCHIFF LLP",
+            "type": "Organization",
+            "amount": 1250
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 1399883,
+        "donors": [
+          {
+            "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "KEYSTONE ALLIANCE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12000
+          },
+          {
+            "name": "AMERICAN UROLOGICAL ASSOCIATION, INC. POLITICAL ACTION COMMITTEE (AUAPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "SPINE PAC OF THE NATIONAL ASSOCIATION OF SPINE SPECIALISTS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN CHIROPRACTIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "VALERO ENERGY CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "PPL CORPORATION PEOPLE FOR GOOD GOVERNMENT",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN SOCIETY OF PLASTIC SURGEONS PLASTYPAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL EMERGENCY MEDICINE POLITICAL ACTION COMMITTEE / AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BRISTOL-MYERS SQUIBB COMPANY POLITICAL ACTION COMMITTEE (BMS PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BIOMARIN PHARMACEUTICAL INC. POLITICAL ACTION COMMITTEE AKA BIOMARIN PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "OSHKOSH CORPORATION EMPLOYEES PAC (OCEPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "SANOFI US SERVICES INC. EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FIRSTENERGY CORP POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "REJOICE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
+            "type": "PAC",
+            "amount": 9000
+          },
+          {
+            "name": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION - OSTEOPATHIC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "AMERICAN COLLEGE OF PHYSICIAN SERVICES INC PAC; AKA ACP SERVICES PAC",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "GRIDIRON-PAC",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "ORGANON & CO. EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "THE AMERICAN OCCUPATIONAL THERAPY ASSOCIATION, INC. POLITICAL ACTION COMMITTEE (AOTPAC)",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "COLLEGE OF AMERICAN PATHOLOGISTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "AMERICAN PHYSICAL THERAPY ASSOCIATION PHYSICAL THERAPY POLITICAL ACTION COMMITTEE (PT-PAC)",
+            "type": "PAC",
+            "amount": 8000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 1611797,
+      "individual_contributions": 211914,
+      "individual_itemized": 211914,
+      "individual_unitemized": 0,
+      "pac_contributions": 1399883,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "MARTIN'S FAMOUS PASTRY SHOPPE, INC",
+          "type": "Organization",
+          "amount": 12400
+        },
+        {
+          "name": "BGR GROUP",
+          "type": "Organization",
+          "amount": 9000
+        },
+        {
+          "name": "DAVITA",
+          "type": "Organization",
+          "amount": 7500
+        },
+        {
+          "name": "TIDES MEDICAL",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "CLEARPATH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KCUC",
+          "type": "Organization",
+          "amount": 6532
+        },
+        {
+          "name": "FARRAGUT PARTNERS",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "ALPINE GROUP",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "KOUNTOUPES DENHAM CARR  REID",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "ALSTON  BIRD, LLP",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "INVARIANT",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "ALSTON  BIRD",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "KANSAS CITY UROLOGY",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "SALT POINT STRATEGIES, LLC",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "PCCA",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "THE NICKLES GROUP",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "MARTIN'S FAMOUS PASTRY SHOPPE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "NORTHWESTERN UNIVERSITY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "W STRATEGIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TERREG MANAGEMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TODD STRATEGY GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FISHER INVESTMENTS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PLANO 6500 LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GOOGLE LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TODD STRATEGY LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DAVITA INC.",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "HART HEALTH STRATEGIES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "WEST FRONT STRATEGIES",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "DAVITA INC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "APPLE INC.",
+          "type": "Organization",
+          "amount": 2250
+        },
+        {
+          "name": "WELLSPAN HEALTH",
+          "type": "Organization",
+          "amount": 2200
+        },
+        {
+          "name": "UPMC",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "ALSTON  BIRD LLP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "FIERCE GOVERNMENT RELATIONS",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "THE PICARD GROUP",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "KOUNTOUPES DENHAM CARR & REID",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "THE MCMANUS GROUP",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "MARTIN FAMOUS PASTRY SHOPPES",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "KCUC UROLOGY AND ONCOLOGY",
+          "type": "Organization",
+          "amount": 1532
+        },
+        {
+          "name": "KDCR PARTNERS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "WARD TRANSPORT & LOGISTICS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "FEDERAL HEALTH POLICY STRATEGIES",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "AKIN GUMP STRAUSS HAUER AND FELD",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "THE CORMAC GROUP",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "THORN RUN PARTNERS",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "RECORA",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "AQUINAS ACADEMY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "THE STANTON PARK GROUP",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "STYLES STRATEGY",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "ARENT FOX SCHIFF LLP",
+          "type": "Organization",
+          "amount": 1250
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "KEYSTONE ALLIANCE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "AMERICAN UROLOGICAL ASSOCIATION, INC. POLITICAL ACTION COMMITTEE (AUAPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SPINE PAC OF THE NATIONAL ASSOCIATION OF SPINE SPECIALISTS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN CHIROPRACTIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "VALERO ENERGY CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PPL CORPORATION PEOPLE FOR GOOD GOVERNMENT",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN SOCIETY OF PLASTIC SURGEONS PLASTYPAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL EMERGENCY MEDICINE POLITICAL ACTION COMMITTEE / AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BRISTOL-MYERS SQUIBB COMPANY POLITICAL ACTION COMMITTEE (BMS PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BIOMARIN PHARMACEUTICAL INC. POLITICAL ACTION COMMITTEE AKA BIOMARIN PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "OSHKOSH CORPORATION EMPLOYEES PAC (OCEPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SANOFI US SERVICES INC. EMPLOYEES' POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FIRSTENERGY CORP POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "REJOICE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
+          "type": "PAC",
+          "amount": 9000
+        },
+        {
+          "name": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION - OSTEOPATHIC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "AMERICAN COLLEGE OF PHYSICIAN SERVICES INC PAC; AKA ACP SERVICES PAC",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "GRIDIRON-PAC",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "ORGANON & CO. EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "THE AMERICAN OCCUPATIONAL THERAPY ASSOCIATION, INC. POLITICAL ACTION COMMITTEE (AOTPAC)",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "COLLEGE OF AMERICAN PATHOLOGISTS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICAN PHYSICAL THERAPY ASSOCIATION PHYSICAL THERAPY POLITICAL ACTION COMMITTEE (PT-PAC)",
+          "type": "PAC",
+          "amount": 8000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 95,
-    "total_votes_scored": 59,
+    "overall_pct": 73,
+    "total_votes_scored": 50,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Do No Harm in Medicaid Act",
-        "bill": "HR498",
-        "date": "2025-12-18",
+        "vote_description": "SUPPORT for Patients and Communities Reauthorization Act",
+        "bill": "HR2483",
+        "date": "2025-06-04",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "BIOMARIN PHARMACEUTICAL INC. POLITICAL ACTION COMMITTEE AKA BIOMARIN PAC",
         "donor_category": "Healthcare industry",
-        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "SUPPORT for Patients and Communities Reauthorization Act \u2014 reauthorizes opioid treatment programs and community health services. Healthcare industry supports as it funds treatment programs and drives patient volume."
       },
       {
-        "vote_description": "Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",
-        "bill": "HR4346",
-        "date": "2022-07-28",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
-        "donor_category": "Telecom companies",
-        "donor_expected": "Nay on Making appropriations for Legislative Branch for the fiscal "
-      },
-      {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       },
       {
         "vote_description": "Whole Milk for Healthy Kids Act",
@@ -55,72 +1077,109 @@
         "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
         "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Whole Milk for Healthy Kids Act \u2014 allows schools to offer whole-fat milk and flavored milk, supported by the dairy industry and National Dairy Council as it increases school milk sales."
       },
       {
-        "vote_description": "To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes",
-        "bill": "HR185",
-        "date": "2023-02-08",
+        "vote_description": "Do No Harm in Medicaid Act",
+        "bill": "HR498",
+        "date": "2025-12-18",
         "member_voted": "Yea",
         "aligned": false,
-        "donor_name": "BIOMARIN PHARMACEUTICAL INC. POLITICAL ACTION COMMITTEE AKA BIOMARIN PAC",
         "donor_category": "Healthcare industry",
-        "donor_expected": "Nay on To terminate the requirement imposed by the Director of the "
+        "donor_expected": "Nay",
+        "confidence": 0.85,
+        "reason": "Do No Harm in Medicaid Act \u2014 despite the friendly name, this bill CUTS Medicaid by restricting eligibility and reducing federal matching funds. Hospitals and healthcare providers oppose Medicaid cuts because they reduce patient volume and reimbursements."
+      },
+      {
+        "vote_description": "Providing for a correction in the enrollment of H.J. Res. 100",
+        "bill": "HCONRES119",
+        "date": "2022-11-30",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "115th Congress resolution expressing that a carbon tax would be detrimental \u2014 same anti-carbon-tax position favored by fossil fuel industry."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 83,
+    "issues_scored": 9,
+    "against_electorate_pct": 67,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 89.7,
+        "margin_of_error": 4.6,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 61.0,
-        "margin_of_error": 7,
+        "district_support_pct": 57.2,
+        "margin_of_error": 8.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 54.0,
-        "margin_of_error": 7,
+        "district_support_pct": 51.5,
+        "margin_of_error": 9.5,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 17.5,
-        "margin_of_error": 7,
+        "district_support_pct": 18.3,
+        "margin_of_error": 5.7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 51.6,
-        "margin_of_error": 7,
+        "district_support_pct": 48.4,
+        "margin_of_error": 7.6,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 59.5,
+        "margin_of_error": 7.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
-        "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 61.9,
-        "margin_of_error": 7,
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 57.6,
+        "margin_of_error": 6.8,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 52.7,
+        "margin_of_error": 7.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
-        "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 59.9,
-        "margin_of_error": 7,
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 59.5,
+        "margin_of_error": 6.8,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": false,
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

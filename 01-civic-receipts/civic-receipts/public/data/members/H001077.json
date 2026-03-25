@@ -11,116 +11,1175 @@
   "years_in_office": 9,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 321608,
+    "campaign_raised": 321608,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 117376,
+        "donors": [
+          {
+            "name": "THE PATHOLOGY LABORATORY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ULINE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BG FOOD ENTERPRISES, LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "JONES WALKER",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "SAFESOURCE DIRECT",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "AE OFFICE MACHINES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BG FOOD ENTERPRISES LLC",
+            "type": "Organization",
+            "amount": 3700
+          },
+          {
+            "name": "T BAKER SMITH, LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "B&G FOOD ENTERPRISES LLC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "WESTERN CONSTRUCTION  ROOFING",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "LARIS INSURANCE AGENCY",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "EAGLE PEST CONTROL",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "PROGRESSIVE BUILDING",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "IBERIA MARINE SERVICES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "STREAM COMPANIES",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "BIG GOOD ENTERPRISES LLC",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "CHRIS STANT LLC",
+            "type": "Organization",
+            "amount": 2800
+          },
+          {
+            "name": "LEBOEUF BROTHERS BARGE TOWING COMPANY",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "SELF EMPLOY",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "ALLISON MARINE HOLDINGS",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "RADER SOLUTIONS",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "ARMOR TITLE CO.",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "GREEN LLC",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "REPUBLICAN HINDU COALITION",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "KIDDER, INC.",
+            "type": "Organization",
+            "amount": 1700
+          },
+          {
+            "name": "FOURNET WINNWOOD CHEVRON",
+            "type": "Organization",
+            "amount": 1600
+          },
+          {
+            "name": "GOSSEN, HOLLOWAY & ASSOC.",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "PENCOR",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "BULLIARD CONSTRUCTION",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "OUR LADY OF THE LAKE",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "SIDEWINDER PUMPS INC",
+            "type": "Organization",
+            "amount": 1200
+          },
+          {
+            "name": "FREEDOM ENVIRONMENTAL SERVICES LLC",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "DUPRE ENERGY SERVICES",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "VAN EATON & ROMERO",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "AIRS MARINE CORP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "KOZY KORNER",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "DIAMOND TANK RENTALS",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "HUMBLE ENVIRONMENTAL SERVICES",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "WOOD & OLIVE BREAZEALE FAMILY LLC",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "CREST OPERATIONS LLC",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "SIDEWINDER PUMPS INC.",
+            "type": "Organization",
+            "amount": 600
+          },
+          {
+            "name": "STEPHEN JONES",
+            "type": "Organization",
+            "amount": 550
+          },
+          {
+            "name": "DAY SURGERY INC.",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "JAICO PRODUCTS",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "MOTT SOLUTIONS",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "STOR-LOC",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "TOURO UNIVERSITY",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "HUVAL & ASSOC.",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "A-BRYAN'S JEWELERS",
+            "type": "Organization",
+            "amount": 500
+          },
+          {
+            "name": "GULF COAST AIRSYSTEMS LLC",
+            "type": "Organization",
+            "amount": 450
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 204232,
+        "donors": [
+          {
+            "name": "AMERICAN CHEMISTRY COUNCIL PAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CHENIERE ENERGY, INC. PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "PHILLIPS 66 PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "USA RICE FEDERATION PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "HOUSE FREEDOM FUND",
+            "type": "PAC",
+            "amount": 5813
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 5500
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5010
+          },
+          {
+            "name": "LHC GROUP, INC. PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HUCK PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "SCALISE FOR CONGRESS",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "VALOR PAC",
+            "type": "PAC",
+            "amount": 3300
+          },
+          {
+            "name": "FREE MARKET FUND",
+            "type": "PAC",
+            "amount": 3300
+          },
+          {
+            "name": "LAKE CHARLES PILOTS INC FEDERAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 3300
+          },
+          {
+            "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "PLAINS COTTON GROWERS INC. PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "LOUISIANA RICE POLITICAL ACTION COMMITTEE, INC.",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "LAND OF OPPORTUNITY PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "ELBERT GUILLORY'S AMERICA",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "IN THE ARENA PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "CITIZENS UNITED POLITICAL VICTORY FUND",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "MISSISSIPPI FARM BUREAU FEDERATION FURTHERING AGRICULTURE FOR RURAL MISSISSIPPIANS FUND PA",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "MARY MILLER FOR CONGRESS",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "FLORIDA SUGAR CANE LEAGUE PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "BEN CLINE FOR CONGRESS, INC.",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "HOUSE CONSERVATIVES FUND",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "AMALGAMATED SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "MINN-DAK FARMERS COOPERATIVE SUGAR PAC (MDSPAC)",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "CONRAD SHIPYARD LLC PAC",
+            "type": "PAC",
+            "amount": 500
+          },
+          {
+            "name": "COMMITTEE FOR THE ADVANCEMENT OF LOUISIANA AGRICULTURE (CALA)",
+            "type": "PAC",
+            "amount": 500
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 321608,
+      "individual_contributions": 117376,
+      "individual_itemized": 117376,
+      "individual_unitemized": 0,
+      "pac_contributions": 204232,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "THE PATHOLOGY LABORATORY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ULINE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BG FOOD ENTERPRISES, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JONES WALKER",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "SAFESOURCE DIRECT",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "AE OFFICE MACHINES",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "BG FOOD ENTERPRISES LLC",
+          "type": "Organization",
+          "amount": 3700
+        },
+        {
+          "name": "T BAKER SMITH, LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "B&G FOOD ENTERPRISES LLC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "WESTERN CONSTRUCTION  ROOFING",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LARIS INSURANCE AGENCY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "EAGLE PEST CONTROL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PROGRESSIVE BUILDING",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "IBERIA MARINE SERVICES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "STREAM COMPANIES",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "BIG GOOD ENTERPRISES LLC",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "CHRIS STANT LLC",
+          "type": "Organization",
+          "amount": 2800
+        },
+        {
+          "name": "LEBOEUF BROTHERS BARGE TOWING COMPANY",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "SELF EMPLOY",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ALLISON MARINE HOLDINGS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "RADER SOLUTIONS",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "ARMOR TITLE CO.",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "GREEN LLC",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "REPUBLICAN HINDU COALITION",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "KIDDER, INC.",
+          "type": "Organization",
+          "amount": 1700
+        },
+        {
+          "name": "FOURNET WINNWOOD CHEVRON",
+          "type": "Organization",
+          "amount": 1600
+        },
+        {
+          "name": "GOSSEN, HOLLOWAY & ASSOC.",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "PENCOR",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "BULLIARD CONSTRUCTION",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "OUR LADY OF THE LAKE",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "SIDEWINDER PUMPS INC",
+          "type": "Organization",
+          "amount": 1200
+        },
+        {
+          "name": "FREEDOM ENVIRONMENTAL SERVICES LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "DUPRE ENERGY SERVICES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "VAN EATON & ROMERO",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "AIRS MARINE CORP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "KOZY KORNER",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "DIAMOND TANK RENTALS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "HUMBLE ENVIRONMENTAL SERVICES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "WOOD & OLIVE BREAZEALE FAMILY LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CREST OPERATIONS LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SIDEWINDER PUMPS INC.",
+          "type": "Organization",
+          "amount": 600
+        },
+        {
+          "name": "STEPHEN JONES",
+          "type": "Organization",
+          "amount": 550
+        },
+        {
+          "name": "DAY SURGERY INC.",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "JAICO PRODUCTS",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "MOTT SOLUTIONS",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "STOR-LOC",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "TOURO UNIVERSITY",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "HUVAL & ASSOC.",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "A-BRYAN'S JEWELERS",
+          "type": "Organization",
+          "amount": 500
+        },
+        {
+          "name": "GULF COAST AIRSYSTEMS LLC",
+          "type": "Organization",
+          "amount": 450
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "AMERICAN CHEMISTRY COUNCIL PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CHENIERE ENERGY, INC. PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "PHILLIPS 66 PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "USA RICE FEDERATION PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "HOUSE FREEDOM FUND",
+          "type": "PAC",
+          "amount": 5813
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 5500
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5010
+        },
+        {
+          "name": "LHC GROUP, INC. PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "SCALISE FOR CONGRESS",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "VALOR PAC",
+          "type": "PAC",
+          "amount": 3300
+        },
+        {
+          "name": "FREE MARKET FUND",
+          "type": "PAC",
+          "amount": 3300
+        },
+        {
+          "name": "LAKE CHARLES PILOTS INC FEDERAL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 3300
+        },
+        {
+          "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "PLAINS COTTON GROWERS INC. PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "LOUISIANA RICE POLITICAL ACTION COMMITTEE, INC.",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "LAND OF OPPORTUNITY PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "ELBERT GUILLORY'S AMERICA",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "IN THE ARENA PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "CITIZENS UNITED POLITICAL VICTORY FUND",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "MISSISSIPPI FARM BUREAU FEDERATION FURTHERING AGRICULTURE FOR RURAL MISSISSIPPIANS FUND PA",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "MARY MILLER FOR CONGRESS",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "FLORIDA SUGAR CANE LEAGUE PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "BEN CLINE FOR CONGRESS, INC.",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "HOUSE CONSERVATIVES FUND",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "AMALGAMATED SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "MINN-DAK FARMERS COOPERATIVE SUGAR PAC (MDSPAC)",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "CONRAD SHIPYARD LLC PAC",
+          "type": "PAC",
+          "amount": 500
+        },
+        {
+          "name": "COMMITTEE FOR THE ADVANCEMENT OF LOUISIANA AGRICULTURE (CALA)",
+          "type": "PAC",
+          "amount": 500
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 89,
-    "total_votes_scored": 84,
+    "overall_pct": 83,
+    "total_votes_scored": 42,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
+      {
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
+      },
       {
         "vote_description": "Whole Milk for Healthy Kids Act",
         "bill": "HR1147",
         "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
         "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Whole Milk for Healthy Kids Act \u2014 allows schools to offer whole-fat milk and flavored milk, supported by the dairy industry and National Dairy Council as it increases school milk sales."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
+        "vote_description": "Israel Security Assistance Support Act",
+        "bill": "HR8369",
+        "date": "2024-05-16",
+        "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
         "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Assistance Support Act \u2014 provides security assistance to Israel, a core AIPAC priority."
       },
       {
-        "vote_description": "Protect Children\u2019s Innocence Act",
-        "bill": "HR3492",
-        "date": "2025-12-17",
+        "vote_description": "End Chinese Dominance of Electric Vehicles in America Act",
+        "bill": "HR7980",
+        "date": "2024-09-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+        "donor_category": "Auto industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "End Chinese Dominance of Electric Vehicles in America Act \u2014 restricts EV tax credits for Chinese-connected vehicles. Auto dealers support this as it slows the EV transition that threatens their service revenue model."
       },
       {
-        "vote_description": "To require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes",
-        "bill": "S1071",
-        "date": "2025-12-10",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "L3HARRIS TECHNOLOGIES, INC. PAC",
-        "donor_category": "Defense contractors",
-        "donor_expected": "Yea on To require the Secretary of Veterans Affairs to disinter the"
-      },
-      {
-        "vote_description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Syria",
-        "bill": "HCONRES21",
-        "date": "2023-03-08",
+        "vote_description": "Ukraine Security Supplemental Appropriations Act, 2024",
+        "bill": "HR8035",
+        "date": "2024-04-20",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on Directing the President, pursuant to section 5(c) of the War"
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Ukraine Security Supplemental 2024 \u2014 military aid to Ukraine including weapons systems manufactured by US defense contractors."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
+    "issues_scored": 9,
     "against_electorate_pct": 67,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.3,
+        "margin_of_error": 5.7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 58.3,
-        "margin_of_error": 7,
+        "district_support_pct": 55.5,
+        "margin_of_error": 8.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 46.5,
-        "margin_of_error": 7,
+        "district_support_pct": 45.2,
+        "margin_of_error": 9.5,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 21.4,
-        "margin_of_error": 7,
+        "district_support_pct": 21.8,
+        "margin_of_error": 6.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 49.0,
-        "margin_of_error": 7,
+        "district_support_pct": 47.8,
+        "margin_of_error": 7.7,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 59.8,
-        "margin_of_error": 7,
+        "district_support_pct": 58.4,
+        "margin_of_error": 7.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 53.5,
-        "margin_of_error": 7,
+        "district_support_pct": 52.0,
+        "margin_of_error": 7.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 49.8,
+        "margin_of_error": 7.5,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 55.6,
+        "margin_of_error": 7.2,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

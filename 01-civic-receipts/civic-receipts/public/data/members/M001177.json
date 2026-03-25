@@ -11,43 +11,1076 @@
   "years_in_office": 17,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 598677,
+    "campaign_raised": 598677,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 404421,
+        "donors": [
+          {
+            "name": "SOVEREIGN NATION",
+            "type": "Organization",
+            "amount": 21650
+          },
+          {
+            "name": "NOT PROVIDED",
+            "type": "Organization",
+            "amount": 14100
+          },
+          {
+            "name": "TECHNICAL MAINTENANCE SUPPORT, INC.",
+            "type": "Organization",
+            "amount": 10700
+          },
+          {
+            "name": "CEN-CAL FIRE SYSTEMS, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FLYERS ENERGY LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SIERRA PACIFIC IND.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SHINGLE SP BANK MIWOK INDIANS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PACIFIC COAST COMPANIES, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "QUEST",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "VAQUERO ENERGY, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FISHER INVESTMENTS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FISHER CREEK WEST LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PAYNTER REALTY & INVESTMENTS, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KODIAK ROOFING & WATERPROOFING",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CROWN ASSOCIATES REALTY, INC.",
+            "type": "Organization",
+            "amount": 6300
+          },
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 6100
+          },
+          {
+            "name": "PYRAMES INC.",
+            "type": "Organization",
+            "amount": 6100
+          },
+          {
+            "name": "CIELO FARMS",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "LA MESA RV",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "ULINE",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "SOLTANI CONSTRUCTION, INC.",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "ADM ASSOCIATES",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "CALTRANS",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "MHI REAL COMPANY",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "ANTON DEV CO",
+            "type": "Organization",
+            "amount": 3800
+          },
+          {
+            "name": "JE-AL-RO, INC.",
+            "type": "Organization",
+            "amount": 3750
+          },
+          {
+            "name": "LATTICE SEMICONDUCTOR",
+            "type": "Organization",
+            "amount": 3550
+          },
+          {
+            "name": "ATT",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "BARONA BAND OF MISSION INDIANS",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "JAGUAR VENTURES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "TRANSPARENT ACCOUNTING SOLUTIONS, INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "VELVET, INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "TRANSPERENT ACCOUNTIN SOLUTIONS, INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CITY WIDE INDUSTRIES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CASA AUTOMOTIVE GROUP",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "HANES INVESTMENT REALTY INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "MALIBU VALLEY FARMS, INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CALAMIGOS RANCH",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "MORONGO BAND OF MISSION INDIANS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "THE MORNING STAR CO",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "SAN MANUEL BAND OF MISSION INDIANS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "AGUA CALIENTE BAND OF CAHUILLA IND.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "ARMOUR PROPERTIES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "AKT INVESTMENTS INC.",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "AKT DEVELOPMENT",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "DLA PIPER LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "LESLIE DUPRATT",
+            "type": "Organization",
+            "amount": 3250
+          },
+          {
+            "name": "ROYAL T MANAGEMENT",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "C.T.L. FOREST MGMT, INC.",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "INTEL",
+            "type": "Organization",
+            "amount": 3000
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 194256,
+        "donors": [
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 11010
+          },
+          {
+            "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+            "type": "PAC",
+            "amount": 9500
+          },
+          {
+            "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+            "type": "PAC",
+            "amount": 9000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "LOS ANGELES COUNTY LINCOLN CLUB",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5500
+          },
+          {
+            "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BMI POLITICAL ACTION COMMITTEE (BMI PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HUCK PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "UNIVERSAL MUSIC GROUP EMPLOYEE ACTION FUND",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "EDISON INTERNATIONAL PAC",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "MASTERCARD INTERNATIONAL INC. EMPLOYEE PAC (MASTERCARD PAC) OR (MASTERCARD EMPLOYEE PAC)",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES, INC. POLITICAL ACTION COMMITTEE (CANDY PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "CALIFORNIA FARM BUREAU FEDERATION FUND TO PROTECT THE FAMILY FARM (FARM PAC )",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SCHOOLSFIRST FEDERAL CREDIT UNION EMPLOYEES FEDERAL PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "HARDWOOD FEDERATION PAC, INC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "SONY MUSIC ENTERTAINMENT EMPLOYEE ACTION FUND",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "THE RECORDING INDUSTRY ASSOCIATION OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "PG&E CORPORATION EMPLOYEES ENERGYPAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "AES CORPORATION POLITICAL ACTION COMMITTEE; THE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "BULLDOG PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "CALIFORNIA POULTRY INDUSTRY FEDERATION POULTRY PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "NATIONAL CREDITORS BAR ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "PHARMACEUTICAL RESEARCH & MANUFACTURERS OF AMERICA BETTER GOVERNMENT COMMITTEE",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "FAMILY-PAC FEDERAL",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "MUSIC SPEAKS:  THE SOUNDEXCHANGE, INC. LEGISLATIVE FUND",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "THE ASCAP LEGISLATIVE FUND FOR THE ARTS",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION FEDERAL PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "META PLATFORMS, INC. PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 598677,
+      "individual_contributions": 404421,
+      "individual_itemized": 404421,
+      "individual_unitemized": 0,
+      "pac_contributions": 194256,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SOVEREIGN NATION",
+          "type": "Organization",
+          "amount": 21650
+        },
+        {
+          "name": "NOT PROVIDED",
+          "type": "Organization",
+          "amount": 14100
+        },
+        {
+          "name": "TECHNICAL MAINTENANCE SUPPORT, INC.",
+          "type": "Organization",
+          "amount": 10700
+        },
+        {
+          "name": "CEN-CAL FIRE SYSTEMS, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FLYERS ENERGY LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SIERRA PACIFIC IND.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SHINGLE SP BANK MIWOK INDIANS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PACIFIC COAST COMPANIES, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "QUEST",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VAQUERO ENERGY, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FISHER INVESTMENTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FISHER CREEK WEST LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PAYNTER REALTY & INVESTMENTS, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KODIAK ROOFING & WATERPROOFING",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CROWN ASSOCIATES REALTY, INC.",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 6100
+        },
+        {
+          "name": "PYRAMES INC.",
+          "type": "Organization",
+          "amount": 6100
+        },
+        {
+          "name": "CIELO FARMS",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "LA MESA RV",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "ULINE",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "SOLTANI CONSTRUCTION, INC.",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "ADM ASSOCIATES",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "CALTRANS",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "MHI REAL COMPANY",
+          "type": "Organization",
+          "amount": 4000
+        },
+        {
+          "name": "ANTON DEV CO",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "JE-AL-RO, INC.",
+          "type": "Organization",
+          "amount": 3750
+        },
+        {
+          "name": "LATTICE SEMICONDUCTOR",
+          "type": "Organization",
+          "amount": 3550
+        },
+        {
+          "name": "ATT",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "BARONA BAND OF MISSION INDIANS",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "JAGUAR VENTURES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TRANSPARENT ACCOUNTING SOLUTIONS, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "VELVET, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TRANSPERENT ACCOUNTIN SOLUTIONS, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CITY WIDE INDUSTRIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CASA AUTOMOTIVE GROUP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HANES INVESTMENT REALTY INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MALIBU VALLEY FARMS, INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CALAMIGOS RANCH",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MORONGO BAND OF MISSION INDIANS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "THE MORNING STAR CO",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SAN MANUEL BAND OF MISSION INDIANS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AGUA CALIENTE BAND OF CAHUILLA IND.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ARMOUR PROPERTIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AKT INVESTMENTS INC.",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AKT DEVELOPMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DLA PIPER LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "LESLIE DUPRATT",
+          "type": "Organization",
+          "amount": 3250
+        },
+        {
+          "name": "ROYAL T MANAGEMENT",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "C.T.L. FOREST MGMT, INC.",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "INTEL",
+          "type": "Organization",
+          "amount": 3000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 11010
+        },
+        {
+          "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+          "type": "PAC",
+          "amount": 9500
+        },
+        {
+          "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+          "type": "PAC",
+          "amount": 9000
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "LOS ANGELES COUNTY LINCOLN CLUB",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5500
+        },
+        {
+          "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BMI POLITICAL ACTION COMMITTEE (BMI PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "UNIVERSAL MUSIC GROUP EMPLOYEE ACTION FUND",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "EDISON INTERNATIONAL PAC",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "MASTERCARD INTERNATIONAL INC. EMPLOYEE PAC (MASTERCARD PAC) OR (MASTERCARD EMPLOYEE PAC)",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES, INC. POLITICAL ACTION COMMITTEE (CANDY PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "CALIFORNIA FARM BUREAU FEDERATION FUND TO PROTECT THE FAMILY FARM (FARM PAC )",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SCHOOLSFIRST FEDERAL CREDIT UNION EMPLOYEES FEDERAL PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "HARDWOOD FEDERATION PAC, INC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "SONY MUSIC ENTERTAINMENT EMPLOYEE ACTION FUND",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "THE RECORDING INDUSTRY ASSOCIATION OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "PG&E CORPORATION EMPLOYEES ENERGYPAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "AES CORPORATION POLITICAL ACTION COMMITTEE; THE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "BULLDOG PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "CALIFORNIA POULTRY INDUSTRY FEDERATION POULTRY PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "NATIONAL CREDITORS BAR ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "PHARMACEUTICAL RESEARCH & MANUFACTURERS OF AMERICA BETTER GOVERNMENT COMMITTEE",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "FAMILY-PAC FEDERAL",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "MUSIC SPEAKS:  THE SOUNDEXCHANGE, INC. LEGISLATIVE FUND",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "THE ASCAP LEGISLATIVE FUND FOR THE ARTS",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION FEDERAL PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "META PLATFORMS, INC. PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+          "type": "PAC",
+          "amount": 1000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 92,
-    "total_votes_scored": 195,
+    "overall_pct": 84,
+    "total_votes_scored": 82,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from hostilities within or against Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES64",
-        "date": "2025-12-17",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from hos"
-      },
-      {
-        "vote_description": "Financial Services and General Government and National Security, Department of State, and Related Programs Appropriations Act, 2026",
-        "bill": "HR7006",
-        "date": "2026-01-14",
+        "vote_description": "Israel Security Assistance Support Act",
+        "bill": "HR8369",
+        "date": "2024-05-16",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Assistance Support Act \u2014 provides security assistance to Israel, a core AIPAC priority."
+      },
+      {
+        "vote_description": "Financial Innovation and Technology for the 21st Century Act",
+        "bill": "HR4763",
+        "date": "2024-05-22",
+        "member_voted": "Yea",
+        "aligned": true,
         "donor_category": "Financial industry",
-        "donor_expected": "Yea on Financial Services and General Government and National Secur"
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Financial Innovation and Technology for the 21st Century Act (FIT21) \u2014 comprehensive crypto regulation that creates SEC/CFTC framework favorable to financial industry participation in digital assets."
       },
       {
         "vote_description": "Whole Milk for Healthy Kids Act",
@@ -55,72 +1088,98 @@
         "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
         "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Whole Milk for Healthy Kids Act \u2014 allows schools to offer whole-fat milk and flavored milk, supported by the dairy industry and National Dairy Council as it increases school milk sales."
       },
       {
-        "vote_description": "To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",
-        "bill": "HR1023",
-        "date": "2024-03-22",
-        "member_voted": "Yea",
+        "vote_description": "Providing for a correction in the enrollment of H.J. Res. 100",
+        "bill": "HCONRES119",
+        "date": "2022-11-30",
+        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Nay on To repeal section 134 of the Clean Air Act, relating to the "
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "115th Congress resolution expressing that a carbon tax would be detrimental \u2014 same anti-carbon-tax position favored by fossil fuel industry."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 100,
+    "issues_scored": 9,
+    "against_electorate_pct": 89,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 90.0,
+        "margin_of_error": 4.8,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 78.0,
-        "margin_of_error": 7,
+        "district_support_pct": 76.1,
+        "margin_of_error": 6.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 77.6,
-        "margin_of_error": 7,
+        "district_support_pct": 75.5,
+        "margin_of_error": 7.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 11.2,
-        "margin_of_error": 7,
+        "district_support_pct": 12.5,
+        "margin_of_error": 4.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 72.6,
-        "margin_of_error": 7,
+        "district_support_pct": 69.1,
+        "margin_of_error": 7.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 76.9,
-        "margin_of_error": 7,
+        "district_support_pct": 75.3,
+        "margin_of_error": 6.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 74.6,
-        "margin_of_error": 7,
+        "district_support_pct": 72.8,
+        "margin_of_error": 6.2,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 28.0,
+        "margin_of_error": 6.6,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 72.1,
+        "margin_of_error": 6.1,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

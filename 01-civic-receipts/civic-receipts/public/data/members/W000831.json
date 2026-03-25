@@ -21,13 +21,29 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 1,
+    "issues_scored": 3,
     "against_electorate_pct": 0,
     "highlights": [
       {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 66.8,
+        "margin_of_error": 10.5,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 68.1,
-        "margin_of_error": 7,
+        "district_support_pct": 66.6,
+        "margin_of_error": 8.2,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 70.6,
+        "margin_of_error": 7.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false

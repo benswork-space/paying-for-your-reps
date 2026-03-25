@@ -11,99 +11,1120 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 9436293,
+    "campaign_raised": 9436293,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1247476,
+        "donors": [
+          {
+            "name": "SYRACUSE UNIVERSITY",
+            "type": "Organization",
+            "amount": 36463
+          },
+          {
+            "name": "GOOGLE",
+            "type": "Organization",
+            "amount": 18494
+          },
+          {
+            "name": "CITY OF SYRACUSE",
+            "type": "Organization",
+            "amount": 10850
+          },
+          {
+            "name": "LITTLE LUKES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "SLOME CAPITAL LLC",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "SUNY",
+            "type": "Organization",
+            "amount": 9147
+          },
+          {
+            "name": "INVESTOR",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GFP REAL ESTATE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WOLFJAW STUDIOS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ART ADVISORS LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MYERS-JDC-BROOKDALE INSTITUTE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MEDLEY PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ANALYSIS GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LIFE YIELD",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LIBERTY RESOURCES POST LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SCHOOL OF VISUA ARTS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "STAND UP AMERICA",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THERAPEUTIC RESEARCH CENTER",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CORNELL UNIVERSITY",
+            "type": "Organization",
+            "amount": 6450
+          },
+          {
+            "name": "MOWER",
+            "type": "Organization",
+            "amount": 6300
+          },
+          {
+            "name": "LE MOYNE COLLEGE",
+            "type": "Organization",
+            "amount": 6155
+          },
+          {
+            "name": "HART LYMAN COMPANIES",
+            "type": "Organization",
+            "amount": 5712
+          },
+          {
+            "name": "HUEBER-BREUER CONSTRUCTION",
+            "type": "Organization",
+            "amount": 5700
+          },
+          {
+            "name": "HAMILTON COLLEGE",
+            "type": "Organization",
+            "amount": 5469
+          },
+          {
+            "name": "BARCLAY DAMON LLP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "PLYMOUTH ROCK COMPANY, INC.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SAAB",
+            "type": "Organization",
+            "amount": 4800
+          },
+          {
+            "name": "URBAN REALTY GROUP",
+            "type": "Organization",
+            "amount": 4700
+          },
+          {
+            "name": "SMITH SOVIK",
+            "type": "Organization",
+            "amount": 4550
+          },
+          {
+            "name": "HLC",
+            "type": "Organization",
+            "amount": 4412
+          },
+          {
+            "name": "CHERUNDOLO LAW",
+            "type": "Organization",
+            "amount": 4200
+          },
+          {
+            "name": "SCIENTIST",
+            "type": "Organization",
+            "amount": 3800
+          },
+          {
+            "name": "BOUSQUET HOLSTEIN PLLC",
+            "type": "Organization",
+            "amount": 3700
+          },
+          {
+            "name": "JANE STREET CAPITAL",
+            "type": "Organization",
+            "amount": 3700
+          },
+          {
+            "name": "OSTROFF ASSOC",
+            "type": "Organization",
+            "amount": 3700
+          },
+          {
+            "name": "NEW YORK STATE",
+            "type": "Organization",
+            "amount": 3678
+          },
+          {
+            "name": "GOOGLE INC.",
+            "type": "Organization",
+            "amount": 3600
+          },
+          {
+            "name": "NYU",
+            "type": "Organization",
+            "amount": 3550
+          },
+          {
+            "name": "DRAGONFLY",
+            "type": "Organization",
+            "amount": 3527
+          },
+          {
+            "name": "UC BERKELEY",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "OAK HCFT",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "IXTAPA ENT INC",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "COLUMBIA UNIVERSITY",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "HANDI QUILTER",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "FIREHOUSE CAPITAL",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "BOYNTON BRENNAN BUILDERS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "MERITAGE GROUP LP",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "UCSF",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "TWILIO",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CENTERBRIDGE PARTNERS",
+            "type": "Organization",
+            "amount": 3300
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 8188817,
+        "donors": [
+          {
+            "name": "CONGRESSIONAL LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 2569564
+          },
+          {
+            "name": "BATTLEGROUND NEW YORK",
+            "type": "PAC",
+            "amount": 1206252
+          },
+          {
+            "name": "NRCC",
+            "type": "PAC",
+            "amount": 1101734
+          },
+          {
+            "name": "LCV VICTORY FUND",
+            "type": "PAC",
+            "amount": 684877
+          },
+          {
+            "name": "DCCC",
+            "type": "PAC",
+            "amount": 415917
+          },
+          {
+            "name": "NY COMMON GROUND",
+            "type": "PAC",
+            "amount": 413185
+          },
+          {
+            "name": "EARN INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 225000
+          },
+          {
+            "name": "AFSCME WORKING FAMILIES FUND",
+            "type": "PAC",
+            "amount": 198678
+          },
+          {
+            "name": "CFFE PAC",
+            "type": "PAC",
+            "amount": 191052
+          },
+          {
+            "name": "NEA ADVOCACY FUND",
+            "type": "PAC",
+            "amount": 149990
+          },
+          {
+            "name": "AFT SOLIDARITY",
+            "type": "PAC",
+            "amount": 149750
+          },
+          {
+            "name": "VOICE FOR NEW YORK",
+            "type": "PAC",
+            "amount": 73679
+          },
+          {
+            "name": "COMMUNITY CHANGE VOTERS",
+            "type": "PAC",
+            "amount": 61818
+          },
+          {
+            "name": "JSTREETPAC",
+            "type": "PAC",
+            "amount": 39212
+          },
+          {
+            "name": "SAVE CENTRAL NEW YORK PAC",
+            "type": "PAC",
+            "amount": 20000
+          },
+          {
+            "name": "DIGIDEMS PAC",
+            "type": "PAC",
+            "amount": 19800
+          },
+          {
+            "name": "WORKING AMERICA",
+            "type": "PAC",
+            "amount": 16588
+          },
+          {
+            "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMALGAMATED TRANSIT UNION - COPE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NORTH ATLANTIC STATES REGIONAL COUNCIL OF CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE, UNITED BROTHERHOOD OF CARPENTERS & JOINERS OF AMERICA",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "314 ACTION FUND",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NEW YORK STATE DEMOCRATIC COMMITTEE",
+            "type": "PAC",
+            "amount": 8713
+          },
+          {
+            "name": "DEMOCRACY ACTION NOW PAC",
+            "type": "PAC",
+            "amount": 8300
+          },
+          {
+            "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "type": "PAC",
+            "amount": 7940
+          },
+          {
+            "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "SHEET METAL & AIR CONDITIONING CONTRACTORS' NATIONAL ASSOC., INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "BAN ASSAULT WEAPONS NOW PAC",
+            "type": "PAC",
+            "amount": 6600
+          },
+          {
+            "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "MOVEON.ORG POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 5444
+          },
+          {
+            "name": "LEADERS IN LIFE ACTING COOPERATIVELY (LILAC) PAC",
+            "type": "PAC",
+            "amount": 5300
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HMP",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 9436293,
+      "individual_contributions": 1247476,
+      "individual_itemized": 1247476,
+      "individual_unitemized": 0,
+      "pac_contributions": 8188817,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SYRACUSE UNIVERSITY",
+          "type": "Organization",
+          "amount": 36463
+        },
+        {
+          "name": "GOOGLE",
+          "type": "Organization",
+          "amount": 18494
+        },
+        {
+          "name": "CITY OF SYRACUSE",
+          "type": "Organization",
+          "amount": 10850
+        },
+        {
+          "name": "LITTLE LUKES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "SLOME CAPITAL LLC",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "SUNY",
+          "type": "Organization",
+          "amount": 9147
+        },
+        {
+          "name": "INVESTOR",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GFP REAL ESTATE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WOLFJAW STUDIOS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ART ADVISORS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MYERS-JDC-BROOKDALE INSTITUTE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MEDLEY PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ANALYSIS GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LIFE YIELD",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LIBERTY RESOURCES POST LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SCHOOL OF VISUA ARTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STAND UP AMERICA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THERAPEUTIC RESEARCH CENTER",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CORNELL UNIVERSITY",
+          "type": "Organization",
+          "amount": 6450
+        },
+        {
+          "name": "MOWER",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "LE MOYNE COLLEGE",
+          "type": "Organization",
+          "amount": 6155
+        },
+        {
+          "name": "HART LYMAN COMPANIES",
+          "type": "Organization",
+          "amount": 5712
+        },
+        {
+          "name": "HUEBER-BREUER CONSTRUCTION",
+          "type": "Organization",
+          "amount": 5700
+        },
+        {
+          "name": "HAMILTON COLLEGE",
+          "type": "Organization",
+          "amount": 5469
+        },
+        {
+          "name": "BARCLAY DAMON LLP",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "PLYMOUTH ROCK COMPANY, INC.",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "SAAB",
+          "type": "Organization",
+          "amount": 4800
+        },
+        {
+          "name": "URBAN REALTY GROUP",
+          "type": "Organization",
+          "amount": 4700
+        },
+        {
+          "name": "SMITH SOVIK",
+          "type": "Organization",
+          "amount": 4550
+        },
+        {
+          "name": "HLC",
+          "type": "Organization",
+          "amount": 4412
+        },
+        {
+          "name": "CHERUNDOLO LAW",
+          "type": "Organization",
+          "amount": 4200
+        },
+        {
+          "name": "SCIENTIST",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "BOUSQUET HOLSTEIN PLLC",
+          "type": "Organization",
+          "amount": 3700
+        },
+        {
+          "name": "JANE STREET CAPITAL",
+          "type": "Organization",
+          "amount": 3700
+        },
+        {
+          "name": "OSTROFF ASSOC",
+          "type": "Organization",
+          "amount": 3700
+        },
+        {
+          "name": "NEW YORK STATE",
+          "type": "Organization",
+          "amount": 3678
+        },
+        {
+          "name": "GOOGLE INC.",
+          "type": "Organization",
+          "amount": 3600
+        },
+        {
+          "name": "NYU",
+          "type": "Organization",
+          "amount": 3550
+        },
+        {
+          "name": "DRAGONFLY",
+          "type": "Organization",
+          "amount": 3527
+        },
+        {
+          "name": "UC BERKELEY",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "OAK HCFT",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "IXTAPA ENT INC",
+          "type": "Organization",
+          "amount": 3500
+        },
+        {
+          "name": "COLUMBIA UNIVERSITY",
+          "type": "Organization",
+          "amount": 3400
+        },
+        {
+          "name": "HANDI QUILTER",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "FIREHOUSE CAPITAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BOYNTON BRENNAN BUILDERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MERITAGE GROUP LP",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "UCSF",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TWILIO",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CENTERBRIDGE PARTNERS",
+          "type": "Organization",
+          "amount": 3300
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "CONGRESSIONAL LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 2569564
+        },
+        {
+          "name": "BATTLEGROUND NEW YORK",
+          "type": "PAC",
+          "amount": 1206252
+        },
+        {
+          "name": "NRCC",
+          "type": "PAC",
+          "amount": 1101734
+        },
+        {
+          "name": "LCV VICTORY FUND",
+          "type": "PAC",
+          "amount": 684877
+        },
+        {
+          "name": "DCCC",
+          "type": "PAC",
+          "amount": 415917
+        },
+        {
+          "name": "NY COMMON GROUND",
+          "type": "PAC",
+          "amount": 413185
+        },
+        {
+          "name": "EARN INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 225000
+        },
+        {
+          "name": "AFSCME WORKING FAMILIES FUND",
+          "type": "PAC",
+          "amount": 198678
+        },
+        {
+          "name": "CFFE PAC",
+          "type": "PAC",
+          "amount": 191052
+        },
+        {
+          "name": "NEA ADVOCACY FUND",
+          "type": "PAC",
+          "amount": 149990
+        },
+        {
+          "name": "AFT SOLIDARITY",
+          "type": "PAC",
+          "amount": 149750
+        },
+        {
+          "name": "VOICE FOR NEW YORK",
+          "type": "PAC",
+          "amount": 73679
+        },
+        {
+          "name": "COMMUNITY CHANGE VOTERS",
+          "type": "PAC",
+          "amount": 61818
+        },
+        {
+          "name": "JSTREETPAC",
+          "type": "PAC",
+          "amount": 39212
+        },
+        {
+          "name": "SAVE CENTRAL NEW YORK PAC",
+          "type": "PAC",
+          "amount": 20000
+        },
+        {
+          "name": "DIGIDEMS PAC",
+          "type": "PAC",
+          "amount": 19800
+        },
+        {
+          "name": "WORKING AMERICA",
+          "type": "PAC",
+          "amount": 16588
+        },
+        {
+          "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NORTH ATLANTIC STATES REGIONAL COUNCIL OF CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE, UNITED BROTHERHOOD OF CARPENTERS & JOINERS OF AMERICA",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "314 ACTION FUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NEW YORK STATE DEMOCRATIC COMMITTEE",
+          "type": "PAC",
+          "amount": 8713
+        },
+        {
+          "name": "DEMOCRACY ACTION NOW PAC",
+          "type": "PAC",
+          "amount": 8300
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+          "type": "PAC",
+          "amount": 7940
+        },
+        {
+          "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "SHEET METAL & AIR CONDITIONING CONTRACTORS' NATIONAL ASSOC., INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "BAN ASSAULT WEAPONS NOW PAC",
+          "type": "PAC",
+          "amount": 6600
+        },
+        {
+          "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "MOVEON.ORG POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 5444
+        },
+        {
+          "name": "LEADERS IN LIFE ACTING COOPERATIVELY (LILAC) PAC",
+          "type": "PAC",
+          "amount": 5300
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HMP",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+          "type": "PAC",
+          "amount": 5000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 90,
-    "total_votes_scored": 36,
+    "overall_pct": 51,
+    "total_votes_scored": 6,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "AFSCME WORKING FAMILIES FUND",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "DUMP Red Tape Act",
-        "bill": "HR4305",
-        "date": "2025-12-03",
+        "vote_description": "State Planning for Reliability and Affordability Act",
+        "bill": "HR3628",
+        "date": "2025-12-11",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
-        "donor_category": "Tech companies",
-        "donor_expected": "Nay on DUMP Red Tape Act"
-      },
-      {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
         "donor_category": "Clean energy industry",
-        "donor_expected": "Nay on SHOWER Act"
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "State Planning for Reliability and Affordability Act \u2014 gives states authority to override EPA clean energy mandates, slowing clean energy transition."
       },
       {
-        "vote_description": "Pandemic Unemployment Fraud Enforcement Act",
-        "bill": "HR1156",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
         "date": "2025-03-11",
-        "member_voted": "Yea",
+        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AFSCME WORKING FAMILIES FUND",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pandemic Unemployment Fraud Enforcement Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
+    "issues_scored": 5,
     "against_electorate_pct": 0,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 63.1,
-        "margin_of_error": 7,
+        "district_support_pct": 63.5,
+        "margin_of_error": 9.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 59.7,
-        "margin_of_error": 7,
+        "district_support_pct": 61.2,
+        "margin_of_error": 7.8,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 73.7,
-        "margin_of_error": 7,
+        "district_support_pct": 73.3,
+        "margin_of_error": 6.4,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 68.8,
-        "margin_of_error": 7,
+        "district_support_pct": 68.6,
+        "margin_of_error": 6.6,
         "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 36.2,
+        "margin_of_error": 7.5,
+        "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       }

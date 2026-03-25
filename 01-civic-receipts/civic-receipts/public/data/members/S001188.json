@@ -11,8 +11,80 @@
   "years_in_office": 16,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 3017076,
+    "campaign_raised": 3017076,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 3017076,
+        "donors": [
+          {
+            "name": "AMERICA LEADS ACTION INC.",
+            "type": "PAC",
+            "amount": 1813752
+          },
+          {
+            "name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 407426
+          },
+          {
+            "name": "WFW ACTION FUND, INC.",
+            "type": "PAC",
+            "amount": 392421
+          },
+          {
+            "name": "HOUSE FREEDOM ACTION",
+            "type": "PAC",
+            "amount": 293168
+          },
+          {
+            "name": "HOUSE FREEDOM FUND",
+            "type": "PAC",
+            "amount": 110309
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 3017076,
+      "individual_contributions": 0,
+      "individual_itemized": 0,
+      "individual_unitemized": 0,
+      "pac_contributions": 3017076,
+      "other_receipts": 0,
+      "top_employers": [],
+      "top_pac_donors": [
+        {
+          "name": "AMERICA LEADS ACTION INC.",
+          "type": "PAC",
+          "amount": 1813752
+        },
+        {
+          "name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 407426
+        },
+        {
+          "name": "WFW ACTION FUND, INC.",
+          "type": "PAC",
+          "amount": 392421
+        },
+        {
+          "name": "HOUSE FREEDOM ACTION",
+          "type": "PAC",
+          "amount": 293168
+        },
+        {
+          "name": "HOUSE FREEDOM FUND",
+          "type": "PAC",
+          "amount": 110309
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
     "overall_pct": 0,
@@ -21,46 +93,62 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 5,
-    "against_electorate_pct": 60,
+    "issues_scored": 7,
+    "against_electorate_pct": 71,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 46.2,
-        "margin_of_error": 7,
+        "district_support_pct": 44.6,
+        "margin_of_error": 9.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 21.2,
-        "margin_of_error": 7,
+        "district_support_pct": 22.3,
+        "margin_of_error": 6.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 50.7,
-        "margin_of_error": 7,
+        "district_support_pct": 48.8,
+        "margin_of_error": 7.9,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 61.4,
+        "margin_of_error": 7.5,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
-        "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 63.1,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 59.5,
+        "margin_of_error": 7.2,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
-        "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 61.2,
-        "margin_of_error": 7,
+        "issue": "Grant legal status to DACA recipients",
+        "district_support_pct": 65.6,
+        "margin_of_error": 6.3,
         "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 45.9,
+        "margin_of_error": 7.6,
+        "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       }

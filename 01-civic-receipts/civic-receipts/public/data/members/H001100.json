@@ -11,89 +11,1131 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 3655255,
+    "campaign_raised": 3655255,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1426576,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 202675
+          },
+          {
+            "name": "SULLIVAN & CROMWELL LLP",
+            "type": "Organization",
+            "amount": 85300
+          },
+          {
+            "name": "RDV CORPORATION",
+            "type": "Organization",
+            "amount": 23100
+          },
+          {
+            "name": "SULLIVAN & CROMWELL",
+            "type": "Organization",
+            "amount": 19100
+          },
+          {
+            "name": "SHAW CONSTRUCTION",
+            "type": "Organization",
+            "amount": 18600
+          },
+          {
+            "name": "HASELDEN CONSTRUCTION",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "WHEELER TRIGG O'DONNELL LLP",
+            "type": "Organization",
+            "amount": 14775
+          },
+          {
+            "name": "IRELAND STAPLETON PRYOR AND PASCOE PC",
+            "type": "Organization",
+            "amount": 14100
+          },
+          {
+            "name": "CORNERSTONE HOLDINGS",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "ENSTROM CANDIES",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "STRYKER AND COMPANY INC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "IRELAND STAPLETON PRYOR & PASCOE, P.C.",
+            "type": "Organization",
+            "amount": 11900
+          },
+          {
+            "name": "TALLGRASS ENERGY PARTNERS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "THREE TREE CAPITAL",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "HOLY FAMILY CATHOLIC SCHOOL",
+            "type": "Organization",
+            "amount": 8850
+          },
+          {
+            "name": "SULLIVAN &CROMWELL LLP",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "ALPINE BANK",
+            "type": "Organization",
+            "amount": 7900
+          },
+          {
+            "name": "OAKSTAR BANK",
+            "type": "Organization",
+            "amount": 7600
+          },
+          {
+            "name": "WEHLING CONSTRUCTION",
+            "type": "Organization",
+            "amount": 7600
+          },
+          {
+            "name": "FIRST & FOURTEENTH PLLC",
+            "type": "Organization",
+            "amount": 7100
+          },
+          {
+            "name": "DELTA MONTROSE ELECTRIC ASSOCIATION",
+            "type": "Organization",
+            "amount": 7050
+          },
+          {
+            "name": "COLORADO MESA UNIVERSITY",
+            "type": "Organization",
+            "amount": 6625
+          },
+          {
+            "name": "AIR COMMUNITIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "DBK",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LAND TITLE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SHORTLINE AUTO GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "L C FULENWIDER IN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BECHTEL AND SANTO",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WHIPTAIL R&R",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TEXAS SARATOGA MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TEXAS CAPITAL PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MDC HOLDINGS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MONTROSE FORD NISSAN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MACQUARIE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PEARL BIO",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LAND TITLE GUARANTEE CO",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "STARR & WESTBROOK, P.C.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MANHATTAN WEST LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SURGICAL ASSOCIATES OF THE GRAND VALLE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CFPM LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SPIRIT ENGINEERING INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HIRE WIRE RANCH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "COTERRA ENERGY INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WESTERN DEVELOPMENT GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE ANSCHUTZ CORPORATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GALLAGHER INDUSTRIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CHARLES & POTOMAC CAPITAL, LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "STURM FINANCIAL GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BARTLIT BECK LLP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FITZGERALD INVESTMENT MANAGEMENT COMPA",
+            "type": "Organization",
+            "amount": 6600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 2228679,
+        "donors": [
+          {
+            "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+            "type": "PAC",
+            "amount": 1125548
+          },
+          {
+            "name": "CONGRESSIONAL LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 250227
+          },
+          {
+            "name": "A STRONG INNOVATION ECONOMY REQUIRES STRONG IP PROTECTION",
+            "type": "PAC",
+            "amount": 150000
+          },
+          {
+            "name": "UNIFY COLORADO",
+            "type": "PAC",
+            "amount": 58000
+          },
+          {
+            "name": "OUR AMERICAN CENTURY",
+            "type": "PAC",
+            "amount": 48000
+          },
+          {
+            "name": "ROCKY MOUNTAIN VALUES PAC",
+            "type": "PAC",
+            "amount": 36334
+          },
+          {
+            "name": "REAL LEADERSHIP FOR COLORADO",
+            "type": "PAC",
+            "amount": 32467
+          },
+          {
+            "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+            "type": "PAC",
+            "amount": 11415
+          },
+          {
+            "name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "WESTERN ENERGY ALLIANCE PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "TAKING AN INDEPENDENT PERSPECTIVE TOGETHER FOR OUR NATION PAC",
+            "type": "PAC",
+            "amount": 6600
+          },
+          {
+            "name": "BETTER PATH FORWARD PAC, INC.",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BOLD ACTIVE CONSERVATIVES OF NEBRASKA PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MOLSON COORS BEVERAGE COMPANY USA LLC PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LAND OF OPPORTUNITY PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "JAM PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "PROJECT WEST POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "FIRST IN FREEDOM PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ARCH RESOURCES INC. POLITICAL ACTION COMMITTEE (ARCHPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NRCC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "DAN CRENSHAW FOR CONGRESS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "VOTE TO ELECT REPUBLICANS NOW PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICA'S FIRST PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HUCK PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "E-PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CONSERVATIVE OPPORTUNITY LEADERSHIP AND ENTERPRISE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CONCERNED AMERICANS FOR FREEDOM & OPPORTUNITY PAC (CAFO PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 3655255,
+      "individual_contributions": 1426576,
+      "individual_itemized": 1426576,
+      "individual_unitemized": 0,
+      "pac_contributions": 2228679,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 202675
+        },
+        {
+          "name": "SULLIVAN & CROMWELL LLP",
+          "type": "Organization",
+          "amount": 85300
+        },
+        {
+          "name": "RDV CORPORATION",
+          "type": "Organization",
+          "amount": 23100
+        },
+        {
+          "name": "SULLIVAN & CROMWELL",
+          "type": "Organization",
+          "amount": 19100
+        },
+        {
+          "name": "SHAW CONSTRUCTION",
+          "type": "Organization",
+          "amount": 18600
+        },
+        {
+          "name": "HASELDEN CONSTRUCTION",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "WHEELER TRIGG O'DONNELL LLP",
+          "type": "Organization",
+          "amount": 14775
+        },
+        {
+          "name": "IRELAND STAPLETON PRYOR AND PASCOE PC",
+          "type": "Organization",
+          "amount": 14100
+        },
+        {
+          "name": "CORNERSTONE HOLDINGS",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "ENSTROM CANDIES",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "STRYKER AND COMPANY INC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "IRELAND STAPLETON PRYOR & PASCOE, P.C.",
+          "type": "Organization",
+          "amount": 11900
+        },
+        {
+          "name": "TALLGRASS ENERGY PARTNERS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "THREE TREE CAPITAL",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "HOLY FAMILY CATHOLIC SCHOOL",
+          "type": "Organization",
+          "amount": 8850
+        },
+        {
+          "name": "SULLIVAN &CROMWELL LLP",
+          "type": "Organization",
+          "amount": 8600
+        },
+        {
+          "name": "ALPINE BANK",
+          "type": "Organization",
+          "amount": 7900
+        },
+        {
+          "name": "OAKSTAR BANK",
+          "type": "Organization",
+          "amount": 7600
+        },
+        {
+          "name": "WEHLING CONSTRUCTION",
+          "type": "Organization",
+          "amount": 7600
+        },
+        {
+          "name": "FIRST & FOURTEENTH PLLC",
+          "type": "Organization",
+          "amount": 7100
+        },
+        {
+          "name": "DELTA MONTROSE ELECTRIC ASSOCIATION",
+          "type": "Organization",
+          "amount": 7050
+        },
+        {
+          "name": "COLORADO MESA UNIVERSITY",
+          "type": "Organization",
+          "amount": 6625
+        },
+        {
+          "name": "AIR COMMUNITIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DBK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LAND TITLE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SHORTLINE AUTO GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "L C FULENWIDER IN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BECHTEL AND SANTO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WHIPTAIL R&R",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TEXAS SARATOGA MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TEXAS CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MDC HOLDINGS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MONTROSE FORD NISSAN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MACQUARIE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PEARL BIO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LAND TITLE GUARANTEE CO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STARR & WESTBROOK, P.C.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MANHATTAN WEST LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SURGICAL ASSOCIATES OF THE GRAND VALLE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CFPM LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SPIRIT ENGINEERING INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HIRE WIRE RANCH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "COTERRA ENERGY INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WESTERN DEVELOPMENT GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE ANSCHUTZ CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GALLAGHER INDUSTRIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CHARLES & POTOMAC CAPITAL, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STURM FINANCIAL GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BARTLIT BECK LLP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FITZGERALD INVESTMENT MANAGEMENT COMPA",
+          "type": "Organization",
+          "amount": 6600
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+          "type": "PAC",
+          "amount": 1125548
+        },
+        {
+          "name": "CONGRESSIONAL LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 250227
+        },
+        {
+          "name": "A STRONG INNOVATION ECONOMY REQUIRES STRONG IP PROTECTION",
+          "type": "PAC",
+          "amount": 150000
+        },
+        {
+          "name": "UNIFY COLORADO",
+          "type": "PAC",
+          "amount": 58000
+        },
+        {
+          "name": "OUR AMERICAN CENTURY",
+          "type": "PAC",
+          "amount": 48000
+        },
+        {
+          "name": "ROCKY MOUNTAIN VALUES PAC",
+          "type": "PAC",
+          "amount": 36334
+        },
+        {
+          "name": "REAL LEADERSHIP FOR COLORADO",
+          "type": "PAC",
+          "amount": 32467
+        },
+        {
+          "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+          "type": "PAC",
+          "amount": 11415
+        },
+        {
+          "name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "WESTERN ENERGY ALLIANCE PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "TAKING AN INDEPENDENT PERSPECTIVE TOGETHER FOR OUR NATION PAC",
+          "type": "PAC",
+          "amount": 6600
+        },
+        {
+          "name": "BETTER PATH FORWARD PAC, INC.",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BOLD ACTIVE CONSERVATIVES OF NEBRASKA PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MOLSON COORS BEVERAGE COMPANY USA LLC PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "LAND OF OPPORTUNITY PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "JAM PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "PROJECT WEST POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "FIRST IN FREEDOM PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ARCH RESOURCES INC. POLITICAL ACTION COMMITTEE (ARCHPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NRCC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "DAN CRENSHAW FOR CONGRESS",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "VOTE TO ELECT REPUBLICANS NOW PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICA'S FIRST PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HUCK PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "E-PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CONSERVATIVE OPPORTUNITY LEADERSHIP AND ENTERPRISE PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CONCERNED AMERICANS FOR FREEDOM & OPPORTUNITY PAC (CAFO PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC",
+          "type": "PAC",
+          "amount": 5000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
     "overall_pct": 100,
-    "total_votes_scored": 50,
+    "total_votes_scored": 9,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       },
       {
-        "vote_description": "Protect Children\u2019s Innocence Act",
-        "bill": "HR3492",
-        "date": "2025-12-17",
+        "vote_description": "State Planning for Reliability and Affordability Act",
+        "bill": "HR3628",
+        "date": "2025-12-11",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
-        "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
-      },
-      {
-        "vote_description": "Consolidated Appropriations Act, 2026",
-        "bill": "HR7148",
-        "date": "2026-01-22",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
-        "donor_category": "Financial industry",
-        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
-      },
-      {
-        "vote_description": "Affordable HOMES Act",
-        "bill": "HR5184",
-        "date": "2026-01-09",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on Affordable HOMES Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "State Planning for Reliability and Affordability Act \u2014 gives states more authority to override EPA clean energy mandates, protecting existing fossil fuel power plants from forced retirement."
+      },
+      {
+        "vote_description": "National Coal Council Reestablishment Act",
+        "bill": "HR3015",
+        "date": "2025-09-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "National Coal Council Reestablishment Act \u2014 re-establishes federal advisory body for coal industry, signaling government support for coal."
+      },
+      {
+        "vote_description": "Promoting Cross-border Energy Infrastructure Act",
+        "bill": "HR3062",
+        "date": "2025-09-18",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Promoting Cross-border Energy Infrastructure Act \u2014 facilitates cross-border pipeline and energy infrastructure permits, benefiting oil and gas companies importing/exporting fossil fuels."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 100,
+    "issues_scored": 5,
+    "against_electorate_pct": 80,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 51.4,
-        "margin_of_error": 7,
+        "district_support_pct": 50.5,
+        "margin_of_error": 7.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 50.5,
-        "margin_of_error": 7,
+        "district_support_pct": 49.9,
+        "margin_of_error": 6.0,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": false,
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 55.3,
-        "margin_of_error": 7,
+        "district_support_pct": 54.5,
+        "margin_of_error": 6.7,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 55.7,
-        "margin_of_error": 7,
+        "district_support_pct": 54.8,
+        "margin_of_error": 6.4,
         "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 42.1,
+        "margin_of_error": 6.4,
+        "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       }

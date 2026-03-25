@@ -1,5 +1,5 @@
 import zipLookup from "@/lib/zipLookup";
-import { loadMember, loadVotes } from "@/lib/data";
+import { loadMember, loadVotes, loadDistrict } from "@/lib/data";
 import RepTabBar from "@/components/RepTabBar";
 import RepCard from "@/components/RepCard";
 import InfoButton from "@/components/InfoButton";
@@ -17,9 +17,16 @@ export default async function RepPage({
     notFound();
   }
 
-  const [member, voting] = await Promise.all([
+  // Determine the district for this ZIP (use the primary entry)
+  const primaryEntry = result.entries?.[0];
+  const districtCode = primaryEntry
+    ? `${primaryEntry.state}-${String(primaryEntry.district).padStart(2, "0")}`
+    : null;
+
+  const [member, voting, districtOpinion] = await Promise.all([
     loadMember(bioguideId),
     loadVotes(bioguideId),
+    districtCode ? loadDistrict(districtCode) : Promise.resolve(null),
   ]);
   if (!member) {
     notFound();
@@ -35,7 +42,12 @@ export default async function RepPage({
       />
 
       <main className="flex-1 overflow-y-auto px-4 pb-8">
-        <RepCard member={member} voting={voting} />
+        <RepCard
+          member={member}
+          voting={voting}
+          districtOpinion={districtOpinion}
+          zip={zip}
+        />
       </main>
 
       <InfoButton />

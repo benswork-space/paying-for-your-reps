@@ -1679,112 +1679,114 @@
     ]
   },
   "donor_alignment": {
-    "overall_pct": 80,
-    "total_votes_scored": 113,
+    "overall_pct": 9,
+    "total_votes_scored": 17,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
-        "bill": "HR5371",
-        "date": "2025-09-30",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMALGAMATED BANK",
-        "donor_category": "Financial industry",
-        "donor_expected": "Nay on A bill making continuing appropriations and extensions for f"
-      },
-      {
-        "vote_description": "Providing for a correction in the enrollment of H.J. Res. 100",
-        "bill": "HCONRES119",
-        "date": "2022-11-30",
+        "vote_description": "Workforce Innovation and Opportunity Act of 2022",
+        "bill": "HR7309",
+        "date": "2022-05-17",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NARFE--NATIONAL ASSOCIATION OF RETIRED FEDERAL EMP",
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on Providing for a correction in the enrollment of H.J. Res. 10"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Workforce Innovation and Opportunity Act of 2022 \u2014 reauthorizes job training programs that unions support as they fund apprenticeships and workforce development."
       },
       {
-        "vote_description": "Emergency Housing Protections and Relief Act",
-        "bill": "HR7301",
-        "date": "2020-06-29",
+        "vote_description": "Federal Reserve Racial and Economic Equity Act",
+        "bill": "HR2543",
+        "date": "2022-06-15",
         "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "NATIONAL ASSOCIATION OF REALTORS PAC",
-        "donor_category": "Real estate industry",
-        "donor_expected": "Yea on Emergency Housing Protections and Relief Act"
+        "aligned": false,
+        "donor_category": "Financial industry",
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Federal Reserve Racial and Economic Equity Act \u2014 adds racial equity mandate to Federal Reserve, which banks and Wall Street oppose as scope creep beyond monetary policy."
       },
       {
-        "vote_description": "Meat and Poultry Special Investigator Act",
-        "bill": "HR7606",
-        "date": "2022-06-16",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
-        "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Meat and Poultry Special Investigator Act"
-      },
-      {
-        "vote_description": "A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
-        "bill": "HR4",
-        "date": "2025-07-17",
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AMALGAMATED BANK",
-        "donor_category": "Financial industry",
-        "donor_expected": "Yea on A bill to rescind certain budget authority proposed to be re"
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "Consumer Fuel Price Gouging Prevention Act",
+        "bill": "HR7688",
+        "date": "2022-05-19",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Consumer Fuel Price Gouging Prevention Act \u2014 allows FTC to crack down on gasoline price gouging by oil companies, directly opposed by the fossil fuel industry."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 7,
+    "against_electorate_pct": 29,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 90.6,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
-        "aligned_with_donors": false
-      },
-      {
-        "issue": "Ban on assault-style weapons",
-        "district_support_pct": 69.5,
-        "margin_of_error": 7,
+        "district_support_pct": 89.3,
+        "margin_of_error": 5.8,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 69.5,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
+        "district_support_pct": 68.0,
+        "margin_of_error": 9.1,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Prohibit all abortions after 20 weeks",
+        "district_support_pct": 15.8,
+        "margin_of_error": 5.5,
+        "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 64.5,
-        "margin_of_error": 7,
+        "district_support_pct": 62.4,
+        "margin_of_error": 8.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 70.8,
-        "margin_of_error": 7,
+        "district_support_pct": 70.1,
+        "margin_of_error": 7.6,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 69.3,
-        "margin_of_error": 7,
+        "district_support_pct": 68.3,
+        "margin_of_error": 7.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 65.3,
+        "margin_of_error": 7.6,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

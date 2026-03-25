@@ -11,116 +11,1175 @@
   "years_in_office": 15,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 14633719,
+    "campaign_raised": 14633719,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1047358,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 113285
+          },
+          {
+            "name": "OPTIMA FINANCIAL GROUP",
+            "type": "Organization",
+            "amount": 23200
+          },
+          {
+            "name": "STENSON TAMADDON",
+            "type": "Organization",
+            "amount": 13700
+          },
+          {
+            "name": "VETERANS GUARDIANS",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "JOHNSON INTERNATIONAL",
+            "type": "Organization",
+            "amount": 10500
+          },
+          {
+            "name": "MMR GROUP",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "PIVOT EQUITY",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "REALTY EXECUTIVES",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "PLEXUS WORLDWIDE",
+            "type": "Organization",
+            "amount": 6850
+          },
+          {
+            "name": "BILL LUKE CHRYSLER/JEEP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "VIAVI SOLUTIONS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WILSON PROPERTY SERVICES, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "33D MANAGEMENT SERVICES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GTN TECHNICAL STAFFING",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "QUANTUM ENERGY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CLEAR PATH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "INTERACTIVE BROKERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SOUTHWEST BARRICADES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ELLIOTT INVESTMENT MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "VAN HORN AVIATION LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GTI LABORATORIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "EL DORADO HOLDINGS INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "COPILOTIQ LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "DANZIK APPLIED SCIENCES, LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GOLUB CAPITAL LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AQR",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NOT IN WORKFORCE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "DC LONDON",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WDP PARTNERS, LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "COTTONWOOD PROPERTIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SOUTHWEST RETIREMENT CORP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LONDEN INSURANCE GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KARSTEN MFG CORP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KELLOGG CAPITAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "(RETIRED)",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "STARWOOD CAPITAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GABY FOUNDATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CREST INSURANCE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "RESEARCH AFFILIATES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CAMELBACK REAL ESTATE INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CUMBERLAND DEVELOPMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TW LEWIS CO.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE HEBETS COMPANY",
+            "type": "Organization",
+            "amount": 6500
+          },
+          {
+            "name": "ZIONS BANCORPORATION",
+            "type": "Organization",
+            "amount": 6300
+          },
+          {
+            "name": "FOUNTAIN HILLS DOOR AND SUPPLY",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "CULLUM HOMES",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "SYNERGI PARTNERS",
+            "type": "Organization",
+            "amount": 5600
+          },
+          {
+            "name": "BIG D SUPPLY",
+            "type": "Organization",
+            "amount": 5600
+          },
+          {
+            "name": "MARTORI FARMS",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "MAXIRCORP",
+            "type": "Organization",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 13586361,
+        "donors": [
+          {
+            "name": "HMP",
+            "type": "PAC",
+            "amount": 5803910
+          },
+          {
+            "name": "DCCC",
+            "type": "PAC",
+            "amount": 4142890
+          },
+          {
+            "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+            "type": "PAC",
+            "amount": 728870
+          },
+          {
+            "name": "EDF ACTION VOTES",
+            "type": "PAC",
+            "amount": 333748
+          },
+          {
+            "name": "RETIRED AMERICANS PAC",
+            "type": "PAC",
+            "amount": 267500
+          },
+          {
+            "name": "DEMOCRACYFIRST PAC",
+            "type": "PAC",
+            "amount": 259866
+          },
+          {
+            "name": "314 ACTION FUND",
+            "type": "PAC",
+            "amount": 136853
+          },
+          {
+            "name": "CONGRESSIONAL LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 122473
+          },
+          {
+            "name": "NRCC",
+            "type": "PAC",
+            "amount": 115000
+          },
+          {
+            "name": "CLUB FOR GROWTH PAC",
+            "type": "PAC",
+            "amount": 88819
+          },
+          {
+            "name": "CLEARPATH ACTION FUND, INC.",
+            "type": "PAC",
+            "amount": 48561
+          },
+          {
+            "name": "GOA VICTORY FUND",
+            "type": "PAC",
+            "amount": 23713
+          },
+          {
+            "name": "SAVE WESTERN CULTURE",
+            "type": "PAC",
+            "amount": 19842
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 17612
+          },
+          {
+            "name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
+            "type": "PAC",
+            "amount": 14880
+          },
+          {
+            "name": "PATRIOTS FOR A BRIGHTER AMERICA",
+            "type": "PAC",
+            "amount": 14300
+          },
+          {
+            "name": "PINNACLE WEST CAPITAL CORPORATION PAC",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+            "type": "PAC",
+            "amount": 10488
+          },
+          {
+            "name": "THE AMERICAN SOCIETY OF PENSION PROFESSIONALS AND ACTUARIES POLITICAL ACTION COMMITTEE (ASPPA-NAPA PAC) A/K/A AMERICAN RETIREMENT ASSOCIATION POLITICAL ACTION COMMITTEE (ARA PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INNOVATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CVS HEALTH PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS, INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FREEPORT-MCMORAN INC. CITIZENSHIP COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FIRST AMERICAN FINANCIAL CORPORATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "EUREKA POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FIRST IN FREEDOM PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "E-PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CREATING A MAJORITY PARTY ACTION COMMITTEE (C.A.M.P.A.C.)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "SOUTHWEST GAS CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 14633719,
+      "individual_contributions": 1047358,
+      "individual_itemized": 1047358,
+      "individual_unitemized": 0,
+      "pac_contributions": 13586361,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 113285
+        },
+        {
+          "name": "OPTIMA FINANCIAL GROUP",
+          "type": "Organization",
+          "amount": 23200
+        },
+        {
+          "name": "STENSON TAMADDON",
+          "type": "Organization",
+          "amount": 13700
+        },
+        {
+          "name": "VETERANS GUARDIANS",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "JOHNSON INTERNATIONAL",
+          "type": "Organization",
+          "amount": 10500
+        },
+        {
+          "name": "MMR GROUP",
+          "type": "Organization",
+          "amount": 10000
+        },
+        {
+          "name": "PIVOT EQUITY",
+          "type": "Organization",
+          "amount": 10000
+        },
+        {
+          "name": "REALTY EXECUTIVES",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "PLEXUS WORLDWIDE",
+          "type": "Organization",
+          "amount": 6850
+        },
+        {
+          "name": "BILL LUKE CHRYSLER/JEEP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VIAVI SOLUTIONS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WILSON PROPERTY SERVICES, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "33D MANAGEMENT SERVICES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GTN TECHNICAL STAFFING",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "QUANTUM ENERGY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CLEAR PATH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "INTERACTIVE BROKERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SOUTHWEST BARRICADES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ELLIOTT INVESTMENT MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VAN HORN AVIATION LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GTI LABORATORIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "EL DORADO HOLDINGS INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "COPILOTIQ LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DANZIK APPLIED SCIENCES, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GOLUB CAPITAL LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AQR",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NOT IN WORKFORCE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DC LONDON",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WDP PARTNERS, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "COTTONWOOD PROPERTIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SOUTHWEST RETIREMENT CORP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LONDEN INSURANCE GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KARSTEN MFG CORP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KELLOGG CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "(RETIRED)",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STARWOOD CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GABY FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CREST INSURANCE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "RESEARCH AFFILIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CAMELBACK REAL ESTATE INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CUMBERLAND DEVELOPMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TW LEWIS CO.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE HEBETS COMPANY",
+          "type": "Organization",
+          "amount": 6500
+        },
+        {
+          "name": "ZIONS BANCORPORATION",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "FOUNTAIN HILLS DOOR AND SUPPLY",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "CULLUM HOMES",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "SYNERGI PARTNERS",
+          "type": "Organization",
+          "amount": 5600
+        },
+        {
+          "name": "BIG D SUPPLY",
+          "type": "Organization",
+          "amount": 5600
+        },
+        {
+          "name": "MARTORI FARMS",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "MAXIRCORP",
+          "type": "Organization",
+          "amount": 5000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "HMP",
+          "type": "PAC",
+          "amount": 5803910
+        },
+        {
+          "name": "DCCC",
+          "type": "PAC",
+          "amount": 4142890
+        },
+        {
+          "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+          "type": "PAC",
+          "amount": 728870
+        },
+        {
+          "name": "EDF ACTION VOTES",
+          "type": "PAC",
+          "amount": 333748
+        },
+        {
+          "name": "RETIRED AMERICANS PAC",
+          "type": "PAC",
+          "amount": 267500
+        },
+        {
+          "name": "DEMOCRACYFIRST PAC",
+          "type": "PAC",
+          "amount": 259866
+        },
+        {
+          "name": "314 ACTION FUND",
+          "type": "PAC",
+          "amount": 136853
+        },
+        {
+          "name": "CONGRESSIONAL LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 122473
+        },
+        {
+          "name": "NRCC",
+          "type": "PAC",
+          "amount": 115000
+        },
+        {
+          "name": "CLUB FOR GROWTH PAC",
+          "type": "PAC",
+          "amount": 88819
+        },
+        {
+          "name": "CLEARPATH ACTION FUND, INC.",
+          "type": "PAC",
+          "amount": 48561
+        },
+        {
+          "name": "GOA VICTORY FUND",
+          "type": "PAC",
+          "amount": 23713
+        },
+        {
+          "name": "SAVE WESTERN CULTURE",
+          "type": "PAC",
+          "amount": 19842
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 17612
+        },
+        {
+          "name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
+          "type": "PAC",
+          "amount": 14880
+        },
+        {
+          "name": "PATRIOTS FOR A BRIGHTER AMERICA",
+          "type": "PAC",
+          "amount": 14300
+        },
+        {
+          "name": "PINNACLE WEST CAPITAL CORPORATION PAC",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+          "type": "PAC",
+          "amount": 10488
+        },
+        {
+          "name": "THE AMERICAN SOCIETY OF PENSION PROFESSIONALS AND ACTUARIES POLITICAL ACTION COMMITTEE (ASPPA-NAPA PAC) A/K/A AMERICAN RETIREMENT ASSOCIATION POLITICAL ACTION COMMITTEE (ARA PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INNOVATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CVS HEALTH PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS, INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FREEPORT-MCMORAN INC. CITIZENSHIP COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FIRST AMERICAN FINANCIAL CORPORATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EUREKA POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FIRST IN FREEDOM PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "E-PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CREATING A MAJORITY PARTY ACTION COMMITTEE (C.A.M.P.A.C.)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SOUTHWEST GAS CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 95,
-    "total_votes_scored": 123,
+    "overall_pct": 89,
+    "total_votes_scored": 49,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
+      },
+      {
+        "vote_description": "Israel Security Assistance Support Act",
+        "bill": "HR8369",
+        "date": "2024-05-16",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Pro-Israel groups",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "Israel Security Assistance Support Act \u2014 provides security assistance to Israel, a core AIPAC priority."
+      },
+      {
+        "vote_description": "To designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the \u201cJoseph Woodrow Hatchett United States Courthouse and Federal Building\u201d",
+        "bill": "S2938",
+        "date": "2022-05-18",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "Protect Children\u2019s Innocence Act",
-        "bill": "HR3492",
-        "date": "2025-12-17",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
         "donor_category": "Gun rights advocates",
-        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Bipartisan Safer Communities Act \u2014 NRA opposed this as it enhances background checks for under-21 buyers, funds state red flag laws, and closes the boyfriend loophole. NRA lobbied against passage."
       },
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
-        "donor_category": "Labor unions",
-        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
-      },
-      {
-        "vote_description": "To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",
-        "bill": "HR1023",
-        "date": "2024-03-22",
-        "member_voted": "Yea",
+        "vote_description": "Providing for a correction in the enrollment of H.J. Res. 100",
+        "bill": "HCONRES119",
+        "date": "2022-11-30",
+        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Nay on To repeal section 134 of the Clean Air Act, relating to the "
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "115th Congress resolution expressing that a carbon tax would be detrimental \u2014 same anti-carbon-tax position favored by fossil fuel industry."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 83,
+    "issues_scored": 9,
+    "against_electorate_pct": 89,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 84.7,
+        "margin_of_error": 6.5,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 53.3,
-        "margin_of_error": 7,
+        "district_support_pct": 51.9,
+        "margin_of_error": 9.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 52.2,
-        "margin_of_error": 7,
+        "district_support_pct": 53.2,
+        "margin_of_error": 10.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 15.6,
-        "margin_of_error": 7,
+        "district_support_pct": 14.8,
+        "margin_of_error": 5.0,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 51.3,
-        "margin_of_error": 7,
+        "district_support_pct": 53.5,
+        "margin_of_error": 8.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 59.8,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "district_support_pct": 60.3,
+        "margin_of_error": 8.1,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 57.5,
-        "margin_of_error": 7,
+        "district_support_pct": 58.4,
+        "margin_of_error": 7.7,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 46.2,
+        "margin_of_error": 8.3,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 57.1,
+        "margin_of_error": 7.8,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

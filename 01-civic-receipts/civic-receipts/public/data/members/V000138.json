@@ -11,99 +11,1142 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 9658183,
+    "campaign_raised": 9658183,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 2386089,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 474984
+          },
+          {
+            "name": "ARNOLD & PORTER",
+            "type": "Organization",
+            "amount": 15475
+          },
+          {
+            "name": "COVINGTON & BURLING LLP",
+            "type": "Organization",
+            "amount": 13600
+          },
+          {
+            "name": "GOOGLE",
+            "type": "Organization",
+            "amount": 13525
+          },
+          {
+            "name": "LARKSPUR MGMT",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "UNDERHILL LAW PC",
+            "type": "Organization",
+            "amount": 6850
+          },
+          {
+            "name": "COHEN MILSTEIN SELLERS & TOLL",
+            "type": "Organization",
+            "amount": 6850
+          },
+          {
+            "name": "DRAGONFLY",
+            "type": "Organization",
+            "amount": 6827
+          },
+          {
+            "name": "BORTON VOLVO INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BUCHANAN INGERSOLL & ROONEY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE CRANEMERE GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CHAIRMAN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ARCHIMEDES CAPITAL LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MATTHEW OCKO",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MCARTHURGLEN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SHEPHARD TINGLOF ASSOCIATES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CLYDE PRODUCTIONS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AOL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ALSOP LOUIE PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ALBRIGHT STONEBRIDGE GROUP LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WEINSTEIN PROPERTIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BLOOMBERG L.P.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SESSA CAPITAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MANTLE RIDGE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ICG",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PACHULSKI, STANG, ZIEHL, & JONES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "VALHALLA ENTERTAINMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CHANDLER RESIDENTIAL INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AERONAUTICAL SYSTEMS INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AFFIRM",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LONE PINE CAPITAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PRYON",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GREYLOCK",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE MILLER FIRM",
+            "type": "Organization",
+            "amount": 6425
+          },
+          {
+            "name": "MICROSOFT",
+            "type": "Organization",
+            "amount": 6200
+          },
+          {
+            "name": "US COMPTROLLER OF THE CURRENCY",
+            "type": "Organization",
+            "amount": 5550
+          },
+          {
+            "name": "PARTEN OPERATING INC.",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "RODON GROUP",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "TREMONT STRATEGIES GROUP LLC",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "GREENBERG TRAURIG",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "NA",
+            "type": "Organization",
+            "amount": 5137
+          },
+          {
+            "name": "BLOCKCHAINS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "LANCASTER-LEBANON IU#13",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BERGER MONTAGUE",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "PSAI REALTY PARTNERS",
+            "type": "Organization",
+            "amount": 4800
+          },
+          {
+            "name": "FREEMAN WEBB COM",
+            "type": "Organization",
+            "amount": 4737
+          },
+          {
+            "name": "FORD MOTOR CO.",
+            "type": "Organization",
+            "amount": 4550
+          },
+          {
+            "name": "NO EMPLOYER",
+            "type": "Organization",
+            "amount": 4320
+          },
+          {
+            "name": "ARCADIA DEVELOPMENT CO.",
+            "type": "Organization",
+            "amount": 4300
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 7272094,
+        "donors": [
+          {
+            "name": "CONGRESSIONAL LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 2144549
+          },
+          {
+            "name": "AMERICAN PATRIOTS PAC",
+            "type": "PAC",
+            "amount": 1524017
+          },
+          {
+            "name": "HMP",
+            "type": "PAC",
+            "amount": 1053554
+          },
+          {
+            "name": "PROTECT PROGRESS",
+            "type": "PAC",
+            "amount": 889852
+          },
+          {
+            "name": "VOTEVETS",
+            "type": "PAC",
+            "amount": 434784
+          },
+          {
+            "name": "LCV VICTORY FUND",
+            "type": "PAC",
+            "amount": 335734
+          },
+          {
+            "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+            "type": "PAC",
+            "amount": 203875
+          },
+          {
+            "name": "CASA IN ACTION PAC",
+            "type": "PAC",
+            "amount": 123780
+          },
+          {
+            "name": "DCCC",
+            "type": "PAC",
+            "amount": 99311
+          },
+          {
+            "name": "CHESAPEAKE CLIMATE ACTION NETWORK ACTION FUND",
+            "type": "PAC",
+            "amount": 30780
+          },
+          {
+            "name": "PATRIOTS FOR A BRIGHTER AMERICA",
+            "type": "PAC",
+            "amount": 22900
+          },
+          {
+            "name": "WORKING AMERICA",
+            "type": "PAC",
+            "amount": 17720
+          },
+          {
+            "name": "DIGIDEMS PAC",
+            "type": "PAC",
+            "amount": 16500
+          },
+          {
+            "name": "COUNTRY FIRST",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FORWARD TOGETHER PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "SERVE AMERICA PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+            "type": "PAC",
+            "amount": 6075
+          },
+          {
+            "name": "COMMONWEALTH PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "DEMOCRATIC MAJORITY ACTION (DMA PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SERVICE FIRST PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MIDWEST VALUES PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BLUE HEN FEDERAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "FAIR SHOT PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "OPERATIVE PLASTERERS' AND CEMENT MASONS' INTL ASSOCIATION ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "COMMON GOOD USA",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "DEMOCRACY DEFENSE FUND",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SECURING PROGRESS ACROSS OUR NATION PAC (SPAN PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMALGAMATED TRANSIT UNION - COPE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "END CITIZENS UNITED",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "PLANNED PARENTHOOD ACTION FUND INC PAC, DBA PLANNED PARENTHOOD FEDERAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BLUE MOMENTUM PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BACKPAC",
+            "type": "PAC",
+            "amount": 5000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 9658183,
+      "individual_contributions": 2386089,
+      "individual_itemized": 2386089,
+      "individual_unitemized": 0,
+      "pac_contributions": 7272094,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 474984
+        },
+        {
+          "name": "ARNOLD & PORTER",
+          "type": "Organization",
+          "amount": 15475
+        },
+        {
+          "name": "COVINGTON & BURLING LLP",
+          "type": "Organization",
+          "amount": 13600
+        },
+        {
+          "name": "GOOGLE",
+          "type": "Organization",
+          "amount": 13525
+        },
+        {
+          "name": "LARKSPUR MGMT",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "UNDERHILL LAW PC",
+          "type": "Organization",
+          "amount": 6850
+        },
+        {
+          "name": "COHEN MILSTEIN SELLERS & TOLL",
+          "type": "Organization",
+          "amount": 6850
+        },
+        {
+          "name": "DRAGONFLY",
+          "type": "Organization",
+          "amount": 6827
+        },
+        {
+          "name": "BORTON VOLVO INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BUCHANAN INGERSOLL & ROONEY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE CRANEMERE GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CHAIRMAN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARCHIMEDES CAPITAL LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MATTHEW OCKO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MCARTHURGLEN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SHEPHARD TINGLOF ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CLYDE PRODUCTIONS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AOL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ALSOP LOUIE PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ALBRIGHT STONEBRIDGE GROUP LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WEINSTEIN PROPERTIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BLOOMBERG L.P.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SESSA CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MANTLE RIDGE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ICG",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PACHULSKI, STANG, ZIEHL, & JONES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VALHALLA ENTERTAINMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CHANDLER RESIDENTIAL INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AERONAUTICAL SYSTEMS INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AFFIRM",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LONE PINE CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PRYON",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GREYLOCK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE MILLER FIRM",
+          "type": "Organization",
+          "amount": 6425
+        },
+        {
+          "name": "MICROSOFT",
+          "type": "Organization",
+          "amount": 6200
+        },
+        {
+          "name": "US COMPTROLLER OF THE CURRENCY",
+          "type": "Organization",
+          "amount": 5550
+        },
+        {
+          "name": "PARTEN OPERATING INC.",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "RODON GROUP",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "TREMONT STRATEGIES GROUP LLC",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "GREENBERG TRAURIG",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "NA",
+          "type": "Organization",
+          "amount": 5137
+        },
+        {
+          "name": "BLOCKCHAINS",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "LANCASTER-LEBANON IU#13",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "BERGER MONTAGUE",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "PSAI REALTY PARTNERS",
+          "type": "Organization",
+          "amount": 4800
+        },
+        {
+          "name": "FREEMAN WEBB COM",
+          "type": "Organization",
+          "amount": 4737
+        },
+        {
+          "name": "FORD MOTOR CO.",
+          "type": "Organization",
+          "amount": 4550
+        },
+        {
+          "name": "NO EMPLOYER",
+          "type": "Organization",
+          "amount": 4320
+        },
+        {
+          "name": "ARCADIA DEVELOPMENT CO.",
+          "type": "Organization",
+          "amount": 4300
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "CONGRESSIONAL LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 2144549
+        },
+        {
+          "name": "AMERICAN PATRIOTS PAC",
+          "type": "PAC",
+          "amount": 1524017
+        },
+        {
+          "name": "HMP",
+          "type": "PAC",
+          "amount": 1053554
+        },
+        {
+          "name": "PROTECT PROGRESS",
+          "type": "PAC",
+          "amount": 889852
+        },
+        {
+          "name": "VOTEVETS",
+          "type": "PAC",
+          "amount": 434784
+        },
+        {
+          "name": "LCV VICTORY FUND",
+          "type": "PAC",
+          "amount": 335734
+        },
+        {
+          "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+          "type": "PAC",
+          "amount": 203875
+        },
+        {
+          "name": "CASA IN ACTION PAC",
+          "type": "PAC",
+          "amount": 123780
+        },
+        {
+          "name": "DCCC",
+          "type": "PAC",
+          "amount": 99311
+        },
+        {
+          "name": "CHESAPEAKE CLIMATE ACTION NETWORK ACTION FUND",
+          "type": "PAC",
+          "amount": 30780
+        },
+        {
+          "name": "PATRIOTS FOR A BRIGHTER AMERICA",
+          "type": "PAC",
+          "amount": 22900
+        },
+        {
+          "name": "WORKING AMERICA",
+          "type": "PAC",
+          "amount": 17720
+        },
+        {
+          "name": "DIGIDEMS PAC",
+          "type": "PAC",
+          "amount": 16500
+        },
+        {
+          "name": "COUNTRY FIRST",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FORWARD TOGETHER PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "SERVE AMERICA PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+          "type": "PAC",
+          "amount": 6075
+        },
+        {
+          "name": "COMMONWEALTH PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "DEMOCRATIC MAJORITY ACTION (DMA PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SERVICE FIRST PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MIDWEST VALUES PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BLUE HEN FEDERAL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NEW DEMOCRAT COALITION ACTION FUND",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "FAIR SHOT PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "OPERATIVE PLASTERERS' AND CEMENT MASONS' INTL ASSOCIATION ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "COMMON GOOD USA",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "DEMOCRACY DEFENSE FUND",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SECURING PROGRESS ACROSS OUR NATION PAC (SPAN PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "END CITIZENS UNITED",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "PLANNED PARENTHOOD ACTION FUND INC PAC, DBA PLANNED PARENTHOOD FEDERAL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BLUE MOMENTUM PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BACKPAC",
+          "type": "PAC",
+          "amount": 5000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 61,
-    "total_votes_scored": 50,
+    "overall_pct": 45,
+    "total_votes_scored": 12,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Nay",
         "aligned": true,
-        "donor_name": "AIR LINE PILOTS ASSOCIATION PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "Consolidated Appropriations Act, 2026",
-        "bill": "HR7148",
-        "date": "2026-01-22",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
-        "donor_category": "Financial industry",
-        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
-      },
-      {
-        "vote_description": "TRACE Act",
-        "bill": "HR1049",
-        "date": "2025-12-04",
-        "member_voted": "Yea",
+        "vote_description": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+        "bill": "HR1968",
+        "date": "2025-03-11",
+        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AIR LINE PILOTS ASSOCIATION PAC",
         "donor_category": "Labor unions",
-        "donor_expected": "Nay on TRACE Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       },
       {
-        "vote_description": "Affordable HOMES Act",
-        "bill": "HR5184",
-        "date": "2026-01-09",
-        "member_voted": "Yea",
+        "vote_description": "Improving Interagency Coordination for Pipeline Reviews Act",
+        "bill": "HR3668",
+        "date": "2025-12-12",
+        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "NEW DEMOCRAT COALITION ACTION FUND",
         "donor_category": "Fossil fuel industry",
-        "donor_expected": "Nay on Affordable HOMES Act"
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "Improving Interagency Coordination for Pipeline Reviews Act \u2014 streamlines federal review process for pipeline projects, directly benefiting oil and gas pipeline companies."
+      },
+      {
+        "vote_description": "State Planning for Reliability and Affordability Act",
+        "bill": "HR3628",
+        "date": "2025-12-11",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "State Planning for Reliability and Affordability Act \u2014 gives states more authority to override EPA clean energy mandates, protecting existing fossil fuel power plants from forced retirement."
+      },
+      {
+        "vote_description": "National Coal Council Reestablishment Act",
+        "bill": "HR3015",
+        "date": "2025-09-18",
+        "member_voted": "Nay",
+        "aligned": false,
+        "donor_category": "Fossil fuel industry",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "National Coal Council Reestablishment Act \u2014 re-establishes federal advisory body for coal industry, signaling government support for coal."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 0,
+    "issues_scored": 5,
+    "against_electorate_pct": 20,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 60.0,
-        "margin_of_error": 7,
+        "district_support_pct": 60.6,
+        "margin_of_error": 11.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 56.4,
-        "margin_of_error": 7,
+        "district_support_pct": 55.8,
+        "margin_of_error": 8.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 66.9,
-        "margin_of_error": 7,
+        "district_support_pct": 68.1,
+        "margin_of_error": 7.8,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 63.2,
+        "margin_of_error": 7.9,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
-        "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 62.9,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 40.5,
+        "margin_of_error": 8.5,
+        "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       }

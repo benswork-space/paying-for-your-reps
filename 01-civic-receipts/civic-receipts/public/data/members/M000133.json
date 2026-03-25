@@ -11,88 +11,909 @@
   "years_in_office": 51,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 674251,
+    "campaign_raised": 674251,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 520701,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 51001
+          },
+          {
+            "name": "THE WONDERFUL COMPANY",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BAD ROBOT",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "STANFORD UNIVERSITY",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "GOOGLE",
+            "type": "Organization",
+            "amount": 12850
+          },
+          {
+            "name": "ARBELLA",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "MASS GENERAL HOSPITAL",
+            "type": "Organization",
+            "amount": 9500
+          },
+          {
+            "name": "CHARTER COMMUNICATIONS",
+            "type": "Organization",
+            "amount": 7500
+          },
+          {
+            "name": "SV ANGEL, LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "B5 ENTERPRISES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CITYBRIDGE FOUNDATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "DGA",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AMERESCO, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ANGELENO GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KLEIN FINANCIAL CORP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KLEIN FINANCIAL CORPORATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GUTTMAN INITIATIVES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LEARNING SQUARED INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GOLDBERG, GODLES, WIENER AND WRIGHT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ARTERY HOMES LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "JED MANOCHERIAN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "A10 ASSOCIATES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE WESTLY GROUP",
+            "type": "Organization",
+            "amount": 6500
+          },
+          {
+            "name": "TREMONT STRATEGIES GROUP LLC",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "GUERNSEY LAW OFFICES",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "ATN INTERNATIONAL",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "BECK AVENUE PICTURES, INC.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "FIRST REALTY MGT",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BLOOMENERGY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ROBERT WHITE ASSOCIATES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SUSTAINABILITY ROUNDTABLE INC.",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "MORGAN LEWIS BOCKIUS",
+            "type": "Organization",
+            "amount": 4300
+          },
+          {
+            "name": "DEKK GROUO",
+            "type": "Organization",
+            "amount": 3800
+          },
+          {
+            "name": "PROMONTORY FINANCIAL",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "BILL BAER",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "ALKEUS PHARMACEUTICALS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "TRIVERA EQUESTRIAN INC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "NESSEL DEVELOPMENT",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "HAMSTERHEAD INC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "M/C VENTURE PARTNERS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "ELEFTHERIA MOUTOUDIS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "MARSHFIELD ASSOCIATES",
+            "type": "Organization",
+            "amount": 3299
+          },
+          {
+            "name": "MASSACHUSETTS GENERAL HOSPITAL",
+            "type": "Organization",
+            "amount": 3100
+          },
+          {
+            "name": "IHEARTMEDIA",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "HAWTHORNE HOTEL",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "CAFRITZ ENTERPRISES",
+            "type": "Organization",
+            "amount": 3000
+          },
+          {
+            "name": "SPD LAB",
+            "type": "Organization",
+            "amount": 2975
+          },
+          {
+            "name": "TUFTS UNIVERSITY",
+            "type": "Organization",
+            "amount": 2912
+          },
+          {
+            "name": "KLEIN/JOHNSON GROUP",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "SAMI CORP.",
+            "type": "Organization",
+            "amount": 2900
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 153550,
+        "donors": [
+          {
+            "name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST FEDERAL POLITICAL ACTION FUND",
+            "type": "PAC",
+            "amount": 42025
+          },
+          {
+            "name": "IMPACT",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+            "type": "PAC",
+            "amount": 9000
+          },
+          {
+            "name": "IMMIGRANTS' LIST",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF HEAT AND FROST INSULATORS AND ALLIED WORKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "UNITED STATES CELLULAR CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "STAND UP FOR WORKERS PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AKSM UROLOGY POLITICAL ACTION COMMITTEE 'AKSM UROLOGY PAC'",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMALGAMATED TRANSIT UNION - COPE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SMART TD PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "JSTREETPAC",
+            "type": "PAC",
+            "amount": 2025
+          },
+          {
+            "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "SQUIRE PATTON BOGGS POLITICAL ACTION COMMITTEE (SQUIRE PATTON BOGGS PAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "FGS GLOBAL (US) LLC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "BARNES & THORNBURG POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "COMPTEL PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "COZEN O'CONNOR POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 674251,
+      "individual_contributions": 520701,
+      "individual_itemized": 520701,
+      "individual_unitemized": 0,
+      "pac_contributions": 153550,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 51001
+        },
+        {
+          "name": "THE WONDERFUL COMPANY",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BAD ROBOT",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "STANFORD UNIVERSITY",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "GOOGLE",
+          "type": "Organization",
+          "amount": 12850
+        },
+        {
+          "name": "ARBELLA",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "MASS GENERAL HOSPITAL",
+          "type": "Organization",
+          "amount": 9500
+        },
+        {
+          "name": "CHARTER COMMUNICATIONS",
+          "type": "Organization",
+          "amount": 7500
+        },
+        {
+          "name": "SV ANGEL, LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "B5 ENTERPRISES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CITYBRIDGE FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DGA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AMERESCO, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ANGELENO GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KLEIN FINANCIAL CORP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KLEIN FINANCIAL CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GUTTMAN INITIATIVES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LEARNING SQUARED INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GOLDBERG, GODLES, WIENER AND WRIGHT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARTERY HOMES LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JED MANOCHERIAN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "A10 ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE WESTLY GROUP",
+          "type": "Organization",
+          "amount": 6500
+        },
+        {
+          "name": "TREMONT STRATEGIES GROUP LLC",
+          "type": "Organization",
+          "amount": 6000
+        },
+        {
+          "name": "GUERNSEY LAW OFFICES",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "ATN INTERNATIONAL",
+          "type": "Organization",
+          "amount": 5500
+        },
+        {
+          "name": "BECK AVENUE PICTURES, INC.",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "FIRST REALTY MGT",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "BLOOMENERGY",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ROBERT WHITE ASSOCIATES",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "SUSTAINABILITY ROUNDTABLE INC.",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "MORGAN LEWIS BOCKIUS",
+          "type": "Organization",
+          "amount": 4300
+        },
+        {
+          "name": "DEKK GROUO",
+          "type": "Organization",
+          "amount": 3800
+        },
+        {
+          "name": "PROMONTORY FINANCIAL",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BILL BAER",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ALKEUS PHARMACEUTICALS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TRIVERA EQUESTRIAN INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "NESSEL DEVELOPMENT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HAMSTERHEAD INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "M/C VENTURE PARTNERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ELEFTHERIA MOUTOUDIS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "MARSHFIELD ASSOCIATES",
+          "type": "Organization",
+          "amount": 3299
+        },
+        {
+          "name": "MASSACHUSETTS GENERAL HOSPITAL",
+          "type": "Organization",
+          "amount": 3100
+        },
+        {
+          "name": "IHEARTMEDIA",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "HAWTHORNE HOTEL",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "CAFRITZ ENTERPRISES",
+          "type": "Organization",
+          "amount": 3000
+        },
+        {
+          "name": "SPD LAB",
+          "type": "Organization",
+          "amount": 2975
+        },
+        {
+          "name": "TUFTS UNIVERSITY",
+          "type": "Organization",
+          "amount": 2912
+        },
+        {
+          "name": "KLEIN/JOHNSON GROUP",
+          "type": "Organization",
+          "amount": 2900
+        },
+        {
+          "name": "SAMI CORP.",
+          "type": "Organization",
+          "amount": 2900
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST FEDERAL POLITICAL ACTION FUND",
+          "type": "PAC",
+          "amount": 42025
+        },
+        {
+          "name": "IMPACT",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+          "type": "PAC",
+          "amount": 9000
+        },
+        {
+          "name": "IMMIGRANTS' LIST",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF HEAT AND FROST INSULATORS AND ALLIED WORKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "UNITED STATES CELLULAR CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION (THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "STAND UP FOR WORKERS PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AKSM UROLOGY POLITICAL ACTION COMMITTEE 'AKSM UROLOGY PAC'",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMALGAMATED TRANSIT UNION - COPE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SMART TD PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "JSTREETPAC",
+          "type": "PAC",
+          "amount": 2025
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "SQUIRE PATTON BOGGS POLITICAL ACTION COMMITTEE (SQUIRE PATTON BOGGS PAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "FGS GLOBAL (US) LLC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "BARNES & THORNBURG POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "COMPTEL PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "COZEN O'CONNOR POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 100,
-    "total_votes_scored": 6,
+    "overall_pct": 48,
+    "total_votes_scored": 3,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "A bill to extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.",
-        "bill": "S3853",
-        "date": "2024-03-07",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST FEDERAL POLITICAL ACTION FUND",
-        "donor_category": "Labor unions",
-        "donor_expected": "Yea on A bill to extend the period for filing claims under the Radi"
-      },
-      {
-        "vote_description": "A bill to amend the Disaster Relief Supplemental Appropriations Act, 2023 to improve disaster relief funding for agricultural producers, and for other purposes.",
-        "bill": "HR662",
-        "date": "2023-11-01",
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
         "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
-        "donor_category": "Agriculture industry",
-        "donor_expected": "Nay on A bill to amend the Disaster Relief Supplemental Appropriati"
-      },
-      {
-        "vote_description": "A bill to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.",
-        "bill": "HR3967",
-        "date": "2022-06-16",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
-        "donor_category": "Healthcare industry",
-        "donor_expected": "Yea on A bill to improve health care and benefits for veterans expo"
-      },
-      {
-        "vote_description": "A joint resolution to provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers' Conference Committee of the National Railway Labor Conference and certain of their employees.",
-        "bill": "HJRES100",
-        "date": "2022-12-01",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST FEDERAL POLITICAL ACTION FUND",
+        "aligned": false,
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on A joint resolution to provide for a resolution with respect "
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 8,
+    "against_electorate_pct": 38,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 93.2,
-        "margin_of_error": 7,
+        "district_support_pct": 92.7,
+        "margin_of_error": 3.6,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 74.6,
+        "margin_of_error": 8.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 73.0,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
-        "aligned_with_donors": false
-      },
-      {
-        "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 10.5,
-        "margin_of_error": 7,
+        "district_support_pct": 72.8,
+        "margin_of_error": 9.2,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": true,
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 67.4,
-        "margin_of_error": 7,
+        "district_support_pct": 67.2,
+        "margin_of_error": 8.1,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
@@ -100,7 +921,7 @@
       {
         "issue": "Regulate CO2 as a pollutant",
         "district_support_pct": 75.2,
-        "margin_of_error": 7,
+        "margin_of_error": 6.7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
@@ -108,9 +929,25 @@
       {
         "issue": "Require minimum renewable fuel production",
         "district_support_pct": 70.8,
-        "margin_of_error": 7,
+        "margin_of_error": 6.7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Grant legal status to DACA recipients",
+        "district_support_pct": 71.5,
+        "margin_of_error": 5.8,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 73.4,
+        "margin_of_error": 7.0,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

@@ -862,84 +862,51 @@
   },
   "donor_alignment": {
     "overall_pct": 100,
-    "total_votes_scored": 4,
+    "total_votes_scored": 2,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": [
-      {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "To direct the removal of United States Armed Forces from hostilities within or against Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES64",
-        "date": "2025-12-17",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from hos"
-      },
-      {
-        "vote_description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with presidentially designated terrorist organizations in the Western Hemisphere",
-        "bill": "HCONRES61",
-        "date": "2025-12-17",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on Directing the President, pursuant to section 5(c) of the War"
-      },
-      {
-        "vote_description": "Illegitimate Court Counteraction Act",
-        "bill": "HR23",
-        "date": "2025-01-09",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Yea on Illegitimate Court Counteraction Act"
-      }
-    ]
+    "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 4,
-    "against_electorate_pct": 75,
+    "issues_scored": 5,
+    "against_electorate_pct": 80,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
         "district_support_pct": 53.9,
-        "margin_of_error": 7,
+        "margin_of_error": 10.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 46.3,
-        "margin_of_error": 7,
+        "district_support_pct": 46.1,
+        "margin_of_error": 8.2,
         "member_position": "Voted Nay",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 59.1,
-        "margin_of_error": 7,
+        "district_support_pct": 59.4,
+        "margin_of_error": 7.9,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 57.8,
-        "margin_of_error": 7,
+        "district_support_pct": 57.9,
+        "margin_of_error": 7.5,
         "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 45.3,
+        "margin_of_error": 8.0,
+        "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       }

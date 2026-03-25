@@ -90,38 +90,46 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 4,
+    "issues_scored": 5,
     "against_electorate_pct": 100,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 54.5,
-        "margin_of_error": 7,
+        "district_support_pct": 53.5,
+        "margin_of_error": 11.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 54.8,
-        "margin_of_error": 7,
+        "district_support_pct": 53.8,
+        "margin_of_error": 8.5,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 65.7,
-        "margin_of_error": 7,
+        "district_support_pct": 64.7,
+        "margin_of_error": 7.4,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 59.8,
-        "margin_of_error": 7,
+        "district_support_pct": 58.5,
+        "margin_of_error": 7.6,
         "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 43.4,
+        "margin_of_error": 7.9,
+        "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       }

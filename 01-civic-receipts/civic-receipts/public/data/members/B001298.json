@@ -11,116 +11,1175 @@
   "years_in_office": 9,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 15719428,
+    "campaign_raised": 15719428,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 2077147,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 78392
+          },
+          {
+            "name": "TENASKA",
+            "type": "Organization",
+            "amount": 33900
+          },
+          {
+            "name": "CALVERT SYSTEMS",
+            "type": "Organization",
+            "amount": 20479
+          },
+          {
+            "name": "COX ENTERPRISES",
+            "type": "Organization",
+            "amount": 18000
+          },
+          {
+            "name": "2FILLC",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "NA",
+            "type": "Organization",
+            "amount": 14000
+          },
+          {
+            "name": "PRESIDENT",
+            "type": "Organization",
+            "amount": 13900
+          },
+          {
+            "name": "CBMC INTERNATIONAL",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "VETERANS GUARDIAN",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "PILLEN FAMILY FARMS",
+            "type": "Organization",
+            "amount": 11200
+          },
+          {
+            "name": "REAL ESTATE BROKER",
+            "type": "Organization",
+            "amount": 11000
+          },
+          {
+            "name": "ATTORNEY",
+            "type": "Organization",
+            "amount": 10800
+          },
+          {
+            "name": "GOLDMAN SACHS",
+            "type": "Organization",
+            "amount": 10100
+          },
+          {
+            "name": "TEXAS CRUDE ENERGY, LLC",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "AUSTIN VENTURES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "GREAT HILL PARTNERS, LP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "EXIGER",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "THE CARSON FAMILY CHARITABLE TRUST",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "BROADMOOR",
+            "type": "Organization",
+            "amount": 9450
+          },
+          {
+            "name": "STATE OF NEBRASKA",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "CARDINAL INVESTMENT COMPANY, INC.",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+            "type": "Organization",
+            "amount": 8545
+          },
+          {
+            "name": "MUTUAL OF OMAHA",
+            "type": "Organization",
+            "amount": 8100
+          },
+          {
+            "name": "COX COMMUNICATIONS",
+            "type": "Organization",
+            "amount": 8030
+          },
+          {
+            "name": "COX AUTOMOTIVE",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "PHYSICIANS MUTUAL",
+            "type": "Organization",
+            "amount": 6860
+          },
+          {
+            "name": "CREIGHTON UNIVERSITY",
+            "type": "Organization",
+            "amount": 6804
+          },
+          {
+            "name": "WINDOW WORLD",
+            "type": "Organization",
+            "amount": 6735
+          },
+          {
+            "name": "THIRD POINT LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "UNAKA CO",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "STEPHENS INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FOOD FOR LESS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CASSLING",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CRETE CARRIERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MINILEC SERVICE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GREYLOCK PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MOORE CAPITAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TERESA WELCH",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CENTRAL NATIONAL GOTTESMAN INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE RIVERSIDE COMPANY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TIGERRISK PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WRBC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WWE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MIDLANDS TESTING SERVICES, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "GRI LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "PIERCE COUNTY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "EBM CONSTRUCTION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HUNT COMPANIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BHMI",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FEDERAL EXPRESS",
+            "type": "Organization",
+            "amount": 6600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 13642281,
+        "donors": [
+          {
+            "name": "HMP",
+            "type": "PAC",
+            "amount": 2912676
+          },
+          {
+            "name": "DCCC",
+            "type": "PAC",
+            "amount": 2450477
+          },
+          {
+            "name": "BIG RED LEADERSHIP PAC",
+            "type": "PAC",
+            "amount": 1391830
+          },
+          {
+            "name": "GIFFORDS PAC",
+            "type": "PAC",
+            "amount": 929846
+          },
+          {
+            "name": "WITH HONOR FUND II, INC.",
+            "type": "PAC",
+            "amount": 849665
+          },
+          {
+            "name": "AMERICA PAC",
+            "type": "PAC",
+            "amount": 479777
+          },
+          {
+            "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 308076
+          },
+          {
+            "name": "314 ACTION FUND",
+            "type": "PAC",
+            "amount": 284033
+          },
+          {
+            "name": "CONGRESSIONAL LEADERSHIP FUND",
+            "type": "PAC",
+            "amount": 283725
+          },
+          {
+            "name": "LCV VICTORY FUND",
+            "type": "PAC",
+            "amount": 262922
+          },
+          {
+            "name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+            "type": "PAC",
+            "amount": 250000
+          },
+          {
+            "name": "YOUR COMMUNITY PAC",
+            "type": "PAC",
+            "amount": 190562
+          },
+          {
+            "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 110000
+          },
+          {
+            "name": "LAW ENFORCEMENT FOR A SAFER AMERICA PAC",
+            "type": "PAC",
+            "amount": 105000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 102454
+          },
+          {
+            "name": "J STREET ACTION FUND",
+            "type": "PAC",
+            "amount": 100000
+          },
+          {
+            "name": "SUPPORT AMERICA'S POLICE PAC",
+            "type": "PAC",
+            "amount": 67944
+          },
+          {
+            "name": "SUPPORT OUR FIREFIGHTERS AND PARAMEDICS PAC",
+            "type": "PAC",
+            "amount": 55817
+          },
+          {
+            "name": "HONORING AMERICAN LAW ENFORCEMENT PAC",
+            "type": "PAC",
+            "amount": 50000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS",
+            "type": "PAC",
+            "amount": 48998
+          },
+          {
+            "name": "AMERICAN UNITY PAC INC",
+            "type": "PAC",
+            "amount": 41000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 37921
+          },
+          {
+            "name": "POLICE COALITION OF AMERICA PAC",
+            "type": "PAC",
+            "amount": 28441
+          },
+          {
+            "name": "RED STATE NEBRASKA",
+            "type": "PAC",
+            "amount": 25000
+          },
+          {
+            "name": "SAVE WESTERN CULTURE",
+            "type": "PAC",
+            "amount": 19636
+          },
+          {
+            "name": "POLICE AND TROOPER SUPPORT PAC",
+            "type": "PAC",
+            "amount": 18126
+          },
+          {
+            "name": "NORPAC",
+            "type": "PAC",
+            "amount": 16750
+          },
+          {
+            "name": "PATRIOTS FOR A BRIGHTER AMERICA",
+            "type": "PAC",
+            "amount": 16424
+          },
+          {
+            "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "PROTECT AND SERVE PAC",
+            "type": "PAC",
+            "amount": 14482
+          },
+          {
+            "name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
+            "type": "PAC",
+            "amount": 12555
+          },
+          {
+            "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 11500
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THE DESERT CAUCUS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HDR, INC. EMPLOYEE OWNERS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BUILDING BRIDGES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INNOVATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NELNET INC PAC (NELNET PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TEXAS FARM BUREAU AGFUND",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BROTHERHOOD OF RAILROAD SIGNALMEN POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 15719428,
+      "individual_contributions": 2077147,
+      "individual_itemized": 2077147,
+      "individual_unitemized": 0,
+      "pac_contributions": 13642281,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 78392
+        },
+        {
+          "name": "TENASKA",
+          "type": "Organization",
+          "amount": 33900
+        },
+        {
+          "name": "CALVERT SYSTEMS",
+          "type": "Organization",
+          "amount": 20479
+        },
+        {
+          "name": "COX ENTERPRISES",
+          "type": "Organization",
+          "amount": 18000
+        },
+        {
+          "name": "2FILLC",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "NA",
+          "type": "Organization",
+          "amount": 14000
+        },
+        {
+          "name": "PRESIDENT",
+          "type": "Organization",
+          "amount": 13900
+        },
+        {
+          "name": "CBMC INTERNATIONAL",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "VETERANS GUARDIAN",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "PILLEN FAMILY FARMS",
+          "type": "Organization",
+          "amount": 11200
+        },
+        {
+          "name": "REAL ESTATE BROKER",
+          "type": "Organization",
+          "amount": 11000
+        },
+        {
+          "name": "ATTORNEY",
+          "type": "Organization",
+          "amount": 10800
+        },
+        {
+          "name": "GOLDMAN SACHS",
+          "type": "Organization",
+          "amount": 10100
+        },
+        {
+          "name": "TEXAS CRUDE ENERGY, LLC",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "AUSTIN VENTURES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "GREAT HILL PARTNERS, LP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "EXIGER",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "THE CARSON FAMILY CHARITABLE TRUST",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "BROADMOOR",
+          "type": "Organization",
+          "amount": 9450
+        },
+        {
+          "name": "STATE OF NEBRASKA",
+          "type": "Organization",
+          "amount": 8600
+        },
+        {
+          "name": "CARDINAL INVESTMENT COMPANY, INC.",
+          "type": "Organization",
+          "amount": 8600
+        },
+        {
+          "name": "CORNERSTONE GOVERNMENT AFFAIRS",
+          "type": "Organization",
+          "amount": 8545
+        },
+        {
+          "name": "MUTUAL OF OMAHA",
+          "type": "Organization",
+          "amount": 8100
+        },
+        {
+          "name": "COX COMMUNICATIONS",
+          "type": "Organization",
+          "amount": 8030
+        },
+        {
+          "name": "COX AUTOMOTIVE",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "PHYSICIANS MUTUAL",
+          "type": "Organization",
+          "amount": 6860
+        },
+        {
+          "name": "CREIGHTON UNIVERSITY",
+          "type": "Organization",
+          "amount": 6804
+        },
+        {
+          "name": "WINDOW WORLD",
+          "type": "Organization",
+          "amount": 6735
+        },
+        {
+          "name": "THIRD POINT LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "UNAKA CO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STEPHENS INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FOOD FOR LESS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CASSLING",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CRETE CARRIERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MINILEC SERVICE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GREYLOCK PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MOORE CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TERESA WELCH",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CENTRAL NATIONAL GOTTESMAN INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE RIVERSIDE COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TIGERRISK PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WRBC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WWE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MIDLANDS TESTING SERVICES, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "GRI LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PIERCE COUNTY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "EBM CONSTRUCTION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HUNT COMPANIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BHMI",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FEDERAL EXPRESS",
+          "type": "Organization",
+          "amount": 6600
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "HMP",
+          "type": "PAC",
+          "amount": 2912676
+        },
+        {
+          "name": "DCCC",
+          "type": "PAC",
+          "amount": 2450477
+        },
+        {
+          "name": "BIG RED LEADERSHIP PAC",
+          "type": "PAC",
+          "amount": 1391830
+        },
+        {
+          "name": "GIFFORDS PAC",
+          "type": "PAC",
+          "amount": 929846
+        },
+        {
+          "name": "WITH HONOR FUND II, INC.",
+          "type": "PAC",
+          "amount": 849665
+        },
+        {
+          "name": "AMERICA PAC",
+          "type": "PAC",
+          "amount": 479777
+        },
+        {
+          "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 308076
+        },
+        {
+          "name": "314 ACTION FUND",
+          "type": "PAC",
+          "amount": 284033
+        },
+        {
+          "name": "CONGRESSIONAL LEADERSHIP FUND",
+          "type": "PAC",
+          "amount": 283725
+        },
+        {
+          "name": "LCV VICTORY FUND",
+          "type": "PAC",
+          "amount": 262922
+        },
+        {
+          "name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+          "type": "PAC",
+          "amount": 250000
+        },
+        {
+          "name": "YOUR COMMUNITY PAC",
+          "type": "PAC",
+          "amount": 190562
+        },
+        {
+          "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 110000
+        },
+        {
+          "name": "LAW ENFORCEMENT FOR A SAFER AMERICA PAC",
+          "type": "PAC",
+          "amount": 105000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 102454
+        },
+        {
+          "name": "J STREET ACTION FUND",
+          "type": "PAC",
+          "amount": 100000
+        },
+        {
+          "name": "SUPPORT AMERICA'S POLICE PAC",
+          "type": "PAC",
+          "amount": 67944
+        },
+        {
+          "name": "SUPPORT OUR FIREFIGHTERS AND PARAMEDICS PAC",
+          "type": "PAC",
+          "amount": 55817
+        },
+        {
+          "name": "HONORING AMERICAN LAW ENFORCEMENT PAC",
+          "type": "PAC",
+          "amount": 50000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS",
+          "type": "PAC",
+          "amount": 48998
+        },
+        {
+          "name": "AMERICAN UNITY PAC INC",
+          "type": "PAC",
+          "amount": 41000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 37921
+        },
+        {
+          "name": "POLICE COALITION OF AMERICA PAC",
+          "type": "PAC",
+          "amount": 28441
+        },
+        {
+          "name": "RED STATE NEBRASKA",
+          "type": "PAC",
+          "amount": 25000
+        },
+        {
+          "name": "SAVE WESTERN CULTURE",
+          "type": "PAC",
+          "amount": 19636
+        },
+        {
+          "name": "POLICE AND TROOPER SUPPORT PAC",
+          "type": "PAC",
+          "amount": 18126
+        },
+        {
+          "name": "NORPAC",
+          "type": "PAC",
+          "amount": 16750
+        },
+        {
+          "name": "PATRIOTS FOR A BRIGHTER AMERICA",
+          "type": "PAC",
+          "amount": 16424
+        },
+        {
+          "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "PROTECT AND SERVE PAC",
+          "type": "PAC",
+          "amount": 14482
+        },
+        {
+          "name": "REPUBLICAN JEWISH COALITION-POLITICAL ACTION COMMITTEE (RJC-PAC)",
+          "type": "PAC",
+          "amount": 12555
+        },
+        {
+          "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 11500
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THE DESERT CAUCUS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HDR, INC. EMPLOYEE OWNERS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BUILDING BRIDGES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INNOVATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NELNET INC PAC (NELNET PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TEXAS FARM BUREAU AGFUND",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BROTHERHOOD OF RAILROAD SIGNALMEN POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 86,
-    "total_votes_scored": 161,
+    "overall_pct": 49,
+    "total_votes_scored": 81,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "Protect Children\u2019s Innocence Act",
-        "bill": "HR3492",
-        "date": "2025-12-17",
+        "vote_description": "SUPPORT for Patients and Communities Reauthorization Act",
+        "bill": "HR2483",
+        "date": "2025-06-04",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "GIFFORDS PAC",
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "SUPPORT for Patients and Communities Reauthorization Act \u2014 reauthorizes opioid treatment programs and community health services. Healthcare industry supports as it funds treatment programs and drives patient volume."
+      },
+      {
+        "vote_description": "To designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the \u201cJoseph Woodrow Hatchett United States Courthouse and Federal Building\u201d",
+        "bill": "S2938",
+        "date": "2022-05-18",
+        "member_voted": "Nay",
+        "aligned": false,
         "donor_category": "Gun control advocates",
-        "donor_expected": "Yea on Protect Children\u2019s Innocence Act"
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Bipartisan Safer Communities Act \u2014 the first major federal gun safety law in decades, enhancing background checks for buyers under 21, funding crisis intervention, and closing boyfriend loophole. Supported by gun control groups though they wanted more."
       },
       {
         "vote_description": "Do No Harm in Medicaid Act",
         "bill": "HR498",
         "date": "2025-12-18",
         "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+        "aligned": false,
         "donor_category": "Healthcare industry",
-        "donor_expected": "Yea on Do No Harm in Medicaid Act"
+        "donor_expected": "Nay",
+        "confidence": 0.85,
+        "reason": "Do No Harm in Medicaid Act \u2014 despite the friendly name, this bill CUTS Medicaid by restricting eligibility and reducing federal matching funds. Hospitals and healthcare providers oppose Medicaid cuts because they reduce patient volume and reimbursements."
       },
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+        "aligned": false,
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
-        "vote_description": "SHOWER Act",
-        "bill": "HR4593",
-        "date": "2026-01-13",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "POLICE COALITION OF AMERICA PAC",
-        "donor_category": "Fossil fuel industry",
-        "donor_expected": "Yea on SHOWER Act"
-      },
-      {
-        "vote_description": "Fourth Amendment Is Not For Sale Act",
-        "bill": "HR4639",
-        "date": "2024-04-17",
+        "vote_description": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024",
+        "bill": "HR4368",
+        "date": "2023-09-28",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "GIFFORDS PAC",
-        "donor_category": "Gun control advocates",
-        "donor_expected": "Yea on Fourth Amendment Is Not For Sale Act"
+        "donor_category": "Agriculture industry",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "FY2024 Agriculture Appropriations Act \u2014 funds USDA programs, crop insurance, farm subsidies, and food safety that the farm bureau and agricultural companies depend on."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 83,
+    "issues_scored": 9,
+    "against_electorate_pct": 89,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.7,
+        "margin_of_error": 5.2,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 68.4,
-        "margin_of_error": 7,
+        "district_support_pct": 66.8,
+        "margin_of_error": 7.5,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 64.9,
-        "margin_of_error": 7,
+        "district_support_pct": 64.2,
+        "margin_of_error": 9.2,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 14.7,
-        "margin_of_error": 7,
+        "district_support_pct": 14.8,
+        "margin_of_error": 5.0,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 65.3,
-        "margin_of_error": 7,
+        "district_support_pct": 64.8,
+        "margin_of_error": 7.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 72.3,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "district_support_pct": 71.8,
+        "margin_of_error": 6.3,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 72.4,
-        "margin_of_error": 7,
+        "district_support_pct": 72.0,
+        "margin_of_error": 6.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 34.2,
+        "margin_of_error": 7.0,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 67.3,
+        "margin_of_error": 6.5,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],

@@ -11,89 +11,1086 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 941158,
+    "campaign_raised": 941158,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 450221,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 17200
+          },
+          {
+            "name": "VETERANS GUARDIAN",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "MK RESOURCES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "CERTAPRO",
+            "type": "Organization",
+            "amount": 9192
+          },
+          {
+            "name": "KOTIS PROPERTIES",
+            "type": "Organization",
+            "amount": 9096
+          },
+          {
+            "name": "CHECKMATE GOVERNMENT RELATIONS",
+            "type": "Organization",
+            "amount": 8800
+          },
+          {
+            "name": "CONTINUUM CARE SERVICES",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "UTC",
+            "type": "Organization",
+            "amount": 6735
+          },
+          {
+            "name": "INFOSYS PUBLIC SERVICES",
+            "type": "Organization",
+            "amount": 6635
+          },
+          {
+            "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MASON JAR GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FLOW AUTOMOTIVE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "THE FOUNTAIN GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MOUNTAIRE CORP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "VETERANS GUARDIAN VA CLAIM CONSULTING",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SAM LLC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "OLD DOMINION FREIGHT LINE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TRACO DRYWALL, INC.",
+            "type": "Organization",
+            "amount": 6423
+          },
+          {
+            "name": "THE BUDD GROUP",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "RH BARRINGER DISTRIBUTING",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "BELL COMMERCIAL",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "KILPATRICK TOWNSEND & STOCKTON",
+            "type": "Organization",
+            "amount": 4800
+          },
+          {
+            "name": "DALE K CLINE",
+            "type": "Organization",
+            "amount": 4750
+          },
+          {
+            "name": "DALE K CLINE CPA LLC",
+            "type": "Organization",
+            "amount": 4750
+          },
+          {
+            "name": "KILPATRICK",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "ATLANTIC BUILDING SOLUTIONS",
+            "type": "Organization",
+            "amount": 4164
+          },
+          {
+            "name": "WILLSCOTT PROPERTIES",
+            "type": "Organization",
+            "amount": 3986
+          },
+          {
+            "name": "ICGS INC",
+            "type": "Organization",
+            "amount": 3841
+          },
+          {
+            "name": "AKERMAN LLP",
+            "type": "Organization",
+            "amount": 3560
+          },
+          {
+            "name": "PUBLIC SECTOR GROUP",
+            "type": "Organization",
+            "amount": 3435
+          },
+          {
+            "name": "CHECKMATE GR",
+            "type": "Organization",
+            "amount": 3435
+          },
+          {
+            "name": "OGT",
+            "type": "Organization",
+            "amount": 3435
+          },
+          {
+            "name": "TALON ENERGY LLC",
+            "type": "Organization",
+            "amount": 3435
+          },
+          {
+            "name": "TRUEROCK, INC.",
+            "type": "Organization",
+            "amount": 3435
+          },
+          {
+            "name": "SFLA ARCHITECTS",
+            "type": "Organization",
+            "amount": 3435
+          },
+          {
+            "name": "MINDSET",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "TOWNSHIP DEVELOPERS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "SPEECH SOLUTIONS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "GRADY-WHITE BOATS INC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "BOB MAYBERRY HYUNDAI",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "HANES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "SIDES SEEDS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "HUNTER ENGINEERING",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "PAY TEL COMMUNICATIONS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "EXCEL FITNESS",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "DH GRIFFIN COMPANIES",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "GREEN RESOURCE",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "RALEIGH OPHTHALMOLOGY",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CPFRM LLC",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "ALLEN AESTHETIC SURGERY",
+            "type": "Organization",
+            "amount": 3300
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 490937,
+        "donors": [
+          {
+            "name": "RIGHT FOR NC",
+            "type": "PAC",
+            "amount": 141126
+          },
+          {
+            "name": "HUNTER ACTION FUND (HAF)",
+            "type": "PAC",
+            "amount": 52166
+          },
+          {
+            "name": "INNOVATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 15000
+          },
+          {
+            "name": "BUILDING UP DEMOCRACY'S DREAM",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "THINK BIG AMERICA PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TED BUDD FOR SENATE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "HOUSE CONSERVATIVES FUND",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "TOGETHER HOLDING OUR MAJORITY PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "RAPTOR PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ALTRIA GROUP, INC. POLITICAL ACTION COMMITTEE (ALTRIAPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS, INC. POLITICAL ACTION COMMITTEE)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "BRANDON GILL FOR TEXAS",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "DUTY HONOR VICTORY PAC",
+            "type": "PAC",
+            "amount": 3300
+          },
+          {
+            "name": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "NORTH CAROLINA FARM BUREAU FEDERATION INC POL ACT CMTE INC (AKA) NC FARM BUREAU FARMPAC",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "CAMPAIGN FOR WORKING FAMILIES",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "FEDERAL BIPARTISAN VOLUNTARY PUBLIC AFFAIRS COMMITTEE OF THE PNC FINANCIAL SERVICES GROUP, INC. (PNC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "E-PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "FRATERNITY & SORORITY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SYNGENTA CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "IN THE ARENA PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "TRULIANT FCU PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "BLUE CROSS AND BLUE SHIELD OF NORTH CAROLINA EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "EMERGEORTHO P.A. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "LOWE'S COMPANIES, INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 941158,
+      "individual_contributions": 450221,
+      "individual_itemized": 450221,
+      "individual_unitemized": 0,
+      "pac_contributions": 490937,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 17200
+        },
+        {
+          "name": "VETERANS GUARDIAN",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "MK RESOURCES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "CERTAPRO",
+          "type": "Organization",
+          "amount": 9192
+        },
+        {
+          "name": "KOTIS PROPERTIES",
+          "type": "Organization",
+          "amount": 9096
+        },
+        {
+          "name": "CHECKMATE GOVERNMENT RELATIONS",
+          "type": "Organization",
+          "amount": 8800
+        },
+        {
+          "name": "CONTINUUM CARE SERVICES",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "UTC",
+          "type": "Organization",
+          "amount": 6735
+        },
+        {
+          "name": "INFOSYS PUBLIC SERVICES",
+          "type": "Organization",
+          "amount": 6635
+        },
+        {
+          "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MASON JAR GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FLOW AUTOMOTIVE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE FOUNTAIN GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MOUNTAIRE CORP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VETERANS GUARDIAN VA CLAIM CONSULTING",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SAM LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "OLD DOMINION FREIGHT LINE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TRACO DRYWALL, INC.",
+          "type": "Organization",
+          "amount": 6423
+        },
+        {
+          "name": "THE BUDD GROUP",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "RH BARRINGER DISTRIBUTING",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "BELL COMMERCIAL",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "KILPATRICK TOWNSEND & STOCKTON",
+          "type": "Organization",
+          "amount": 4800
+        },
+        {
+          "name": "DALE K CLINE",
+          "type": "Organization",
+          "amount": 4750
+        },
+        {
+          "name": "DALE K CLINE CPA LLC",
+          "type": "Organization",
+          "amount": 4750
+        },
+        {
+          "name": "KILPATRICK",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "ATLANTIC BUILDING SOLUTIONS",
+          "type": "Organization",
+          "amount": 4164
+        },
+        {
+          "name": "WILLSCOTT PROPERTIES",
+          "type": "Organization",
+          "amount": 3986
+        },
+        {
+          "name": "ICGS INC",
+          "type": "Organization",
+          "amount": 3841
+        },
+        {
+          "name": "AKERMAN LLP",
+          "type": "Organization",
+          "amount": 3560
+        },
+        {
+          "name": "PUBLIC SECTOR GROUP",
+          "type": "Organization",
+          "amount": 3435
+        },
+        {
+          "name": "CHECKMATE GR",
+          "type": "Organization",
+          "amount": 3435
+        },
+        {
+          "name": "OGT",
+          "type": "Organization",
+          "amount": 3435
+        },
+        {
+          "name": "TALON ENERGY LLC",
+          "type": "Organization",
+          "amount": 3435
+        },
+        {
+          "name": "TRUEROCK, INC.",
+          "type": "Organization",
+          "amount": 3435
+        },
+        {
+          "name": "SFLA ARCHITECTS",
+          "type": "Organization",
+          "amount": 3435
+        },
+        {
+          "name": "MINDSET",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "TOWNSHIP DEVELOPERS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SPEECH SOLUTIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GRADY-WHITE BOATS INC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BOB MAYBERRY HYUNDAI",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HANES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "SIDES SEEDS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HUNTER ENGINEERING",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "PAY TEL COMMUNICATIONS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "EXCEL FITNESS",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "DH GRIFFIN COMPANIES",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "GREEN RESOURCE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "RALEIGH OPHTHALMOLOGY",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CPFRM LLC",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "ALLEN AESTHETIC SURGERY",
+          "type": "Organization",
+          "amount": 3300
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "RIGHT FOR NC",
+          "type": "PAC",
+          "amount": 141126
+        },
+        {
+          "name": "HUNTER ACTION FUND (HAF)",
+          "type": "PAC",
+          "amount": 52166
+        },
+        {
+          "name": "INNOVATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 15000
+        },
+        {
+          "name": "BUILDING UP DEMOCRACY'S DREAM",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "THINK BIG AMERICA PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TED BUDD FOR SENATE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "HOUSE CONSERVATIVES FUND",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "TOGETHER HOLDING OUR MAJORITY PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "RAPTOR PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ALTRIA GROUP, INC. POLITICAL ACTION COMMITTEE (ALTRIAPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS, INC. POLITICAL ACTION COMMITTEE)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MAJORITY COMMITTEE PAC--MC PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "BRANDON GILL FOR TEXAS",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "DUTY HONOR VICTORY PAC",
+          "type": "PAC",
+          "amount": 3300
+        },
+        {
+          "name": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "NORTH CAROLINA FARM BUREAU FEDERATION INC POL ACT CMTE INC (AKA) NC FARM BUREAU FARMPAC",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "CAMPAIGN FOR WORKING FAMILIES",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "FEDERAL BIPARTISAN VOLUNTARY PUBLIC AFFAIRS COMMITTEE OF THE PNC FINANCIAL SERVICES GROUP, INC. (PNC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "E-PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "FRATERNITY & SORORITY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SYNGENTA CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "IN THE ARENA PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "TRULIANT FCU PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "BLUE CROSS AND BLUE SHIELD OF NORTH CAROLINA EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "EMERGEORTHO P.A. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "LOWE'S COMPANIES, INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
     "overall_pct": 100,
-    "total_votes_scored": 21,
+    "total_votes_scored": 2,
     "methodology_url": "/methodology#donor-alignment",
-    "examples": [
-      {
-        "vote_description": "To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES68",
-        "date": "2026-01-22",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from Ven"
-      },
-      {
-        "vote_description": "Consolidated Appropriations Act, 2026",
-        "bill": "HR7148",
-        "date": "2026-01-22",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
-        "donor_category": "Financial industry",
-        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
-      },
-      {
-        "vote_description": "To direct the removal of United States Armed Forces from hostilities within or against Venezuela that have not been authorized by Congress",
-        "bill": "HCONRES64",
-        "date": "2025-12-17",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on To direct the removal of United States Armed Forces from hos"
-      },
-      {
-        "vote_description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with presidentially designated terrorist organizations in the Western Hemisphere",
-        "bill": "HCONRES61",
-        "date": "2025-12-17",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Pro-Israel groups",
-        "donor_expected": "Nay on Directing the President, pursuant to section 5(c) of the War"
-      }
-    ]
+    "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 4,
+    "issues_scored": 5,
     "against_electorate_pct": 100,
     "highlights": [
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 53.6,
-        "margin_of_error": 7,
+        "district_support_pct": 55.0,
+        "margin_of_error": 10.7,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 51.4,
-        "margin_of_error": 7,
+        "district_support_pct": 53.8,
+        "margin_of_error": 8.5,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 63.2,
-        "margin_of_error": 7,
+        "district_support_pct": 64.0,
+        "margin_of_error": 8.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 60.0,
-        "margin_of_error": 7,
+        "district_support_pct": 60.3,
+        "margin_of_error": 7.8,
         "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 40.2,
+        "margin_of_error": 8.1,
+        "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       }

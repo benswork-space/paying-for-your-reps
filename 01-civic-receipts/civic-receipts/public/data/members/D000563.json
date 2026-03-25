@@ -11,116 +11,1134 @@
   "years_in_office": 43,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 302469,
+    "campaign_raised": 302469,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 132719,
+        "donors": [
+          {
+            "name": "FLINT COOPER",
+            "type": "Organization",
+            "amount": 12500
+          },
+          {
+            "name": "JANE STREET",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "JAY CASHMAN INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ARNOLD VENTURES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LEVIN & PERCONTI",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "NORTHWESTERN UNIVERSITY",
+            "type": "Organization",
+            "amount": 4060
+          },
+          {
+            "name": "NEWSWEB COMPANY",
+            "type": "Organization",
+            "amount": 3700
+          },
+          {
+            "name": "METRO EAST PARK & RECREATION DISTRICT",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "HAMILTON LANE",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "AGILE RADAR",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "BOWERY ENGINE",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "CASS COMMUNICATIONS MGMT INC",
+            "type": "Organization",
+            "amount": 3093
+          },
+          {
+            "name": "STATE OF ILLINOIS",
+            "type": "Organization",
+            "amount": 2965
+          },
+          {
+            "name": "SC JOHNSON & SON",
+            "type": "Organization",
+            "amount": 2500
+          },
+          {
+            "name": "PECK RITCHEY LLC",
+            "type": "Organization",
+            "amount": 2499
+          },
+          {
+            "name": "CONSULT LTD",
+            "type": "Organization",
+            "amount": 2145
+          },
+          {
+            "name": "CASSIDY & ASSOCIATES",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "HELP AT HOME",
+            "type": "Organization",
+            "amount": 2000
+          },
+          {
+            "name": "PETER PETERSON FOUNDATION",
+            "type": "Organization",
+            "amount": 1800
+          },
+          {
+            "name": "HURST BOLEKY LLC",
+            "type": "Organization",
+            "amount": 1750
+          },
+          {
+            "name": "THE VISTRIA GROUP",
+            "type": "Organization",
+            "amount": 1600
+          },
+          {
+            "name": "RECORDING INDUSTRY ASSN OF AMERICA",
+            "type": "Organization",
+            "amount": 1500
+          },
+          {
+            "name": "REEDY INDUSTRIES",
+            "type": "Organization",
+            "amount": 1300
+          },
+          {
+            "name": "DATA CONSULTANTS CORPORATION",
+            "type": "Organization",
+            "amount": 1250
+          },
+          {
+            "name": "USDA",
+            "type": "Organization",
+            "amount": 1200
+          },
+          {
+            "name": "SANDBOX INDUSTRIES LLC",
+            "type": "Organization",
+            "amount": 1200
+          },
+          {
+            "name": "UNIVERSITY OF ILLINOIS",
+            "type": "Organization",
+            "amount": 1050
+          },
+          {
+            "name": "ILLINOIS BROADCASTERS ASSN",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "UICO LLC",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "CADUCEUS COMMUNICATIONS INC",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "UB GREENSFELDER",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "SMITH LACIEN LLP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "HUSCHBLACKWELL",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "LETTUCE ENTERTAIN YOU RESTAURANTS",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "PUBLIC RESPONSE GROUP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "BROYDRICK AND ASSOCIATES",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "KIRKLAND & ELLIS",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "THE NATIONAL GROUP LLP",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "CHRISTOPHER B BURKE ENGR LTD",
+            "type": "Organization",
+            "amount": 1000
+          },
+          {
+            "name": "LURIE CHILDREN'S HOSPITAL",
+            "type": "Organization",
+            "amount": 925
+          },
+          {
+            "name": "REGO CONSULTING",
+            "type": "Organization",
+            "amount": 860
+          },
+          {
+            "name": "UNIVERSITY OF CHICAGO",
+            "type": "Organization",
+            "amount": 831
+          },
+          {
+            "name": "US DEPT OF JUSTICE",
+            "type": "Organization",
+            "amount": 800
+          },
+          {
+            "name": "CULLINAN PROPERTIES",
+            "type": "Organization",
+            "amount": 800
+          },
+          {
+            "name": "DEPAUL UNIVERSITY",
+            "type": "Organization",
+            "amount": 654
+          },
+          {
+            "name": "US DEPT OF ENERGY",
+            "type": "Organization",
+            "amount": 600
+          },
+          {
+            "name": "SYMPHONY HEALTHCARE",
+            "type": "Organization",
+            "amount": 600
+          },
+          {
+            "name": "CGS TECHNOLOGIES",
+            "type": "Organization",
+            "amount": 600
+          },
+          {
+            "name": "ARDC",
+            "type": "Organization",
+            "amount": 600
+          },
+          {
+            "name": "R S CORCORAN CO",
+            "type": "Organization",
+            "amount": 575
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 169750,
+        "donors": [
+          {
+            "name": "KELLANOVA POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "WAY TO LEAD PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL RETAIL FEDERATION RETAILPAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE OPTIONS CLEARING CORPORATION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "GRIDIRON-PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "TELEVISAUNIVISION, INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HY-VEE INC EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CUMMINS INC. POLITICAL ACTION COMMITTEE (CIPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "JSTREETPAC",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "UNIVERSAL MUSIC GROUP EMPLOYEE ACTION FUND",
+            "type": "PAC",
+            "amount": 3000
+          },
+          {
+            "name": "ARCHER DANIELS MIDLAND COMPANY - ADM PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "FASPAC FAREWAY STORES INC PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SQUIRE PATTON BOGGS POLITICAL ACTION COMMITTEE (SQUIRE PATTON BOGGS PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "INGRAM BARGE COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "SYNGENTA CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "THE WENDYS COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "MATSON, INC. FEDERAL ELECTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "DOW INC. PAC (DOWPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "ENBRIDGE (U.S.) INC. POLITICAL ACTION COMMITTEE (ENBRIDGE PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "LYONDELL CHEMICAL COMPANY PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "COVINGTON AND BURLING LLP PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "TARGET CORPORATION CITIZENS POLITICAL FORUM (TARGETCITIZENS POLITICAL FORUM)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "BURGER KING FRANCHISEE PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "THE TIMKEN COMPANY GOOD GOVERNMENT FUND",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "ACADEMY OF NUTRITION AND DIETETICS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "CONTINENTAL AUTOMOTIVE, INC PAC",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "HEALTH CARE SERVICE CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "INTEL CORPORATION POLITICAL ACTION COMMITTEE (IPAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "HUSCH BLACKWELL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "CMHA BLOCK & PAVER PAC CONCRETE MASONRY AND HARDSCAPES VALLEY DRIVE",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "INVENERGY LLC PAC",
+            "type": "PAC",
+            "amount": 1750
+          },
+          {
+            "name": "NORTHERN TRUST CORPORATION FEDERAL POLITICAL ACTION COMMITTEE (NORTHERN TRUST FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION - OSTEOPATHIC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "AMERICAN VETERINARY MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "BACARDI U S A INC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "NELSON MULLINS RILEY & SCARBOROUGH, LLP FEDERAL POLITICAL COMMITTEE",
+            "type": "PAC",
+            "amount": 1500
+          },
+          {
+            "name": "DISTRICT NO. 1-PCD, MARINE ENGINEERS' BENEFICIAL ASSOC. - POLITICAL ACTION FUND (MEBA-PAF)",
+            "type": "PAC",
+            "amount": 1352
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 302469,
+      "individual_contributions": 132719,
+      "individual_itemized": 132719,
+      "individual_unitemized": 0,
+      "pac_contributions": 169750,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "FLINT COOPER",
+          "type": "Organization",
+          "amount": 12500
+        },
+        {
+          "name": "JANE STREET",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JAY CASHMAN INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARNOLD VENTURES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LEVIN & PERCONTI",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "NORTHWESTERN UNIVERSITY",
+          "type": "Organization",
+          "amount": 4060
+        },
+        {
+          "name": "NEWSWEB COMPANY",
+          "type": "Organization",
+          "amount": 3700
+        },
+        {
+          "name": "METRO EAST PARK & RECREATION DISTRICT",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "HAMILTON LANE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "AGILE RADAR",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "BOWERY ENGINE",
+          "type": "Organization",
+          "amount": 3300
+        },
+        {
+          "name": "CASS COMMUNICATIONS MGMT INC",
+          "type": "Organization",
+          "amount": 3093
+        },
+        {
+          "name": "STATE OF ILLINOIS",
+          "type": "Organization",
+          "amount": 2965
+        },
+        {
+          "name": "SC JOHNSON & SON",
+          "type": "Organization",
+          "amount": 2500
+        },
+        {
+          "name": "PECK RITCHEY LLC",
+          "type": "Organization",
+          "amount": 2499
+        },
+        {
+          "name": "CONSULT LTD",
+          "type": "Organization",
+          "amount": 2145
+        },
+        {
+          "name": "CASSIDY & ASSOCIATES",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "HELP AT HOME",
+          "type": "Organization",
+          "amount": 2000
+        },
+        {
+          "name": "PETER PETERSON FOUNDATION",
+          "type": "Organization",
+          "amount": 1800
+        },
+        {
+          "name": "HURST BOLEKY LLC",
+          "type": "Organization",
+          "amount": 1750
+        },
+        {
+          "name": "THE VISTRIA GROUP",
+          "type": "Organization",
+          "amount": 1600
+        },
+        {
+          "name": "RECORDING INDUSTRY ASSN OF AMERICA",
+          "type": "Organization",
+          "amount": 1500
+        },
+        {
+          "name": "REEDY INDUSTRIES",
+          "type": "Organization",
+          "amount": 1300
+        },
+        {
+          "name": "DATA CONSULTANTS CORPORATION",
+          "type": "Organization",
+          "amount": 1250
+        },
+        {
+          "name": "USDA",
+          "type": "Organization",
+          "amount": 1200
+        },
+        {
+          "name": "SANDBOX INDUSTRIES LLC",
+          "type": "Organization",
+          "amount": 1200
+        },
+        {
+          "name": "UNIVERSITY OF ILLINOIS",
+          "type": "Organization",
+          "amount": 1050
+        },
+        {
+          "name": "ILLINOIS BROADCASTERS ASSN",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "UICO LLC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CADUCEUS COMMUNICATIONS INC",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "UB GREENSFELDER",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "SMITH LACIEN LLP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "HUSCHBLACKWELL",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "LETTUCE ENTERTAIN YOU RESTAURANTS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "PUBLIC RESPONSE GROUP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "BROYDRICK AND ASSOCIATES",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "KIRKLAND & ELLIS",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "THE NATIONAL GROUP LLP",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "CHRISTOPHER B BURKE ENGR LTD",
+          "type": "Organization",
+          "amount": 1000
+        },
+        {
+          "name": "LURIE CHILDREN'S HOSPITAL",
+          "type": "Organization",
+          "amount": 925
+        },
+        {
+          "name": "REGO CONSULTING",
+          "type": "Organization",
+          "amount": 860
+        },
+        {
+          "name": "UNIVERSITY OF CHICAGO",
+          "type": "Organization",
+          "amount": 831
+        },
+        {
+          "name": "US DEPT OF JUSTICE",
+          "type": "Organization",
+          "amount": 800
+        },
+        {
+          "name": "CULLINAN PROPERTIES",
+          "type": "Organization",
+          "amount": 800
+        },
+        {
+          "name": "DEPAUL UNIVERSITY",
+          "type": "Organization",
+          "amount": 654
+        },
+        {
+          "name": "US DEPT OF ENERGY",
+          "type": "Organization",
+          "amount": 600
+        },
+        {
+          "name": "SYMPHONY HEALTHCARE",
+          "type": "Organization",
+          "amount": 600
+        },
+        {
+          "name": "CGS TECHNOLOGIES",
+          "type": "Organization",
+          "amount": 600
+        },
+        {
+          "name": "ARDC",
+          "type": "Organization",
+          "amount": 600
+        },
+        {
+          "name": "R S CORCORAN CO",
+          "type": "Organization",
+          "amount": 575
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "KELLANOVA POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "WAY TO LEAD PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL RETAIL FEDERATION RETAILPAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE OPTIONS CLEARING CORPORATION PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "GRIDIRON-PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "TELEVISAUNIVISION, INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HY-VEE INC EMPLOYEES' POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CUMMINS INC. POLITICAL ACTION COMMITTEE (CIPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "JSTREETPAC",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "UNIVERSAL MUSIC GROUP EMPLOYEE ACTION FUND",
+          "type": "PAC",
+          "amount": 3000
+        },
+        {
+          "name": "ARCHER DANIELS MIDLAND COMPANY - ADM PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "FASPAC FAREWAY STORES INC PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SQUIRE PATTON BOGGS POLITICAL ACTION COMMITTEE (SQUIRE PATTON BOGGS PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "INGRAM BARGE COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "SYNGENTA CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "THE WENDYS COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "MATSON, INC. FEDERAL ELECTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "DOW INC. PAC (DOWPAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "ENBRIDGE (U.S.) INC. POLITICAL ACTION COMMITTEE (ENBRIDGE PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "LYONDELL CHEMICAL COMPANY PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "COVINGTON AND BURLING LLP PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "TARGET CORPORATION CITIZENS POLITICAL FORUM (TARGETCITIZENS POLITICAL FORUM)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "BURGER KING FRANCHISEE PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "THE TIMKEN COMPANY GOOD GOVERNMENT FUND",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "ACADEMY OF NUTRITION AND DIETETICS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "CONTINENTAL AUTOMOTIVE, INC PAC",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "HEALTH CARE SERVICE CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "INTEL CORPORATION POLITICAL ACTION COMMITTEE (IPAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "HUSCH BLACKWELL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "CMHA BLOCK & PAVER PAC CONCRETE MASONRY AND HARDSCAPES VALLEY DRIVE",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "INVENERGY LLC PAC",
+          "type": "PAC",
+          "amount": 1750
+        },
+        {
+          "name": "NORTHERN TRUST CORPORATION FEDERAL POLITICAL ACTION COMMITTEE (NORTHERN TRUST FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION - OSTEOPATHIC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "AMERICAN VETERINARY MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "BACARDI U S A INC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "NELSON MULLINS RILEY & SCARBOROUGH, LLP FEDERAL POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 1500
+        },
+        {
+          "name": "DISTRICT NO. 1-PCD, MARINE ENGINEERS' BENEFICIAL ASSOC. - POLITICAL ACTION FUND (MEBA-PAF)",
+          "type": "PAC",
+          "amount": 1352
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 94,
-    "total_votes_scored": 39,
+    "overall_pct": 50,
+    "total_votes_scored": 4,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
       {
-        "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
-        "bill": "HR4346",
-        "date": "2022-07-27",
+        "vote_description": "A bill to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+        "bill": "HR2670",
+        "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
-        "donor_category": "Telecom companies",
-        "donor_expected": "Yea on A bill making appropriations for Legislative Branch for the "
-      },
-      {
-        "vote_description": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
-        "bill": "HR5371",
-        "date": "2025-09-30",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "TELEVISAUNIVISION, INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Financial industry",
-        "donor_expected": "Nay on A bill making continuing appropriations and extensions for f"
-      },
-      {
-        "vote_description": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
-        "bill": "S1071",
-        "date": "2025-12-17",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "L3HARRIS TECHNOLOGIES, INC. PAC",
         "donor_category": "Defense contractors",
-        "donor_expected": "Yea on A bill to require the Secretary of Veterans Affairs to disin"
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "FY2024 NDAA conference report \u2014 final version of annual defense authorization bill. Defense industry's top legislative priority each year."
       },
       {
-        "vote_description": "A bill to amend the Disaster Relief Supplemental Appropriations Act, 2023 to improve disaster relief funding for agricultural producers, and for other purposes.",
-        "bill": "HR662",
-        "date": "2023-11-01",
-        "member_voted": "Nay",
-        "aligned": true,
-        "donor_name": "ARCHER DANIELS MIDLAND COMPANY - ADM PAC",
-        "donor_category": "Agriculture industry",
-        "donor_expected": "Nay on A bill to amend the Disaster Relief Supplemental Appropriati"
-      },
-      {
-        "vote_description": "A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
-        "bill": "HR4",
-        "date": "2025-07-17",
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
         "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "TELEVISAUNIVISION, INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Financial industry",
-        "donor_expected": "Yea on A bill to rescind certain budget authority proposed to be re"
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 8,
+    "against_electorate_pct": 38,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 91.4,
-        "margin_of_error": 7,
+        "district_support_pct": 90.4,
+        "margin_of_error": 4.0,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 68.8,
+        "margin_of_error": 6.8,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 65.1,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
-        "aligned_with_donors": false
-      },
-      {
-        "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 15.5,
-        "margin_of_error": 7,
+        "district_support_pct": 64.1,
+        "margin_of_error": 8.6,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": true,
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 62.6,
-        "margin_of_error": 7,
+        "district_support_pct": 61.4,
+        "margin_of_error": 7.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 71.7,
-        "margin_of_error": 7,
+        "district_support_pct": 71.0,
+        "margin_of_error": 6.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 67.6,
-        "margin_of_error": 7,
+        "district_support_pct": 66.7,
+        "margin_of_error": 7.0,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Grant legal status to DACA recipients",
+        "district_support_pct": 71.6,
+        "margin_of_error": 5.4,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 65.1,
+        "margin_of_error": 6.8,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

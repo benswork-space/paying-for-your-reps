@@ -11,6 +11,11 @@ const nextConfig: NextConfig = {
         hostname: "unitedstates.github.io",
         pathname: "/images/congress/**",
       },
+      {
+        protocol: "https",
+        hostname: "www.congress.gov",
+        pathname: "/img/member/**",
+      },
     ],
   },
 };

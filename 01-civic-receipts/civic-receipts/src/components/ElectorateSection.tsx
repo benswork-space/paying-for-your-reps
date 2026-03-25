@@ -1,12 +1,21 @@
 import type { ElectorateAlignment } from "@/lib/types";
 import { formatPct } from "@/lib/format";
+import ReportIssueButton from "./ReportIssueButton";
+
+interface ReportCtx {
+  zip: string;
+  bioguideId: string;
+  memberName: string;
+}
 
 interface ElectorateSectionProps {
   alignment: ElectorateAlignment;
+  reportCtx: ReportCtx;
 }
 
 export default function ElectorateSection({
   alignment,
+  reportCtx,
 }: ElectorateSectionProps) {
   // Use pre-computed alignment from the backend pipeline, which uses
   // policy_area matching with party-line context, double-negative detection,
@@ -56,8 +65,18 @@ export default function ElectorateSection({
               scored issues.
             </p>
             <p className="mt-1 text-xs text-zinc-400">
-              Based on CES survey data (164K respondents, 2018-2021) processed
-              with MRP. Estimates have ~&plusmn;7 point margins.
+              Based on{" "}
+              <a
+                href="https://cces.gov.harvard.edu/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline hover:text-zinc-600"
+              >
+                CES survey
+              </a>{" "}
+              data (164K respondents, 2018-2021) processed with MRP. Estimates
+              have ~&plusmn;7 point margins.{" "}
+              <ReportIssueButton {...reportCtx} section="electorate" />
             </p>
           </div>
         </div>

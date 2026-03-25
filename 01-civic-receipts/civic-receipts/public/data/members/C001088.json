@@ -11,116 +11,1137 @@
   "years_in_office": 16,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1321009,
+    "campaign_raised": 1321009,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 779150,
+        "donors": [
+          {
+            "name": "APOLLO GLOBAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 24000
+          },
+          {
+            "name": "THE CHEMOURS COMPANY",
+            "type": "Organization",
+            "amount": 20000
+          },
+          {
+            "name": "INVARIANT",
+            "type": "Organization",
+            "amount": 17000
+          },
+          {
+            "name": "BARCLAYS",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "AXXESS",
+            "type": "Organization",
+            "amount": 15000
+          },
+          {
+            "name": "ROSEN PARTNERS LLC",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "AKIN GUMP STRAUSS HAUER & FELD LLP",
+            "type": "Organization",
+            "amount": 12000
+          },
+          {
+            "name": "IRELL & MANELLA LLP",
+            "type": "Organization",
+            "amount": 11850
+          },
+          {
+            "name": "RUSS AUGUST & KABAT LLP",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "JANE STREET CAPITAL",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "MARCONI LLC",
+            "type": "Organization",
+            "amount": 9800
+          },
+          {
+            "name": "FORBES TATE PARTNERS",
+            "type": "Organization",
+            "amount": 9100
+          },
+          {
+            "name": "MARCONI, LLC",
+            "type": "Organization",
+            "amount": 8600
+          },
+          {
+            "name": "PALANTIR TECHNOLOGIES",
+            "type": "Organization",
+            "amount": 7600
+          },
+          {
+            "name": "HOLLAND & KNIGHT",
+            "type": "Organization",
+            "amount": 7400
+          },
+          {
+            "name": "LAZARD",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WASSERMAN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CASUAL HOME WORLDWIDE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "JANE STREET",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LAUDER PARTNERS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SUSMAN GODFREY LLP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NIC HOLDING CORPORATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BALLARD PARTNERS, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BLOOMBERG LP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ALLEN & COMPANY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CITADEL SECURITIES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LIBRA GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SELENI",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ARK HOMES FOR RENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AEBLUE",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AUDACY",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TD BANK",
+            "type": "Organization",
+            "amount": 6500
+          },
+          {
+            "name": "INTERO",
+            "type": "Organization",
+            "amount": 6200
+          },
+          {
+            "name": "OAK HILL ADVISORS",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "TRANSDIGM GROUP",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "PORTER WRIGHT MORRIS & ARTHUR LLP",
+            "type": "Organization",
+            "amount": 5250
+          },
+          {
+            "name": "SEA SHELL PARTNERS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CGA",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "DEER MANAGEMENT CO LLC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "NEA",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "MORGENTHALER",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "LIBERTY PARTNERS GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "LAUREL STRATEGIES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "AMC HEALTHCARE",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TD BANK GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "MASSIE PARTNERS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BARCLAYS US CONSUMER BANK & BARCLAYS B",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "VOLPE KOENIG",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "THORN RUN PARTNERS",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "TD COWEN",
+            "type": "Organization",
+            "amount": 4500
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 541859,
+        "donors": [
+          {
+            "name": "GILEAD SCIENCES INC HEALTHCARE POLICY PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "TRANSDIGM GROUP INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "BREAD FINANCIAL HOLDINGS, INC. PAC (AKA BREAD FINANCIAL PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "IMPACT",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CROSSPARTISAN PAC I",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "SEMPRA ENERGY EMPLOYEES POLITICAL ACTION COMMITTEE- FEDERAL",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "DROPBOX INC PAC",
+            "type": "PAC",
+            "amount": 6600
+          },
+          {
+            "name": "SIEMENS CORPORATION PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "INVESCO HOLDING COMPANY (US), INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "JOHNSON & JOHNSON POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "SMALL BUSINESS INVESTOR ALLIANCE PAC",
+            "type": "PAC",
+            "amount": 6000
+          },
+          {
+            "name": "BARCLAYS GROUP US INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5999
+          },
+          {
+            "name": "HEALTHCARE DISTRIBUTION ALLIANCE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL PAPER POLITICAL ACTION COMMITTEE (IP-PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BRISTOL-MYERS SQUIBB COMPANY POLITICAL ACTION COMMITTEE (BMS PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ASURION LLC POLITICAL ACTION COMMITTEE (ASURION PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AXXESS CONSULT INC POLITICAL ACTION COMMITTEE (AXXESS PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMGEN INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "CENCORA, INC. PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BMO FINANCIAL CORP GOOD GOVERNANCE FUND: FEDERAL (BMO PAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LIVE OAK BANK POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ENERGY INNOVATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "INDEPENDENCE BLUE CROSS LLC PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BOEHRINGER INGELHEIM USA CORPORATION POLITICAL ACTION COMMITTEE (BOEHRINGER PAC)",
+            "type": "PAC",
+            "amount": 4600
+          },
+          {
+            "name": "TARGET CORPORATION CITIZENS POLITICAL FORUM (TARGETCITIZENS POLITICAL FORUM)",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "THE CHEMOURS COMPANY POLITICAL ACTION COMMITTEE CHEMOURS PAC",
+            "type": "PAC",
+            "amount": 4500
+          },
+          {
+            "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "NOVARTIS CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "UNITED STATES TELECOM ASSOCIATION POLITICAL ACTION COMMITTEE (TELECOMPAC)",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "LYONDELL CHEMICAL COMPANY PAC",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "THE RECORDING INDUSTRY ASSOCIATION OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "SMART TD PAC",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "NAVIENT CORPORATION PAC (NAVIENT PAC)",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "SAMSUNG ELECTRONICS AMERICA INC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "JOHNSON CONTROLS INC. PAC",
+            "type": "PAC",
+            "amount": 3500
+          },
+          {
+            "name": "ASSOCIATION OF AMERICAN PUBLISHERS PAC (AAP PAC)",
+            "type": "PAC",
+            "amount": 3500
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 1321009,
+      "individual_contributions": 779150,
+      "individual_itemized": 779150,
+      "individual_unitemized": 0,
+      "pac_contributions": 541859,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "APOLLO GLOBAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 24000
+        },
+        {
+          "name": "THE CHEMOURS COMPANY",
+          "type": "Organization",
+          "amount": 20000
+        },
+        {
+          "name": "INVARIANT",
+          "type": "Organization",
+          "amount": 17000
+        },
+        {
+          "name": "BARCLAYS",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "AXXESS",
+          "type": "Organization",
+          "amount": 15000
+        },
+        {
+          "name": "ROSEN PARTNERS LLC",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "AKIN GUMP STRAUSS HAUER & FELD LLP",
+          "type": "Organization",
+          "amount": 12000
+        },
+        {
+          "name": "IRELL & MANELLA LLP",
+          "type": "Organization",
+          "amount": 11850
+        },
+        {
+          "name": "RUSS AUGUST & KABAT LLP",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "JANE STREET CAPITAL",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "MARCONI LLC",
+          "type": "Organization",
+          "amount": 9800
+        },
+        {
+          "name": "FORBES TATE PARTNERS",
+          "type": "Organization",
+          "amount": 9100
+        },
+        {
+          "name": "MARCONI, LLC",
+          "type": "Organization",
+          "amount": 8600
+        },
+        {
+          "name": "PALANTIR TECHNOLOGIES",
+          "type": "Organization",
+          "amount": 7600
+        },
+        {
+          "name": "HOLLAND & KNIGHT",
+          "type": "Organization",
+          "amount": 7400
+        },
+        {
+          "name": "LAZARD",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WASSERMAN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CASUAL HOME WORLDWIDE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JANE STREET",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LAUDER PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SUSMAN GODFREY LLP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NIC HOLDING CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BALLARD PARTNERS, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BLOOMBERG LP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ALLEN & COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CITADEL SECURITIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LIBRA GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SELENI",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARK HOMES FOR RENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AEBLUE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AUDACY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TD BANK",
+          "type": "Organization",
+          "amount": 6500
+        },
+        {
+          "name": "INTERO",
+          "type": "Organization",
+          "amount": 6200
+        },
+        {
+          "name": "OAK HILL ADVISORS",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "TRANSDIGM GROUP",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "PORTER WRIGHT MORRIS & ARTHUR LLP",
+          "type": "Organization",
+          "amount": 5250
+        },
+        {
+          "name": "SEA SHELL PARTNERS",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "CGA",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "DEER MANAGEMENT CO LLC",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "NEA",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "MORGENTHALER",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "LIBERTY PARTNERS GROUP",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "LAUREL STRATEGIES",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "AMC HEALTHCARE",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "TD BANK GROUP",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "MASSIE PARTNERS",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "BARCLAYS US CONSUMER BANK & BARCLAYS B",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "VOLPE KOENIG",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "THORN RUN PARTNERS",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "TD COWEN",
+          "type": "Organization",
+          "amount": 4500
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "GILEAD SCIENCES INC HEALTHCARE POLICY PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "TRANSDIGM GROUP INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "BREAD FINANCIAL HOLDINGS, INC. PAC (AKA BREAD FINANCIAL PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "IMPACT",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "CROSSPARTISAN PAC I",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "SEMPRA ENERGY EMPLOYEES POLITICAL ACTION COMMITTEE- FEDERAL",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "DROPBOX INC PAC",
+          "type": "PAC",
+          "amount": 6600
+        },
+        {
+          "name": "SIEMENS CORPORATION PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "INVESCO HOLDING COMPANY (US), INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "JOHNSON & JOHNSON POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "SMALL BUSINESS INVESTOR ALLIANCE PAC",
+          "type": "PAC",
+          "amount": 6000
+        },
+        {
+          "name": "BARCLAYS GROUP US INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5999
+        },
+        {
+          "name": "HEALTHCARE DISTRIBUTION ALLIANCE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INTERNATIONAL PAPER POLITICAL ACTION COMMITTEE (IP-PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BRISTOL-MYERS SQUIBB COMPANY POLITICAL ACTION COMMITTEE (BMS PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ASURION LLC POLITICAL ACTION COMMITTEE (ASURION PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AXXESS CONSULT INC POLITICAL ACTION COMMITTEE (AXXESS PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMGEN INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "CENCORA, INC. PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BMO FINANCIAL CORP GOOD GOVERNANCE FUND: FEDERAL (BMO PAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "LIVE OAK BANK POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "ENERGY INNOVATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "INDEPENDENCE BLUE CROSS LLC PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BOEHRINGER INGELHEIM USA CORPORATION POLITICAL ACTION COMMITTEE (BOEHRINGER PAC)",
+          "type": "PAC",
+          "amount": 4600
+        },
+        {
+          "name": "TARGET CORPORATION CITIZENS POLITICAL FORUM (TARGETCITIZENS POLITICAL FORUM)",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "THE CHEMOURS COMPANY POLITICAL ACTION COMMITTEE CHEMOURS PAC",
+          "type": "PAC",
+          "amount": 4500
+        },
+        {
+          "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "NOVARTIS CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "UNITED STATES TELECOM ASSOCIATION POLITICAL ACTION COMMITTEE (TELECOMPAC)",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "LYONDELL CHEMICAL COMPANY PAC",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "THE RECORDING INDUSTRY ASSOCIATION OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 4000
+        },
+        {
+          "name": "SMART TD PAC",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "NAVIENT CORPORATION PAC (NAVIENT PAC)",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "SAMSUNG ELECTRONICS AMERICA INC POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "JOHNSON CONTROLS INC. PAC",
+          "type": "PAC",
+          "amount": 3500
+        },
+        {
+          "name": "ASSOCIATION OF AMERICAN PUBLISHERS PAC (AAP PAC)",
+          "type": "PAC",
+          "amount": 3500
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 93,
-    "total_votes_scored": 14,
+    "overall_pct": 100,
+    "total_votes_scored": 3,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
-      {
-        "vote_description": "A bill to amend title 31, United States Code, to require agencies to include a list of outdated or duplicative reporting requirements in annual budget justifications, and for other purposes.",
-        "bill": "S2073",
-        "date": "2024-07-30",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "DROPBOX INC PAC",
-        "donor_category": "Tech companies",
-        "donor_expected": "Yea on A bill to amend title 31, United States Code, to require age"
-      },
-      {
-        "vote_description": "A bill to reauthorize wildlife habitat and conservation programs, and for other purposes.",
-        "bill": "HR5009",
-        "date": "2024-12-18",
-        "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "TRANSDIGM GROUP INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
-        "donor_category": "Defense contractors",
-        "donor_expected": "Yea on A bill to reauthorize wildlife habitat and conservation prog"
-      },
       {
         "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
         "bill": "HR4346",
         "date": "2022-07-27",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "DROPBOX INC PAC",
         "donor_category": "Tech companies",
-        "donor_expected": "Yea on A bill making appropriations for Legislative Branch for the "
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "CHIPS and Science Act \u2014 massive investment in semiconductor manufacturing and scientific research. Major tech companies like Intel, TSMC, and Samsung directly benefit from chip manufacturing subsidies."
       },
       {
-        "vote_description": "A bill to provide for a coordinated Federal research initiative to ensure continued United States leadership in engineering biology.",
-        "bill": "HR4521",
-        "date": "2022-03-28",
+        "vote_description": "A bill to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+        "bill": "HR2670",
+        "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "DROPBOX INC PAC",
-        "donor_category": "Tech companies",
-        "donor_expected": "Yea on A bill to provide for a coordinated Federal research initiat"
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "FY2024 NDAA conference report \u2014 final version of annual defense authorization bill. Defense industry's top legislative priority each year."
       },
       {
-        "vote_description": "To rescind funds from the Department of Energy loan programs office.",
-        "bill": "HR9468",
-        "date": "2024-09-19",
-        "member_voted": "Nay",
-        "aligned": false,
-        "donor_name": "TRANSDIGM GROUP INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "vote_description": "A bill to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.",
+        "bill": "HR7776",
+        "date": "2022-07-28",
+        "member_voted": "Yea",
+        "aligned": true,
         "donor_category": "Defense contractors",
-        "donor_expected": "Yea on To rescind funds from the Department of Energy loan programs"
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Water Resources Development and NDAA package \u2014 vehicle for FY2023 NDAA and defense authorization provisions."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 0,
+    "issues_scored": 7,
+    "against_electorate_pct": 43,
     "highlights": [
       {
         "issue": "Universal background checks for gun purchases",
-        "district_support_pct": 92.5,
-        "margin_of_error": 7,
+        "district_support_pct": 91.5,
+        "margin_of_error": 3.5,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 65.3,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
-        "aligned_with_donors": false
-      },
-      {
-        "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 15.3,
-        "margin_of_error": 7,
+        "district_support_pct": 64.2,
+        "margin_of_error": 8.7,
         "member_position": "Voted Nay",
-        "aligned_with_electorate": true,
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 57.9,
-        "margin_of_error": 7,
+        "district_support_pct": 58.0,
+        "margin_of_error": 6.7,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 69.9,
-        "margin_of_error": 7,
+        "district_support_pct": 69.2,
+        "margin_of_error": 5.0,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 64.9,
-        "margin_of_error": 7,
+        "district_support_pct": 64.3,
+        "margin_of_error": 5.3,
         "member_position": "Voted Yea",
         "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Grant legal status to DACA recipients",
+        "district_support_pct": 71.2,
+        "margin_of_error": 3.1,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 64.8,
+        "margin_of_error": 5.3,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       }
     ],

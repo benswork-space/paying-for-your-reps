@@ -11,8 +11,240 @@
   "years_in_office": 1,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 77600,
+    "campaign_raised": 77600,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 77600,
+        "donors": [
+          {
+            "name": "VICTORY AND NATION PAC",
+            "type": "PAC",
+            "amount": 6600
+          },
+          {
+            "name": "GRAYROBINSON P.A. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "LETS GET TO WORK PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "AMERICAN REVIVAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BUILDING AMERICA'S REPUBLICAN REPRESENTATION PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE GEO GROUP, INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "RAPTOR PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "MAINTAINING ALL REPUBLICANS IN OFFICE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "SELF-INSURANCE INSTITUTE OF AMERICA, INC. PAC (SELF-INSURANCE PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "PINNACLE WEST CAPITAL CORPORATION PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "DAVE TAYLOR FOR CONGRESS",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "SCALISE FOR CONGRESS",
+            "type": "PAC",
+            "amount": 2000
+          },
+          {
+            "name": "DELIVERING AMERICAN VALUES IN DC PAC",
+            "type": "PAC",
+            "amount": 1000
+          },
+          {
+            "name": "BE AN AMERICAN PAC",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 77600,
+      "individual_contributions": 0,
+      "individual_itemized": 0,
+      "individual_unitemized": 0,
+      "pac_contributions": 77600,
+      "other_receipts": 0,
+      "top_employers": [],
+      "top_pac_donors": [
+        {
+          "name": "VICTORY AND NATION PAC",
+          "type": "PAC",
+          "amount": 6600
+        },
+        {
+          "name": "GRAYROBINSON P.A. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "LETS GET TO WORK PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "AMERICAN REVIVAL PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BUILDING AMERICA'S REPUBLICAN REPRESENTATION PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "THE GEO GROUP, INC. POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "RAPTOR PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "MAINTAINING ALL REPUBLICANS IN OFFICE PAC",
+          "type": "PAC",
+          "amount": 5000
+        },
+        {
+          "name": "SELF-INSURANCE INSTITUTE OF AMERICA, INC. PAC (SELF-INSURANCE PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "PINNACLE WEST CAPITAL CORPORATION PAC",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+          "type": "PAC",
+          "amount": 2500
+        },
+        {
+          "name": "DAVE TAYLOR FOR CONGRESS",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "SCALISE FOR CONGRESS",
+          "type": "PAC",
+          "amount": 2000
+        },
+        {
+          "name": "DELIVERING AMERICAN VALUES IN DC PAC",
+          "type": "PAC",
+          "amount": 1000
+        },
+        {
+          "name": "BE AN AMERICAN PAC",
+          "type": "PAC",
+          "amount": 1000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
     "overall_pct": 0,
@@ -21,21 +253,37 @@
     "examples": []
   },
   "electorate_alignment": {
-    "issues_scored": 2,
-    "against_electorate_pct": 100,
+    "issues_scored": 4,
+    "against_electorate_pct": 75,
     "highlights": [
       {
-        "issue": "Support the Affordable Care Act",
-        "district_support_pct": 51.1,
-        "margin_of_error": 7,
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 57.8,
+        "margin_of_error": 12.0,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 50.0,
+        "margin_of_error": 10.5,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 64.8,
-        "margin_of_error": 7,
+        "district_support_pct": 64.4,
+        "margin_of_error": 9.6,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 59.7,
+        "margin_of_error": 9.3,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false

@@ -11,116 +11,1175 @@
   "years_in_office": 4,
   "funding": {
     "cycle": "2024",
-    "total_raised": 0,
-    "top_industries": []
+    "total_raised": 1939220,
+    "campaign_raised": 1939220,
+    "leadership_pac_raised": 0,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 838814,
+        "donors": [
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 34900
+          },
+          {
+            "name": "CASSLING",
+            "type": "Organization",
+            "amount": 23100
+          },
+          {
+            "name": "HAWKINS CONSTRUCTION COMPANY",
+            "type": "Organization",
+            "amount": 15400
+          },
+          {
+            "name": "APOLLO GLOBAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 13900
+          },
+          {
+            "name": "NORFOLK IRON AND METAL",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "SAMPSON CONSTRUCTION",
+            "type": "Organization",
+            "amount": 12800
+          },
+          {
+            "name": "TENASKA",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "DINKEL IMPLEMENT",
+            "type": "Organization",
+            "amount": 10050
+          },
+          {
+            "name": "C3 BRANDS",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "DOVER COMPANIES",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "HAWKINS CONSTRUCTION",
+            "type": "Organization",
+            "amount": 9900
+          },
+          {
+            "name": "SID DILLON CHEVROLET",
+            "type": "Organization",
+            "amount": 9600
+          },
+          {
+            "name": "LINCOLN INDUSTRIES",
+            "type": "Organization",
+            "amount": 8367
+          },
+          {
+            "name": "BURLINGTON CAPITAL GROUP LLC",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "APOLLO MANAGEMENT",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "STEPHENS INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HORNADY MANUFACTURING",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "ADVANCE SERVICES",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "HDR, INC.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NORFOLK IRON & METAL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "NELNET",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "UNION PACIFIC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "KIEWIT CORPORATION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "MP GLOBAL PRODUCTS",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "SPECTRUM FINANCIAL INVESTMENTS)",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "FREMONT CONTRACT CARRIERS INC",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "BRUNING LAW GROUP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CAROLYNROWANCOLLECTION",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LINCOLN CHRISTIAN SCHOOL",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "TELCOIN",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CRETE CARRIER CORP",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "CRETE CARRIER CORP.",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "AKRS EQUIPMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 6600
+          },
+          {
+            "name": "LOVE SIGNS NEBRASKA",
+            "type": "Organization",
+            "amount": 6500
+          },
+          {
+            "name": "WILLMAR ELECTRIC SERVICE",
+            "type": "Organization",
+            "amount": 6300
+          },
+          {
+            "name": "FLOOD COMMUNICATIONS",
+            "type": "Organization",
+            "amount": 6200
+          },
+          {
+            "name": "TC PROPERTIES",
+            "type": "Organization",
+            "amount": 6050
+          },
+          {
+            "name": "BAXTER AUTO GROUP",
+            "type": "Organization",
+            "amount": 5800
+          },
+          {
+            "name": "UNION BANK",
+            "type": "Organization",
+            "amount": 5550
+          },
+          {
+            "name": "CORNHUSKER BANK",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "J J WESTHOFF CONSTRUCTION CO",
+            "type": "Organization",
+            "amount": 5300
+          },
+          {
+            "name": "RADCLIFFE GILBERTSON & BRADY",
+            "type": "Organization",
+            "amount": 5250
+          },
+          {
+            "name": "STANTON TELECOM, INC.",
+            "type": "Organization",
+            "amount": 5100
+          },
+          {
+            "name": "SCRIBNER GRAIN",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "PINNACLE BANCORP, INC.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ROUTE ONE INVESTMENT COMPANY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TUSCANY TOWN HOMES",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "DIVOTS/NORFOLK LODGE & SUITES",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "RWH ENERGY",
+            "type": "Organization",
+            "amount": 4300
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 1100406,
+        "donors": [
+          {
+            "name": "DEFEND AMERICAN JOBS",
+            "type": "PAC",
+            "amount": 126740
+          },
+          {
+            "name": "NEBRASKA FARM BUREAU FEDERATION",
+            "type": "PAC",
+            "amount": 27250
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 23014
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF REALTORS",
+            "type": "PAC",
+            "amount": 16744
+          },
+          {
+            "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+            "type": "PAC",
+            "amount": 13000
+          },
+          {
+            "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "NEW YORK LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "type": "PAC",
+            "amount": 12500
+          },
+          {
+            "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12000
+          },
+          {
+            "name": "PACIFIC LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 12000
+          },
+          {
+            "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 11500
+          },
+          {
+            "name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "type": "PAC",
+            "amount": 11000
+          },
+          {
+            "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10510
+          },
+          {
+            "name": "TENASKA INC EMPLOYEES POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INNOVATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "HDR, INC. EMPLOYEE OWNERS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "MORGAN STANLEY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FEDERAL HOME LOAN BANK OF TOPEKA PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FIRST NATIONAL OF NEBRASKA PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "WHOLESALE & SPECIALTY INSURANCE ASSOCIATION (WSIA) PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NEBRASKA SANDHILLS PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 9000
+          },
+          {
+            "name": "NELNET INC PAC (NELNET PAC)",
+            "type": "PAC",
+            "amount": 8500
+          },
+          {
+            "name": "SYNGENTA CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 8000
+          },
+          {
+            "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "ROCK HOLDINGS INC. PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NEBRASKA CHIROPRACTIC PHYSICIANS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS, INC. POLITICAL ACTION COMMITTEE)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "BLUE CROSS AND BLUE SHIELD OF NEBRASKA PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "FMR LLC POLITICAL ACTION COMMITTEE - FEDERAL (FIDELITY PAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "GROWTH ENERGY PAC",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "INDEPENDENT COMMUNITY BANKERS OF AMERICA POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "WELLS FARGO AND COMPANY EMPLOYEE PAC (AKA WELLS FARGO EMPLOYEE PAC)",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "type": "PAC",
+            "amount": 7000
+          },
+          {
+            "name": "EXPERIAN NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (EXPERIAN PAC)",
+            "type": "PAC",
+            "amount": 6500
+          },
+          {
+            "name": "RGA REINSURANCE COMPANY FEDERAL PAC",
+            "type": "PAC",
+            "amount": 6000
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "total_raised": 1939220,
+      "individual_contributions": 838814,
+      "individual_itemized": 838814,
+      "individual_unitemized": 0,
+      "pac_contributions": 1100406,
+      "other_receipts": 0,
+      "top_employers": [
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 34900
+        },
+        {
+          "name": "CASSLING",
+          "type": "Organization",
+          "amount": 23100
+        },
+        {
+          "name": "HAWKINS CONSTRUCTION COMPANY",
+          "type": "Organization",
+          "amount": 15400
+        },
+        {
+          "name": "APOLLO GLOBAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 13900
+        },
+        {
+          "name": "NORFOLK IRON AND METAL",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "SAMPSON CONSTRUCTION",
+          "type": "Organization",
+          "amount": 12800
+        },
+        {
+          "name": "TENASKA",
+          "type": "Organization",
+          "amount": 11600
+        },
+        {
+          "name": "DINKEL IMPLEMENT",
+          "type": "Organization",
+          "amount": 10050
+        },
+        {
+          "name": "C3 BRANDS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "DOVER COMPANIES",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "HAWKINS CONSTRUCTION",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "SID DILLON CHEVROLET",
+          "type": "Organization",
+          "amount": 9600
+        },
+        {
+          "name": "LINCOLN INDUSTRIES",
+          "type": "Organization",
+          "amount": 8367
+        },
+        {
+          "name": "BURLINGTON CAPITAL GROUP LLC",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "APOLLO MANAGEMENT",
+          "type": "Organization",
+          "amount": 7000
+        },
+        {
+          "name": "STEPHENS INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HORNADY MANUFACTURING",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ADVANCE SERVICES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HDR, INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NORFOLK IRON & METAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "NELNET",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "UNION PACIFIC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KIEWIT CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MP GLOBAL PRODUCTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SPECTRUM FINANCIAL INVESTMENTS)",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "FREMONT CONTRACT CARRIERS INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BRUNING LAW GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CAROLYNROWANCOLLECTION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LINCOLN CHRISTIAN SCHOOL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TELCOIN",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CRETE CARRIER CORP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CRETE CARRIER CORP.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AKRS EQUIPMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "LOVE SIGNS NEBRASKA",
+          "type": "Organization",
+          "amount": 6500
+        },
+        {
+          "name": "WILLMAR ELECTRIC SERVICE",
+          "type": "Organization",
+          "amount": 6300
+        },
+        {
+          "name": "FLOOD COMMUNICATIONS",
+          "type": "Organization",
+          "amount": 6200
+        },
+        {
+          "name": "TC PROPERTIES",
+          "type": "Organization",
+          "amount": 6050
+        },
+        {
+          "name": "BAXTER AUTO GROUP",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "UNION BANK",
+          "type": "Organization",
+          "amount": 5550
+        },
+        {
+          "name": "CORNHUSKER BANK",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "J J WESTHOFF CONSTRUCTION CO",
+          "type": "Organization",
+          "amount": 5300
+        },
+        {
+          "name": "RADCLIFFE GILBERTSON & BRADY",
+          "type": "Organization",
+          "amount": 5250
+        },
+        {
+          "name": "STANTON TELECOM, INC.",
+          "type": "Organization",
+          "amount": 5100
+        },
+        {
+          "name": "SCRIBNER GRAIN",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "PINNACLE BANCORP, INC.",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ROUTE ONE INVESTMENT COMPANY",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "TUSCANY TOWN HOMES",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "DIVOTS/NORFOLK LODGE & SUITES",
+          "type": "Organization",
+          "amount": 4500
+        },
+        {
+          "name": "RWH ENERGY",
+          "type": "Organization",
+          "amount": 4300
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "DEFEND AMERICAN JOBS",
+          "type": "PAC",
+          "amount": 126740
+        },
+        {
+          "name": "NEBRASKA FARM BUREAU FEDERATION",
+          "type": "PAC",
+          "amount": 27250
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 23014
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF REALTORS",
+          "type": "PAC",
+          "amount": 16744
+        },
+        {
+          "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+          "type": "PAC",
+          "amount": 13000
+        },
+        {
+          "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "NEW YORK LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "type": "PAC",
+          "amount": 12500
+        },
+        {
+          "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "PACIFIC LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 12000
+        },
+        {
+          "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 11500
+        },
+        {
+          "name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+          "type": "PAC",
+          "amount": 11000
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10510
+        },
+        {
+          "name": "TENASKA INC EMPLOYEES POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INNOVATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "HDR, INC. EMPLOYEE OWNERS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "MORGAN STANLEY POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FEDERAL HOME LOAN BANK OF TOPEKA PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "FIRST NATIONAL OF NEBRASKA PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "WHOLESALE & SPECIALTY INSURANCE ASSOCIATION (WSIA) PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NEBRASKA SANDHILLS PAC",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+          "type": "PAC",
+          "amount": 10000
+        },
+        {
+          "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 9000
+        },
+        {
+          "name": "NELNET INC PAC (NELNET PAC)",
+          "type": "PAC",
+          "amount": 8500
+        },
+        {
+          "name": "SYNGENTA CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 8000
+        },
+        {
+          "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "ROCK HOLDINGS INC. PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NEBRASKA CHIROPRACTIC PHYSICIANS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS, INC. POLITICAL ACTION COMMITTEE)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "BLUE CROSS AND BLUE SHIELD OF NEBRASKA PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "FMR LLC POLITICAL ACTION COMMITTEE - FEDERAL (FIDELITY PAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "GROWTH ENERGY PAC",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+          "type": "PAC",
+          "amount": 7500
+        },
+        {
+          "name": "INDEPENDENT COMMUNITY BANKERS OF AMERICA POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "WELLS FARGO AND COMPANY EMPLOYEE PAC (AKA WELLS FARGO EMPLOYEE PAC)",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+          "type": "PAC",
+          "amount": 7000
+        },
+        {
+          "name": "EXPERIAN NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (EXPERIAN PAC)",
+          "type": "PAC",
+          "amount": 6500
+        },
+        {
+          "name": "RGA REINSURANCE COMPANY FEDERAL PAC",
+          "type": "PAC",
+          "amount": 6000
+        }
+      ]
+    },
+    "leadership_pacs": []
   },
   "donor_alignment": {
-    "overall_pct": 96,
-    "total_votes_scored": 110,
+    "overall_pct": 79,
+    "total_votes_scored": 41,
     "methodology_url": "/methodology#donor-alignment",
     "examples": [
+      {
+        "vote_description": "Middle Class Borrower Protection Act",
+        "bill": "HR3564",
+        "date": "2023-06-23",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Real estate industry",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Middle Class Borrower Protection Act \u2014 eliminates FHFA fee structure that charged higher-credit borrowers more to cross-subsidize lower-credit borrowers. Realtors and mortgage lenders supported this as it reduces costs for their core buyer demographic."
+      },
       {
         "vote_description": "Whole Milk for Healthy Kids Act",
         "bill": "HR1147",
         "date": "2023-12-13",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "NEBRASKA FARM BUREAU FEDERATION",
         "donor_category": "Agriculture industry",
-        "donor_expected": "Yea on Whole Milk for Healthy Kids Act"
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Whole Milk for Healthy Kids Act \u2014 allows schools to offer whole-fat milk and flavored milk, supported by the dairy industry and National Dairy Council as it increases school milk sales."
       },
       {
-        "vote_description": "Consolidated Appropriations Act, 2026",
-        "bill": "HR7148",
-        "date": "2026-01-22",
+        "vote_description": "Financial Innovation and Technology for the 21st Century Act",
+        "bill": "HR4763",
+        "date": "2024-05-22",
         "member_voted": "Yea",
         "aligned": true,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
         "donor_category": "Financial industry",
-        "donor_expected": "Yea on Consolidated Appropriations Act, 2026"
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Financial Innovation and Technology for the 21st Century Act (FIT21) \u2014 comprehensive crypto regulation that creates SEC/CFTC framework favorable to financial industry participation in digital assets."
       },
       {
-        "vote_description": "Pregnant Students\u2019 Rights Act",
-        "bill": "HR6359",
-        "date": "2026-01-22",
+        "vote_description": "Protecting Prudent Investment of Retirement Savings Act",
+        "bill": "HR2988",
+        "date": "2026-01-15",
         "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+        "aligned": false,
         "donor_category": "Labor unions",
-        "donor_expected": "Yea on Pregnant Students\u2019 Rights Act"
+        "donor_expected": "Nay",
+        "confidence": 0.9,
+        "reason": "Protecting Prudent Investment of Retirement Savings Act \u2014 despite the name, this ROLLS BACK the DOL ESG investing rule, restricting how pension funds (including union pension funds) can consider environmental and social factors when investing. Unions strongly opposed this bill."
       },
       {
         "vote_description": "Do No Harm in Medicaid Act",
         "bill": "HR498",
         "date": "2025-12-18",
         "member_voted": "Yea",
-        "aligned": true,
-        "donor_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
-        "donor_category": "Healthcare industry",
-        "donor_expected": "Yea on Do No Harm in Medicaid Act"
-      },
-      {
-        "vote_description": "",
-        "bill": "HR5894",
-        "date": "2023-11-15",
-        "member_voted": "Nay",
         "aligned": false,
-        "donor_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
-        "donor_category": "Financial industry",
-        "donor_expected": "Yea on "
+        "donor_category": "Healthcare industry",
+        "donor_expected": "Nay",
+        "confidence": 0.85,
+        "reason": "Do No Harm in Medicaid Act \u2014 despite the friendly name, this bill CUTS Medicaid by restricting eligibility and reducing federal matching funds. Hospitals and healthcare providers oppose Medicaid cuts because they reduce patient volume and reimbursements."
       }
     ]
   },
   "electorate_alignment": {
-    "issues_scored": 6,
-    "against_electorate_pct": 83,
+    "issues_scored": 9,
+    "against_electorate_pct": 89,
     "highlights": [
       {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 87.5,
+        "margin_of_error": 5.3,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
         "issue": "Ban on assault-style weapons",
-        "district_support_pct": 61.9,
-        "margin_of_error": 7,
+        "district_support_pct": 57.8,
+        "margin_of_error": 8.1,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Abortion should always be legal",
-        "district_support_pct": 55.2,
-        "margin_of_error": 7,
+        "district_support_pct": 53.8,
+        "margin_of_error": 9.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Prohibit all abortions after 20 weeks",
-        "district_support_pct": 18.7,
-        "margin_of_error": 7,
+        "district_support_pct": 19.5,
+        "margin_of_error": 6.2,
         "member_position": "Voted Yea",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Support the Affordable Care Act",
-        "district_support_pct": 57.5,
-        "margin_of_error": 7,
+        "district_support_pct": 55.9,
+        "margin_of_error": 7.8,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Regulate CO2 as a pollutant",
-        "district_support_pct": 69.4,
-        "margin_of_error": 7,
-        "member_position": "Voted Yea",
-        "aligned_with_electorate": true,
+        "district_support_pct": 68.1,
+        "margin_of_error": 6.7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
         "aligned_with_donors": false
       },
       {
         "issue": "Require minimum renewable fuel production",
-        "district_support_pct": 66.6,
-        "margin_of_error": 7,
+        "district_support_pct": 65.3,
+        "margin_of_error": 6.7,
         "member_position": "Voted Nay",
         "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Build a wall on the U.S.-Mexico border",
+        "district_support_pct": 37.4,
+        "margin_of_error": 7.3,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 60.5,
+        "margin_of_error": 7.0,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
         "aligned_with_donors": false
       }
     ],
