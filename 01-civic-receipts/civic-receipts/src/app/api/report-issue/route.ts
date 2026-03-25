@@ -1,8 +1,15 @@
 import { NextResponse } from "next/server";
-import { Resend } from "resend";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-const REPORT_EMAIL = process.env.REPORT_EMAIL;
+// Lazy-init Resend to avoid build-time errors when env vars aren't set
+let _resend: import("resend").Resend | null = null;
+function getResend() {
+  if (!_resend) {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const { Resend } = require("resend") as typeof import("resend");
+    _resend = new Resend(process.env.RESEND_API_KEY);
+  }
+  return _resend;
+}
 
 export async function POST(request: Request) {
   try {
@@ -17,6 +24,7 @@ export async function POST(request: Request) {
       );
     }
 
+    const REPORT_EMAIL = process.env.REPORT_EMAIL;
     if (!REPORT_EMAIL) {
       console.error("REPORT_EMAIL not configured in environment");
       return NextResponse.json(
@@ -39,7 +47,7 @@ export async function POST(request: Request) {
       <p style="white-space:pre-wrap;">${description}</p>
     `;
 
-    await resend.emails.send({
+    await getResend().emails.send({
       from: "Civic Receipts <onboarding@resend.dev>",
       to: REPORT_EMAIL,
       subject,
