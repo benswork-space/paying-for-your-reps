@@ -4,6 +4,11 @@ const nextConfig: NextConfig = {
   turbopack: {
     root: ".",
   },
+  outputFileTracingIncludes: {
+    "/zip/[zip]/[bioguideId]": ["./public/data/members/**", "./public/data/districts/**"],
+    "/zip/[zip]": ["./public/data/members/**", "./public/data/districts/**"],
+    "/api/zip-lookup/[zip]": ["./data/output/**"],
+  },
   images: {
     remotePatterns: [
       {
