@@ -10,19 +10,22 @@ interface MapTransitionProps {
   zip: string;
   lookupResult: ZipLookupResult;
   onComplete: () => void;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  mapInstance?: any; // Existing Mapbox map to reuse
 }
 
-type Phase = "loading" | "flying" | "overlay" | "fading";
+type Phase = "flying" | "overlay" | "dissolving";
 
 export default function MapTransition({
   zip,
   lookupResult,
   onComplete,
+  mapInstance,
 }: MapTransitionProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const mapRef = useRef<any>(null);
-  const [phase, setPhase] = useState<Phase>("loading");
+  const [phase, setPhase] = useState<Phase>("flying");
 
   const districts = lookupResult.entries.map((e) => ({
     state: e.state,
@@ -30,89 +33,102 @@ export default function MapTransition({
   }));
 
   const handleOverlayEnd = useCallback(() => {
-    setPhase("fading");
-    setTimeout(onComplete, 600);
+    // Start dissolve-to-white phase
+    setPhase("dissolving");
+
+    // After dissolve animation, navigate
+    setTimeout(() => {
+      onComplete();
+    }, 700);
   }, [onComplete]);
 
   useEffect(() => {
-    if (!containerRef.current) return;
-
     let cancelled = false;
 
-    async function init() {
-      const mapboxgl = (await import("mapbox-gl")).default;
+    async function startFly() {
+      // If we have an existing map instance, reuse it
+      const map = mapInstance;
+      if (!map) {
+        // Fallback: create our own map
+        const mapboxgl = (await import("mapbox-gl")).default;
+        if (cancelled || !containerRef.current) return;
 
-      if (cancelled || !containerRef.current) return;
+        mapboxgl.accessToken = MAPBOX_TOKEN;
+        const newMap = new mapboxgl.Map({
+          container: containerRef.current,
+          style: "mapbox://styles/mapbox/streets-v12",
+          center: [-98.5, 39.8],
+          zoom: 3.5,
+          interactive: false,
+          attributionControl: false,
+        });
 
-      mapboxgl.accessToken = MAPBOX_TOKEN;
+        mapRef.current = newMap;
+        await new Promise<void>((resolve) => newMap.on("load", () => resolve()));
+        if (cancelled) return;
+        return flyMap(newMap);
+      }
 
-      const map = new mapboxgl.Map({
-        container: containerRef.current,
-        style: "mapbox://styles/mapbox/streets-v12",
-        center: [-98.5, 39.8],
-        zoom: 3.5,
-        interactive: false,
-        attributionControl: false,
+      return flyMap(map);
+    }
+
+    async function flyMap(
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      map: any,
+    ) {
+      if (cancelled) return;
+
+      // Geocode the ZIP to get coordinates
+      let targetLng = -98.5;
+      let targetLat = 39.8;
+      let targetZoom = 8;
+
+      try {
+        const geoRes = await fetch(
+          `https://api.mapbox.com/search/geocode/v6/forward?q=${zip}&types=postcode&country=US&access_token=${MAPBOX_TOKEN}`,
+        );
+        const geoData = await geoRes.json();
+        if (geoData.features && geoData.features.length > 0) {
+          const [lng, lat] = geoData.features[0].geometry.coordinates;
+          targetLng = lng;
+          targetLat = lat;
+        }
+      } catch {
+        // Fall back to default center
+      }
+
+      if (cancelled) return;
+
+      // If multiple districts, zoom out a bit
+      if (districts.length > 1) {
+        targetZoom = 7;
+      }
+
+      map.flyTo({
+        center: [targetLng, targetLat],
+        zoom: targetZoom,
+        duration: 2500,
+        essential: true,
       });
 
-      mapRef.current = map;
-
-      map.on("load", async () => {
+      map.once("moveend", () => {
         if (cancelled) return;
-
-        setPhase("flying");
-
-        // Geocode the ZIP to get coordinates
-        let targetLng = -98.5;
-        let targetLat = 39.8;
-        let targetZoom = 8;
-
-        try {
-          const geoRes = await fetch(
-            `https://api.mapbox.com/search/geocode/v6/forward?q=${zip}&types=postcode&country=US&access_token=${MAPBOX_TOKEN}`,
-          );
-          const geoData = await geoRes.json();
-          if (geoData.features && geoData.features.length > 0) {
-            const [lng, lat] = geoData.features[0].geometry.coordinates;
-            targetLng = lng;
-            targetLat = lat;
-          }
-        } catch {
-          // Fall back to default center
-        }
-
-        if (cancelled) return;
-
-        // If multiple districts, zoom out a bit
-        if (districts.length > 1) {
-          targetZoom = 7;
-        }
-
-        map.flyTo({
-          center: [targetLng, targetLat],
-          zoom: targetZoom,
-          duration: 2500,
-          essential: true,
-        });
-
-        map.once("moveend", () => {
-          if (cancelled) return;
-          setPhase("overlay");
-        });
+        setPhase("overlay");
       });
     }
 
-    init();
+    startFly();
 
     return () => {
       cancelled = true;
+      // Only remove maps we created ourselves
       if (mapRef.current) {
         mapRef.current.remove();
         mapRef.current = null;
       }
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [zip]);
+  }, [zip, mapInstance]);
 
   // Start timer when overlay phase begins
   useEffect(() => {
@@ -129,21 +145,25 @@ export default function MapTransition({
       : `Your ZIP covers districts ${districtLabels.join(" and ")}`;
 
   return (
-    <div
-      className={`fixed inset-0 z-50 bg-zinc-100 transition-opacity duration-500 ${
-        phase === "fading" ? "opacity-0" : "opacity-100"
-      }`}
-    >
-      {/* Map — explicit width/height so Mapbox GL renders */}
-      <div
-        ref={containerRef}
-        style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
-      />
+    <div className="fixed inset-0 z-50">
+      {/* Fallback map container — only used if no mapInstance provided */}
+      {!mapInstance && (
+        <div
+          ref={containerRef}
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+          }}
+        />
+      )}
 
-      {/* Overlay */}
+      {/* Rep info overlay */}
       <div
         className={`absolute inset-0 flex items-center justify-center transition-opacity duration-500 ${
-          phase === "overlay" || phase === "fading"
+          phase === "overlay"
             ? "opacity-100"
             : "opacity-0 pointer-events-none"
         }`}
@@ -185,6 +205,13 @@ export default function MapTransition({
           </div>
         </div>
       </div>
+
+      {/* Dissolve-to-white overlay */}
+      <div
+        className={`absolute inset-0 bg-white dark:bg-zinc-950 transition-opacity duration-700 ease-in ${
+          phase === "dissolving" ? "opacity-100" : "opacity-0 pointer-events-none"
+        }`}
+      />
     </div>
   );
 }
