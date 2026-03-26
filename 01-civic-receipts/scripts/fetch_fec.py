@@ -27,26 +27,71 @@ CYCLE = 2024
 CALLS_MADE = 0
 
 
-def api_call(endpoint, params=None):
-    """Make an FEC API call."""
+def api_call(endpoint, params=None, retries=3):
+    """Make an FEC API call with retry on rate limit."""
     global CALLS_MADE
     params = params or {}
     params["api_key"] = API_KEY
     url = BASE_URL + "/" + endpoint + "?" + urllib.parse.urlencode(params, doseq=True)
 
-    try:
-        time.sleep(0.4)
-        req = urllib.request.Request(url, headers={"User-Agent": "CivicReceipts/1.0"})
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            CALLS_MADE += 1
-            return json.loads(resp.read().decode())
-    except Exception as e:
-        print(f"  ERROR: {endpoint} failed: {e}", file=sys.stderr)
-        return None
+    for attempt in range(retries):
+        try:
+            time.sleep(4.0)  # ~900 calls/hour, safely under 1000 limit
+            req = urllib.request.Request(url, headers={"User-Agent": "CivicReceipts/1.0"})
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                CALLS_MADE += 1
+                return json.loads(resp.read().decode())
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries - 1:
+                wait = 60 * (attempt + 1)
+                print(f"  RATE LIMITED, waiting {wait}s...", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            print(f"  ERROR: {endpoint} failed: {e}", file=sys.stderr)
+            return None
+        except Exception as e:
+            print(f"  ERROR: {endpoint} failed: {e}", file=sys.stderr)
+            return None
+    return None
 
 
-def find_candidate_id(member_data):
-    """Find the FEC candidate ID for a member, trying Senate then House."""
+FEC_ID_CACHE_PATH = Path(__file__).parent / ".cache" / "fec_ids.json"
+
+
+def load_fec_id_cache():
+    """Load cached FEC candidate IDs."""
+    if FEC_ID_CACHE_PATH.exists():
+        with open(FEC_ID_CACHE_PATH) as f:
+            return json.load(f)
+    return {}
+
+
+def save_fec_id_cache(cache):
+    """Save FEC candidate ID cache."""
+    FEC_ID_CACHE_PATH.parent.mkdir(exist_ok=True)
+    with open(FEC_ID_CACHE_PATH, "w") as f:
+        json.dump(cache, f, indent=2)
+
+
+def find_candidate_id(member_data, fec_cache=None):
+    """Find the FEC candidate ID for a member, trying cache first."""
+    bioguide = member_data.get("bioguide_id", "")
+
+    # Check cache first
+    if fec_cache and bioguide in fec_cache:
+        return fec_cache[bioguide]
+
+    # Also check if we already have a _fec.json sidecar
+    fec_file = MEMBERS_DIR / f"{bioguide}_fec.json"
+    if fec_file.exists():
+        with open(fec_file) as f:
+            fec_data = json.load(f)
+        cached_id = fec_data.get("fec_candidate_id")
+        if cached_id:
+            if fec_cache is not None:
+                fec_cache[bioguide] = cached_id
+            return cached_id
+
     name = member_data["name"]
     last_name = name.split()[-1]
     chamber = member_data.get("chamber", "house")
@@ -70,28 +115,29 @@ def find_candidate_id(member_data):
             # Match on last name being in the candidate name
             if last_name.upper() in r.get("name", "").upper():
                 if r.get("active_through", 0) >= CYCLE:
-                    return r["candidate_id"]
+                    cid = r["candidate_id"]
+                    if fec_cache is not None:
+                        fec_cache[bioguide] = cid
+                    return cid
 
     return None
 
 
-def find_committee_id(candidate_id):
-    """Find the principal campaign committee for a candidate."""
+def find_committee_ids(candidate_id):
+    """Find all principal campaign committees for a candidate."""
     data = api_call(f"candidate/{candidate_id}/committees/", {
         "cycle": CYCLE,
         "designation": "P",  # Principal campaign committee
     })
     if not data:
-        return None
+        return []
 
-    for r in data.get("results", []):
-        return r["committee_id"]
-    return None
+    return [r["committee_id"] for r in data.get("results", [])]
 
 
-def fetch_totals(candidate_id):
-    """Fetch total raised/spent for a candidate."""
-    data = api_call(f"candidate/{candidate_id}/totals/", {
+def fetch_committee_totals(committee_id):
+    """Fetch total raised/spent for a single committee."""
+    data = api_call(f"committee/{committee_id}/totals/", {
         "cycle": CYCLE,
         "per_page": 1,
     })
@@ -116,6 +162,25 @@ def fetch_totals(candidate_id):
     }
 
 
+def fetch_totals(committee_ids):
+    """Fetch and aggregate totals across all principal campaign committees."""
+    if not committee_ids:
+        return None
+
+    combined = None
+    for cmte_id in committee_ids:
+        t = fetch_committee_totals(cmte_id)
+        if not t:
+            continue
+        if combined is None:
+            combined = dict(t)
+        else:
+            for key in combined:
+                combined[key] += t[key]
+
+    return combined
+
+
 def fetch_top_pac_contributors(committee_id, max_pages=10):
     """Fetch PAC/organization contributors from Schedule A, paginating."""
     seen = {}
@@ -125,6 +190,7 @@ def fetch_top_pac_contributors(committee_id, max_pages=10):
         "sort": "-contribution_receipt_amount",
         "per_page": 100,
         "is_individual": "false",
+        "line_number": "11c",  # Only actual PAC contributions (excludes transfers, offsets)
     }
 
     for page in range(max_pages):
@@ -152,17 +218,23 @@ def fetch_top_pac_contributors(committee_id, max_pages=10):
             "sort": "-contribution_receipt_amount",
             "per_page": 100,
             "is_individual": "false",
+            "line_number": "11c",
         }
         for k, v in last_indexes.items():
             if v is not None:
                 params[f"last_{k}"] = v
 
     contributors = sorted(seen.values(), key=lambda x: -x["total"])
-    # Filter out joint fundraising transfers (they're not really "donors")
+    # Filter out conduits (pass-through platforms, not actual donors) and
+    # joint fundraising committees / victory committees (internal transfers)
+    skip_patterns = [
+        "VICTORY FUND", "VICTORY COMMITTEE", "JOINT FUNDRAIS",
+        "WINRED", "ACTBLUE", "MAJORITY",
+    ]
     filtered = []
     for c in contributors:
         name_upper = c["name"].upper()
-        if any(skip in name_upper for skip in ["VICTORY FUND", "JOINT FUNDRAIS"]):
+        if any(skip in name_upper for skip in skip_patterns):
             continue
         filtered.append(c)
 
@@ -257,7 +329,7 @@ def find_leadership_pacs(candidate_id):
     return pacs
 
 
-def update_member(bioguide_id):
+def update_member(bioguide_id, fec_cache=None):
     """Fetch and update funding data for a single member."""
     filepath = MEMBERS_DIR / f"{bioguide_id}.json"
     if not filepath.exists():
@@ -270,27 +342,46 @@ def update_member(bioguide_id):
     print(f"  {member['name']}...")
 
     # Find FEC candidate ID
-    candidate_id = find_candidate_id(member)
+    candidate_id = find_candidate_id(member, fec_cache)
     if not candidate_id:
         print(f"    WARN: No FEC candidate ID found")
         return False
     print(f"    FEC ID: {candidate_id}")
 
-    # Get campaign committee totals
-    totals = fetch_totals(candidate_id)
+    # Find all principal campaign committees
+    committee_ids = find_committee_ids(candidate_id)
+    if not committee_ids:
+        print(f"    WARN: No campaign committees found")
+        return False
+    print(f"    Campaign committees: {', '.join(committee_ids)}")
+
+    # Aggregate totals across all principal committees
+    totals = fetch_totals(committee_ids)
     if not totals:
         print(f"    WARN: No totals found")
         return False
 
-    # Get principal campaign committee for contribution queries
-    committee_id = find_committee_id(candidate_id)
-    campaign_pac_contributors = []
-    campaign_top_employers = []
+    # Fetch contributors/employers from all committees and merge
+    campaign_pac_contributors_merged = {}
+    campaign_top_employers_merged = {}
 
-    if committee_id:
-        print(f"    Campaign committee: {committee_id}")
-        campaign_pac_contributors = fetch_top_pac_contributors(committee_id)
-        campaign_top_employers = fetch_top_employers(committee_id)
+    for cmte_id in committee_ids:
+        for c in fetch_top_pac_contributors(cmte_id):
+            name = c["name"]
+            if name not in campaign_pac_contributors_merged:
+                campaign_pac_contributors_merged[name] = {"name": name, "total": 0, "count": 0}
+            campaign_pac_contributors_merged[name]["total"] += c["total"]
+            campaign_pac_contributors_merged[name]["count"] += c["count"]
+
+        for e in fetch_top_employers(cmte_id):
+            name = e["name"]
+            if name not in campaign_top_employers_merged:
+                campaign_top_employers_merged[name] = {"name": name, "total": 0, "count": 0}
+            campaign_top_employers_merged[name]["total"] += e["total"]
+            campaign_top_employers_merged[name]["count"] += e["count"]
+
+    campaign_pac_contributors = sorted(campaign_pac_contributors_merged.values(), key=lambda x: -x["total"])
+    campaign_top_employers = sorted(campaign_top_employers_merged.values(), key=lambda x: -x["total"])
 
     # Get leadership PACs
     leadership_pacs = find_leadership_pacs(candidate_id)
@@ -300,7 +391,7 @@ def update_member(bioguide_id):
     # Build funding structure
     # Campaign committee data
     campaign = {
-        "committee_id": committee_id,
+        "committee_id": committee_ids[0],
         "total_raised": totals["total_raised"],
         "individual_contributions": totals["individual_contributions"],
         "individual_itemized": totals["individual_itemized"],
@@ -407,7 +498,7 @@ def update_member(bioguide_id):
         json.dump({
             "bioguide_id": bioguide_id,
             "fec_candidate_id": candidate_id,
-            "fec_committee_id": committee_id,
+            "fec_committee_ids": committee_ids,
             "cycle": CYCLE,
             "totals": totals,
             "campaign_pac_contributors": campaign_pac_contributors,
@@ -420,7 +511,8 @@ def update_member(bioguide_id):
         json.dump(member, f, indent=2)
 
     lp_str = f" + ${leadership_total:,} leadership PAC" if leadership_total else ""
-    print(f"    ${totals['total_raised']:,} campaign{lp_str} = ${combined_total:,} total")
+    cmte_str = f" ({len(committee_ids)} committees)" if len(committee_ids) > 1 else ""
+    print(f"    ${totals['total_raised']:,} campaign{cmte_str}{lp_str} = ${combined_total:,} total")
     return True
 
 
@@ -428,6 +520,7 @@ def main():
     parser = argparse.ArgumentParser(description="Fetch FEC finance data")
     parser.add_argument("--members", help="Comma-separated bioguide IDs")
     parser.add_argument("--all", action="store_true", help="Process all members")
+    parser.add_argument("--force", action="store_true", help="Re-fetch even if data exists")
     args = parser.parse_args()
 
     if not API_KEY:
@@ -443,15 +536,39 @@ def main():
         print("Specify --members or --all")
         sys.exit(1)
 
+    # Load FEC ID cache
+    fec_cache = load_fec_id_cache()
     print(f"Cycle: {CYCLE}")
+    print(f"FEC ID cache: {len(fec_cache)} entries")
     print(f"Processing {len(member_ids)} members...\n")
 
-    success = 0
+    # Skip members that already have funding data (unless --force)
+    to_process = []
     for bid in member_ids:
-        if update_member(bid.strip()):
-            success += 1
+        bid = bid.strip()
+        if not args.force:
+            fp = MEMBERS_DIR / f"{bid}.json"
+            if fp.exists():
+                with open(fp) as f:
+                    existing = json.load(f)
+                if existing.get("funding", {}).get("total_raised", 0) > 0:
+                    continue  # Already has data
+        to_process.append(bid)
 
-    print(f"\nDone. Updated {success}/{len(member_ids)} members. API calls: {CALLS_MADE}")
+    print(f"  Skipping {len(member_ids) - len(to_process)} members with existing data")
+    print(f"  Processing {len(to_process)} remaining members...\n")
+
+    success = 0
+    for i, bid in enumerate(to_process):
+        if update_member(bid, fec_cache):
+            success += 1
+        # Save cache periodically
+        if (i + 1) % 20 == 0:
+            save_fec_id_cache(fec_cache)
+            print(f"  --- Progress: {i+1}/{len(to_process)}, {success} updated, {CALLS_MADE} API calls ---")
+
+    save_fec_id_cache(fec_cache)
+    print(f"\nDone. Updated {success}/{len(to_process)} members. API calls: {CALLS_MADE}")
 
 
 if __name__ == "__main__":
