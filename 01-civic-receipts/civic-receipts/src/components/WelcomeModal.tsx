@@ -6,34 +6,34 @@ interface WelcomeModalProps {
 
 export default function WelcomeModal({ onDismiss }: WelcomeModalProps) {
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4">
-      <div className="w-full max-w-lg rounded-2xl bg-white p-6 shadow-xl dark:bg-zinc-900">
-        <h2 className="text-2xl font-bold">Welcome to Civic Receipts</h2>
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-white/70 dark:bg-zinc-950/70 backdrop-blur-[2px] p-4">
+      <div className="w-full max-w-lg rounded-2xl bg-white/95 p-6 shadow-xl backdrop-blur-sm dark:bg-zinc-900/95">
+        <h2 className="text-2xl font-bold">Who is paying for your Reps?</h2>
 
         <div className="mt-4 space-y-3 text-zinc-600 dark:text-zinc-400">
           <p>
             Ever wonder who funds your elected representatives — and whether
             that money influences how they vote?
           </p>
-          <p>
-            <strong className="text-zinc-900 dark:text-zinc-100">
-              Civic Receipts
-            </strong>{" "}
-            shows you:
-          </p>
+          <p>This project lets you:</p>
           <ul className="ml-4 list-disc space-y-1">
             <li>
-              Where your representatives&apos; campaign money comes from
+              See where your representatives&apos; campaign money comes from.
             </li>
-            <li>How aligned their votes are with their donors&apos; interests</li>
+            <li>See how aligned their votes are with their donors&apos; interests.</li>
             <li>
-              Whether they vote the way your district wants on key issues
+              Also see how aligned their votes are with the people they
+              represent (ie you) on key issues.
             </li>
           </ul>
           <p className="text-sm">
-            All data comes from public sources (FEC, Congress.gov, OpenSecrets,
-            Yale Climate Opinion Maps). We show correlations — you decide what
-            they mean.
+            All data come from{" "}
+            <a href="https://www.fec.gov/data/" target="_blank" rel="noopener noreferrer" className="underline hover:text-zinc-900 dark:hover:text-zinc-200">FEC.gov</a>,{" "}
+            <a href="https://voteview.com/" target="_blank" rel="noopener noreferrer" className="underline hover:text-zinc-900 dark:hover:text-zinc-200">Voteview (UCLA)</a>,{" "}
+            and the{" "}
+            <a href="https://cces.gov.harvard.edu/" target="_blank" rel="noopener noreferrer" className="underline hover:text-zinc-900 dark:hover:text-zinc-200">Cooperative Election Study (Harvard/MIT)</a>.{" "}
+            This project aims to give you a neutral presentation of the data,
+            and is not implying causal relationships.
           </p>
         </div>
 

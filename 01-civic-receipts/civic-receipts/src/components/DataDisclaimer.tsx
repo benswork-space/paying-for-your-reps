@@ -8,8 +8,7 @@ export default function DataDisclaimer() {
           Correlation does not equal causation.
         </strong>{" "}
         Representatives may receive donations because of pre-existing positions,
-        not the other way around. We show the connection — you decide what it
-        means.
+        rather than the other way around.
       </p>
       <p className="mt-2">
         Data sources: FEC, OpenSecrets, Congress.gov, Yale Climate Opinion Maps.

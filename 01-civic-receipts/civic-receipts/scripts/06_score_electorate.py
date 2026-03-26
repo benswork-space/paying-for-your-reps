@@ -15,10 +15,8 @@ live results agree.
 Outputs: data/raw/electorate_alignment.json
 """
 
-import csv
 import json
 import os
-import re
 import sys
 
 RAW_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "raw")
@@ -26,6 +24,7 @@ PUBLIC_DIR = os.path.join(os.path.dirname(__file__), "..", "public", "data")
 PUBLIC_MEMBERS_DIR = os.path.join(PUBLIC_DIR, "members")
 DISTRICTS_DIR = os.path.join(PUBLIC_DIR, "districts")
 CACHE_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "scripts", ".cache")
+LLM_ELECTORATE_DIR = os.path.join(CACHE_DIR, "llm_electorate_positions")
 ENV_LOCAL = os.path.join(os.path.dirname(__file__), "..", ".env.local")
 
 
@@ -42,109 +41,71 @@ def load_dotenv(path=ENV_LOCAL):
             os.environ.setdefault(key.strip(), value.strip())
 
 
-# ── Issue → Vote keyword mapping ────────────────────────────────────
-# Mirrors ElectorateSection.tsx ISSUE_VOTE_MAP exactly.
-# Each entry maps a district opinion issue to keywords we search for in
-# vote descriptions, plus whether "support" on the issue means Yea or Nay.
+# ── Issue → Vote mapping ──────────────────────────────────────────────
+# Each entry maps a district opinion issue to its cache file key.
+# Industry position preferences on specific bills are determined by
+# pre-computed LLM classifications stored in LLM_ELECTORATE_DIR.
 ISSUE_VOTE_MAP = [
     {
         "issue": "Universal background checks for gun purchases",
-        "keywords": ["background check", "gun purchase"],
+        "cache_key": "background_checks",
         "support_means_yea": True,
         "topic": "Gun Control",
-        # No policy_area fallback — "Crime and Law Enforcement" is too broad
-        # (includes reentry programs, drug bills, officer weapon purchases, etc.)
-        "d_position": "Yea",  # Dems support gun control
     },
     {
         "issue": "Ban on assault-style weapons",
-        "keywords": ["assault weapon", "assault-style"],
+        "cache_key": "assault_weapons_ban",
         "support_means_yea": True,
         "topic": "Gun Control",
-        "d_position": "Yea",
     },
     {
         "issue": "Abortion should always be legal",
-        "keywords": ["abortion", "reproductive right", "right to contraception"],
+        "cache_key": "abortion_legal",
         "support_means_yea": True,
         "topic": "Abortion",
-        "policy_areas": ["Civil Rights and Liberties, Minority Issues", "Health"],
-        "pa_keywords": ["abortion", "reproductive", "contraception", "pregnancy", "unborn"],
-        "d_position": "Yea",  # Dems are pro-choice
     },
     {
         "issue": "Prohibit all abortions after 20 weeks",
-        "keywords": ["20-week", "20 week", "late-term abortion", "pain-capable"],
+        "cache_key": "abortion_20_weeks",
         "support_means_yea": True,
         "topic": "Abortion",
-        "policy_areas": ["Health"],
-        "pa_keywords": ["abortion", "reproductive", "unborn", "fetal"],
-        "d_position": "Nay",  # Dems oppose abortion bans
-        "skip_inversion": True,  # Keywords already target pro-life bills directly
     },
     {
         "issue": "Support the Affordable Care Act",
-        "keywords": ["affordable care act", "obamacare"],
+        "cache_key": "support_aca",
         "support_means_yea": True,
         "topic": "Healthcare",
-        "policy_areas": ["Health"],
-        "pa_keywords": ["health care", "healthcare", "health insurance", "coverage", "premium", "medicaid", "medicare", "affordable care"],
-        "d_position": "Yea",
     },
     {
         "issue": "Regulate CO2 as a pollutant",
-        "keywords": ["carbon", "co2", "greenhouse gas", "emissions regulation"],
+        "cache_key": "regulate_co2",
         "support_means_yea": True,
         "topic": "Climate",
-        "policy_areas": ["Environmental Protection", "Energy"],
-        "pa_keywords": ["emission", "carbon", "climate", "pollution", "clean air", "greenhouse", "fossil"],
-        "d_position": "Yea",
     },
     {
         "issue": "Require minimum renewable fuel production",
-        "keywords": ["renewable fuel", "renewable energy standard", "clean energy"],
+        "cache_key": "renewable_fuel",
         "support_means_yea": True,
         "topic": "Climate",
-        "policy_areas": ["Energy", "Environmental Protection"],
-        "pa_keywords": ["renewable", "clean energy", "solar", "wind", "fuel standard", "energy credit", "green energy"],
-        "d_position": "Yea",
     },
     {
         "issue": "Grant legal status to DACA recipients",
-        "keywords": ["daca", "dreamer", "deferred action"],
+        "cache_key": "daca",
         "support_means_yea": True,
         "topic": "Immigration",
-        "policy_areas": ["Immigration"],
-        "pa_keywords": ["daca", "dreamer", "deferred action", "legal status", "undocumented", "pathway to citizenship"],
-        "d_position": "Yea",
     },
     {
         "issue": "Build a wall on the U.S.-Mexico border",
-        "keywords": ["border wall", "border barrier"],
+        "cache_key": "border_wall",
         "support_means_yea": True,
         "topic": "Immigration",
-        "policy_areas": ["Immigration"],
-        "pa_keywords": ["border wall", "border barrier", "border fence", "border security", "border protection"],
-        "d_position": "Nay",  # Dems oppose the wall
     },
     {
         "issue": "Require permits to carry concealed guns",
-        "keywords": ["concealed carry", "concealed weapon"],
+        "cache_key": "concealed_carry",
         "support_means_yea": False,  # support = restrict carry = Nay on carry bills
         "topic": "Gun Control",
-        "d_position": "Nay",  # Dems vote Nay on expanding carry rights
     },
-]
-
-# Procedural question types to skip (same as ElectorateSection.tsx)
-# Keywords indicating the bill inverts the expected position.
-# e.g., "Born-Alive Abortion Survivors Protection Act" — voting Nay is
-# the pro-choice position, so matching on "abortion" would be backwards.
-INVERSION_KEYWORDS = [
-    "repeal", "rescind", "disapprov", "terminat", "eliminat",
-    "prohibit", "block", "defund", "restrict", "ban on",
-    "strike the", "nullif", "born-alive", "survivors protection",
-    "pain-capable", "unborn child",
 ]
 
 PROCEDURAL_QUESTIONS = [
@@ -176,133 +137,73 @@ def is_procedural_question(question):
     return False
 
 
-def is_inverted(description):
-    """Check if vote description suggests the bill inverts expected positions.
-
-    Detects double-negatives (e.g., "repeal amendments that terminate clean
-    energy credits") where two inversion keywords cancel each other out.
+def is_description_too_vague(description):
     """
-    desc_lower = (description or "").lower()
-    triggers = [kw for kw in INVERSION_KEYWORDS if kw in desc_lower]
-    if not triggers:
-        return False
-
-    # Double-negative: two independent inversion signals cancel out.
-    # e.g., "repeal" + "terminat" = repealing a termination = net positive
-    # Only count pairs where both words are actual inversions of each other
-    # (not compound concepts like "born-alive" + "survivors protection").
-    REVERSAL_WORDS = {"repeal", "rescind", "strike the", "nullif"}
-    NEGATIVE_WORDS = {"terminat", "eliminat", "restrict", "prohibit", "block", "defund", "ban on"}
-    has_reversal = any(kw in desc_lower for kw in REVERSAL_WORDS)
-    has_negative = any(kw in desc_lower for kw in NEGATIVE_WORDS)
-    if has_reversal and has_negative:
-        return False  # Double-negative cancels out
-
-    return True
-
-
-def load_party_splits(chamber, congresses=None):
+    Check if a bill description is too vague to reliably classify.
+    Short or generic titles like "Breaking the Gridlock Act" don't give
+    enough information to confidently determine issue relevance.
     """
-    Load party-line vote splits from Voteview data across multiple congresses.
-    Returns dict: (congress, roll_number) -> {D_yea, D_nay, R_yea, R_nay}
+    desc = (description or "").strip()
+    if len(desc) < 15:
+        return True
+    clean = desc.lower().strip()
+    if clean in ("", "none", "n/a"):
+        return True
+    if len(desc.split()) <= 4 and "appropriation" not in clean:
+        return True
+    return False
+
+
+def load_llm_electorate_positions():
     """
-    if congresses is None:
-        congresses = [114, 115, 116, 117, 118, 119]
+    Load pre-computed LLM classifications of bill positions per electorate issue.
+    Returns dict: cache_key -> {bill_number: {yea_means_support, confidence, reason}}
+    """
+    positions = {}
+    if not os.path.exists(LLM_ELECTORATE_DIR):
+        print(f"  WARNING: LLM electorate positions directory not found: {LLM_ELECTORATE_DIR}")
+        print("  Run the classification agent first to generate issue position data.")
+        return positions
 
-    prefix = "H" if chamber == "house" else "S"
-    splits = {}
-
-    for congress in congresses:
-        votes_path = os.path.join(CACHE_DIR, f"{prefix}{congress}_votes.csv")
-        members_path = os.path.join(CACHE_DIR, f"{prefix}{congress}_members.csv")
-
-        if not os.path.exists(votes_path) or not os.path.exists(members_path):
+    for filename in os.listdir(LLM_ELECTORATE_DIR):
+        if filename.startswith("_") or not filename.endswith(".json"):
             continue
+        cache_key = filename.replace(".json", "")
+        filepath = os.path.join(LLM_ELECTORATE_DIR, filename)
+        with open(filepath) as f:
+            positions[cache_key] = json.load(f)
 
-        party_by_icpsr = {}
-        with open(members_path) as f:
-            for row in csv.DictReader(f):
-                try:
-                    icpsr = int(float(row["icpsr"]))
-                except (ValueError, TypeError):
-                    continue
-                party_by_icpsr[icpsr] = row.get("party_code", "")
-
-        with open(votes_path) as f:
-            for row in csv.DictReader(f):
-                try:
-                    rn = int(float(row["rollnumber"]))
-                    icpsr = int(float(row["icpsr"]))
-                    cast = int(float(row["cast_code"]))
-                except (ValueError, TypeError):
-                    continue
-                party = party_by_icpsr.get(icpsr, "")
-
-                key = (congress, rn)
-                if key not in splits:
-                    splits[key] = {"D_yea": 0, "D_nay": 0, "R_yea": 0, "R_nay": 0}
-
-                if party == "100":  # Democrat
-                    if cast in (1, 2, 3):
-                        splits[key]["D_yea"] += 1
-                    elif cast in (4, 5, 6):
-                        splits[key]["D_nay"] += 1
-                elif party == "200":  # Republican
-                    if cast in (1, 2, 3):
-                        splits[key]["R_yea"] += 1
-                    elif cast in (4, 5, 6):
-                        splits[key]["R_nay"] += 1
-
-    return splits
+    return positions
 
 
-def find_member_position(issue_mapping, votes, bill_subjects=None, party_splits=None):
+def find_member_position(issue_mapping, votes, llm_positions=None):
     """
-    Search a member's vote records for a vote matching the issue.
+    Search a member's vote records for a vote matching the issue using
+    pre-computed LLM classifications.
     Returns ("Yea", vote_desc) or ("Nay", vote_desc) or (None, None).
 
-    If the bill's description contains inversion keywords (e.g., "repeal",
-    "prohibit"), the position is flipped so that scoring remains correct.
-    For example, voting Nay on "Born-Alive Abortion Survivors Protection Act"
-    is treated as a pro-choice Yea for the "Abortion should always be legal" issue.
-
-    Tries keyword matching first, then policy_area matching with party-line
-    context as fallback.
+    The LLM cache tells us which bills are relevant and whether Yea = support.
+    We then translate the member's actual vote into an effective position
+    relative to the issue (support = Yea, oppose = Nay).
     """
-    if not votes:
+    if not votes or not llm_positions:
         return None, None
 
-    keywords = issue_mapping["keywords"]
-    policy_areas = issue_mapping.get("policy_areas", [])
-
-    # Pass 1: keyword matching (high precision)
-    for vote in votes:
-        if is_procedural_question(vote.get("question", "")):
-            continue
-        position = vote.get("position")
-        if position not in ("Yea", "Nay"):
-            continue
-
-        desc = (vote.get("description") or "").lower()
-        bill = (vote.get("bill") or "").lower()
-        combined = f"{desc} {bill}"
-
-        if any(kw in combined for kw in keywords):
-            # If the bill inverts the issue, flip the position
-            if not issue_mapping.get("skip_inversion") and is_inverted(vote.get("description", "")):
-                position = "Nay" if position == "Yea" else "Yea"
-            return position, vote.get("description", "")
-
-    # Pass 2: policy_area matching with party-line context
-    # Policy areas are broad (e.g., "Health" could be pro- or anti-ACA), so we
-    # use party-line splits to determine directionality. Only count votes with
-    # a strong party-line split (>60% gap) where one party voted >80% Yea.
-    if not bill_subjects or not party_splits or not policy_areas:
+    cache_key = issue_mapping.get("cache_key")
+    if not cache_key:
         return None, None
 
-    d_position = issue_mapping.get("d_position")
-    if not d_position:
+    issue_positions = llm_positions.get(cache_key, {})
+    if not issue_positions:
         return None, None
+
+    # Find the best matching vote: highest confidence, prefer "On Passage",
+    # prefer most recent congress. Votes are already ordered by date (newest first).
+    PASSAGE_QUESTIONS = {"On Passage", "On the Conference Report", "On the Joint Resolution",
+                         "On the Concurrent Resolution", "On the Resolution"}
+
+    best = None
+    best_score = (-1, -1, 0)  # (is_passage, congress, confidence)
 
     for vote in votes:
         if is_procedural_question(vote.get("question", "")):
@@ -312,64 +213,40 @@ def find_member_position(issue_mapping, votes, bill_subjects=None, party_splits=
             continue
 
         bill_str = (vote.get("bill") or "").strip()
-        policy_area = bill_subjects.get(bill_str)
-        if not policy_area or policy_area not in policy_areas:
+        if not bill_str:
             continue
 
-        # Require a topic-confirmation keyword in the description to avoid
-        # false matches (e.g., a "Crime" bill about reentry, not guns).
-        pa_keywords = issue_mapping.get("pa_keywords", [])
-        if pa_keywords:
-            desc_lower = (vote.get("description") or "").lower()
-            if not any(pk in desc_lower for pk in pa_keywords):
-                continue
-
-        # Look up party-line split for this vote
-        congress = vote.get("congress", 119)
-        roll_number = vote.get("roll_number")
-        if not roll_number:
-            continue
-        split = party_splits.get((congress, roll_number))
-        if not split:
+        # Skip bills with vague descriptions
+        if is_description_too_vague(vote.get("description", "")):
             continue
 
-        d_yea = split.get("D_yea", 0)
-        d_nay = split.get("D_nay", 0)
-        r_yea = split.get("R_yea", 0)
-        r_nay = split.get("R_nay", 0)
-        d_total = d_yea + d_nay
-        r_total = r_yea + r_nay
-
-        if d_total < 10 or r_total < 10:
+        bill_info = issue_positions.get(bill_str)
+        if not bill_info:
             continue
 
-        d_yea_pct = d_yea / d_total
-        r_yea_pct = r_yea / r_total
-
-        # Require strong party-line split (>60% gap)
-        if abs(d_yea_pct - r_yea_pct) <= 0.6:
+        confidence = bill_info.get("confidence", 0)
+        if confidence < 0.6:
             continue
 
-        # Determine bill ownership
-        bill_party = "R" if r_yea_pct > 0.8 else ("D" if d_yea_pct > 0.8 else None)
-        if not bill_party:
-            continue
+        question = vote.get("question", "")
+        is_passage = 1 if question in PASSAGE_QUESTIONS else 0
+        congress = vote.get("congress", 0)
+        score = (is_passage, congress, confidence)
 
-        # Determine if voting Yea on this bill = supporting the issue.
-        # If D-authored bill and D normally votes Yea on this issue → Yea = support
-        # If R-authored bill and D normally votes Yea on this issue → Yea = oppose
-        bill_aligns_with_issue = (
-            (bill_party == "D" and d_position == "Yea") or
-            (bill_party == "R" and d_position == "Nay")
-        )
+        if score > best_score:
+            yea_means_support = bill_info.get("yea_means_support", True)
 
-        effective_position = position
-        if not bill_aligns_with_issue:
-            # Bill opposes the issue direction, flip the position
-            effective_position = "Nay" if position == "Yea" else "Yea"
+            # Translate actual vote to effective position relative to the issue
+            if yea_means_support:
+                effective_position = position
+            else:
+                effective_position = "Nay" if position == "Yea" else "Yea"
 
-        return effective_position, vote.get("description", "")
+            best = (effective_position, vote.get("description", ""))
+            best_score = score
 
+    if best:
+        return best
     return None, None
 
 
@@ -387,18 +264,7 @@ def is_aligned(position, support_pct, support_means_yea):
         return majority_supports != voted_yea
 
 
-def load_bill_subjects():
-    """Load cached bill subjects from Congress.gov API (created by script 05)."""
-    all_subjects = {}
-    for congress in [114, 115, 116, 117, 118, 119]:
-        cache_path = os.path.join(CACHE_DIR, f"bill_subjects_{congress}.json")
-        if os.path.exists(cache_path):
-            with open(cache_path) as f:
-                all_subjects.update(json.load(f))
-    return all_subjects
-
-
-def score_member(member, district_data, votes_data, bill_subjects, party_splits=None):
+def score_member(member, district_data, votes_data, llm_positions=None):
     """Score electorate alignment for a single member."""
     votes = votes_data.get("recent_votes", [])
     issues = district_data.get("issues", [])
@@ -422,7 +288,7 @@ def score_member(member, district_data, votes_data, bill_subjects, party_splits=
         if not mapping:
             continue
 
-        position, vote_desc = find_member_position(mapping, votes, bill_subjects, party_splits)
+        position, vote_desc = find_member_position(mapping, votes, llm_positions)
         if not position:
             continue
 
@@ -463,16 +329,14 @@ def main():
     with open(members_path) as f:
         members = json.load(f)
 
-    # Load cached bill subjects
-    bill_subjects = load_bill_subjects()
-    print(f"  Loaded {len(bill_subjects)} bill subjects from cache")
-
-    # Load party-line splits for directionality on policy_area matches
-    congresses = [114, 115, 116, 117, 118, 119]
-    print(f"  Loading party-line vote data for congresses {congresses}...")
-    house_splits = load_party_splits("house", congresses)
-    senate_splits = load_party_splits("senate", congresses)
-    print(f"  House: {len(house_splits)} votes, Senate: {len(senate_splits)} votes")
+    # Load pre-computed LLM classifications
+    print("  Loading LLM electorate issue classifications...")
+    llm_positions = load_llm_electorate_positions()
+    if not llm_positions:
+        print("  ERROR: No LLM electorate position data found. Run classification agent first.")
+        sys.exit(1)
+    total_classified = sum(len(v) for v in llm_positions.values())
+    print(f"  Loaded {len(llm_positions)} issues, {total_classified} total bill classifications")
 
     # Pre-compute state-level averages for senators by averaging all
     # district files in the state (districts are roughly equal population).
@@ -563,8 +427,7 @@ def main():
         with open(votes_path) as f:
             votes_data = json.load(f)
 
-        splits = house_splits if chamber == "house" else senate_splits
-        alignment = score_member(member, district_data, votes_data, bill_subjects, splits)
+        alignment = score_member(member, district_data, votes_data, llm_positions)
         results[bio_id] = alignment
 
         if alignment["issues_scored"] > 0:

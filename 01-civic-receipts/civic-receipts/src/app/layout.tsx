@@ -13,11 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Civic Receipts — Follow the Money",
+  title: "Paying for your Reps",
   description:
     "See who funds your representatives, how they vote, and whether they represent you. Enter your ZIP code to get started.",
   openGraph: {
-    title: "Civic Receipts — Follow the Money",
+    title: "Paying for your Reps",
     description:
       "See who funds your representatives and how aligned they are with your district.",
     type: "website",

@@ -63,6 +63,9 @@ def parse_members(legislators):
         # OpenSecrets CID (for linking)
         opensecrets_id = bio.get("opensecrets", "")
 
+        # Gender from bio section
+        gender = leg.get("bio", {}).get("gender", "")  # "M" or "F"
+
         members.append({
             "bioguide_id": bioguide_id,
             "name": full_name,
@@ -70,6 +73,7 @@ def parse_members(legislators):
             "chamber": chamber,
             "state": state,
             "district": district,
+            "gender": gender if gender in ("M", "F") else None,
             "photo_url": f"{PHOTO_BASE}/{bioguide_id}.jpg",
             "serving_since": serving_since,
             "years_in_office": years,

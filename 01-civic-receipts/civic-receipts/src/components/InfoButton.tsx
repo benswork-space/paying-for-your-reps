@@ -116,7 +116,7 @@ export default function InfoButton() {
                   are sourced from interest group scorecards where possible
                   and are{" "}
                   <a
-                    href="https://github.com"
+                    href="https://github.com/benswork-space/paying-for-your-reps"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="underline hover:text-zinc-900 dark:hover:text-zinc-200"
@@ -139,8 +139,7 @@ export default function InfoButton() {
                     Correlation ≠ causation.
                   </strong>{" "}
                   Representatives may receive donations because of
-                  pre-existing positions, not the other way around. We show
-                  connections — you decide what they mean.
+                  pre-existing positions, rather than the other way around.
                 </p>
               </div>
 

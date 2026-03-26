@@ -2,12 +2,15 @@
 """
 Fetch voting records from Voteview (UCLA/MIT) and update member JSON files.
 
+Supports multiple congresses for historical depth.
+
 Data source: https://voteview.com/data
 No API key needed — public CSV downloads.
 
 Usage:
     python3 fetch_votes.py --members P000197,S001150,P000145
     python3 fetch_votes.py --all
+    python3 fetch_votes.py --all --congresses 114,115,116,117,118,119
 """
 from __future__ import annotations
 
@@ -22,7 +25,9 @@ from pathlib import Path
 
 MEMBERS_DIR = Path(__file__).parent.parent / "civic-receipts" / "public" / "data" / "members"
 CACHE_DIR = Path(__file__).parent / ".cache"
-CONGRESS = 119
+
+# Default: 114th-119th Congress (2015-2026, ~10 years)
+DEFAULT_CONGRESSES = [114, 115, 116, 117, 118, 119]
 
 
 def download_csv(url, cache_name):
@@ -31,14 +36,16 @@ def download_csv(url, cache_name):
     cache_path = CACHE_DIR / cache_name
 
     if cache_path.exists():
-        print(f"  Using cached {cache_name}")
-        with open(cache_path) as f:
-            return f.read()
+        return open(cache_path).read()
 
-    print(f"  Downloading {cache_name}...")
+    print(f"    Downloading {cache_name}...")
     req = urllib.request.Request(url, headers={"User-Agent": "CivicReceipts/1.0"})
-    resp = urllib.request.urlopen(req, timeout=60)
-    text = resp.read().decode()
+    try:
+        resp = urllib.request.urlopen(req, timeout=60)
+        text = resp.read().decode()
+    except Exception as e:
+        print(f"    WARN: Failed to download {cache_name}: {e}")
+        return ""
 
     with open(cache_path, "w") as f:
         f.write(text)
@@ -46,16 +53,22 @@ def download_csv(url, cache_name):
     return text
 
 
-def load_rollcalls(chamber):
-    """Load rollcall descriptions (what each vote was about)."""
+def load_rollcalls(chamber, congress):
+    """Load rollcall descriptions for a specific congress."""
     prefix = "H" if chamber == "house" else "S"
-    url = f"https://voteview.com/static/data/out/rollcalls/{prefix}{CONGRESS}_rollcalls.csv"
-    text = download_csv(url, f"{prefix}{CONGRESS}_rollcalls.csv")
+    url = f"https://voteview.com/static/data/out/rollcalls/{prefix}{congress}_rollcalls.csv"
+    text = download_csv(url, f"{prefix}{congress}_rollcalls.csv")
+    if not text:
+        return {}
 
     rollcalls = {}
     for row in csv.DictReader(io.StringIO(text)):
-        rn = int(row["rollnumber"])
+        try:
+            rn = int(float(row["rollnumber"]))
+        except (ValueError, TypeError):
+            continue
         rollcalls[rn] = {
+            "congress": congress,
             "date": row.get("date", ""),
             "bill_number": row.get("bill_number", ""),
             "vote_question": row.get("vote_question", ""),
@@ -68,18 +81,22 @@ def load_rollcalls(chamber):
     return rollcalls
 
 
-def load_member_votes(chamber):
+def load_member_votes(chamber, congress):
     """Load all individual votes for this chamber/congress."""
     prefix = "H" if chamber == "house" else "S"
-    url = f"https://voteview.com/static/data/out/votes/{prefix}{CONGRESS}_votes.csv"
-    text = download_csv(url, f"{prefix}{CONGRESS}_votes.csv")
+    url = f"https://voteview.com/static/data/out/votes/{prefix}{congress}_votes.csv"
+    text = download_csv(url, f"{prefix}{congress}_votes.csv")
+    if not text:
+        return {}
 
-    # Build dict: icpsr -> list of (rollnumber, cast_code)
     member_votes = {}
     for row in csv.DictReader(io.StringIO(text)):
-        icpsr = int(row["icpsr"])
-        rn = int(row["rollnumber"])
-        cast = int(row["cast_code"])
+        try:
+            icpsr = int(float(row["icpsr"]))
+            rn = int(float(row["rollnumber"]))
+            cast = int(float(row["cast_code"]))
+        except (ValueError, TypeError):
+            continue
         if icpsr not in member_votes:
             member_votes[icpsr] = []
         member_votes[icpsr].append((rn, cast))
@@ -87,19 +104,25 @@ def load_member_votes(chamber):
     return member_votes
 
 
-def load_members_lookup(chamber):
-    """Load ICPSR-to-bioguide mapping."""
+def load_members_lookup(chamber, congress):
+    """Load ICPSR-to-bioguide mapping for a specific congress."""
     prefix = "H" if chamber == "house" else "S"
-    url = f"https://voteview.com/static/data/out/members/{prefix}{CONGRESS}_members.csv"
-    text = download_csv(url, f"{prefix}{CONGRESS}_members.csv")
+    url = f"https://voteview.com/static/data/out/members/{prefix}{congress}_members.csv"
+    text = download_csv(url, f"{prefix}{congress}_members.csv")
+    if not text:
+        return {}
 
-    lookup = {}  # bioguide_id -> icpsr
+    lookup = {}
     for row in csv.DictReader(io.StringIO(text)):
         bid = row.get("bioguide_id", "").strip()
         icpsr = row.get("icpsr", "").strip()
         if bid and icpsr:
+            try:
+                icpsr_int = int(float(icpsr))
+            except (ValueError, TypeError):
+                continue
             lookup[bid] = {
-                "icpsr": int(icpsr),
+                "icpsr": icpsr_int,
                 "nominate_dim1": float(row.get("nominate_dim1", 0) or 0),
                 "nominate_dim2": float(row.get("nominate_dim2", 0) or 0),
                 "party_code": int(row.get("party_code", 0) or 0),
@@ -109,9 +132,6 @@ def load_members_lookup(chamber):
 
 def cast_code_to_position(cast_code):
     """Convert Voteview cast_code to human-readable position."""
-    # 1=Yea, 2=Paired Yea, 3=Announced Yea
-    # 4=Announced Nay, 5=Paired Nay, 6=Nay
-    # 7=Present (not voting), 8=Absent, 9=Not a member
     if cast_code in (1, 2, 3):
         return "Yea"
     elif cast_code in (4, 5, 6):
@@ -123,62 +143,100 @@ def cast_code_to_position(cast_code):
     return "N/A"
 
 
-def update_member(bioguide_id, rollcalls, member_votes_map, members_lookup):
-    """Build vote data for a member and save as sidecar file."""
+def update_member(bioguide_id, all_data, congresses):
+    """
+    Build vote data for a member across multiple congresses.
+
+    all_data = {
+        congress: {
+            chamber: {
+                "rollcalls": {...},
+                "member_votes": {...},
+                "members_lookup": {...},
+            }
+        }
+    }
+    """
     filepath = MEMBERS_DIR / f"{bioguide_id}.json"
     if not filepath.exists():
-        print(f"  SKIP: No file for {bioguide_id}")
         return False
 
     with open(filepath) as f:
         member = json.load(f)
 
-    chamber = member.get("chamber", "house")
-    lookup = members_lookup.get(chamber, {})
+    current_chamber = member.get("chamber", "house")
 
-    info = lookup.get(bioguide_id)
-    if not info:
-        print(f"  WARN: {member['name']} not found in Voteview {chamber} data")
-        return False
-
-    icpsr = info["icpsr"]
-    all_votes_map = member_votes_map.get(chamber, {})
-    votes_raw = all_votes_map.get(icpsr, [])
-
-    if not votes_raw:
-        print(f"  WARN: No votes found for {member['name']} (ICPSR {icpsr})")
-        return False
-
-    chamber_rollcalls = rollcalls.get(chamber, {})
-
-    # Build structured vote records
-    recent_votes = []
+    # Collect votes across all congresses
+    # A member might have been in the House then moved to Senate
+    all_votes = []
     total_yea = 0
     total_nay = 0
     total_absent = 0
+    latest_ideology = None
+    congresses_served = []
 
-    for rn, cast in sorted(votes_raw, key=lambda x: -x[0]):  # Most recent first
-        rc = chamber_rollcalls.get(rn, {})
-        position = cast_code_to_position(cast)
+    for congress in sorted(congresses, reverse=True):  # Most recent first
+        # Check both chambers (member may have switched)
+        for chamber in [current_chamber, "senate" if current_chamber == "house" else "house"]:
+            cdata = all_data.get(congress, {}).get(chamber)
+            if not cdata:
+                continue
 
-        if position == "Yea":
-            total_yea += 1
-        elif position == "Nay":
-            total_nay += 1
-        elif position in ("Absent", "Present"):
-            total_absent += 1
+            lookup = cdata["members_lookup"]
+            info = lookup.get(bioguide_id)
+            if not info:
+                continue
 
-        # Only keep the most notable votes for the sidecar (with descriptions)
-        if len(recent_votes) < 100 and rc.get("vote_desc") or rc.get("bill_number"):
-            recent_votes.append({
-                "roll_number": rn,
-                "date": rc.get("date", ""),
-                "bill": rc.get("bill_number", ""),
-                "description": rc.get("vote_desc", "") or rc.get("dtl_desc", ""),
-                "question": rc.get("vote_question", ""),
-                "position": position,
-                "result": rc.get("vote_result", ""),
-            })
+            icpsr = info["icpsr"]
+            votes_raw = cdata["member_votes"].get(icpsr, [])
+            if not votes_raw:
+                continue
+
+            rollcalls = cdata["rollcalls"]
+            if congress not in congresses_served:
+                congresses_served.append(congress)
+
+            # Use ideology from most recent congress
+            if latest_ideology is None:
+                latest_ideology = {
+                    "nominate_dim1": info["nominate_dim1"],
+                    "nominate_dim2": info["nominate_dim2"],
+                }
+
+            for rn, cast in sorted(votes_raw, key=lambda x: -x[0]):
+                rc = rollcalls.get(rn, {})
+                position = cast_code_to_position(cast)
+
+                if position == "Yea":
+                    total_yea += 1
+                elif position == "Nay":
+                    total_nay += 1
+                elif position in ("Absent", "Present"):
+                    total_absent += 1
+
+                # Keep votes with descriptions (up to 2000 for historical depth)
+                if len(all_votes) < 2000 and (rc.get("vote_desc") or rc.get("bill_number")):
+                    all_votes.append({
+                        "congress": congress,
+                        "roll_number": rn,
+                        "date": rc.get("date", ""),
+                        "bill": rc.get("bill_number", ""),
+                        "description": rc.get("vote_desc", "") or rc.get("dtl_desc", ""),
+                        "question": rc.get("vote_question", ""),
+                        "position": position,
+                        "result": rc.get("vote_result", ""),
+                    })
+
+            break  # Found member in this chamber for this congress, don't check the other
+
+    if not all_votes:
+        return False
+
+    # Sort all votes by date (most recent first)
+    all_votes.sort(key=lambda v: v.get("date", ""), reverse=True)
+
+    if latest_ideology is None:
+        latest_ideology = {"nominate_dim1": 0, "nominate_dim2": 0}
 
     # Save vote sidecar
     votes_file = MEMBERS_DIR / f"{bioguide_id}_votes.json"
@@ -186,11 +244,11 @@ def update_member(bioguide_id, rollcalls, member_votes_map, members_lookup):
         json.dump({
             "bioguide_id": bioguide_id,
             "name": member["name"],
-            "congress": CONGRESS,
-            "chamber": chamber,
+            "congresses": congresses_served,
+            "chamber": current_chamber,
             "ideology": {
-                "nominate_dim1": info["nominate_dim1"],
-                "nominate_dim2": info["nominate_dim2"],
+                "nominate_dim1": latest_ideology["nominate_dim1"],
+                "nominate_dim2": latest_ideology["nominate_dim2"],
                 "description": "DW-NOMINATE scores: dim1 = liberal (-1) to conservative (+1), dim2 = social issues"
             },
             "vote_stats": {
@@ -198,11 +256,13 @@ def update_member(bioguide_id, rollcalls, member_votes_map, members_lookup):
                 "yea": total_yea,
                 "nay": total_nay,
                 "absent_or_present": total_absent,
+                "congresses_covered": len(congresses_served),
             },
-            "recent_votes": recent_votes,
+            "recent_votes": all_votes,
         }, f, indent=2)
 
-    print(f"  OK: {member['name']} — {total_yea + total_nay} votes, ideology={info['nominate_dim1']:.3f}")
+    years = f"{min(congresses_served)}-{max(congresses_served)}" if len(congresses_served) > 1 else str(congresses_served[0])
+    print(f"  OK: {member['name']} — {total_yea + total_nay} votes across {len(congresses_served)} congresses ({years})")
     return True
 
 
@@ -210,8 +270,11 @@ def main():
     parser = argparse.ArgumentParser(description="Fetch voting records from Voteview")
     parser.add_argument("--members", help="Comma-separated bioguide IDs")
     parser.add_argument("--all", action="store_true")
-    parser.add_argument("--congress", type=int, default=CONGRESS)
+    parser.add_argument("--congresses", help="Comma-separated congress numbers",
+                        default=",".join(str(c) for c in DEFAULT_CONGRESSES))
     args = parser.parse_args()
+
+    congresses = [int(c) for c in args.congresses.split(",")]
 
     if args.all:
         member_ids = [f.stem for f in MEMBERS_DIR.glob("*.json") if "_" not in f.stem]
@@ -228,26 +291,34 @@ def main():
         if fp.exists():
             with open(fp) as f:
                 chambers_needed.add(json.load(f).get("chamber", "house"))
+    # Always load both chambers since members may have switched
+    chambers_needed = {"house", "senate"}
 
-    print(f"Congress: {CONGRESS}")
+    print(f"Congresses: {congresses}")
     print(f"Chambers: {chambers_needed}")
     print(f"Processing {len(member_ids)} members...\n")
 
-    # Load data for needed chambers
-    rollcalls = {}
-    member_votes_map = {}
-    members_lookup = {}
+    # Load data for all congresses and chambers
+    all_data = {}
+    for congress in congresses:
+        all_data[congress] = {}
+        print(f"Loading Congress {congress}...")
+        for chamber in chambers_needed:
+            rollcalls = load_rollcalls(chamber, congress)
+            member_votes = load_member_votes(chamber, congress)
+            members_lookup = load_members_lookup(chamber, congress)
+            all_data[congress][chamber] = {
+                "rollcalls": rollcalls,
+                "member_votes": member_votes,
+                "members_lookup": members_lookup,
+            }
+            print(f"  {chamber}: {len(rollcalls)} rollcalls, {len(member_votes)} members")
+        print()
 
-    for chamber in chambers_needed:
-        print(f"Loading {chamber} data...")
-        rollcalls[chamber] = load_rollcalls(chamber)
-        member_votes_map[chamber] = load_member_votes(chamber)
-        members_lookup[chamber] = load_members_lookup(chamber)
-        print(f"  {len(rollcalls[chamber])} rollcalls, {len(member_votes_map[chamber])} members\n")
-
+    # Update each member
     success = 0
     for bid in member_ids:
-        if update_member(bid.strip(), rollcalls, member_votes_map, members_lookup):
+        if update_member(bid.strip(), all_data, congresses):
             success += 1
 
     print(f"\nDone. Updated {success}/{len(member_ids)} members.")

@@ -42,7 +42,7 @@ QUESTIONS <- list(
     support_val = 1,
     topic = "Abortion"
   ),
-  abortion_prohibition = list(
+  abortion_20weeks = list(
     label = "Prohibit all abortions after 20 weeks",
     support_val = 1,
     topic = "Abortion"
@@ -182,11 +182,13 @@ for (q_name in names(QUESTIONS)) {
   # Fixed effects for demographics
   tryCatch({
     model <- glmer(
-      support ~ female + age_bin + educ_bin + race_bin + (1 | state_f) + (1 | cd_clean),
+      support ~ female + age_bin + educ_bin + race_bin +
+        (1 | state_f) + (1 | cd_clean) +
+        (1 | educ_bin:state_f) + (1 | race_bin:state_f) + (1 | age_bin:state_f),
       data = q_df,
       family = binomial(link = "logit"),
-      control = glmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 50000)),
-      nAGQ = 0  # Faster approximation
+      control = glmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 100000)),
+      nAGQ = 1  # Laplace approximation (more accurate than nAGQ=0)
     )
 
     cat("  Model fitted successfully\n")

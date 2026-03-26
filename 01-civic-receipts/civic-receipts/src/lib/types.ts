@@ -121,13 +121,19 @@ export interface DonorAlignment {
 
 export interface AlignmentExample {
   vote_description: string;
-  industry: string;
-  industry_preferred: string;
+  industry?: string;
+  industry_preferred?: string;
+  donor_name?: string;
+  donor_category?: string;
+  donor_expected?: string;
   member_voted: string;
   aligned: boolean;
-  date: string;
-  bill_url: string;
+  confidence?: number;
+  date?: string;
+  bill?: string;
+  bill_url?: string;
   donors?: string[];
+  reason?: string;
 }
 
 export interface ElectorateAlignment {
@@ -158,4 +164,16 @@ export interface MemberLinks {
   voting_record: string;
   opensecrets: string;
   official_website: string;
+}
+
+export interface DistrictIssue {
+  issue: string;
+  topic: string;
+  support_pct: number;
+  margin_of_error: number;
+}
+
+export interface DistrictOpinion {
+  district: string;
+  issues: DistrictIssue[];
 }

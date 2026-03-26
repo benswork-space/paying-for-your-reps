@@ -3,14 +3,15 @@
 import { useState, type FormEvent } from "react";
 
 interface ZipInputProps {
-  onSubmit: (zip: string) => void;
+  onSubmit: (zip: string) => Promise<boolean>;
 }
 
 export default function ZipInput({ onSubmit }: ZipInputProps) {
   const [zip, setZip] = useState("");
   const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
 
-  function handleSubmit(e: FormEvent) {
+  async function handleSubmit(e: FormEvent) {
     e.preventDefault();
     const trimmed = zip.trim();
 
@@ -20,7 +21,12 @@ export default function ZipInput({ onSubmit }: ZipInputProps) {
     }
 
     setError("");
-    onSubmit(trimmed);
+    setLoading(true);
+    const ok = await onSubmit(trimmed);
+    setLoading(false);
+    if (!ok) {
+      setError("Couldn\u2019t find that ZIP code, please try again.");
+    }
   }
 
   return (
