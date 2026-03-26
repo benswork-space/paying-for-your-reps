@@ -103,6 +103,16 @@
         "amount": 595022,
         "donors": [
           {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 4271553
+          },
+          {
+            "name": "UBS FINANCIAL SERVICES INC.",
+            "type": "PAC",
+            "amount": 1023377
+          },
+          {
             "name": "BORDER HEALTH FEDERAL PAC",
             "type": "PAC",
             "amount": 95000
@@ -164,16 +174,6 @@
           },
           {
             "name": "TARGA RESOURCES CORP. FEDERAL PAC",
-            "type": "PAC",
-            "amount": 35000
-          },
-          {
-            "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC",
-            "type": "PAC",
-            "amount": 35000
-          },
-          {
-            "name": "REALTORS PAC",
             "type": "PAC",
             "amount": 35000
           }
@@ -185,6 +185,16 @@
         "amount": 2661713,
         "donors": [
           {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 4271553
+          },
+          {
+            "name": "UBS FINANCIAL SERVICES INC.",
+            "type": "PAC",
+            "amount": 1023377
+          },
+          {
             "name": "BORDER HEALTH FEDERAL PAC",
             "type": "PAC",
             "amount": 95000
@@ -246,16 +256,6 @@
           },
           {
             "name": "TARGA RESOURCES CORP. FEDERAL PAC",
-            "type": "PAC",
-            "amount": 35000
-          },
-          {
-            "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC",
-            "type": "PAC",
-            "amount": 35000
-          },
-          {
-            "name": "REALTORS PAC",
             "type": "PAC",
             "amount": 35000
           }
@@ -744,6 +744,11 @@
             ],
             "top_pac_donors": [
               {
+                "name": "WINRED",
+                "type": "PAC",
+                "amount": 1446371
+              },
+              {
                 "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
                 "type": "PAC",
                 "amount": 35000
@@ -1098,6 +1103,11 @@
             ],
             "top_pac_donors": [
               {
+                "name": "WINRED",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
                 "name": "NEW YORK LIFE INSURANCE PAC",
                 "type": "PAC",
                 "amount": 10000
@@ -1156,6 +1166,11 @@
                 "name": "THRIVENT FINANCIAL FOR LUTHERANS POLITICAL ACTIO",
                 "type": "PAC",
                 "amount": 4000
+              },
+              {
+                "name": "CHAIN BRIDGE BANK",
+                "type": "PAC",
+                "amount": 2627
               },
               {
                 "name": "TD BANK PAC",
@@ -1683,6 +1698,16 @@
         }
       ],
       "top_pac_donors": [
+        {
+          "name": "WINRED",
+          "type": "PAC",
+          "amount": 2815182
+        },
+        {
+          "name": "UBS FINANCIAL SERVICES INC.",
+          "type": "PAC",
+          "amount": 1023377
+        },
         {
           "name": "BORDER HEALTH FEDERAL PAC",
           "type": "PAC",
@@ -2284,6 +2309,11 @@
         ],
         "top_pac_donors": [
           {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 1446371
+          },
+          {
             "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
             "type": "PAC",
             "amount": 35000
@@ -2638,6 +2668,11 @@
         ],
         "top_pac_donors": [
           {
+            "name": "WINRED",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
             "name": "NEW YORK LIFE INSURANCE PAC",
             "type": "PAC",
             "amount": 10000
@@ -2696,6 +2731,11 @@
             "name": "THRIVENT FINANCIAL FOR LUTHERANS POLITICAL ACTIO",
             "type": "PAC",
             "amount": 4000
+          },
+          {
+            "name": "CHAIN BRIDGE BANK",
+            "type": "PAC",
+            "amount": 2627
           },
           {
             "name": "TD BANK PAC",
