@@ -1,1 +1,2873 @@
-{"bioguide_id":"C001056","name":"John Cornyn","party":"R","chamber":"senate","state":"TX","district":null,"gender":"M","photo_url":"https://unitedstates.github.io/images/congress/450x550/C001056.jpg","serving_since":2002,"years_in_office":24,"funding":{"cycle":"2024","total_raised":6039139,"campaign_raised":3377426,"leadership_pac_raised":2661713,"top_industries":[{"code":"IND","name":"Individual Contributions","amount":1270535,"donors":[{"name":"LMBI LP","type":"Organization","amount":24000},{"name":"CAPITAL GROUP","type":"Organization","amount":22500},{"name":"CITIZENS FIRST BANK","type":"Organization","amount":17800},{"name":"WESTERN REFINING","type":"Organization","amount":16600},{"name":"MAGELLAN INVESTMENT HOLDINGS","type":"Organization","amount":16600},{"name":"ANDREESSEN HOROWITZ","type":"Organization","amount":16500},{"name":"THE ANSCHUTZ CORPORATION","type":"Organization","amount":14900},{"name":"SELF","type":"Organization","amount":14580},{"name":"PALANTIR TECHNOLOGIES","type":"Organization","amount":13686},{"name":"WINKLEVOSS CAPITAL MANAGEMENT","type":"Organization","amount":13200}]},{"code":"PAC","name":"PAC & Committee Contributions","amount":595022,"donors":[{"name":"CORNYN VICTORY COMMITTEE","type":"PAC","amount":9176537},{"name":"WINRED","type":"PAC","amount":4271553},{"name":"CORNYN MAJORITY TEXAS","type":"PAC","amount":1085500},{"name":"UBS FINANCIAL SERVICES INC.","type":"PAC","amount":1023377},{"name":"RYAN LLC POLITICAL ACTION COMMITTEE (RYANPAC)","type":"PAC","amount":100000},{"name":"BORDER HEALTH FEDERAL PAC","type":"PAC","amount":95000},{"name":"USAA (UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC)","type":"PAC","amount":70000},{"name":"ENTERPRISE HOLDINGS INC. PAC","type":"PAC","amount":65000},{"name":"ELEVANCE HEALTH INC. POLITICAL ACTION COMMITTEE (ELEVANCE H","type":"PAC","amount":65000},{"name":"PIONEER NATURAL RESOURCES USA INC. FEDERAL POLITICAL ACTION","type":"PAC","amount":65000}]},{"code":"LPAC","name":"Leadership PAC","amount":2661713,"donors":[{"name":"CORNYN VICTORY COMMITTEE","type":"PAC","amount":9176537},{"name":"WINRED","type":"PAC","amount":4271553},{"name":"CORNYN MAJORITY TEXAS","type":"PAC","amount":1085500},{"name":"UBS FINANCIAL SERVICES INC.","type":"PAC","amount":1023377},{"name":"RYAN LLC POLITICAL ACTION COMMITTEE (RYANPAC)","type":"PAC","amount":100000},{"name":"BORDER HEALTH FEDERAL PAC","type":"PAC","amount":95000},{"name":"USAA (UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC)","type":"PAC","amount":70000},{"name":"ENTERPRISE HOLDINGS INC. PAC","type":"PAC","amount":65000},{"name":"ELEVANCE HEALTH INC. POLITICAL ACTION COMMITTEE (ELEVANCE H","type":"PAC","amount":65000},{"name":"PIONEER NATURAL RESOURCES USA INC. FEDERAL POLITICAL ACTION","type":"PAC","amount":65000}],"details":[{"committee_id":"C00387464","name":"ALAMO PAC","total_raised":2496636,"top_employers":[{"name":"LMBI LP","type":"Organization","amount":16600},{"name":"THE NICKLES GROUP","type":"Organization","amount":12500},{"name":"WEST FRONT STRATEGIES","type":"Organization","amount":11000},{"name":"FIERCE GOVERNMENT RELATIONS","type":"Organization","amount":11000},{"name":"ANNANDALE CAPITAL","type":"Organization","amount":10000},{"name":"TILSON BUILT COMPANY","type":"Organization","amount":10000},{"name":"CLEARPATH","type":"Organization","amount":10000},{"name":"MAGELLAN INVESTMENT HOLDINGS","type":"Organization","amount":10000},{"name":"HUNT BLDG. CORP.","type":"Organization","amount":10000},{"name":"COX COMPANIES INC.","type":"Organization","amount":10000},{"name":"KINDER MORGAN INC.","type":"Organization","amount":10000},{"name":"HARBINGER STRATEGIES","type":"Organization","amount":10000},{"name":"CITIZENS FIRST BANK","type":"Organization","amount":10000},{"name":"WESTERN REFINING","type":"Organization","amount":10000},{"name":"HIGHLANDER PARTNERS","type":"Organization","amount":10000},{"name":"FIRST FINANCIAL BANK USA","type":"Organization","amount":10000},{"name":"KINDER FOUNDATION","type":"Organization","amount":10000},{"name":"ENERGY TRANSFER PARTNERS","type":"Organization","amount":10000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK","type":"Organization","amount":9516},{"name":"THE ANSCHUTZ CORPORATION","type":"Organization","amount":8300},{"name":"SPLITOAK STRATEGIES","type":"Organization","amount":8000},{"name":"CAPITOL COUNSEL LLC","type":"Organization","amount":8000},{"name":"BGR GROUP","type":"Organization","amount":8000},{"name":"CASSIDY AND ASSOCIATES","type":"Organization","amount":8000},{"name":"MARSHALL POPP","type":"Organization","amount":8000},{"name":"ATS COMMUNICATIONS INC.","type":"Organization","amount":7500},{"name":"KLEIN/JOHNSON GROUP","type":"Organization","amount":7500},{"name":"ALTRIA","type":"Organization","amount":7500},{"name":"INVARIANT","type":"Organization","amount":7000},{"name":"MONUMENT ADVOCACY","type":"Organization","amount":6750},{"name":"SOUTHWEST AIRLINES","type":"Organization","amount":6500},{"name":"GILLMAN AUTOMOTIVE GROUP","type":"Organization","amount":6000},{"name":"TIBER CREEK GROUP","type":"Organization","amount":5500},{"name":"MUNK POLICY AND LAW","type":"Organization","amount":5500},{"name":"WOODBRANCH INVESTMENTS","type":"Organization","amount":5000},{"name":"ASSOCIA","type":"Organization","amount":5000},{"name":"SED HOLDINGS","type":"Organization","amount":5000},{"name":"ALTRIA GROUP","type":"Organization","amount":5000},{"name":"ERGON","type":"Organization","amount":5000},{"name":"SILVER EAGLE BEVERAGES","type":"Organization","amount":5000},{"name":"PETERSON MANAGEMENT LLC","type":"Organization","amount":5000},{"name":"ELTON CORP","type":"Organization","amount":5000},{"name":"TRANS-GLOBAL SOLUTIONS","type":"Organization","amount":5000},{"name":"WASHINGTON COUNCIL ERNST & YOUNG","type":"Organization","amount":5000},{"name":"TRIUMPH GROUP INC.","type":"Organization","amount":5000},{"name":"THE DUCHOSSOIS GROUP","type":"Organization","amount":5000},{"name":"SOPRIS CAPITAL","type":"Organization","amount":5000},{"name":"ERIC BING & COMPANY","type":"Organization","amount":5000},{"name":"HUNT CONSOLIDATED INC","type":"Organization","amount":5000},{"name":"GCP CAPITAL PARTNERS","type":"Organization","amount":5000},{"name":"TRANS GLOBAL SOLUTIONS","type":"Organization","amount":5000},{"name":"CHARLES SCHWAB CORPORATION","type":"Organization","amount":5000},{"name":"CROW HOLDINGS INDUSTRIAL","type":"Organization","amount":5000},{"name":"DUNNE MANNING INC.","type":"Organization","amount":5000},{"name":"TODD STRATEGY GROUP","type":"Organization","amount":5000},{"name":"RYAN LLC","type":"Organization","amount":5000},{"name":"WALTER OIL & GAS CORPORATION","type":"Organization","amount":5000},{"name":"MCLANE GROUP","type":"Organization","amount":5000},{"name":"Q INVESTMENTS","type":"Organization","amount":5000},{"name":"BOB BARNES COMPANIES","type":"Organization","amount":5000},{"name":"HILDEBRAND FOUNDATION","type":"Organization","amount":5000},{"name":"MARBELLA INTERESTS LLC","type":"Organization","amount":5000},{"name":"TGS","type":"Organization","amount":5000},{"name":"FORTRESS INVESTMENT GROUP","type":"Organization","amount":5000},{"name":"MARTIN RESOURCE MANAGEMENT","type":"Organization","amount":5000},{"name":"HILTON WORLDWIDE","type":"Organization","amount":5000},{"name":"INTERACTIVE BROKERS GROUP","type":"Organization","amount":5000},{"name":"AUSTIN SPORTS MEDICINE","type":"Organization","amount":5000},{"name":"GENERAL ATOMICS ASI","type":"Organization","amount":5000},{"name":"TARPLIN DOWNS YOUNG LLC","type":"Organization","amount":5000},{"name":"BLUFF POINT ASSOCIATES","type":"Organization","amount":5000},{"name":"FISHER INVESTMENTS","type":"Organization","amount":5000},{"name":"CLEARSIGHT ADVISORS","type":"Organization","amount":5000},{"name":"MISCHER INVESTMENTS LP","type":"Organization","amount":5000},{"name":"CHARLES & POTOMAC CAPITAL LLC","type":"Organization","amount":5000},{"name":"MAYFAIR PROPERTIES","type":"Organization","amount":4850},{"name":"CROSSROADS STRATEGIES","type":"Organization","amount":4500},{"name":"FIRST COMMUNITY BANK","type":"Organization","amount":4500},{"name":"INFINERA CORPORATION","type":"Organization","amount":4500},{"name":"AKIN GUMP","type":"Organization","amount":4500},{"name":"INFORMATION REQUESTED PER BEST EFFORTS","type":"Organization","amount":4400},{"name":"TWENTY-FIRST CENTURY GROUP","type":"Organization","amount":4000},{"name":"NATHANSON+HAUCK","type":"Organization","amount":4000},{"name":"HAURY & SMITH","type":"Organization","amount":4000},{"name":"TSMC","type":"Organization","amount":4000},{"name":"HANCE SCARBOROUGH LLP","type":"Organization","amount":4000},{"name":"HLP&R ADVOCACY","type":"Organization","amount":3600},{"name":"DEVILS RIVER WHISKEY","type":"Organization","amount":3500},{"name":"LUCAS COMPTON","type":"Organization","amount":3500},{"name":"MARSHALL POPP LLC","type":"Organization","amount":3500},{"name":"BHFS","type":"Organization","amount":3500},{"name":"OPEN AI","type":"Organization","amount":3409},{"name":"CARSON FAMILY CHARITABLE TRUST","type":"Organization","amount":3400},{"name":"FREEMAN INVESTMENT COMPANY","type":"Organization","amount":3300},{"name":"WILMERHALE","type":"Organization","amount":3000}],"top_pac_donors":[{"name":"CORNYN VICTORY COMMITTEE","type":"PAC","amount":2849589},{"name":"WINRED","type":"PAC","amount":1446371},{"name":"CORNYN MAJORITY TEXAS","type":"PAC","amount":240100},{"name":"USAA (UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC)","type":"PAC","amount":70000},{"name":"RYAN LLC POLITICAL ACTION COMMITTEE (RYANPAC)","type":"PAC","amount":70000},{"name":"BATTLEGROUND VICTORY 2024","type":"PAC","amount":48246},{"name":"WINE AND SPIRITS WHOLESALERS OF AMERICA INC. PAC","type":"PAC","amount":35000},{"name":"SPACE EXPLORATION TECHNOLOGIES CORP PAC","type":"PAC","amount":35000},{"name":"INTERNATIONAL WAREHOUSE LOGISTICS ASSOCIATION","type":"PAC","amount":35000},{"name":"AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (A","type":"PAC","amount":35000},{"name":"AIR LINE PILOTS ASSOCIATION PAC","type":"PAC","amount":35000},{"name":"NATIONAL BEER WHOLESALERS ASSOCIATION PAC","type":"PAC","amount":35000},{"name":"MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"KIRBY CORPORATION POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"WASTE MANAGEMENT EMPLOYEES BETTER GOVERNMENT FUND","type":"PAC","amount":35000},{"name":"UNITED PARCEL SERVICE INC. PAC (UPS PAC)","type":"PAC","amount":35000},{"name":"TRINITY INDUSTRIES EMPLOYEE POLITICAL ACTION COMMITTEE (SF)","type":"PAC","amount":35000},{"name":"TARGA RESOURCES CORP. FEDERAL PAC","type":"PAC","amount":35000},{"name":"SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC","type":"PAC","amount":35000},{"name":"REALTORS PAC","type":"PAC","amount":35000},{"name":"POPULUS FINANCIAL GROUP INC. PAC","type":"PAC","amount":35000},{"name":"NATIONAL SHOOTING SPORTS FOUNDATION INC. PAC (NSSF PAC)","type":"PAC","amount":35000},{"name":"L3HARRIS TECHNOLOGIES INC. PAC","type":"PAC","amount":35000},{"name":"HEWLETT PACKARD ENTERPRISE COMPANY PAC","type":"PAC","amount":35000},{"name":"HDR INC. PAC","type":"PAC","amount":35000},{"name":"GREENBERG TRAURIG LLP PAC","type":"PAC","amount":35000},{"name":"FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"ENTERPRISE HOLDINGS INC. PAC","type":"PAC","amount":35000},{"name":"DAVITA INC. PAC","type":"PAC","amount":35000},{"name":"CIGNA CORPORATION PAC","type":"PAC","amount":35000},{"name":"CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT","type":"PAC","amount":35000},{"name":"TRANSPORTATION INTERMEDIARIES ASSOCIATION TIAPAC","type":"PAC","amount":35000},{"name":"PIONEER NATURAL RESOURCES USA INC. FEDERAL POLITICAL ACTION","type":"PAC","amount":35000},{"name":"OFFICE OF THE COMMISSIONER OF MAJOR LEAGUE BASEBALL POLITICA","type":"PAC","amount":35000},{"name":"NORFOLK SOUTHERN CORPORATION GOOD GOVERNMENT FUND","type":"PAC","amount":35000},{"name":"NCTA - THE INTERNET AND TELEVISION ASSOCIATION PAC","type":"PAC","amount":35000},{"name":"NATIONAL STONE SAND & GRAVEL ASSOCIATION ROCKPAC","type":"PAC","amount":35000},{"name":"INTERSECT POWER LLC PAC","type":"PAC","amount":35000},{"name":"INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC. POLITICAL AC","type":"PAC","amount":35000},{"name":"INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS PAC","type":"PAC","amount":35000},{"name":"INDEPENDENT BANKERS ASSOCIATION OF TEXAS FEDERAL PAC (IBAT F","type":"PAC","amount":35000},{"name":"HONEYWELL INTERNATIONAL PAC","type":"PAC","amount":35000},{"name":"HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT","type":"PAC","amount":35000},{"name":"HILTON WORLDWIDE PAC","type":"PAC","amount":35000},{"name":"HERZOG CONTRACTING CORP. POLITICAL ACTION COMMIT","type":"PAC","amount":35000},{"name":"GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GEN","type":"PAC","amount":35000},{"name":"ELEVANCE HEALTH INC. POLITICAL ACTION COMMITTEE (ELEVANCE H","type":"PAC","amount":35000},{"name":"DELOITTE POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"CVS HEALTH PAC","type":"PAC","amount":35000},{"name":"CSX CORPORATION GOOD GOVERNMENT FUND","type":"PAC","amount":35000},{"name":"CENCORA INC. PAC","type":"PAC","amount":35000},{"name":"CAPITAL ONE FINANCIAL CORP. ASSOC. POLITICAL FUND","type":"PAC","amount":35000},{"name":"BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION","type":"PAC","amount":35000},{"name":"BORDER HEALTH FEDERAL PAC","type":"PAC","amount":35000},{"name":"BOEING COMPANY POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"AT&T INC. FEDERAL PAC","type":"PAC","amount":35000},{"name":"AMGEN INC. POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"AMERICAN CHEMISTRY COUNCIL PAC","type":"PAC","amount":35000},{"name":"AMERICAN BANKERS ASSOCIATION BANCPAC","type":"PAC","amount":35000},{"name":"AMERICAN AIRLINES POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"ALTRIA GROUP INC. POLITICAL ACTION COMMITTEE (ALTRIAPAC)","type":"PAC","amount":35000},{"name":"ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"VIZIENT INC. POLITICAL ACTION COMMITTEE","type":"PAC","amount":35000},{"name":"VERIZON COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE (VER","type":"PAC","amount":35000}]},{"committee_id":"C00570861","name":"R SENATE PAC","total_raised":165077,"top_employers":[{"name":"OWL ROCK CAPITOL PARTNERS","type":"Organization","amount":5000},{"name":"GOLUB CAPITAL","type":"Organization","amount":5000},{"name":"BREYER CAPITAL","type":"Organization","amount":5000},{"name":"INVESTMENTS LIMITED","type":"Organization","amount":5000},{"name":"J.W. CHILDS ASSOCIATES","type":"Organization","amount":5000},{"name":"CASTLE HARLAN INC.","type":"Organization","amount":5000},{"name":"THE BLACKSTONE GROUP","type":"Organization","amount":5000},{"name":"CROW HOLDINGS INDUSTRIAL","type":"Organization","amount":4600},{"name":"XL CAPITAL","type":"Organization","amount":3400},{"name":"KEY SQUARE GROUP","type":"Organization","amount":3400},{"name":"KINGDON CAPITAL MANAGEMENT","type":"Organization","amount":2900},{"name":"GCP CAPITAL PARTNERS","type":"Organization","amount":1300},{"name":"WASHINGTON COUNCIL ERNST & YOUNG","type":"Organization","amount":1000}],"top_pac_donors":[{"name":"CORNYN VICTORY COMMITTEE","type":"PAC","amount":54465},{"name":"WINRED","type":"PAC","amount":10000},{"name":"NEW YORK LIFE INSURANCE PAC","type":"PAC","amount":10000},{"name":"UBS AMERICAS FUND FOR BETTER GOVERNMENT","type":"PAC","amount":10000},{"name":"INTERNATIONAL PAPER POLITICAL ACTION COMMITTEE (IP-PAC)","type":"PAC","amount":10000},{"name":"FMR LLC PAC","type":"PAC","amount":10000},{"name":"CITIGROUP INC. POLITICAL ACTION COMMITTEE - FEDERAL (CITIGRO","type":"PAC","amount":7500},{"name":"INVESTMENT COMPANY INSTITUTE PAC","type":"PAC","amount":5000},{"name":"JP MORGAN CHASE & CO. FEDERAL PAC","type":"PAC","amount":5000},{"name":"JPMORGAN CHASE & CO. FEDERAL PAC","type":"PAC","amount":5000},{"name":"THE GOLDMAN SACHS GROUP INC. POLITICAL ACTION COMMITTEE","type":"PAC","amount":5000},{"name":"ERNST & YOUNG PAC","type":"PAC","amount":5000},{"name":"BANK OF AMERICA CORPORATION FEDERAL POLITICAL ACTION COMMITT","type":"PAC","amount":5000},{"name":"THRIVENT FINANCIAL FOR LUTHERANS POLITICAL ACTIO","type":"PAC","amount":4000},{"name":"CHAIN BRIDGE BANK","type":"PAC","amount":2627},{"name":"TD BANK PAC","type":"PAC","amount":2500},{"name":"BIPARTISAN POLITICAL ACTION COMMITTEE/MELLON FINANCIAL CORPO","type":"PAC","amount":2500},{"name":"THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE","type":"PAC","amount":2500},{"name":"PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I","type":"PAC","amount":2500},{"name":"BLACKROCK CAPITAL MANAGEMENT INC PAC","type":"PAC","amount":2500},{"name":"THRIVENT FINANCIAL FOR LUTHERANS PAC","type":"PAC","amount":1000},{"name":"FGS GLOBAL (US) LLC POLITICAL ACTION COMMITTEE","type":"PAC","amount":375}]}]}],"campaign":{"committee_id":"C00369033","total_raised":3377426,"individual_contributions":1270535,"individual_itemized":1195827,"individual_unitemized":74708,"pac_contributions":595022,"other_receipts":1511869,"top_employers":[{"name":"CAPITAL GROUP","type":"Organization","amount":22500},{"name":"ANDREESSEN HOROWITZ","type":"Organization","amount":16500},{"name":"SELF","type":"Organization","amount":14580},{"name":"PALANTIR TECHNOLOGIES","type":"Organization","amount":13686},{"name":"WINKLEVOSS CAPITAL MANAGEMENT","type":"Organization","amount":13200},{"name":"BLACKSTONE","type":"Organization","amount":12600},{"name":"FIDELITY INVESTMENTS","type":"Organization","amount":10500},{"name":"THE CAPITAL GROUP","type":"Organization","amount":10000},{"name":"THE CAPITAL GROUP COMPANIES","type":"Organization","amount":10000},{"name":"CRESTVIEW PARTNERS","type":"Organization","amount":9900}],"top_pac_donors":[{"name":"CORNYN VICTORY COMMITTEE","type":"PAC","amount":6272483},{"name":"WINRED","type":"PAC","amount":2815182},{"name":"UBS FINANCIAL SERVICES INC.","type":"PAC","amount":1023377},{"name":"CORNYN MAJORITY TEXAS","type":"PAC","amount":845400},{"name":"BORDER HEALTH FEDERAL PAC","type":"PAC","amount":60000},{"name":"SOLAR ENERGY INDUSTRIES ASSOCIATION PAC (SOLARPAC)","type":"PAC","amount":30000},{"name":"MOSS & ASSOCIATES LLC POLITICAL ACTION COMMITTEE (AKA MOSS F","type":"PAC","amount":30000},{"name":"ENTERPRISE HOLDINGS INC. PAC","type":"PAC","amount":30000},{"name":"EMPLOYEES OF QUANTA SERVICES INC.","type":"PAC","amount":30000},{"name":"EDF RENEWABLES INC. PAC","type":"PAC","amount":30000}]},"leadership_pacs":[{"committee_id":"C00387464","name":"ALAMO PAC","total_raised":2496636,"top_employers":[{"name":"LMBI LP","type":"Organization","amount":16600},{"name":"THE NICKLES GROUP","type":"Organization","amount":12500},{"name":"WEST FRONT STRATEGIES","type":"Organization","amount":11000},{"name":"FIERCE GOVERNMENT RELATIONS","type":"Organization","amount":11000},{"name":"ANNANDALE CAPITAL","type":"Organization","amount":10000},{"name":"TILSON BUILT COMPANY","type":"Organization","amount":10000},{"name":"CLEARPATH","type":"Organization","amount":10000},{"name":"MAGELLAN INVESTMENT HOLDINGS","type":"Organization","amount":10000},{"name":"HUNT BLDG. CORP.","type":"Organization","amount":10000},{"name":"COX COMPANIES INC.","type":"Organization","amount":10000}],"top_pac_donors":[{"name":"CORNYN VICTORY COMMITTEE","type":"PAC","amount":2849589},{"name":"WINRED","type":"PAC","amount":1446371},{"name":"CORNYN MAJORITY TEXAS","type":"PAC","amount":240100},{"name":"USAA (UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC)","type":"PAC","amount":70000},{"name":"RYAN LLC POLITICAL ACTION COMMITTEE (RYANPAC)","type":"PAC","amount":70000},{"name":"BATTLEGROUND VICTORY 2024","type":"PAC","amount":48246},{"name":"WINE AND SPIRITS WHOLESALERS OF AMERICA INC. PAC","type":"PAC","amount":35000},{"name":"SPACE EXPLORATION TECHNOLOGIES CORP PAC","type":"PAC","amount":35000},{"name":"INTERNATIONAL WAREHOUSE LOGISTICS ASSOCIATION","type":"PAC","amount":35000},{"name":"AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (A","type":"PAC","amount":35000}]},{"committee_id":"C00570861","name":"R SENATE PAC","total_raised":165077,"top_employers":[{"name":"OWL ROCK CAPITOL PARTNERS","type":"Organization","amount":5000},{"name":"GOLUB CAPITAL","type":"Organization","amount":5000},{"name":"BREYER CAPITAL","type":"Organization","amount":5000},{"name":"INVESTMENTS LIMITED","type":"Organization","amount":5000},{"name":"J.W. CHILDS ASSOCIATES","type":"Organization","amount":5000},{"name":"CASTLE HARLAN INC.","type":"Organization","amount":5000},{"name":"THE BLACKSTONE GROUP","type":"Organization","amount":5000},{"name":"CROW HOLDINGS INDUSTRIAL","type":"Organization","amount":4600},{"name":"XL CAPITAL","type":"Organization","amount":3400},{"name":"KEY SQUARE GROUP","type":"Organization","amount":3400}],"top_pac_donors":[{"name":"CORNYN VICTORY COMMITTEE","type":"PAC","amount":54465},{"name":"WINRED","type":"PAC","amount":10000},{"name":"NEW YORK LIFE INSURANCE PAC","type":"PAC","amount":10000},{"name":"UBS AMERICAS FUND FOR BETTER GOVERNMENT","type":"PAC","amount":10000},{"name":"INTERNATIONAL PAPER POLITICAL ACTION COMMITTEE (IP-PAC)","type":"PAC","amount":10000},{"name":"FMR LLC PAC","type":"PAC","amount":10000},{"name":"CITIGROUP INC. POLITICAL ACTION COMMITTEE - FEDERAL (CITIGRO","type":"PAC","amount":7500},{"name":"INVESTMENT COMPANY INSTITUTE PAC","type":"PAC","amount":5000},{"name":"JP MORGAN CHASE & CO. FEDERAL PAC","type":"PAC","amount":5000},{"name":"JPMORGAN CHASE & CO. FEDERAL PAC","type":"PAC","amount":5000}]}]},"donor_alignment":{"overall_pct":90,"total_votes_scored":7,"methodology_url":"/methodology#donor-alignment","examples":[{"vote_description":"A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.","bill":"HR1968","date":"2025-03-14","member_voted":"Yea","aligned":true,"donor_category":"Labor unions","donor_expected":"Yea","confidence":0.8,"reason":"Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."},{"vote_description":"A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.","bill":"HR4346","date":"2022-07-27","member_voted":"Yea","aligned":true,"donor_category":"Tech companies","donor_expected":"Yea","confidence":0.9,"reason":"CHIPS and Science Act \u2014 massive investment in semiconductor manufacturing and scientific research. Major tech companies like Intel, TSMC, and Samsung directly benefit from chip manufacturing subsidies."},{"vote_description":"A bill to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.","bill":"HR2670","date":"2023-12-13","member_voted":"Yea","aligned":true,"donor_category":"Defense contractors","donor_expected":"Yea","confidence":0.95,"reason":"FY2024 NDAA conference report \u2014 final version of annual defense authorization bill. Defense industry's top legislative priority each year."},{"vote_description":"A bill to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.","bill":"HR7776","date":"2022-07-28","member_voted":"Yea","aligned":true,"donor_category":"Defense contractors","donor_expected":"Yea","confidence":0.85,"reason":"Water Resources Development and NDAA package \u2014 vehicle for FY2023 NDAA and defense authorization provisions."},{"vote_description":"An act to make our communities safer.","bill":"S2938","date":"2022-06-23","member_voted":"Yea","aligned":false,"donor_category":"Gun rights advocates","donor_expected":"Nay","confidence":0.8,"reason":"Bipartisan Safer Communities Act \u2014 NRA opposed this as it enhances background checks for under-21 buyers, funds state red flag laws, and closes the boyfriend loophole. NRA lobbied against passage."}]},"electorate_alignment":{"issues_scored":8,"against_electorate_pct":62,"highlights":[{"issue":"Universal background checks for gun purchases","district_support_pct":86.3,"margin_of_error":5.7,"member_position":"Voted Nay","aligned_with_electorate":false,"aligned_with_donors":false},{"issue":"Ban on assault-style weapons","district_support_pct":57.8,"margin_of_error":8.2,"member_position":"Voted Nay","aligned_with_electorate":false,"aligned_with_donors":false},{"issue":"Abortion should always be legal","district_support_pct":54.9,"margin_of_error":9.0,"member_position":"Voted Yea","aligned_with_electorate":true,"aligned_with_donors":false},{"issue":"Support the Affordable Care Act","district_support_pct":50.8,"margin_of_error":7.1,"member_position":"Voted Nay","aligned_with_electorate":false,"aligned_with_donors":false},{"issue":"Regulate CO2 as a pollutant","district_support_pct":65.0,"margin_of_error":8.1,"member_position":"Voted Nay","aligned_with_electorate":false,"aligned_with_donors":false},{"issue":"Require minimum renewable fuel production","district_support_pct":61.0,"margin_of_error":7.3,"member_position":"Voted Nay","aligned_with_electorate":false,"aligned_with_donors":false},{"issue":"Grant legal status to DACA recipients","district_support_pct":69.8,"margin_of_error":6.8,"member_position":"Voted Yea","aligned_with_electorate":true,"aligned_with_donors":false},{"issue":"Require permits to carry concealed guns","district_support_pct":60.6,"margin_of_error":7.6,"member_position":"Voted Nay","aligned_with_electorate":true,"aligned_with_donors":false}],"against_electorate_with_donors":[],"source":"mrp-ces"},"links":{"voting_record":"https://www.congress.gov/member/john-cornyn/C001056","opensecrets":"https://www.opensecrets.org/members-of-congress/summary?cid=N00024852","official_website":"https://www.cornyn.senate.gov"}}
+{
+  "bioguide_id": "C001056",
+  "name": "John Cornyn",
+  "party": "R",
+  "chamber": "senate",
+  "state": "TX",
+  "district": null,
+  "gender": "M",
+  "photo_url": "https://unitedstates.github.io/images/congress/450x550/C001056.jpg",
+  "serving_since": 2002,
+  "years_in_office": 24,
+  "funding": {
+    "cycle": "2024",
+    "total_raised": 6039139,
+    "campaign_raised": 3377426,
+    "leadership_pac_raised": 2661713,
+    "top_industries": [
+      {
+        "code": "IND",
+        "name": "Individual Contributions",
+        "amount": 1270535,
+        "donors": [
+          {
+            "name": "LMBI LP",
+            "type": "Organization",
+            "amount": 24000
+          },
+          {
+            "name": "CAPITAL GROUP",
+            "type": "Organization",
+            "amount": 22500
+          },
+          {
+            "name": "CITIZENS FIRST BANK",
+            "type": "Organization",
+            "amount": 17800
+          },
+          {
+            "name": "WESTERN REFINING",
+            "type": "Organization",
+            "amount": 16600
+          },
+          {
+            "name": "MAGELLAN INVESTMENT HOLDINGS",
+            "type": "Organization",
+            "amount": 16600
+          },
+          {
+            "name": "ANDREESSEN HOROWITZ",
+            "type": "Organization",
+            "amount": 16500
+          },
+          {
+            "name": "THE ANSCHUTZ CORPORATION",
+            "type": "Organization",
+            "amount": 14900
+          },
+          {
+            "name": "SELF",
+            "type": "Organization",
+            "amount": 14580
+          },
+          {
+            "name": "PALANTIR TECHNOLOGIES",
+            "type": "Organization",
+            "amount": 13686
+          },
+          {
+            "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 13200
+          },
+          {
+            "name": "BLACKSTONE",
+            "type": "Organization",
+            "amount": 12600
+          },
+          {
+            "name": "THE NICKLES GROUP",
+            "type": "Organization",
+            "amount": 12500
+          },
+          {
+            "name": "INVESTMENTS LIMITED",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "DUNNE MANNING INC.",
+            "type": "Organization",
+            "amount": 11600
+          },
+          {
+            "name": "ASSOCIA",
+            "type": "Organization",
+            "amount": 11600
+          }
+        ]
+      },
+      {
+        "code": "PAC",
+        "name": "PAC & Committee Contributions",
+        "amount": 595022,
+        "donors": [
+          {
+            "name": "BORDER HEALTH FEDERAL PAC",
+            "type": "PAC",
+            "amount": 95000
+          },
+          {
+            "name": "ENTERPRISE HOLDINGS INC. PAC",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "ELEVANCE HEALTH INC. POLITICAL ACTION COMMITTEE (ELEVANCE H",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "PIONEER NATURAL RESOURCES USA INC. FEDERAL POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "HDR INC. PAC",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "KIRBY CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "WASTE MANAGEMENT EMPLOYEES BETTER GOVERNMENT FUND",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "UNITED PARCEL SERVICE INC. PAC (UPS PAC)",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "TRINITY INDUSTRIES EMPLOYEE POLITICAL ACTION COMMITTEE (SF)",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "TARGA RESOURCES CORP. FEDERAL PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "REALTORS PAC",
+            "type": "PAC",
+            "amount": 35000
+          }
+        ]
+      },
+      {
+        "code": "LPAC",
+        "name": "Leadership PAC",
+        "amount": 2661713,
+        "donors": [
+          {
+            "name": "BORDER HEALTH FEDERAL PAC",
+            "type": "PAC",
+            "amount": 95000
+          },
+          {
+            "name": "ENTERPRISE HOLDINGS INC. PAC",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "ELEVANCE HEALTH INC. POLITICAL ACTION COMMITTEE (ELEVANCE H",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "PIONEER NATURAL RESOURCES USA INC. FEDERAL POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "HDR INC. PAC",
+            "type": "PAC",
+            "amount": 65000
+          },
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "KIRBY CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "WASTE MANAGEMENT EMPLOYEES BETTER GOVERNMENT FUND",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "UNITED PARCEL SERVICE INC. PAC (UPS PAC)",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "TRINITY INDUSTRIES EMPLOYEE POLITICAL ACTION COMMITTEE (SF)",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "TARGA RESOURCES CORP. FEDERAL PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "REALTORS PAC",
+            "type": "PAC",
+            "amount": 35000
+          }
+        ],
+        "details": [
+          {
+            "committee_id": "C00387464",
+            "name": "ALAMO PAC",
+            "total_raised": 2496636,
+            "top_employers": [
+              {
+                "name": "LMBI LP",
+                "type": "Organization",
+                "amount": 16600
+              },
+              {
+                "name": "THE NICKLES GROUP",
+                "type": "Organization",
+                "amount": 12500
+              },
+              {
+                "name": "WEST FRONT STRATEGIES",
+                "type": "Organization",
+                "amount": 11000
+              },
+              {
+                "name": "FIERCE GOVERNMENT RELATIONS",
+                "type": "Organization",
+                "amount": 11000
+              },
+              {
+                "name": "ANNANDALE CAPITAL",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "TILSON BUILT COMPANY",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "CLEARPATH",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "MAGELLAN INVESTMENT HOLDINGS",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "HUNT BLDG. CORP.",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "COX COMPANIES INC.",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "KINDER MORGAN INC.",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "HARBINGER STRATEGIES",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "CITIZENS FIRST BANK",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "WESTERN REFINING",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "HIGHLANDER PARTNERS",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "FIRST FINANCIAL BANK USA",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "KINDER FOUNDATION",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "ENERGY TRANSFER PARTNERS",
+                "type": "Organization",
+                "amount": 10000
+              },
+              {
+                "name": "BROWNSTEIN HYATT FARBER SCHRECK",
+                "type": "Organization",
+                "amount": 9516
+              },
+              {
+                "name": "THE ANSCHUTZ CORPORATION",
+                "type": "Organization",
+                "amount": 8300
+              },
+              {
+                "name": "SPLITOAK STRATEGIES",
+                "type": "Organization",
+                "amount": 8000
+              },
+              {
+                "name": "CAPITOL COUNSEL LLC",
+                "type": "Organization",
+                "amount": 8000
+              },
+              {
+                "name": "BGR GROUP",
+                "type": "Organization",
+                "amount": 8000
+              },
+              {
+                "name": "CASSIDY AND ASSOCIATES",
+                "type": "Organization",
+                "amount": 8000
+              },
+              {
+                "name": "MARSHALL POPP",
+                "type": "Organization",
+                "amount": 8000
+              },
+              {
+                "name": "ATS COMMUNICATIONS INC.",
+                "type": "Organization",
+                "amount": 7500
+              },
+              {
+                "name": "KLEIN/JOHNSON GROUP",
+                "type": "Organization",
+                "amount": 7500
+              },
+              {
+                "name": "ALTRIA",
+                "type": "Organization",
+                "amount": 7500
+              },
+              {
+                "name": "INVARIANT",
+                "type": "Organization",
+                "amount": 7000
+              },
+              {
+                "name": "MONUMENT ADVOCACY",
+                "type": "Organization",
+                "amount": 6750
+              },
+              {
+                "name": "SOUTHWEST AIRLINES",
+                "type": "Organization",
+                "amount": 6500
+              },
+              {
+                "name": "GILLMAN AUTOMOTIVE GROUP",
+                "type": "Organization",
+                "amount": 6000
+              },
+              {
+                "name": "TIBER CREEK GROUP",
+                "type": "Organization",
+                "amount": 5500
+              },
+              {
+                "name": "MUNK POLICY AND LAW",
+                "type": "Organization",
+                "amount": 5500
+              },
+              {
+                "name": "WOODBRANCH INVESTMENTS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "ASSOCIA",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SED HOLDINGS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "ALTRIA GROUP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "ERGON",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SILVER EAGLE BEVERAGES",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "PETERSON MANAGEMENT LLC",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "ELTON CORP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "TRANS-GLOBAL SOLUTIONS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "WASHINGTON COUNCIL ERNST & YOUNG",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "TRIUMPH GROUP INC.",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "THE DUCHOSSOIS GROUP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "SOPRIS CAPITAL",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "ERIC BING & COMPANY",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "HUNT CONSOLIDATED INC",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "GCP CAPITAL PARTNERS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "TRANS GLOBAL SOLUTIONS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "CHARLES SCHWAB CORPORATION",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "CROW HOLDINGS INDUSTRIAL",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "DUNNE MANNING INC.",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "TODD STRATEGY GROUP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "RYAN LLC",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "WALTER OIL & GAS CORPORATION",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "MCLANE GROUP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "Q INVESTMENTS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "BOB BARNES COMPANIES",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "HILDEBRAND FOUNDATION",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "MARBELLA INTERESTS LLC",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "TGS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "FORTRESS INVESTMENT GROUP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "MARTIN RESOURCE MANAGEMENT",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "HILTON WORLDWIDE",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "INTERACTIVE BROKERS GROUP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "AUSTIN SPORTS MEDICINE",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "GENERAL ATOMICS ASI",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "TARPLIN DOWNS YOUNG LLC",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "BLUFF POINT ASSOCIATES",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "FISHER INVESTMENTS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "CLEARSIGHT ADVISORS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "MISCHER INVESTMENTS LP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "CHARLES & POTOMAC CAPITAL LLC",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "MAYFAIR PROPERTIES",
+                "type": "Organization",
+                "amount": 4850
+              },
+              {
+                "name": "CROSSROADS STRATEGIES",
+                "type": "Organization",
+                "amount": 4500
+              },
+              {
+                "name": "FIRST COMMUNITY BANK",
+                "type": "Organization",
+                "amount": 4500
+              },
+              {
+                "name": "INFINERA CORPORATION",
+                "type": "Organization",
+                "amount": 4500
+              },
+              {
+                "name": "AKIN GUMP",
+                "type": "Organization",
+                "amount": 4500
+              },
+              {
+                "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+                "type": "Organization",
+                "amount": 4400
+              },
+              {
+                "name": "TWENTY-FIRST CENTURY GROUP",
+                "type": "Organization",
+                "amount": 4000
+              },
+              {
+                "name": "NATHANSON+HAUCK",
+                "type": "Organization",
+                "amount": 4000
+              },
+              {
+                "name": "HAURY & SMITH",
+                "type": "Organization",
+                "amount": 4000
+              },
+              {
+                "name": "TSMC",
+                "type": "Organization",
+                "amount": 4000
+              },
+              {
+                "name": "HANCE SCARBOROUGH LLP",
+                "type": "Organization",
+                "amount": 4000
+              },
+              {
+                "name": "HLP&R ADVOCACY",
+                "type": "Organization",
+                "amount": 3600
+              },
+              {
+                "name": "DEVILS RIVER WHISKEY",
+                "type": "Organization",
+                "amount": 3500
+              },
+              {
+                "name": "LUCAS COMPTON",
+                "type": "Organization",
+                "amount": 3500
+              },
+              {
+                "name": "MARSHALL POPP LLC",
+                "type": "Organization",
+                "amount": 3500
+              },
+              {
+                "name": "BHFS",
+                "type": "Organization",
+                "amount": 3500
+              },
+              {
+                "name": "OPEN AI",
+                "type": "Organization",
+                "amount": 3409
+              },
+              {
+                "name": "CARSON FAMILY CHARITABLE TRUST",
+                "type": "Organization",
+                "amount": 3400
+              },
+              {
+                "name": "FREEMAN INVESTMENT COMPANY",
+                "type": "Organization",
+                "amount": 3300
+              },
+              {
+                "name": "WILMERHALE",
+                "type": "Organization",
+                "amount": 3000
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "KIRBY CORPORATION POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "WASTE MANAGEMENT EMPLOYEES BETTER GOVERNMENT FUND",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "UNITED PARCEL SERVICE INC. PAC (UPS PAC)",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "TRINITY INDUSTRIES EMPLOYEE POLITICAL ACTION COMMITTEE (SF)",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "TARGA RESOURCES CORP. FEDERAL PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "REALTORS PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "POPULUS FINANCIAL GROUP INC. PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "NATIONAL SHOOTING SPORTS FOUNDATION INC. PAC (NSSF PAC)",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "L3HARRIS TECHNOLOGIES INC. PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "HEWLETT PACKARD ENTERPRISE COMPANY PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "HDR INC. PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "GREENBERG TRAURIG LLP PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "ENTERPRISE HOLDINGS INC. PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "DAVITA INC. PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "CIGNA CORPORATION PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "TRANSPORTATION INTERMEDIARIES ASSOCIATION TIAPAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "PIONEER NATURAL RESOURCES USA INC. FEDERAL POLITICAL ACTION",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "OFFICE OF THE COMMISSIONER OF MAJOR LEAGUE BASEBALL POLITICA",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "NORFOLK SOUTHERN CORPORATION GOOD GOVERNMENT FUND",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "NCTA - THE INTERNET AND TELEVISION ASSOCIATION PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "NATIONAL STONE SAND & GRAVEL ASSOCIATION ROCKPAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "INTERSECT POWER LLC PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC. POLITICAL AC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "INDEPENDENT BANKERS ASSOCIATION OF TEXAS FEDERAL PAC (IBAT F",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "HONEYWELL INTERNATIONAL PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "HILTON WORLDWIDE PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "HERZOG CONTRACTING CORP. POLITICAL ACTION COMMIT",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GEN",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "ELEVANCE HEALTH INC. POLITICAL ACTION COMMITTEE (ELEVANCE H",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "DELOITTE POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "CVS HEALTH PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "CENCORA INC. PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "CAPITAL ONE FINANCIAL CORP. ASSOC. POLITICAL FUND",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "BORDER HEALTH FEDERAL PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "BOEING COMPANY POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "AT&T INC. FEDERAL PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "AMGEN INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "AMERICAN CHEMISTRY COUNCIL PAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "AMERICAN BANKERS ASSOCIATION BANCPAC",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "AMERICAN AIRLINES POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "ALTRIA GROUP INC. POLITICAL ACTION COMMITTEE (ALTRIAPAC)",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "VIZIENT INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 35000
+              },
+              {
+                "name": "VERIZON COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE (VER",
+                "type": "PAC",
+                "amount": 35000
+              }
+            ]
+          },
+          {
+            "committee_id": "C00570861",
+            "name": "R SENATE PAC",
+            "total_raised": 165077,
+            "top_employers": [
+              {
+                "name": "OWL ROCK CAPITOL PARTNERS",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "GOLUB CAPITAL",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "BREYER CAPITAL",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "INVESTMENTS LIMITED",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "J.W. CHILDS ASSOCIATES",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "CASTLE HARLAN INC.",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "THE BLACKSTONE GROUP",
+                "type": "Organization",
+                "amount": 5000
+              },
+              {
+                "name": "CROW HOLDINGS INDUSTRIAL",
+                "type": "Organization",
+                "amount": 4600
+              },
+              {
+                "name": "XL CAPITAL",
+                "type": "Organization",
+                "amount": 3400
+              },
+              {
+                "name": "KEY SQUARE GROUP",
+                "type": "Organization",
+                "amount": 3400
+              },
+              {
+                "name": "KINGDON CAPITAL MANAGEMENT",
+                "type": "Organization",
+                "amount": 2900
+              },
+              {
+                "name": "GCP CAPITAL PARTNERS",
+                "type": "Organization",
+                "amount": 1300
+              },
+              {
+                "name": "WASHINGTON COUNCIL ERNST & YOUNG",
+                "type": "Organization",
+                "amount": 1000
+              }
+            ],
+            "top_pac_donors": [
+              {
+                "name": "NEW YORK LIFE INSURANCE PAC",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "UBS AMERICAS FUND FOR BETTER GOVERNMENT",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "INTERNATIONAL PAPER POLITICAL ACTION COMMITTEE (IP-PAC)",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "FMR LLC PAC",
+                "type": "PAC",
+                "amount": 10000
+              },
+              {
+                "name": "CITIGROUP INC. POLITICAL ACTION COMMITTEE - FEDERAL (CITIGRO",
+                "type": "PAC",
+                "amount": 7500
+              },
+              {
+                "name": "INVESTMENT COMPANY INSTITUTE PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "JP MORGAN CHASE & CO. FEDERAL PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "JPMORGAN CHASE & CO. FEDERAL PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "THE GOLDMAN SACHS GROUP INC. POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "ERNST & YOUNG PAC",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "BANK OF AMERICA CORPORATION FEDERAL POLITICAL ACTION COMMITT",
+                "type": "PAC",
+                "amount": 5000
+              },
+              {
+                "name": "THRIVENT FINANCIAL FOR LUTHERANS POLITICAL ACTIO",
+                "type": "PAC",
+                "amount": 4000
+              },
+              {
+                "name": "TD BANK PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "BIPARTISAN POLITICAL ACTION COMMITTEE/MELLON FINANCIAL CORPO",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "BLACKROCK CAPITAL MANAGEMENT INC PAC",
+                "type": "PAC",
+                "amount": 2500
+              },
+              {
+                "name": "THRIVENT FINANCIAL FOR LUTHERANS PAC",
+                "type": "PAC",
+                "amount": 1000
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "campaign": {
+      "committee_id": "C00369033",
+      "total_raised": 3377426,
+      "individual_contributions": 1270535,
+      "individual_itemized": 1195827,
+      "individual_unitemized": 74708,
+      "pac_contributions": 595022,
+      "other_receipts": 1511869,
+      "top_employers": [
+        {
+          "name": "CAPITAL GROUP",
+          "type": "Organization",
+          "amount": 22500
+        },
+        {
+          "name": "ANDREESSEN HOROWITZ",
+          "type": "Organization",
+          "amount": 16500
+        },
+        {
+          "name": "SELF",
+          "type": "Organization",
+          "amount": 14580
+        },
+        {
+          "name": "PALANTIR TECHNOLOGIES",
+          "type": "Organization",
+          "amount": 13686
+        },
+        {
+          "name": "WINKLEVOSS CAPITAL MANAGEMENT",
+          "type": "Organization",
+          "amount": 13200
+        },
+        {
+          "name": "BLACKSTONE",
+          "type": "Organization",
+          "amount": 12600
+        },
+        {
+          "name": "FIDELITY INVESTMENTS",
+          "type": "Organization",
+          "amount": 10500
+        },
+        {
+          "name": "THE CAPITAL GROUP",
+          "type": "Organization",
+          "amount": 10000
+        },
+        {
+          "name": "THE CAPITAL GROUP COMPANIES",
+          "type": "Organization",
+          "amount": 10000
+        },
+        {
+          "name": "CRESTVIEW PARTNERS",
+          "type": "Organization",
+          "amount": 9900
+        },
+        {
+          "name": "DELL TECHNOLOGIES",
+          "type": "Organization",
+          "amount": 8800
+        },
+        {
+          "name": "CITIZENS FIRST BANK",
+          "type": "Organization",
+          "amount": 7800
+        },
+        {
+          "name": "LMBI LP",
+          "type": "Organization",
+          "amount": 7400
+        },
+        {
+          "name": "HAVELI INVESTMENTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE VECELLIO GROUP INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ARNOLD VENTURES LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AMERICA FIRST ACTION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "KEY SQUARE GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CENERGISTIC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "YANCEY BROS. CO.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "IMPALA ASSET MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "JC2 VENTURES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SKYBRIDGE CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PERMIAN MUD SERVICE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SELECT DEDICATED SOLUTIONS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE GRIFFIN COMPANIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "INVESTMENTS LIMITED",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STONEPEAK",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DUNNE MANNING INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "VANCE STREET CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "STANTON LLP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ASSOCIA",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CULLINAN PROPERTIES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CHARLES SCHWAB CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "INTERACTIVE BROKERS GROUP",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CASTLE HARLAN INC.",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "RYAN LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BET INVESTMENTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "J.W. CHILDS ASSOCIATES",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "PETRUS TRUST CO",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WESTERN REFINING",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MAGELLAN INVESTMENT HOLDINGS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "TRANS-GLOBAL SOLUTIONS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MAIN PLAZA INVESTMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SEAN N PARKER FOUNDATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CX5 PARTNERS LLC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "XL CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "BREYER CAPITAL",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "CUMBERLAND DEVELOPMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SOROBAN CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ROKU",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SAILPOINT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "SOUTHWEST ROYALTIES INC",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "YORKTOWN PARTNERS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "HILTON WORLDWIDE",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "DALE OPERATING COMPANY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ELLIOTT INVESTMENT MANAGEMENT",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "AMBIT ENERGY",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "MP MATERIALS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "WOODBRANCH INVESTMENTS",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "THE ANSCHUTZ CORPORATION",
+          "type": "Organization",
+          "amount": 6600
+        },
+        {
+          "name": "ST. CHRISTOPHER HOLDINGS",
+          "type": "Organization",
+          "amount": 6537
+        },
+        {
+          "name": "THE WOOD AGENCY",
+          "type": "Organization",
+          "amount": 6500
+        },
+        {
+          "name": "NEWS CORPORATION",
+          "type": "Organization",
+          "amount": 6485
+        },
+        {
+          "name": "108 VENTURA GROUP",
+          "type": "Organization",
+          "amount": 6257
+        },
+        {
+          "name": "TAYLOR FRESH FOODS",
+          "type": "Organization",
+          "amount": 6184
+        },
+        {
+          "name": "CC INDUSTRIES",
+          "type": "Organization",
+          "amount": 6114
+        },
+        {
+          "name": "GENERAL ATOMICS ASI",
+          "type": "Organization",
+          "amount": 5827
+        },
+        {
+          "name": "BOGGUS TIPTON MOTORS",
+          "type": "Organization",
+          "amount": 5800
+        },
+        {
+          "name": "VEGA ENERGY HOLDINGS",
+          "type": "Organization",
+          "amount": 5604
+        },
+        {
+          "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+          "type": "Organization",
+          "amount": 5600
+        },
+        {
+          "name": "AEC PARTNERS",
+          "type": "Organization",
+          "amount": 5545
+        },
+        {
+          "name": "BOB BARNES COMPANIES",
+          "type": "Organization",
+          "amount": 5526
+        },
+        {
+          "name": "PERMIAN WOMEN'S CENTER",
+          "type": "Organization",
+          "amount": 5422
+        },
+        {
+          "name": "SEFBO",
+          "type": "Organization",
+          "amount": 5302
+        },
+        {
+          "name": "SUNTX CAPITAL PARTNERS",
+          "type": "Organization",
+          "amount": 5134
+        },
+        {
+          "name": "BNB VENTURES",
+          "type": "Organization",
+          "amount": 5103
+        },
+        {
+          "name": "SOPRIS CAPITAL",
+          "type": "Organization",
+          "amount": 5037
+        },
+        {
+          "name": "MCLANE GROUP",
+          "type": "Organization",
+          "amount": 5037
+        },
+        {
+          "name": "JOHN M. FLOYD & ASSOC.",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "PHIL ADAMS CO",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "HIF GLOBAL",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "HMG",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "IGNITE MEDICAL RESORTS",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "ELEVANCE HEALTH",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "S&S HOME",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "MAC-LEO ENT.",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "CECIL ATKISSION INSURANCE AGENCY",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "PACK AUTO GROUP",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "HMG HEALTHCARE",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "CREATIVE SOLUTIONS IN HEALTHCARE",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "HMG HEALTHCARE LLC",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "WAREING ATHON & COMPANY",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "HEALTHMARK GROUP",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "CAPITAL GROUP COMPANIES",
+          "type": "Organization",
+          "amount": 5000
+        },
+        {
+          "name": "FRONTIER ENTERPRISES",
+          "type": "Organization",
+          "amount": 5000
+        }
+      ],
+      "top_pac_donors": [
+        {
+          "name": "BORDER HEALTH FEDERAL PAC",
+          "type": "PAC",
+          "amount": 60000
+        },
+        {
+          "name": "SOLAR ENERGY INDUSTRIES ASSOCIATION PAC (SOLARPAC)",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "MOSS & ASSOCIATES LLC POLITICAL ACTION COMMITTEE (AKA MOSS F",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "ENTERPRISE HOLDINGS INC. PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "EMPLOYEES OF QUANTA SERVICES INC.",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "EDF RENEWABLES INC. PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "ANHEUSER-BUSCH COMPANIES INC. PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "AMERICAN FOREST & PAPER ASSOCIATION PAC (AF&PA PAC)",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "AMERICAN COUNCIL OF LIFE INSURERS PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LANDSCAPE PROFESSIONALS INC. PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "ELEVANCE HEALTH INC. POLITICAL ACTION COMMITTEE (ELEVANCE H",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "WORKING FOR OHIO",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "TEXAS CAPITAL BANK NA POLITICAL ACTION COMMITTEE (TCB PAC)",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "ALLIANCE FOR AUTOMOTIVE INNOVATION POLITICAL ACTION COMMITTE",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "SENIOR CARE PHARMACY COALITION PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "PIONEER NATURAL RESOURCES USA INC. FEDERAL POLITICAL ACTION",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "HDR INC. PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "EMPLOYEES OF PALANTIR TECHNOLOGIES INC. PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "DIRECT SUPPLY INC. PARTNERS PAC (DSI PARTNERS PAC)",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "CADENCE BANK NA POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "AMERICAN HEALTH CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS PAC",
+          "type": "PAC",
+          "amount": 30000
+        },
+        {
+          "name": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION PAC",
+          "type": "PAC",
+          "amount": 30000
+        }
+      ]
+    },
+    "leadership_pacs": [
+      {
+        "committee_id": "C00387464",
+        "name": "ALAMO PAC",
+        "total_raised": 2496636,
+        "top_employers": [
+          {
+            "name": "LMBI LP",
+            "type": "Organization",
+            "amount": 16600
+          },
+          {
+            "name": "THE NICKLES GROUP",
+            "type": "Organization",
+            "amount": 12500
+          },
+          {
+            "name": "WEST FRONT STRATEGIES",
+            "type": "Organization",
+            "amount": 11000
+          },
+          {
+            "name": "FIERCE GOVERNMENT RELATIONS",
+            "type": "Organization",
+            "amount": 11000
+          },
+          {
+            "name": "ANNANDALE CAPITAL",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "TILSON BUILT COMPANY",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "CLEARPATH",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "MAGELLAN INVESTMENT HOLDINGS",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "HUNT BLDG. CORP.",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "COX COMPANIES INC.",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "KINDER MORGAN INC.",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "HARBINGER STRATEGIES",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "CITIZENS FIRST BANK",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "WESTERN REFINING",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "HIGHLANDER PARTNERS",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "FIRST FINANCIAL BANK USA",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "KINDER FOUNDATION",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "ENERGY TRANSFER PARTNERS",
+            "type": "Organization",
+            "amount": 10000
+          },
+          {
+            "name": "BROWNSTEIN HYATT FARBER SCHRECK",
+            "type": "Organization",
+            "amount": 9516
+          },
+          {
+            "name": "THE ANSCHUTZ CORPORATION",
+            "type": "Organization",
+            "amount": 8300
+          },
+          {
+            "name": "SPLITOAK STRATEGIES",
+            "type": "Organization",
+            "amount": 8000
+          },
+          {
+            "name": "CAPITOL COUNSEL LLC",
+            "type": "Organization",
+            "amount": 8000
+          },
+          {
+            "name": "BGR GROUP",
+            "type": "Organization",
+            "amount": 8000
+          },
+          {
+            "name": "CASSIDY AND ASSOCIATES",
+            "type": "Organization",
+            "amount": 8000
+          },
+          {
+            "name": "MARSHALL POPP",
+            "type": "Organization",
+            "amount": 8000
+          },
+          {
+            "name": "ATS COMMUNICATIONS INC.",
+            "type": "Organization",
+            "amount": 7500
+          },
+          {
+            "name": "KLEIN/JOHNSON GROUP",
+            "type": "Organization",
+            "amount": 7500
+          },
+          {
+            "name": "ALTRIA",
+            "type": "Organization",
+            "amount": 7500
+          },
+          {
+            "name": "INVARIANT",
+            "type": "Organization",
+            "amount": 7000
+          },
+          {
+            "name": "MONUMENT ADVOCACY",
+            "type": "Organization",
+            "amount": 6750
+          },
+          {
+            "name": "SOUTHWEST AIRLINES",
+            "type": "Organization",
+            "amount": 6500
+          },
+          {
+            "name": "GILLMAN AUTOMOTIVE GROUP",
+            "type": "Organization",
+            "amount": 6000
+          },
+          {
+            "name": "TIBER CREEK GROUP",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "MUNK POLICY AND LAW",
+            "type": "Organization",
+            "amount": 5500
+          },
+          {
+            "name": "WOODBRANCH INVESTMENTS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ASSOCIA",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SED HOLDINGS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ALTRIA GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ERGON",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SILVER EAGLE BEVERAGES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "PETERSON MANAGEMENT LLC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ELTON CORP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TRANS-GLOBAL SOLUTIONS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "WASHINGTON COUNCIL ERNST & YOUNG",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TRIUMPH GROUP INC.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "THE DUCHOSSOIS GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "SOPRIS CAPITAL",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "ERIC BING & COMPANY",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "HUNT CONSOLIDATED INC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "GCP CAPITAL PARTNERS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TRANS GLOBAL SOLUTIONS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CHARLES SCHWAB CORPORATION",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CROW HOLDINGS INDUSTRIAL",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "DUNNE MANNING INC.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TODD STRATEGY GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "RYAN LLC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "WALTER OIL & GAS CORPORATION",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "MCLANE GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "Q INVESTMENTS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BOB BARNES COMPANIES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "HILDEBRAND FOUNDATION",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "MARBELLA INTERESTS LLC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TGS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "FORTRESS INVESTMENT GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "MARTIN RESOURCE MANAGEMENT",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "HILTON WORLDWIDE",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "INTERACTIVE BROKERS GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "AUSTIN SPORTS MEDICINE",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "GENERAL ATOMICS ASI",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "TARPLIN DOWNS YOUNG LLC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BLUFF POINT ASSOCIATES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "FISHER INVESTMENTS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CLEARSIGHT ADVISORS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "MISCHER INVESTMENTS LP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CHARLES & POTOMAC CAPITAL LLC",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "MAYFAIR PROPERTIES",
+            "type": "Organization",
+            "amount": 4850
+          },
+          {
+            "name": "CROSSROADS STRATEGIES",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "FIRST COMMUNITY BANK",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "INFINERA CORPORATION",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "AKIN GUMP",
+            "type": "Organization",
+            "amount": 4500
+          },
+          {
+            "name": "INFORMATION REQUESTED PER BEST EFFORTS",
+            "type": "Organization",
+            "amount": 4400
+          },
+          {
+            "name": "TWENTY-FIRST CENTURY GROUP",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "NATHANSON+HAUCK",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "HAURY & SMITH",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "TSMC",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "HANCE SCARBOROUGH LLP",
+            "type": "Organization",
+            "amount": 4000
+          },
+          {
+            "name": "HLP&R ADVOCACY",
+            "type": "Organization",
+            "amount": 3600
+          },
+          {
+            "name": "DEVILS RIVER WHISKEY",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "LUCAS COMPTON",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "MARSHALL POPP LLC",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "BHFS",
+            "type": "Organization",
+            "amount": 3500
+          },
+          {
+            "name": "OPEN AI",
+            "type": "Organization",
+            "amount": 3409
+          },
+          {
+            "name": "CARSON FAMILY CHARITABLE TRUST",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "FREEMAN INVESTMENT COMPANY",
+            "type": "Organization",
+            "amount": 3300
+          },
+          {
+            "name": "WILMERHALE",
+            "type": "Organization",
+            "amount": 3000
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "KIRBY CORPORATION POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "WASTE MANAGEMENT EMPLOYEES BETTER GOVERNMENT FUND",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "UNITED PARCEL SERVICE INC. PAC (UPS PAC)",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "TRINITY INDUSTRIES EMPLOYEE POLITICAL ACTION COMMITTEE (SF)",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "TARGA RESOURCES CORP. FEDERAL PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "REALTORS PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "POPULUS FINANCIAL GROUP INC. PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "NATIONAL SHOOTING SPORTS FOUNDATION INC. PAC (NSSF PAC)",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "L3HARRIS TECHNOLOGIES INC. PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "HEWLETT PACKARD ENTERPRISE COMPANY PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "HDR INC. PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "GREENBERG TRAURIG LLP PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "ENTERPRISE HOLDINGS INC. PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "DAVITA INC. PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "CIGNA CORPORATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "TRANSPORTATION INTERMEDIARIES ASSOCIATION TIAPAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "PIONEER NATURAL RESOURCES USA INC. FEDERAL POLITICAL ACTION",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "OFFICE OF THE COMMISSIONER OF MAJOR LEAGUE BASEBALL POLITICA",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "NORFOLK SOUTHERN CORPORATION GOOD GOVERNMENT FUND",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "NCTA - THE INTERNET AND TELEVISION ASSOCIATION PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "NATIONAL STONE SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "INTERSECT POWER LLC PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC. POLITICAL AC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "INDEPENDENT BANKERS ASSOCIATION OF TEXAS FEDERAL PAC (IBAT F",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "HONEYWELL INTERNATIONAL PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "HILTON WORLDWIDE PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "HERZOG CONTRACTING CORP. POLITICAL ACTION COMMIT",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GEN",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "ELEVANCE HEALTH INC. POLITICAL ACTION COMMITTEE (ELEVANCE H",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "DELOITTE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "CVS HEALTH PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "CENCORA INC. PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "CAPITAL ONE FINANCIAL CORP. ASSOC. POLITICAL FUND",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "BORDER HEALTH FEDERAL PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "BOEING COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "AT&T INC. FEDERAL PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "AMGEN INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "AMERICAN CHEMISTRY COUNCIL PAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "AMERICAN BANKERS ASSOCIATION BANCPAC",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "AMERICAN AIRLINES POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "ALTRIA GROUP INC. POLITICAL ACTION COMMITTEE (ALTRIAPAC)",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "VIZIENT INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 35000
+          },
+          {
+            "name": "VERIZON COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE (VER",
+            "type": "PAC",
+            "amount": 35000
+          }
+        ]
+      },
+      {
+        "committee_id": "C00570861",
+        "name": "R SENATE PAC",
+        "total_raised": 165077,
+        "top_employers": [
+          {
+            "name": "OWL ROCK CAPITOL PARTNERS",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "GOLUB CAPITAL",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "BREYER CAPITAL",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "INVESTMENTS LIMITED",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "J.W. CHILDS ASSOCIATES",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CASTLE HARLAN INC.",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "THE BLACKSTONE GROUP",
+            "type": "Organization",
+            "amount": 5000
+          },
+          {
+            "name": "CROW HOLDINGS INDUSTRIAL",
+            "type": "Organization",
+            "amount": 4600
+          },
+          {
+            "name": "XL CAPITAL",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "KEY SQUARE GROUP",
+            "type": "Organization",
+            "amount": 3400
+          },
+          {
+            "name": "KINGDON CAPITAL MANAGEMENT",
+            "type": "Organization",
+            "amount": 2900
+          },
+          {
+            "name": "GCP CAPITAL PARTNERS",
+            "type": "Organization",
+            "amount": 1300
+          },
+          {
+            "name": "WASHINGTON COUNCIL ERNST & YOUNG",
+            "type": "Organization",
+            "amount": 1000
+          }
+        ],
+        "top_pac_donors": [
+          {
+            "name": "NEW YORK LIFE INSURANCE PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "UBS AMERICAS FUND FOR BETTER GOVERNMENT",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "INTERNATIONAL PAPER POLITICAL ACTION COMMITTEE (IP-PAC)",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "FMR LLC PAC",
+            "type": "PAC",
+            "amount": 10000
+          },
+          {
+            "name": "CITIGROUP INC. POLITICAL ACTION COMMITTEE - FEDERAL (CITIGRO",
+            "type": "PAC",
+            "amount": 7500
+          },
+          {
+            "name": "INVESTMENT COMPANY INSTITUTE PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "JP MORGAN CHASE & CO. FEDERAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "JPMORGAN CHASE & CO. FEDERAL PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THE GOLDMAN SACHS GROUP INC. POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "ERNST & YOUNG PAC",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "BANK OF AMERICA CORPORATION FEDERAL POLITICAL ACTION COMMITT",
+            "type": "PAC",
+            "amount": 5000
+          },
+          {
+            "name": "THRIVENT FINANCIAL FOR LUTHERANS POLITICAL ACTIO",
+            "type": "PAC",
+            "amount": 4000
+          },
+          {
+            "name": "TD BANK PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "BIPARTISAN POLITICAL ACTION COMMITTEE/MELLON FINANCIAL CORPO",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "BLACKROCK CAPITAL MANAGEMENT INC PAC",
+            "type": "PAC",
+            "amount": 2500
+          },
+          {
+            "name": "THRIVENT FINANCIAL FOR LUTHERANS PAC",
+            "type": "PAC",
+            "amount": 1000
+          }
+        ]
+      }
+    ]
+  },
+  "donor_alignment": {
+    "overall_pct": 90,
+    "total_votes_scored": 7,
+    "methodology_url": "/methodology#donor-alignment",
+    "examples": [
+      {
+        "vote_description": "A bill making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+        "bill": "HR1968",
+        "date": "2025-03-14",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Labor unions",
+        "donor_expected": "Yea",
+        "confidence": 0.8,
+        "reason": "Amendment to reinstate veteran federal employees fired without cause \u2014 federal employee unions strongly support protections against arbitrary dismissal of federal workers."
+      },
+      {
+        "vote_description": "A bill making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.",
+        "bill": "HR4346",
+        "date": "2022-07-27",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Tech companies",
+        "donor_expected": "Yea",
+        "confidence": 0.9,
+        "reason": "CHIPS and Science Act \u2014 massive investment in semiconductor manufacturing and scientific research. Major tech companies like Intel, TSMC, and Samsung directly benefit from chip manufacturing subsidies."
+      },
+      {
+        "vote_description": "A bill to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+        "bill": "HR2670",
+        "date": "2023-12-13",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.95,
+        "reason": "FY2024 NDAA conference report \u2014 final version of annual defense authorization bill. Defense industry's top legislative priority each year."
+      },
+      {
+        "vote_description": "A bill to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.",
+        "bill": "HR7776",
+        "date": "2022-07-28",
+        "member_voted": "Yea",
+        "aligned": true,
+        "donor_category": "Defense contractors",
+        "donor_expected": "Yea",
+        "confidence": 0.85,
+        "reason": "Water Resources Development and NDAA package \u2014 vehicle for FY2023 NDAA and defense authorization provisions."
+      },
+      {
+        "vote_description": "An act to make our communities safer.",
+        "bill": "S2938",
+        "date": "2022-06-23",
+        "member_voted": "Yea",
+        "aligned": false,
+        "donor_category": "Gun rights advocates",
+        "donor_expected": "Nay",
+        "confidence": 0.8,
+        "reason": "Bipartisan Safer Communities Act \u2014 NRA opposed this as it enhances background checks for under-21 buyers, funds state red flag laws, and closes the boyfriend loophole. NRA lobbied against passage."
+      }
+    ]
+  },
+  "electorate_alignment": {
+    "issues_scored": 8,
+    "against_electorate_pct": 62,
+    "highlights": [
+      {
+        "issue": "Universal background checks for gun purchases",
+        "district_support_pct": 86.3,
+        "margin_of_error": 5.7,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Ban on assault-style weapons",
+        "district_support_pct": 57.8,
+        "margin_of_error": 8.2,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Abortion should always be legal",
+        "district_support_pct": 54.9,
+        "margin_of_error": 9.0,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Support the Affordable Care Act",
+        "district_support_pct": 50.8,
+        "margin_of_error": 7.1,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Regulate CO2 as a pollutant",
+        "district_support_pct": 65.0,
+        "margin_of_error": 8.1,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require minimum renewable fuel production",
+        "district_support_pct": 61.0,
+        "margin_of_error": 7.3,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": false,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Grant legal status to DACA recipients",
+        "district_support_pct": 69.8,
+        "margin_of_error": 6.8,
+        "member_position": "Voted Yea",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      },
+      {
+        "issue": "Require permits to carry concealed guns",
+        "district_support_pct": 60.6,
+        "margin_of_error": 7.6,
+        "member_position": "Voted Nay",
+        "aligned_with_electorate": true,
+        "aligned_with_donors": false
+      }
+    ],
+    "against_electorate_with_donors": [],
+    "source": "mrp-ces"
+  },
+  "links": {
+    "voting_record": "https://www.congress.gov/member/john-cornyn/C001056",
+    "opensecrets": "https://www.opensecrets.org/members-of-congress/summary?cid=N00024852",
+    "official_website": "https://www.cornyn.senate.gov"
+  }
+}

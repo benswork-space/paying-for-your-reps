@@ -184,13 +184,25 @@ def fetch_totals(committee_ids):
 def fetch_top_pac_contributors(committee_id, max_pages=10):
     """Fetch PAC/organization contributors from Schedule A, paginating."""
     seen = {}
+    # Line numbers that represent actual PAC contributions (not transfers/offsets):
+    #   11C = PAC contributions (receipt_type 15K, etc.)
+    # Exclude:
+    #   11AI = conduit/intermediary (WINRED, ACTBLUE pass-throughs)
+    #   12   = transfers from other authorized committees
+    #   15   = offsets to operating expenditures
+    keep_lines = {"11C"}
+    # Conduits and joint fundraising committees to filter by name
+    skip_patterns = [
+        "VICTORY FUND", "VICTORY COMMITTEE", "JOINT FUNDRAIS",
+        "WINRED", "ACTBLUE", "MAJORITY",
+    ]
+
     params = {
         "committee_id": committee_id,
         "two_year_transaction_period": CYCLE,
         "sort": "-contribution_receipt_amount",
         "per_page": 100,
         "is_individual": "false",
-        "line_number": "11c",  # Only actual PAC contributions (excludes transfers, offsets)
     }
 
     for page in range(max_pages):
@@ -199,6 +211,10 @@ def fetch_top_pac_contributors(committee_id, max_pages=10):
             break
 
         for r in data.get("results", []):
+            # Filter by line number to only keep actual PAC contributions
+            line = (r.get("line_number") or "").upper()
+            if line not in keep_lines:
+                continue
             name = r.get("contributor_name", "Unknown")
             amt = r.get("contribution_receipt_amount", 0) or 0
             if name not in seen:
@@ -218,19 +234,13 @@ def fetch_top_pac_contributors(committee_id, max_pages=10):
             "sort": "-contribution_receipt_amount",
             "per_page": 100,
             "is_individual": "false",
-            "line_number": "11c",
         }
         for k, v in last_indexes.items():
             if v is not None:
                 params[f"last_{k}"] = v
 
     contributors = sorted(seen.values(), key=lambda x: -x["total"])
-    # Filter out conduits (pass-through platforms, not actual donors) and
-    # joint fundraising committees / victory committees (internal transfers)
-    skip_patterns = [
-        "VICTORY FUND", "VICTORY COMMITTEE", "JOINT FUNDRAIS",
-        "WINRED", "ACTBLUE", "MAJORITY",
-    ]
+    # Name-based safety net for conduits/JFCs that might slip through
     filtered = []
     for c in contributors:
         name_upper = c["name"].upper()
