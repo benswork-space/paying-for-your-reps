@@ -184,12 +184,13 @@ def fetch_totals(committee_ids):
 def fetch_top_pac_contributors(committee_id, max_pages=10):
     """Fetch PAC/organization contributors from Schedule A, paginating."""
     seen = {}
-    # Exclude line 12 (transfers from other authorized committees, e.g. Victory
-    # Committees, joint fundraising committees). Keep everything else:
+    # Exclude:
+    #   line 12 = transfers from other authorized committees (Victory Committees, JFCs)
+    #   line 15 = offsets to operating expenditures (refunds/rebates, not donations)
+    # Keep:
     #   11C  = actual PAC contributions
-    #   11AI = conduit/intermediary donations (WINRED, ACTBLUE — real donor money)
-    #   15   = offsets to operating expenditures
-    skip_lines = {"12"}
+    #   11AI = conduit/intermediary donations (WINRED, ACTBLUE)
+    skip_lines = {"12", "15"}
     # Joint fundraising committees to filter by name (safety net)
     skip_patterns = [
         "VICTORY FUND", "VICTORY COMMITTEE", "JOINT FUNDRAIS",
@@ -209,9 +210,13 @@ def fetch_top_pac_contributors(committee_id, max_pages=10):
             break
 
         for r in data.get("results", []):
-            # Skip transfers from other authorized committees (line 12)
+            # Skip transfers (line 12) and offsets (line 15)
             line = str(r.get("line_number") or "")
             if line in skip_lines:
+                continue
+            # Skip memo entries — informational records for money already
+            # counted elsewhere (e.g. conduit pass-through memos)
+            if (r.get("memo_code") or "").upper() == "X":
                 continue
             name = r.get("contributor_name", "Unknown")
             amt = r.get("contribution_receipt_amount", 0) or 0
