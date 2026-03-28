@@ -22,7 +22,7 @@ export default function RepCard({ member, voting, districtOpinion, zip }: RepCar
       <RepHeader member={member} />
       <FundingSection funding={member.funding} gender={member.gender} />
       <DonorAlignmentSection alignment={member.donor_alignment} reportCtx={reportCtx} />
-      <ElectorateSection alignment={member.electorate_alignment} reportCtx={reportCtx} />
+      <ElectorateSection alignment={member.electorate_alignment} districtOpinion={districtOpinion} reportCtx={reportCtx} />
       {voting && (
         <VotingSection
           voting={voting}

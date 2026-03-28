@@ -158,6 +158,31 @@ ps_table <- read_csv(ACS_FILE, show_col_types = FALSE) %>%
 cat(sprintf("Poststratification table: %d cells across %d districts\n",
             nrow(ps_table), length(unique(ps_table$cd_clean))))
 
+# --- Load district-level partisan covariate ---
+# 2020 Republican two-party vote share by congressional district.
+# Adding this as a fixed effect reduces over-smoothing by giving the model
+# a strong partisan signal to differentiate districts (Warshaw & Rodden 2012).
+PRES_FILE <- file.path(DATA_DIR, "district_pres_vote.csv")
+if (!file.exists(PRES_FILE)) {
+  stop("Presidential vote share file not found. Run: python3 scripts/mrp/fetch_presidential_votes.py")
+}
+pres_vote <- read_csv(PRES_FILE, show_col_types = FALSE) %>%
+  select(cd_clean, rep_two_party_share)
+
+cat(sprintf("Loaded partisan covariate for %d districts (R vote share: %.1f%% - %.1f%%)\n",
+            nrow(pres_vote),
+            min(pres_vote$rep_two_party_share) * 100,
+            max(pres_vote$rep_two_party_share) * 100))
+
+# Join to survey data and poststratification table
+df <- df %>% left_join(pres_vote, by = "cd_clean")
+ps_table <- ps_table %>% left_join(pres_vote, by = "cd_clean")
+
+# Drop rows without partisan data (very rare — new/redistricted districts)
+n_before <- nrow(df)
+df <- df %>% filter(!is.na(rep_two_party_share))
+cat(sprintf("  Dropped %d survey rows without partisan data\n", n_before - nrow(df)))
+
 # --- Run MRP for each question ---
 results <- tibble()
 
@@ -182,7 +207,7 @@ for (q_name in names(QUESTIONS)) {
   # Fixed effects for demographics
   tryCatch({
     model <- glmer(
-      support ~ female + age_bin + educ_bin + race_bin +
+      support ~ female + age_bin + educ_bin + race_bin + rep_two_party_share +
         (1 | state_f) + (1 | cd_clean) +
         (1 | educ_bin:state_f) + (1 | race_bin:state_f) + (1 | age_bin:state_f),
       data = q_df,

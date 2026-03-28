@@ -1,4 +1,4 @@
-import type { ElectorateAlignment } from "@/lib/types";
+import type { ElectorateAlignment, DistrictOpinion } from "@/lib/types";
 import { formatPct } from "@/lib/format";
 import ReportIssueButton from "./ReportIssueButton";
 
@@ -10,24 +10,80 @@ interface ReportCtx {
 
 interface ElectorateSectionProps {
   alignment: ElectorateAlignment;
+  districtOpinion?: DistrictOpinion | null;
   reportCtx: ReportCtx;
+}
+
+/**
+ * If district-level opinion data is available (from the user's ZIP), overlay
+ * it onto the pre-computed highlights so senators show the user's *district*
+ * support numbers rather than statewide averages.
+ */
+function applyDistrictOverlay(
+  alignment: ElectorateAlignment,
+  districtOpinion: DistrictOpinion | null | undefined
+): { highlights: ElectorateAlignment["highlights"]; issuesScored: number } {
+  if (!districtOpinion) {
+    return {
+      highlights: alignment.highlights,
+      issuesScored: alignment.issues_scored,
+    };
+  }
+
+  // Build a lookup from issue label → district opinion
+  const districtByIssue = new Map(
+    districtOpinion.issues.map((d) => [d.issue, d])
+  );
+
+  const highlights = alignment.highlights.map((h) => {
+    const districtIssue = districtByIssue.get(h.issue);
+    if (!districtIssue) return h;
+
+    const districtPct = districtIssue.support_pct;
+    const margin = districtIssue.margin_of_error;
+
+    // Re-evaluate alignment: does the district majority agree with the vote?
+    // member_position is "Voted Yea" or "Voted Nay"
+    const votedYea = h.member_position === "Voted Yea";
+    const majoritySupports = districtPct > 50;
+    const aligned = majoritySupports === votedYea;
+
+    return {
+      ...h,
+      district_support_pct: districtPct,
+      margin_of_error: margin,
+      aligned_with_electorate: aligned,
+    };
+  });
+
+  const alignedCount = highlights.filter(
+    (h) => h.aligned_with_electorate
+  ).length;
+
+  return { highlights, issuesScored: highlights.length };
 }
 
 export default function ElectorateSection({
   alignment,
+  districtOpinion,
   reportCtx,
 }: ElectorateSectionProps) {
   // Use pre-computed alignment from the backend pipeline, which uses
   // policy_area matching with party-line context, double-negative detection,
   // and other heuristics that can't easily be replicated client-side.
-  const highlights = alignment.highlights;
-  const issuesScored = alignment.issues_scored;
+  // When district opinion data is available, overlay the user's district
+  // support numbers instead of statewide averages (relevant for senators).
+  const { highlights, issuesScored } = applyDistrictOverlay(
+    alignment,
+    districtOpinion
+  );
 
   const alignedCount = highlights.filter(
     (h) => h.aligned_with_electorate
   ).length;
   const alignedPct =
     issuesScored > 0 ? Math.round((alignedCount / issuesScored) * 100) : 0;
+
 
   return (
     <section>
