@@ -93,7 +93,7 @@ export default function ElectorateSection({
       </p>
 
       {/* Alignment slider */}
-      {issuesScored > 0 && (
+      {issuesScored >= 5 && (
         <div className="mt-4 space-y-2">
           <div className="space-y-0">
             <div className="relative" style={{ paddingTop: "12px" }}>
@@ -181,9 +181,9 @@ export default function ElectorateSection({
         </div>
       )}
 
-      {issuesScored === 0 && (
+      {issuesScored < 5 && (
         <p className="mt-4 text-sm text-zinc-400">
-          No district alignment data available yet.
+          Not enough scored issues to show district alignment.
         </p>
       )}
     </section>

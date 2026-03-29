@@ -16,7 +16,7 @@ export default function DonorAlignmentSection({
   alignment,
   reportCtx,
 }: DonorAlignmentSectionProps) {
-  const hasData = alignment.total_votes_scored > 0;
+  const hasData = alignment.total_votes_scored >= 5;
 
   return (
     <section>
