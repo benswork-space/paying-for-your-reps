@@ -137,8 +137,8 @@ export default function Home() {
           Paying for your Reps
         </h1>
         <p className="mt-3 text-lg text-zinc-600 dark:text-zinc-400">
-          See who funds your representatives, how they vote, and whether they
-          represent you.
+          See who funds your representatives, how they vote, and if they
+          represent your views.
         </p>
 
         <div className="mt-8">

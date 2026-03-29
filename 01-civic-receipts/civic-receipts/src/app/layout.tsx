@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Paying for your Reps",
   description:
-    "See who funds your representatives, how they vote, and whether they represent you. Enter your ZIP code to get started.",
+    "See who funds your representatives, how they vote, and if they represent your views. Enter your ZIP code to get started.",
   openGraph: {
     title: "Paying for your Reps",
     description:

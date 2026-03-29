@@ -2,7 +2,36 @@
 
 import { useEffect, useRef, useState, useCallback } from "react";
 import "mapbox-gl/dist/mapbox-gl.css";
-import type { ZipLookupResult } from "@/lib/types";
+import type { MemberSummary, ZipLookupResult } from "@/lib/types";
+
+function OverlayPhoto({ member }: { member: MemberSummary }) {
+  const [error, setError] = useState(false);
+
+  if (error || !member.photo_url) {
+    const initials = member.name
+      .split(" ")
+      .filter((p) => !p.endsWith("."))
+      .map((p) => p[0])
+      .slice(0, 2)
+      .join("");
+    return (
+      <div className="flex h-14 w-14 items-center justify-center rounded-full border-2 border-white bg-zinc-300 shadow-md dark:border-zinc-800 dark:bg-zinc-600">
+        <span className="text-sm font-bold text-zinc-500 dark:text-zinc-300">
+          {initials}
+        </span>
+      </div>
+    );
+  }
+
+  return (
+    <img
+      src={member.photo_url}
+      alt={member.name}
+      className="h-14 w-14 rounded-full border-2 border-white object-cover shadow-md dark:border-zinc-800"
+      onError={() => setError(true)}
+    />
+  );
+}
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!;
 
@@ -181,11 +210,7 @@ export default function MapTransition({
                 key={m.bioguide_id}
                 className="flex flex-col items-center gap-1.5"
               >
-                <img
-                  src={m.photo_url}
-                  alt={m.name}
-                  className="h-14 w-14 rounded-full border-2 border-white object-cover shadow-md dark:border-zinc-800"
-                />
+                <OverlayPhoto member={m} />
                 <span className="text-xs font-medium text-zinc-700 dark:text-zinc-300">
                   {m.name.split(",")[0].split(" ").pop()}
                 </span>
